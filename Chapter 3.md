@@ -1,5 +1,29 @@
 # Chapter 3 [Public]
 
+---
+
+Here's a quiz about Gitbook
+
+|                  | Good | Bad |
+| ---------------- | ---- | --- |
+| What is Gitbook? | (x)  | ( ) |
+
+> Gitbook is good
+
+What does Gitbook support?
+- [x] Table-based questions with radio buttons
+- [x] Table-based questions with checkboxes
+- [ ] Telepathy
+- [x] List-based questions with checkboxes
+- [x] List-based questions with radio buttons
+- [ ] Moon-on-a-stick
+
+> Gitbook supports table and list based quiz questions using either radio buttons or checkboxes.
+>
+> Gitbook is not telepathic and does not give you the moon on a stick.
+
+---
+
 # ICT as a product
 In this chapter we will consider the broad topic of how systems come to be. What sparks the need for a system or a system change? How are system requirements decided?  How are systems built? How are they put into place in an organisation? How are they cared for during their life-span and how are they retired?
 
