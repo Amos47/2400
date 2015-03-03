@@ -22,7 +22,11 @@ We will first make the distinction of whether the system will be: A) custom buil
 So as not to muddy the already turbid waters, the four groups and the eleven total possibilities. A general description is provided here, followed by a table outlining pros, cons and including a high-level determination of cost, speed to value and overall quality. Here then are the eleven routes:
 
 **Figure ZZ. Software Form Factors: Eleven paths to a new system**
-<iframe height=750 width = 650 seamless scrolling = no frameBorder=0 src="http://riordan.ca/images/software_form_factor.jpg"></iframe>
+
+<iframe height=750 width=650 scrolling=no frameBorder=0 src="http://riordan.ca/images/software_form_factor.jpg"></iframe>
+
+![Custom Designed Software](http://riordan.ca/images/software_form_factor.jpg)
+
 ###Eleven paths to a new system - the software form factor
 **A: Custom Developed Software (CDS)**
 A1. Custom-built system built using the in-house expertise of a dedicated systems development functional area (so called _in-sourcing_).
