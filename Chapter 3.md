@@ -23,8 +23,6 @@ So as not to muddy the already turbid waters, the four groups and the eleven tot
 
 **Figure ZZ. Software Form Factors: Eleven paths to a new system**
 
-<iframe height=750 width=650 scrolling=no frameBorder=0 src="http://riordan.ca/images/software_form_factor.jpg"></iframe>
-
 ![Custom Designed Software](http://riordan.ca/images/software_form_factor.jpg)
 
 ###Eleven paths to a new system - the software form factor
