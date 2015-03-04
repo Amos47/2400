@@ -2,7 +2,6 @@
 
 ---
 
-Blurber 
 Here's a quiz about Gitbook
 
 |                  | Good | Bad |
