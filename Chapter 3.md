@@ -232,7 +232,9 @@ The first such formalised method was the Systems Development Life Cycle, a so-ca
 
 The SDLC is referred to as a _waterfall method_ since it's steps resemble a waterfall; in order for water to reach the bottom of a waterfall, it must pass along the entire difference between the top of the falls (system conception) to the bottom of the falls (system retirement). You can't skip any of the distance along the way. Equally, once the water has reached any fixed point, there's no going back. It's all one way, and the only way is to finish the plunge to the bottom.
 
-Figure ZZ shows the Systems DLC (as opposed to the Software DLC discussed later) illustrating the seven phases and accompanied by a whimsical estimate, through images, of the cost of finding and fixing errors at the various stages of the cycle. Image, if you will, finding the associated animal appearing suddenly, unannounced, in your home. What would it take to remedy the situation? That’s the order of magnitude issues faced by software developers who use the SDLC. The US space agency NASA estimates that, on average, it can take upwards of 100 times the resources to fix an error discovered after delivery (implementation) than if the error were discovered in the requirements or early design phase of development.  
+Figure ZZ shows the Systems DLC (as opposed to the Software DLC discussed later) illustrating the seven phases and accompanied by a whimsical estimate, through images, of the cost of finding and fixing errors at the various stages of the cycle. Image, if you will, the associated animal appearing suddenly, unannounced, in your home. What would it take to remedy the situation? The fly is a simple nuisance. Image the structural havoc to your home of having to deal with a 6,500+ kg. bull elephant in your kitchen.
+
+That’s the order of magnitude issue faced by software developers who use the SDLC. The US space agency NASA estimates that, on average, it can take upwards of 100 times the resources to fix an error discovered after delivery (implementation) than if the error were discovered in the requirements or early design phase of development. Some estimates are up to 1,000 times.   
 [Interested?] http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100036670.pdf
 SDLC Phases ![SDLC Phases](http://riordan.ca/images/softwareDLC.png)
 
@@ -242,37 +244,85 @@ Let’s take a quick look at what happens during each of these eight phases of t
 | :-: | :-: | :- | :-: |
 | 1 | Inception & feasibility | This is where the idea for a new system bubbles up from the organisation through innovation, error detection or challenges arising from competitors or regulatory or market changes. The possibility of a new system arises here where it gets a preliminary scan (see Chapter # where we discuss governance and decision making) and the general parameters of the organisational response are set. This is a gateway stage. The questions at this stage are “Here’s the situation. Can a system help us here?” Approval is critical. A no-go means end of discussion. | ![Fly](http://riordan.ca/images/fly.png) |
 | 2 | Requirements analysis | Given a preliminary go at the inception stage, analysts of both types (business and systems) begin to gather the requirements for the system. What problem is the system supposed to solve? Who will the users be? What inputs are required and what are the expected outputs? Fairly broad, general requirements lead to quite specific details as analysis and fact finding progress.  Two types of requirements are gathered in this stage: Functional (what the system must do), including:  business rules, transaction corrections and adjustments, administrative functions, authentication, audit tracking, external interfaces, certification requirements, and reporting requirements, among others. The second set of requirements revolve around non-functional requirements (what qualities the system must have and to what standards is it subject - see discussion in this chapter entitled _What makes a quality system?_) Requirements here include: scalability, capacity, availability, reliability, recoverability, maintainability, serviceability, security, regulatory, manageability, environmental, data integrity, usability, interoperability and performance. [Interested?] (http://usabilitygeek.com/requirements-gathering-user-experience-pt1/) |![Mouse](http://riordan.ca/images/mouse.png) |
-| 3 | Design | There are two distinct types of design occurring in the design phase: Logical and Physical.  In the logical design sub-phase, analysts are concerned with high-level models and abstract representations of data flows and the inputs and outputs of the system. Data might just be referred to as “data” with no attempt to describe the characteristics at all. This phase if conceptual, as in going no deeper than the “concept” of a system and what it might broadly be tasked with in terms of the requirements gathered in phase 2. The physical design activity, on the other hand, gets into the nitty-gritty of what, exactly, and how. Data and storage and process and input/output details are considered down to the most minute detail. This is where the system is “scoped out” in preparation for building it, a phase that requires exact detail. Details such as exact inputs, process and output displayed and/or stored are carefully specified here. It is at this stage that user interfaces are designed. This is one of the most critical and creative pieces of software design. See the discussion in this chapter regarding Ux design. |![Bunny](http://riordan.ca/images/bunny.png) |
+| 3 | Design | There are two distinct types of design occurring in the design phase: Logical and Physical.  In the logical design sub-phase, analysts are concerned with high-level models and abstract representations of data flows and the inputs and outputs of the system. Data might just be referred to as “data” with no attempt to describe the characteristics at all. This phase if conceptual, as in going no deeper than the “concept” of a system and what it might broadly be tasked with in terms of the requirements gathered in phase 2. This is the “what” of system design – just broadly _what_ a system will do, but not _how_ it will be accomplished. The physical design activity, on the other hand, gets into the nitty-gritty of exactly _how_ things will get done. Data and storage and process and input/output details are considered down to the most minute detail. Tools that analysts use in this process include Data Flow Diagrams (DFDs) and Entity-Relationship Diagrams (ERs or ERDs) and Unified Modelling Language (UML – see discussion this chapter) diagrams.. This is where the system is “scoped out” in preparation for building it, a phase that requires exact detail. Details such as exact inputs, process and output displayed and/or stored are carefully specified here. It is at this stage that user interfaces are designed. This is one of the most critical and creative pieces of software design. See the discussion in this chapter regarding Ux design. |![Bunny](http://riordan.ca/images/bunny.png) |
 | 4 | Development & coding | In this phase, the design emanating from the previous phase is programmed into actual software. Hardware such as computers, servers and even satellites, if required, is purchased. Service contracts for things such as cloud storage are negotiated and initiated. Software systems such as commercial databases are purchased, installed and configured while code is being written to access them. Requirements are put into action. Coding is accomplished using a language appropriate to the target environment (mainframe, desktop, Windows, Mac, mobile, Android, iOS, etc.) using any one or more of the many, many coding languages available. |![Cat](http://riordan.ca/images/cat.png) |
-| 5 | Testing & verification | The testing phase measures the actual versus expected outcome of the system. The outcome expectations are based on the system requirements elicited in the requirements stage. The goal of testing is to find and fix unexpected outcomes when actually executing the system as built in the design phase.  There are numerous types of testing, culminating in _beta testing_ (where sometimes the public is invited to use a system for free and to report bugs to the developers) and _acceptance testing_ (where the actual users of the system, which is in production-ready mode, are tasked with giving their final approval, or acceptance). While the SDLC (as a waterfall method) is no given to iterative development (test, find, fix, test…), testing is often conducted in this fashion. So quite unlike other phases of the SDLC, where discovering serious errors necessitates moving all the way back to the feasibility stage and a restart, testing often uncovers minor issues in coding, for example, that can be fixed quickly and without resetting the whole project. The importance of testing cannot be overstated. [Interested?]( http://www.waterfall-model.com/sdlc-test-phases/)| ![Dog](http://riordan.ca/images/dog.png) |
+| 5 | Testing & verification | The testing phase measures the actual versus expected outcome of the system. The outcome expectations are based on the system requirements elicited in the requirements stage. The goal of testing is to find and fix unexpected outcomes when actually executing the system as built in the design phase.  There are numerous types of testing, culminating in _beta testing_ (where sometimes the public is invited to use a system for free and to report bugs to the developers) and _acceptance testing_ (where the actual users of the system, which is in production-ready mode, are tasked with giving their final approval, or acceptance). While the SDLC (as a waterfall method) is no given to iterative development (test, find, fix, test…), testing is often conducted in this fashion. So quite unlike other phases of the SDLC, where discovering serious errors necessitates moving all the way back to the feasibility stage and a restart, testing often uncovers minor issues in coding, for example, that can be fixed quickly and without resetting the whole project. A specific type of testing, in fact, is dedicated to this iterative process. This type is _regression testing_ wherein the system is re-tested to make sure that fixes to previous bugs have not introduced errors in previously error-free code. The beat goes on.  The importance of testing cannot be overstated. [Interested?]( http://www.waterfall-model.com/sdlc-test-phases/)| ![Dog](http://riordan.ca/images/dog.png) |
 | 6 | Implementation & integration| In this phase, the fully-tested system is put into production in the target environment. The choice of how to _transition_ to the (often) new system is an important one. See Table ZZZ for a comparison. Additionally, the new system must often be integrated with existing systems and workflows in the organisation. This is especially, though not exclusively, important when implementing a COTS system. All the pieces need to work together in order to create value. |![Horse](http://riordan.ca/images/horse.png) |
 | 7 | Maintenance & Evaluation| In this stage, the system is subject to monitoring to ensure that it continues to create value and meet the expectations of the organisation and the users of the system. Small, incremental additions, deletions, fixes and improvements are made on an ongoing basis. Recall that Gartner has reported that 92% or the total cost of system ownership is accounted for by activities in the Maintenance phase. |![Elephant](http://riordan.ca/images/elephant.png) |
 | 8 | Retirement | Finally, as with everything, the end eventually arrives. When a system cannot be further patched or tweaked and has stopped creating value (for whatever reason), it’s time to retire it and move on. Note the line in Chart XX points directly back to Inception and Feasibility. Time to start again. At this point, several critical tasks must be undertaken, including securing the input and output data, both current and historical, involved with the system. Retiring a system shouldn’t retire the data associated with it. |![Headstone](http://riordan.ca/images/headstone.png)|
 
+++ DOCUMENTATION
+++DFDs + ERDs and UML and USE CASES
 
-Strength and Weaknesses of SDLC [13]
-Strengths	Weaknesses
-Control.	Increased development time.
-Monitor large projects.	Increased development cost.
-Detailed steps.	Systems must be defined up front.
-Evaluate costs and completion targets.	Rigidity.
-Documentation.	Hard to estimate costs, project overruns.
-Well defined user input.	User input is sometimes limited.
-Ease of maintenance.	 
-Development and design standards.	 
-Tolerates changes in MIS staffing.	 
- 
+The various flavours of AGILE include SCRUM, LEAN and EXTREME PROGRAMMING. 
 
-Compare SDLC/Prototyping
+Regardless of what you might think of the SDLC in terms of its viability for creating systems, the stark truth is that all methods (more of which we are about to discuss) must touch each and every phase of the SDLC if they hope to produce a software system. It is in the emphasis, sequence, timing and duration of time spent on each phase that is the major differentiator between the various methods of systems development. 
 
-| Systems development methodology | Waterfall | Prototyping |
+## Prototyping
+Overview
+The purpose of prototyping is to allow users of the software to get early and frequent insights into the design of the system by allowing users to actually use the system before its complete, rather than having to either simply read about features and processes or, in the worst case, to wait until they are tasked with acceptance testing of the finished product. Prototyping can thus better protect against the potential catastrophe attendant upon “finding the elephant” at the end of the development process. 
+Prototyping is also often used to “try out” improvements to the system that were not part of the original specification but which “occurred to” the developers in the process of building the system. 
+# The prototyping process for software development
+1.	Project inception and feasibility stage is a given. We don’t just start producing a system out of nowhere. There must be demonstrated need and management approval if working in a large organisation.
+2.	Perform a basic requirements analysis, but not as in-depth as in the SDLC. Often, the riskiest bits of the system are modelled early. If you can do the hard stuff, the easy stuff will fall into place. So we get the nitty-gritty details; the make-or-break stuff.  Often, difficult but manageable details such as security are ignored in the early stages. 
+3.	A prototype is developed, often including only user interfaces in the earliest stages. This is referred to as Horizontal Prototyping (discussed below). In later stages, Vertical Prototyping is used to drill down deep into the system to model the full functionality of a feature or required process. 
+4.	The prototype at whatever stage it’s currently at is shown to the clients (end users) to elicit feedback. 
+5.	The feedback provided in step 4 is used to revise and enhance the prototype. New features or screens are added in an incremental fashion and we return to step 3, continuing in this fashion until a deliverable system is produced. 
+Usability Engineer Jakob Neilson described the various types of prototyping in his 1993 book entitled Usability Engineering (Academic Press Inc.). Two are relevant to us in this context: 
+### Horizontal 
+A user interface prototype is referred to as a horizontal prototype. Such a prototype provides an overview of a complete system or a significant subsystem, with an emphasis on how the user uses the system rather than how the system processes user input. Such prototypes are useful to confirm the logic and flow of user interfaces and setting the broad parameters of what the system (or sub-system) is expected to do. Furthermore, they can help in developing some metrics around anticipated time and resources required to deliver the full system. Finally, such prototypes often have the benefit of securing _buy-in_ from decision makers at the organisation as they can see and more tangibly grasp the overall scope, and thus value, of the proposed system. 
+### Vertical 
+A vertical prototype is an in-depth elaboration of a single process, subsystem or function. Such prototypes are useful in discovering detailed requirements, such as the “risky bits” of a system and to demonstrate that they can be accomplished.  The benefits of vertical prototyping include determining details of data modelling (database design)and in getting a handle on processing volume requirements (how many transactions, or basic units of work) a system is required to be capable of doing, 
+Further distinctions are made between Throwaway and Evolutionary prototypes. The former is just as its name imp[lies, and is not as often used in software prototyping as the latter, which retains its basic structure and functionality throughout the process to become the final system.
+# Benefits
+Prototyping has several benefits: 
+1.	Valuable user feedback is elicited early and often
+2.	Requirements can be more easily verified
+3.	Metrics around cost and time are iteratively brought into focus
+4.	Users are much more likely to buy into the system and support its use when in production as they had a stake and a voice in its development
+5.	Training requirements for users are significantly reduced as users have been exposed to the system often and have trained themselves on its use
+
+Table RM provides a comparison between SDLC and prototyping on some important dimensions. 
+
+Table RM. A comparison of SDLC and prototyping
+
+| Development Method | SDLC | Prototyping |
 | :- | :-: | :-: |
-| With unclear user requirements | Poor |  Excellent |
-| With unfamiliar technology | Poor | Better |
-| With projects that are complex | Good | Good |
-| With technology that is reliable (or familiar) | Good | Better |
-| With a short time schedule | Poor | Good  |
+| When user requirements are poorly specified | Poor |  Excellent |
+| When developers are using unfamiliar technology | Poor | Better |
+| When developers are using proven technology | Good | Better |
+| With complex projects | Good | Good |
+| When delivery deadlines are tight | Poor | Good  |
+| When technology is changing rapidly | Poor | Good |
+| When continuous management buy-in is crucial | Poor | Better |
+| When user buy-in and support is critical | Poor | Excellent |
+| When audit trails and multi-level signoff are critical | Excellent | Poor  |
 
+
+## Agile and Scrum
+So-called lightweight agile software development methods evolved in the mid-1990s in reaction to the heavyweight waterfall-oriented methods, which critics called heavily regulated, regimented, micromanaged and over-incremental.
+Proponents of lightweight agile methods contend that they are returning to development practices that were present early in the history of software.[2]
+Early implementations of agile methods include unified process (1994), scrum (1995), Crystal Clear, extreme programming (1996), adaptive software development, feature-driven development (1997), and dynamic systems development method (DSDM) (1995). These are now collectively referred to as agile development, after the Agile Manifesto was published in 2001.[6]
+http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto
+Agile Principles:
+1.	Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage. 
+2.	Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. 
+3.	Business people and developers must work together daily throughout the project. 
+4.	Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. 
+5.	The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. 
+6.	Working software is the primary measure of progress. 
+7.	Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. 
+8.	Continuous attention to technical excellence and good design enhances agility. 
+9.	Simplicity -- the art of maximizing the amount of work not done- is essential. 
+10.	The best architectures, requirements, and designs emerge from self- organizing teams. 
+11.	At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. 
+Agile Values: 
+1.	Individuals and interactions over processes and tools 
+2.	Working software over comprehensive documentation 
+3.	Customer collaboration over contract negotiation 
+4.	Responding to change over following a plan 
+That is, while there is value in the items on the right, we value the items on the left more.
+Source: agilemanifesto.org/principles.html
 
 ![chuckle_bros_efficiency.gif](images/chuckle_bros_efficiency.gif)
 [Source: <http://www.gocomics.com/chucklebros>]
