@@ -328,6 +328,8 @@ Agile Values:
 That is, while there is value in the items on the right, we value the items on the left more.
 Source: agilemanifesto.org/principles.html
 
+[Interested?](agilemanifesto.org/principles.html)
+
 ![chuckle_bros_efficiency.gif](http://riordan.ca/images/chuckle_bros_efficiency.gif)
 [Source: <http://www.gocomics.com/chucklebros>]
 
