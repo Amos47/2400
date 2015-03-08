@@ -305,8 +305,8 @@ Table RM. An evaluation of the SDLC and Prototyping methods under certain condit
 
 ## Agile and Scrum
 The SDLC and, to a certain extent Prototyping represent the so-called _heavyweight_, waterfall-oriented methods, which critics have called ponderous (cumbersome), sclerotic (rigid) and over-managed. Such shortfalls led to the development of lightweight agile software development methods in the mid-1990s. 
-Early implementations of agile methods include Unified Process (specifically implemented as the Rational Unified Process or RUP following IBM’s purchase of Rational Software in 2003) in 1994, Scrum in 1995, Extreme Programming (EP) in 1996 and others. These methods are now collectively referred to as Agile Development following the publication of the Agile Manifesto in 2001.
-Source: http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto
+Early implementations of agile methods include Unified Process (specifically implemented as the Rational Unified Process or RUP following IBM’s purchase of Rational Software in 2003) in 1994, Scrum in 1995, Extreme Programming (EP) in 1996 and others. These methods are now collectively referred to as Agile Development following the publication of the [Agile Manifesto](http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto) in 2001.
+
 Surviving and robust methods have encouraged many followers. The principles of the Agile movement are simple and straightforward. Contrast with SDLC are in [square brackets, added by the author]:
 1.	Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. [SDLC delivers at the very end of the process]
 2.	Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage. [change is discouraged given the high price or errors]
