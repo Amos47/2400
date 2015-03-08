@@ -1,9 +1,6 @@
 # Chapter 3 [Public]
-
 ---
-
 Here's a quiz about Gitbook
-
 |                  | Good | Bad |
 | ---------------- | ---- | --- |
 | What is Gitbook? | (x)  | ( ) |
@@ -236,7 +233,7 @@ Figure ZZ shows the Systems DLC (as opposed to the Software DLC discussed later)
 
 That’s the order of magnitude issue faced by software developers who use the SDLC. The US space agency NASA estimates that, on average, it can take upwards of 100 times the resources to fix an error discovered after delivery (implementation) than if the error were discovered in the requirements or early design phase of development. Some estimates are up to 1,000 times.   
 [Interested?] http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100036670.pdf
-SDLC Phases ![SDLC Phases](http://riordan.ca/images/softwareDLC.png)
+SDLC Phases ![SDLC Phases](http://riordan.ca/images/systemsDLC.png)
 
 Let’s take a quick look at what happens during each of these eight phases of the SDLC. 
 
@@ -259,10 +256,17 @@ The various flavours of AGILE include SCRUM, LEAN and EXTREME PROGRAMMING.
 Regardless of what you might think of the SDLC in terms of its viability for creating systems, the stark truth is that all methods (more of which we are about to discuss) must touch each and every phase of the SDLC if they hope to produce a software system. It is in the emphasis, sequence, timing and duration of time spent on each phase that is the major differentiator between the various methods of systems development. 
 
 ## Prototyping
-Overview
+
+###Overview
 The purpose of prototyping is to allow users of the software to get early and frequent insights into the design of the system by allowing users to actually use the system before its complete, rather than having to either simply read about features and processes or, in the worst case, to wait until they are tasked with acceptance testing of the finished product. Prototyping can thus better protect against the potential catastrophe attendant upon “finding the elephant” at the end of the development process. 
 Prototyping is also often used to “try out” improvements to the system that were not part of the original specification but which “occurred to” the developers in the process of building the system. 
-# The prototyping process for software development
+
+Figure LJ. The prototyping process![SDLC Phases](http://riordan.ca/images/proto.png)
+
+Figure LJ provides a pictorial overview of the prototyping process as it relates to software development. First, note that there are no more bunnies, cats or dogs as a cost of finding errors. Replaced with a bunch of mice becasue there's not as much at stake. The exposed system is smaller, the changes more easily made and the investment in development much smaller. This is great. 
+
+Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or iterated) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for delivery. The obviously pivotal step is #6, where the outcome of the prototype evaluation can branch to either a refinement of the current design (step 3), a revisit of the system requirements (if the prototype is introducing a refinement) or to the delivery of a finished product (step 7). 
+### The prototyping process for software development
 1.	Project inception and feasibility stage is a given. We don’t just start producing a system out of nowhere. There must be demonstrated need and management approval if working in a large organisation.
 2.	Perform a basic requirements analysis, but not as in-depth as in the SDLC. Often, the riskiest bits of the system are modelled early. If you can do the hard stuff, the easy stuff will fall into place. So we get the nitty-gritty details; the make-or-break stuff.  Often, difficult but manageable details such as security are ignored in the early stages. 
 3.	A prototype is developed, often including only user interfaces in the earliest stages. This is referred to as Horizontal Prototyping (discussed below). In later stages, Vertical Prototyping is used to drill down deep into the system to model the full functionality of a feature or required process. 
@@ -274,7 +278,8 @@ A user interface prototype is referred to as a horizontal prototype. Such a prot
 ### Vertical 
 A vertical prototype is an in-depth elaboration of a single process, subsystem or function. Such prototypes are useful in discovering detailed requirements, such as the “risky bits” of a system and to demonstrate that they can be accomplished.  The benefits of vertical prototyping include determining details of data modelling (database design)and in getting a handle on processing volume requirements (how many transactions, or basic units of work) a system is required to be capable of doing, 
 Further distinctions are made between Throwaway and Evolutionary prototypes. The former is just as its name imp[lies, and is not as often used in software prototyping as the latter, which retains its basic structure and functionality throughout the process to become the final system.
-# Benefits
+
+### Benefits
 Prototyping has several benefits: 
 1.	Valuable user feedback is elicited early and often
 2.	Requirements can be more easily verified
@@ -299,7 +304,7 @@ Table RM. A comparison of SDLC and prototyping
 | When audit trails and multi-level signoff are critical | Excellent | Poor  |
 
 
-## Agile and Scrum
+### Agile and Scrum
 So-called lightweight agile software development methods evolved in the mid-1990s in reaction to the heavyweight waterfall-oriented methods, which critics called heavily regulated, regimented, micromanaged and over-incremental.
 Proponents of lightweight agile methods contend that they are returning to development practices that were present early in the history of software.[2]
 Early implementations of agile methods include unified process (1994), scrum (1995), Crystal Clear, extreme programming (1996), adaptive software development, feature-driven development (1997), and dynamic systems development method (DSDM) (1995). These are now collectively referred to as agile development, after the Agile Manifesto was published in 2001.[6]
