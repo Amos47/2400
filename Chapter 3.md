@@ -105,7 +105,7 @@ The Mindtools website (see the Interested link below) poses a series of question
 So do you do it yourself or get others to do for you? This is a good question indeed. [[Interested?](http://www.mindtools.com/pages/article/newSTR_45.htm)]
 
 Figure x. Outsourcing Decision Matrix (symmetrical)
-![Outsourcing Decision Matrix (Symmetrical)](images/outsourcing_decision_equaljpg.txt)
+![Outsourcing Decision Matrix (Symmetrical)](http://riordan.ca/images/outsourcing_decision_equal.jpg)
 
 
 Figure X shows the matrix in a symmetrical configuration. The idea of this tool is to envision a process or activity undertaken or proposed by a particular organisation and decide what to do with it. We get a measurement on the two dimensions (Contribution to Performance and Strategic Importance) and then plot the process on the grid based on the values of the two dimensions. Simple. 
@@ -117,7 +117,7 @@ Let’s say that the programme under consideration is a degree in Airborne Fulfi
 Now we need to work towards deciding if and how to proceed with the decision of what to do with this drone degree. This is where the tool comes in handy. 
 
 Figure Z. Outsourcing Decision Matrix with proposed process
-![Outsourcing Decision Matrix with process located](images/outsourcing_decision_system_box.jpg)
+![Outsourcing Decision Matrix with process located](http://riordan.ca/images/outsourcing_decision_system_box.jpg)
 As a high-level illustration, let's assume we've got our two metrics (we will discuss in detail below but for now, just play along). Now we need to locate the degree programme in the decision matrix based on its measurements on the two axis variables to assist in making the decision on how to proceed. Figure Z shows the metrics on the degree (little blue box), locating it in the upper, right quadrant of the matrix based on it being assessed a score of ~75% on both variables. This locates the process squarely in the "Retain" quadrant, meaning that it's important to competitive advantage and to organisational efficiency. So the organisation will retain the process internally. Now, some detail. 
 
 Upon measurement of the two dimensions, the programme under consideration here will most likely (especially if, in measuring the two dimension variables, a value of exactly 50% is avoided) land in one of the four quadrants. Note the outcome (strategy) that is represented by landing in a quadrant (clockwise from top left we have: Strategic Alliance, Retain, Outsouce and finally Eliminate). Let’s look in more detail.
@@ -153,7 +153,7 @@ That's how it works in the ideal world. The real world is a bit messier and more
 What are the issues? First of all, we have chosen arbitrary cut points between decision outcomes, located at 50% on each scale. This is esthetically quite pleasing (yielding four, nice, equally-sized quadrants), but it unlikely to represent reality in all but the most unusual cases. More likely is the organisation having different cultures, priorities, strategies and practices, thus requiring different cut-points.
 
 Figure Y. Decision Matrix examples with different variable cut points
-![Outsourcing Decision Matrix Mashup](images/outsourcing_decision_mashup.jpg)
+![Outsourcing Decision Matrix Mashup](http://riordan.ca/images/outsourcing_decision_mashup.jpg)
 
 Examining Figure Y, we see organisations imbued with different realities. A particularly lean organisation would have a very small upper, right quadrant (the Retain area), preferring to outsource, partner or eliminate all but the most essential of processes. The cut points for both strategic importance and Contribution to Efficiency could be moved up to 75% or even 80 or 90%. Such organisations are sometimes referred to as _virtual organisations,_ existing as only a core set of processes with no real physical space, having outsourced, partnered-off or cut everything not considered absolutely essential.
 
