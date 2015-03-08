@@ -96,7 +96,7 @@ We will consider Rent to be a subset of Buy. That being said, let's start with t
 
 We begin by posing the question "Should we start from scratch here, rent something or should we buy off the shelf?" There are actually two distinct ways to look at the _B-or-B_ question in terms of what is described above in the pros and cons table. We can consider the broad _Buy_ category to be comprised of buying or renting anything from outside the organisation, whether it's a custom, ground-up application or an OTS solution that is either customised through outsourcing or not customised at all. So this one broad category involves not using internal resources in any way. 
 
-The other broad category is, obviously, the opposite -- doing everything in-house, whether building from scratch or customising an OTS system using the organisation's resources and personnel.
+The other broad category is, obviously, the opposite -- doing everything in-house, whether building from scratch or customising a COTS system using the organisation's resources and personnel.
 
 A useful tool to understand the context of this choice is the Outsourcing Decision Matrix. This is a strategy tool, useful in a wide variety of situations but not necessarily in the B-or-B software systems arena. We'll use the tool to give us an appreciation for the decision process in B-or-B.
 
@@ -171,7 +171,7 @@ Table XX. Buy-or-Build Considerations
 
 | Consideration | Build if | Buy if |
 | :- | :- | :- |
-| 1. System size and complexity | Small, simple and _ad hoc_ | Big, complex, or an adequate OTS solution exists and is cost-effective |
+| 1. System size and complexity | Small, simple and _ad hoc_ | Big, complex, or an adequate COTS solution exists and is cost-effective |
 | 2. Strategic necessity | Not strategic and/or limited operational impact | Strategically important and/or significant operational impact |
 | 3. Timeline | Small with plenty of time to get it right | Medium to large with a tight delivery timeline |
 | 4. Uniqueness | Unique or proprietary or might expose a trade secret or competitive advantage | Ordinary, garden-variety with no secret sauce |
@@ -192,7 +192,7 @@ Quality is an aggregate function of how well a system meets each of the followin
 
 Here are the factors:
 
-- **Exhaustiveness** — A system is exhaustive if it _addresses all requirements_ specified by analysing existing systems (if extant) to discover shortcomings, by examining the organisation's needs including their strategies, and by polling potential system users in the _Requirement Analysis and Definition_ phase (see later discussion on SDLC and others) of a proposed systems development project.
+- **Exhaustiveness** — A system is exhaustive if it _addresses all requirements_ specified by analysing existing systems (if extant) to discover shortcomings, by examining the organisation's needs including their strategies, and by polling potential system users in the _Requirement Analysis_ phase (see later discussion on SDLC and others) of a proposed systems development project.
 - **Reliability** — A system is reliable when it operates in _predictable and consistent fashion_ no matter the demand load placed upon it. It is said to be _scalable_, both up and down, if it robustly responds to changes in demand such that there is minimal impact on other important metrics (such as accuracy and efficiency). "It takes a licking and keeps on ticking." to borrow a 1950-1960s and again in the 1990s _Timex_ watch ad in which wristwatches survived various staged torture tests. Systems must have the capacity to handle peek workloads while ideally being able to scale back when capacity isn’t required. 
 - **Accuracy** — A system is considered to be accurate when it produces _predictable and verifiably-correct outputs_ when executing its required functions. So 2 + 2 is always 4. This requirement speaks to data and process integrity. 
 - **Efficiency** — A system is efficient if it produces outputs that are _more valuable than is the cumulative cost of the required inputs_ to the system. The greater the spread between the value of outputs and the cost of inputs, the more efficient is the system. This is the basic and most important test of the value of ICT. A system must either shrink required inputs or grow the volume of outputs in order to be of value. The spread between the cost and the benefit should be positive, non-zero and subject to continual scrutiny and adjustment.
@@ -215,7 +215,7 @@ To the quality metrics introduced above must be added and separate but related d
 
 A McKinsey/Oxford University [study](http://www.mckinsey.com/insights/business_technology/developing_talent_for_large_it_projects?cid=other-eml-ttn-mip-mck-oth-1412) reported that "... 71 percent of large IT projects face cost overruns, and 33 percent of projects are around 50 percent over budget. On average, large IT projects deliver 56 percent less value than predicted."
 
-So it's clear that there are real challenges in system development and in the related field of Project Management as it impacts large software development (more on this later). Clearly the software development community is aware of their quality and timeliness issues. More needs to be done, however, to improve on these critical metrics.
+So it's clear that there are real challenges in system development and in the related field of Project Management as it impacts large software development (more on this later). Clearly the software development community is aware of their quality and timeliness issues. More needs to be done, however, to improve on the underlying dimensions that give rise to these critical metrics.
 
 How then is development actually accomplished? Whether the decision is to in-source or outsource, there are several paths that systems development can take.
 
@@ -227,12 +227,13 @@ Indeed, methods were created and rigour was added and metrics were devised. The 
 ###The Systems Development Life Cycle (SDLC)
 The first such formalised method was the Systems Development Life Cycle, a so-called _waterfall method_.
 
-The SDLC is referred to as a _waterfall method_ since it's steps resemble a waterfall; in order for water to reach the bottom of a waterfall, it must pass along the entire difference between the top of the falls (system conception) to the bottom of the falls (system retirement). You can't skip any of the distance along the way. Equally, once the water has reached any fixed point, there's no going back. It's all one way, and the only way is to finish the plunge to the bottom.
+The SDLC is referred to as a _waterfall method_ since its steps resemble a waterfall; in order for water to reach the bottom of a waterfall, it must pass along the entire difference between the top of the falls (system conception) to the bottom of the falls (system retirement). You can't skip any of the distance along the way. Equally, once the water has reached any fixed point, there's no going back. It's all one way, and the only way is to finish the plunge to the bottom.
 
 Figure ZZ shows the Systems DLC (as opposed to the Software DLC discussed later) illustrating the seven phases and accompanied by a whimsical estimate, through images, of the cost of finding and fixing errors at the various stages of the cycle. Image, if you will, the associated animal appearing suddenly, unannounced, in your home. What would it take to remedy the situation? The fly is a simple nuisance. Image the structural havoc to your home of having to deal with a 6,500+ kg. bull elephant in your kitchen.
 
-That’s the order of magnitude issue faced by software developers who use the SDLC. The US space agency NASA estimates that, on average, it can take upwards of 100 times the resources to fix an error discovered after delivery (implementation) than if the error were discovered in the requirements or early design phase of development. Some estimates are up to 1,000 times.   
-[Interested?] http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100036670.pdf
+That’s the order of magnitude of issues faced by software developers who use the SDLC. The US space agency NASA estimates that, on average, it can take upwards of 100 times the resources to fix an error discovered after delivery (implementation) than if the error were discovered in the requirements or early design phase of development. Some estimates are up to 1,000 times.   
+[Interested?](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100036670.pdf)
+
 SDLC Phases ![SDLC Phases](http://riordan.ca/images/systemsDLC.png)
 
 Let’s take a quick look at what happens during each of these eight phases of the SDLC. 
@@ -289,6 +290,7 @@ Prototyping has several benefits:
 Table RM provides a comparison between SDLC and prototyping on some important dimensions. 
 
 Table RM. An evaluation of the SDLC and Prototyping methods under certain conditions
+
 | Condition | SDLC is| Prototyping is|
 | :- | :-: | :-: |
 | When user requirements are poorly specified | Poor |  Excellent |
