@@ -263,9 +263,9 @@ Prototyping is also often used to “try out” improvements to the system that 
 
 Figure LJ. The prototyping process![SDLC Phases](http://riordan.ca/images/proto.png)
 
-Figure LJ provides a pictorial overview of the prototyping process as it relates to software development. First, note that there are no more bunnies, cats or dogs as a cost of finding errors. Replaced with a bunch of mice becasue there's not as much at stake. The exposed system is smaller, the changes more easily made and the investment in development much smaller. This is great. 
+Figure LJ provides a pictorial overview of the prototyping process as it relates to software development. First, note that there are no more bunnies, cats or dogs as a cost of finding errors. Replaced with a bunch of mice because there's not as much at stake. The exposed and under-scrutiny part of the system is smaller, the changes more easily made and the investment in development much smaller. This is an improvement over the SDLC. 
 
-Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or iterated) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for delivery. The obviously pivotal step is #6, where the outcome of the prototype evaluation can branch to either a refinement of the current design (step 3), a revisit of the system requirements (if the prototype is introducing a refinement) or to the delivery of a finished product (step 7). 
+Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or iterated) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for delivery. The obviously pivotal step is #6, where in addition to branching to step 7, the outcome of the prototype evaluation can branch to either a refinement of the current design (step 3) or to a revisit of the system requirements if the prototype is introducing a refinement (step 2). So it’s really all about the user feedback. This is an important advantage for prototyping.
 ### The prototyping process for software development
 1.	Project inception and feasibility stage is a given. We don’t just start producing a system out of nowhere. There must be demonstrated need and management approval if working in a large organisation.
 2.	Perform a basic requirements analysis, but not as in-depth as in the SDLC. Often, the riskiest bits of the system are modelled early. If you can do the hard stuff, the easy stuff will fall into place. So we get the nitty-gritty details; the make-or-break stuff.  Often, difficult but manageable details such as security are ignored in the early stages. 
@@ -278,7 +278,6 @@ A user interface prototype is referred to as a horizontal prototype. Such a prot
 ### Vertical 
 A vertical prototype is an in-depth elaboration of a single process, subsystem or function. Such prototypes are useful in discovering detailed requirements, such as the “risky bits” of a system and to demonstrate that they can be accomplished.  The benefits of vertical prototyping include determining details of data modelling (database design)and in getting a handle on processing volume requirements (how many transactions, or basic units of work) a system is required to be capable of doing, 
 Further distinctions are made between Throwaway and Evolutionary prototypes. The former is just as its name imp[lies, and is not as often used in software prototyping as the latter, which retains its basic structure and functionality throughout the process to become the final system.
-
 ### Benefits
 Prototyping has several benefits: 
 1.	Valuable user feedback is elicited early and often
@@ -289,9 +288,8 @@ Prototyping has several benefits:
 
 Table RM provides a comparison between SDLC and prototyping on some important dimensions. 
 
-Table RM. A comparison of SDLC and prototyping
-
-| Development Method | SDLC | Prototyping |
+Table RM. An evaluation of the SDLC and Prototyping methods under certain conditions
+| Condition | SDLC is| Prototyping is|
 | :- | :-: | :-: |
 | When user requirements are poorly specified | Poor |  Excellent |
 | When developers are using unfamiliar technology | Poor | Better |
@@ -303,24 +301,23 @@ Table RM. A comparison of SDLC and prototyping
 | When user buy-in and support is critical | Poor | Excellent |
 | When audit trails and multi-level signoff are critical | Excellent | Poor  |
 
-
-### Agile and Scrum
-So-called lightweight agile software development methods evolved in the mid-1990s in reaction to the heavyweight waterfall-oriented methods, which critics called heavily regulated, regimented, micromanaged and over-incremental.
-Proponents of lightweight agile methods contend that they are returning to development practices that were present early in the history of software.[2]
-Early implementations of agile methods include unified process (1994), scrum (1995), Crystal Clear, extreme programming (1996), adaptive software development, feature-driven development (1997), and dynamic systems development method (DSDM) (1995). These are now collectively referred to as agile development, after the Agile Manifesto was published in 2001.[6]
-http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto
-Agile Principles:
-1.	Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage. 
-2.	Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. 
-3.	Business people and developers must work together daily throughout the project. 
-4.	Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. 
-5.	The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. 
-6.	Working software is the primary measure of progress. 
-7.	Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. 
-8.	Continuous attention to technical excellence and good design enhances agility. 
-9.	Simplicity -- the art of maximizing the amount of work not done- is essential. 
-10.	The best architectures, requirements, and designs emerge from self- organizing teams. 
-11.	At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. 
+## Agile and Scrum
+The SDLC and, to a certain extent Prototyping represent the so-called _heavyweight_, waterfall-oriented methods, which critics have called ponderous (cumbersome), sclerotic (rigid) and over-managed. Such shortfalls led to the development of lightweight agile software development methods in the mid-1990s. 
+Early implementations of agile methods include Unified Process (specifically implemented as the Rational Unified Process or RUP following IBM’s purchase of Rational Software in 2003) in 1994, Scrum in 1995, Extreme Programming (EP) in 1996 and others. These methods are now collectively referred to as Agile Development following the publication of the Agile Manifesto in 2001.
+Source: http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto
+Surviving and robust methods have encouraged many followers. The principles of the Agile movement are simple and straightforward. Contrast with SDLC are in [square brackets, added by the author]:
+1.	Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. [SDLC delivers at the very end of the process]
+2.	Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage. [change is discouraged given the high price or errors]
+3.	Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. [again, SDLC delivers at the end]
+4.	Business people and developers must work together daily throughout the project. [business analysts are involved only early in the process and then not again until testing]
+5.	Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. [developers are divorced from the business process and develop in a black box]
+6.	The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. [little communication between developers and developers and even less between developers and business analysts]
+7.	Working software is the primary measure of progress. [adherence to milestones and incremental approval are measures of success]
+8.	Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.  [pave of development is dictated by external signoff]
+9.	Continuous attention to technical excellence and good design enhances agility. [parameters are determined t project outset and not reviewed continuously]
+10.	Simplicity -- the art of maximizing the amount of work not done- is essential. [steps are undertaken simply because they are steps and have nothing to do with agility or improvement]
+11.	The best architectures, requirements, and designs emerge from self- organizing teams. [teams are organised for organisational efficiency and not product excellence]
+12.	At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. [little internal reflection; emphasis is on conformity and hitting milestones on time at or under budget]
 Agile Values: 
 1.	Individuals and interactions over processes and tools 
 2.	Working software over comprehensive documentation 
@@ -331,3 +328,4 @@ Source: agilemanifesto.org/principles.html
 
 ![chuckle_bros_efficiency.gif](http://riordan.ca/images/chuckle_bros_efficiency.gif)
 [Source: <http://www.gocomics.com/chucklebros>]
+
