@@ -27,7 +27,7 @@ In this chapter we will consider the broad topic of how systems come to be. What
 This chapter is about more than building new systems. It is also about NOT building systems when a new system is required, rather acquiring it through other channels. And it's about how organisations decide whether to buy, build, rent or commission the building of a brand-new system.
 ## What sparks the need for a new system in a typical organisation?
 
-The on-line [Merriam-Webster Dictionary](http://www.merriam-webster.com/dictionary/process) defines _process_ simply as "a series of actions that produce something or that lead to a particular result." Clean. Simple. But we also know that something must spur the process into action. You get cold, you do something. The something produces change as output.
+The on-line [Merriam-Webster Dictionary](http://www.merriam-webster.com/dictionary/process) defines _process_ simply as "a series of actions that produce something or that lead to a particular result." Clean. Simple. But we also know that something must spur the process into action. The _something_ is the activity inherrent in the process and that activity produces change. We see the change as output.
 
 Recall our discussion of a simple process in Chapter 1. _Input_ **-->** _Process_ **-->** _Output_. Simple and clean. When you stop to think about it, everything that happens in any organisation (and in your life) is part of a process. Something spurs action (it's cold in the room - this is input) so you either turn up the thermostat, or put on a sweater or close an open window (this is the process part) and some output is produced (something is changed - more warmth or less cold but in the end, you feel more comfortable).
 
