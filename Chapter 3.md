@@ -145,7 +145,7 @@ The final possibility is the opposite of the above, where Strategic Performance 
 
 [THINK ABOUT THIS IN TERMS OF WHETHER IT MIGHT DICTATE THE SOURCING DECISION FOR A SYSTEM] When deciding on an Information System however, it's unlikely that a decision would be made to enter into a strategic alliance with a system solution provider or especially a competitor. Such alliances are formed between two or more organisations in order to solve a particular problem or to take advantage of a unique, perhaps non-recurring opportunity, where all parties to the alliance would benefit.
 
-[[Interested?](http://www.theneweconomy.com/home/strategic-alliance-ibm-apple)]
+[Interested?](http://www.theneweconomy.com/home/strategic-alliance-ibm-apple)
 
 While a strategic alliance is not likely to happen in the case of a B-or-B decision, this shouldn't dampen our enthusiasm for the tool. It's still quite valuable as it illustrates the important considerations that need to be taken into account and highlights trade-offs that need to be made when deciding on how to commission a new system.
 
@@ -156,7 +156,7 @@ What are the issues? First of all, we have chosen arbitrary cut points between d
 Figure Y. Decision Matrix examples with different variable cut points
 ![Outsourcing Decision Matrix Mashup](http://riordan.ca/images/outsourcing_decision_mashup.jpg)
 
-Examining Figure Y, we see organisations imbued with different realities. A particularly lean organisation would have a very small upper, right quadrant (the Retain area), preferring to outsource, partner or eliminate all but the most essential of processes. The cut points for both strategic importance and Contribution to Efficiency could be moved up to 75% or even 80 or 90%. Such organisations are sometimes referred to as _virtual organisations,_ existing as only a core set of processes with no real physical space, having outsourced, partnered-off or cut everything not considered absolutely essential.
+Examining Figure Y, we see organisations imbued with different realities. A particularly lean organisation would have a very small upper, right quadrant (the Retain area), preferring to outsource, partner or eliminate all but the most essential of processes. The cut points for both _strategic importance_ and _contribution to dfficiency_ could be moved up to 75% or even 80 or 90%. Such organisations are sometimes referred to as _virtual organisations,_ existing as only a core set of processes with no real physical space, having outsourced, partnered-off or cut everything not considered absolutely essential.
 
 The recent and astoundingly swift rise of Web 2.0 communications and collaborative technologies, along with e-commerce, secure credit card transactions and teleworking, coupled with the rapid rise of the service sector, have led to the rise of such virtual (not bricks and mortar) organisations. This is how Amazon started way back when.
 
@@ -228,7 +228,7 @@ Indeed, methods were created and rigour was added and metrics were devised. The 
 ###The Systems Development Life Cycle (SDLC)
 The first such formalised method was the Systems Development Life Cycle, a so-called _waterfall method_.
 
-The SDLC is referred to as a _waterfall method_ since its steps resemble a waterfall; in order for water to reach the bottom of a waterfall, it must pass along the entire difference between the top of the falls (system conception) to the bottom of the falls (system retirement). You can't skip any of the distance along the way. Equally, once the water has reached any fixed point, there's no going back. It's all one way, and the only way is to finish the plunge to the bottom.
+The SDLC is referred to as a _waterfall method_ since its steps resemble a waterfall; in order for water to reach the bottom of a waterfall, it must pass along the entire span between the top of the falls (system conception) to the bottom of the falls (system retirement). The water can't skip any of the distance along the way. Equally, once the water has reached any fixed point, there's no going back. It's all one way, and the only way is to finish the plunge to the bottom.
 
 Figure ZZ shows the Systems DLC (as opposed to the Software DLC discussed later) illustrating the seven phases and accompanied by a whimsical estimate, through images, of the cost of finding and fixing errors at the various stages of the cycle. Image, if you will, the associated animal appearing suddenly, unannounced, in your home. What would it take to remedy the situation? The fly is a simple nuisance. Image the structural havoc to your home of having to deal with a 6,500+ kg. bull elephant in your kitchen.
 
