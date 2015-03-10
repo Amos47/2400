@@ -345,7 +345,7 @@ Agile has many devotees, at least partly because the principles of the Agile mov
 
 The contrast with SDLC are added by the author in the SDLC reflection column:
 
-Table TB. Agile principles with comparison to SDLC 
+Table TB. Agile principles with comparitive reflections on the SDLC 
 
 | Agile principle | SDLC reflection |
 | :- | :- | 
