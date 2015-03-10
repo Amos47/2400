@@ -274,12 +274,14 @@ Figure LJ. The prototyping process![SDLC Phases](http://riordan.ca/images/proto.
 Figure LJ provides a pictorial overview of the prototyping process as it relates to software development. First, note that there are no more bunnies, cats or dogs as a cost of finding errors. Prototyping replaces them with mice because there's not as much at stake at each iteration. The exposed and under-scrutiny part of the system is smaller, the changes more easily made and the investment in development much smaller. This is an improvement over the SDLC. 
 
 Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or iterated) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for delivery. The obviously pivotal step is #6, where in addition to branching to step 7, the outcome of the prototype evaluation can branch to either a refinement of the current design (step 3) or to a revisit of the system requirements if the prototype is introducing a refinement (step 2). So it’s really all about the user feedback. This is an important advantage for prototyping.
+
 ### The prototyping process for software development
 1.	Project inception and feasibility stage is a given. We don’t just start producing a system out of nowhere. There must be demonstrated need and management approval if working in a large organisation.
 2.	Perform a basic requirements analysis, but not as in-depth as in the SDLC. Often, the riskiest bits of the system are modelled early. If you can do the hard stuff, the easy stuff will fall into place. So we get the nitty-gritty details; the make-or-break stuff.  Often, difficult but manageable details such as security are ignored in the early stages. 
 3.	A prototype is developed, often including only user interfaces in the earliest stages. This is referred to as Horizontal Prototyping (discussed below). In later stages, Vertical Prototyping is used to drill down deep into the system to model the full functionality of a feature or required process. 
 4.	The prototype at whatever stage it’s currently at is shown to the clients (end users) to elicit feedback. 
 5.	The feedback provided in step 4 is used to revise and enhance the prototype. New features or screens are added in an incremental fashion and we return to step 3, continuing in this fashion until a deliverable system is produced. 
+
 Usability Engineer Jakob Neilson described the various types of prototyping in his 1993 book entitled Usability Engineering (Academic Press Inc.). Two are relevant to us in this context: 
 ### Horizontal 
 A user interface prototype is referred to as a horizontal prototype. Such a prototype provides an overview of a complete system or a significant subsystem, with an emphasis on how the user uses the system rather than how the system processes user input. Such prototypes are useful to confirm the logic and flow of user interfaces and setting the broad parameters of what the system (or sub-system) is expected to do. Furthermore, they can help in developing some metrics around anticipated time and resources required to deliver the full system. Finally, such prototypes often have the benefit of securing _buy-in_ from decision makers at the organisation as they can see and more tangibly grasp the overall scope, and thus value, of the proposed system. 
@@ -337,11 +339,15 @@ These methods are now collectively referred to as Agile Development following th
 Figure NA. The generalised Agile process ![SDLC Phases](http://riordan.ca/images/agile.png)
 
 Note from Figure NA the emphasis on delivering working software at the end of each iteration, then moving back to the beginning after evaluation. This clearly differentiates from the SDLC where stages are begun and finished and never revisited unless a catastrophic error causes a complete reset. This is the main contrast between the two camps. The SDLC is predictive – all is known beforehand and the process doesn’t ever vary. Agile methods are more adaptive and flexible, as we’ll see from or discussion of the Scrum flavour of agile, below. 
-Agile has many devotees, at least partly because the principles of the Agile movement are simple, straightforward and compelling. The contrast with SDLC are added by the author in [square brackets]:
-http://agilemanifesto.org/principles.html
+Agile has many devotees, at least partly because the principles of the Agile movement are simple, straightforward and compelling. 
+
+[Interested?](http://agilemanifesto.org/principles.html)
+
+The contrast with SDLC are added by the author in the SDLC reflection column:
+
 Table TB. Agile principles with comparison to SDLC 
 
-| Principle | SDLC reflection |
+| Agile principle | SDLC reflection |
 | :- | :- | 
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. |SDLC delivers at the very end of the process. |
 | Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage. | change is discouraged given the high cost of returning to the start of the process. |
