@@ -1,4 +1,4 @@
-# Chapter 3 [Public]
+# Chapter 3
 
 ---
 Here's a quiz about Gitbook
