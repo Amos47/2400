@@ -10,4 +10,4 @@ These are requirements
 
 ## sparks
 
-Lights a fire
+Light a fire
