@@ -10,6 +10,7 @@ Here's a quiz about Gitbook
 > Gitbook is good
 
 What does Gitbook support?
+
 - [x] Table-based questions with radio buttons
 - [x] Table-based questions with checkboxes
 - [ ] Telepathy
