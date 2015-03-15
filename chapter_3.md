@@ -2,6 +2,7 @@
 
 ---
 Here's a quiz about Gitbook
+
 |                  | Good | Bad |
 | ---------------- | ---- | --- |
 | What is Gitbook? | (x)  | ( ) |
