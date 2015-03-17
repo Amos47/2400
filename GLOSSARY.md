@@ -2,11 +2,11 @@
 
 ## software
 
-This is what software is
+Computer code designed o accept input, process the input and output results. 
 
 ## requirements
 
-These are requirements
+What systems are expected to accomplish. What the party requesting the system needs the system to do. 
 
 ## ip 
 
