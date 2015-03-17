@@ -8,6 +8,6 @@ This is what software is
 
 These are requirements
 
-## sparks
+## ip 
 
-Lights a fire
+Intellectual Property. The embodiment of value in an idea, process or creation of music, art, literature, inventions, and designs of all kinds. It's the value attached to creations of the mind.
