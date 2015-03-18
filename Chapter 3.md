@@ -263,9 +263,17 @@ Generally, the conversion phase applies only to the situation where an existing 
 Let’s take a look at the four most common methods. Figure RM below shows the methods graphically.
 
 ![Figure RM. Conversion methods](http://riordan.ca/images/conversion.png)
+Let’s examine each in light detail. 
 
 Table ZZZ. Comparison of conversion methods
-Search for Conversion in OneNote. 
+
+| Conversion Method | Description | Good | Not good | Risk / Cost | 
+| :- | :- | :- | :- | :-: | 
+|Parallel | Both systems run at the same time for a period of time. | When the existing system performs a critical function in the organisation and you can’t do without the output it provides and/or when there is an intolerable level of risk that the new system might fail. | When time is of the essence and the new system provides something that the current one cannot. Also when there just aren’t enough resources available to do both jobs at the same time (i.e., if there aren’t enough staff to prepare a critical input file in two ways). | http://riordan.ca/images/conversion/parallel.png |  
+|Pilot| The system is incrementally implemented in subsets of the organisation. | When the organisation does not critically need the output provided by the new system and more importantly if the system is large enough to allow it to be phased in. If the organisation is large enough to warrant an enterprise-wide system, and the system will be implemented in many functional areas, then a phased conversion could be carried out in one functional area at a time (for example, first in Accounting and then in Finance and then in Sales, etc.). Another scenario could see some members of one functional area using the new system while others use the old one. Finally, if the organisation is large enough to have multiple locations doing roughly similar work (a series of auto manufacturing plants, for example) then the conversion could be phased in one plant at a time, or one country at a time, etc. This type of conversion lets the organisation gauge the success of the conversion with less exposure to risk than would be the case under Plunge conversion, for example (see below).  | When either the reach of the system or the size of the organisation do not allow for enough scenarios. In addition, if all areas or personnel or installations of the company  work in tight unison it might be difficult to find the opportunity to differentiate the work process. | http://riordan.ca/images/conversion/pilot.png |  
+|Phased | Different pieces (modules, functions) of the overall system are implemented at different times. | When the system is large enough and the pieces are different enough to warrant splitting up the system. | When the benefits of the system (or even the integrity) would be compromised by piecemeal implementation. Some systems are all or nothing. In addition, it could be quite expensive to  repeatedly integrate pieces of a new system with existing infrastructure and processes, let alone train users many times as new pieces become available. | http://riordan.ca/images/conversion/phased.png  |  
+|Plunge | Lights off, lights on. Out with the old, in with the new. Retirement party on Friday. Monday we start the new system. | This is good when cost is critical or when it’s not operationally feasible to run two systems at one. Also when the output of the old system is not needed in its current form and moreover, if time is of the essence – you need the new outputs ASAP or if there is a drop-dead date for implementation that cannot be changed (funds might disappear, for example, if the new system isn’t implemented before the end of the fiscal year). Finally, it’s good in situations where it’s relatively easy to return to the old system should the situation warrant.  | When you need the output from the existing system, or when it’s not clear what the outcome of the conversion will be (risky). | http://riordan.ca/images/conversion/plunge.png |  
+
 
 Regardless of what you might think of the SDLC in terms of its viability for creating systems, the stark truth is that all methods (more of which we are about to discuss) must engage in each and every phase of the SDLC in order to produce a software system. It is in the emphasis, sequence, frequency, timing and duration of time spent on each phase that is the major differentiator between the various methods of systems development. 
 
@@ -478,6 +486,3 @@ To sum up, Scrum is a straightforward, lightweight method for building software 
 
 ![chuckle_bros_efficiency.gif](http://riordan.ca/images/chuckle_bros_efficiency.gif)
 [Source: <http://www.gocomics.com/chucklebros>]
-
-
-
