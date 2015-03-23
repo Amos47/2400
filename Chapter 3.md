@@ -263,7 +263,9 @@ Generally, the conversion phase applies only to the situation where an existing 
 Let’s take a look at the four most common methods. Figure RM below shows the methods graphically.
 
 ![Figure RM. Conversion methods](http://riordan.ca/images/conversion.png)
-Let’s examine each in light detail. 
+Let’s examine each in light detail. The metrics in the rightmost column represent subjective assessments of the Risk associated with the conversion method (the column with the little traffic cone at the bottom) and the cost of the method (with the little $ in the bottom of the column). Recall from our discussion of quality metrics in the sourcing section of this chapter, the height of the colour in the column represents the absolute top of the range for risk or cost, while the density of the colour (always more dense near the bottom) represents the likeliest value of the measure. To calibrate, note that the least risky method is parallel , but it’s also the costliest. The polar opposite is true for the plunge method. 
+
+It appears that there is a negative relationship between risk and cost. And that’s true in general. As nothing is free (even free stuff), a reduction in risk to the organisation will cost money. You just can’t escape. Willingness to accept more risk will be less costly… if things go well. 
 
 Table ZZZ. Comparison of conversion methods
 
@@ -274,24 +276,25 @@ Table ZZZ. Comparison of conversion methods
 |Phased | Different pieces (modules, functions) of the overall system are implemented at different times. | When the system is large enough and the pieces are different enough to warrant splitting up the system. | When the benefits of the system (or even the integrity) would be compromised by piecemeal implementation. Some systems are all or nothing. In addition, it could be quite expensive to  repeatedly integrate pieces of a new system with existing infrastructure and processes, let alone train users many times as new pieces become available. | ![Pilot](http://riordan.ca/images/pilot.png)  |  
 |Plunge | Lights off, lights on. Out with the old, in with the new. Retirement party on Friday. Monday we start the new system. | This is good when cost is critical or when it’s not operationally feasible to run two systems at one. Also when the output of the old system is not needed in its current form and moreover, if time is of the essence – you need the new outputs ASAP or if there is a drop-dead date for implementation that cannot be changed (funds might disappear, for example, if the new system isn’t implemented before the end of the fiscal year). Finally, it’s good in situations where it’s relatively easy to return to the old system should the situation warrant.  | When you need the output from the existing system, or when it’s not clear what the outcome of the conversion will be (risky). | ![Plunge](http://riordan.ca/images/plunge.png) |  
 
-
 Regardless of what you might think of the SDLC in terms of its viability for creating systems, the stark truth is that all methods (more of which we are about to discuss) must engage in each and every phase of the SDLC in order to produce a software system. It is in the emphasis, sequence, frequency, timing and duration of time spent on each phase that is the major differentiator between the various methods of systems development. 
 
 Proponents of the SDLC and other waterfall variants (there are fewer and fewer of them all the time) will argue that adopting these methods have the advantages of forcing systems developers to fully understand the system requirements before embarking on a development project. Additionally they felt that there were savings in time, effort and resources (including money) to be realised from this rigid, un-adaptive process.  Change was not to be tolerated. Figure it out at the start, then build it. 
 
+But there is an old adage among developers: “Often users don’t know what they want until they see what they don’t want.” This is a compelling argument for the Prototyping Method, presented next. 
+
 ### Prototyping
 
-Prototyping takes a different view from the SDLC. The advantage of prototyping is that it allows the eventual users of the software to get early and frequent insights into the current design of the system by allowing users to actually use the it before completion, rather than having to either read about features and processes or, in the worst case, to wait until they are tasked with acceptance testing of the finished product. By then, for all intents and purposes, it’s too late. 
+Prototyping takes a different view from the SDLC. The principle behind prototyping is that it allows the eventual users of the software system to get early and then frequent insights into the current design of the system by allowing users to actually use the it before completion, rather than having to either read about system features and processes or, in the worst case, to wait until they are tasked with acceptance testing of the finished product. By then, for all intents and purposes, it’s too late. The elephant is in the room. 
 
-Prototyping, as an iterative process, can thus better protect against the potential catastrophe attendant upon “finding the elephant” at the end of the development process. But make no mistake. While more unlikely given the repeated, iterative exposure of the system to its eventual users, there still exists the possibility of finding that elephant at the end.
+Prototyping, as an iterative (built in smaller pieces and shown to the users for approval) process, can thus better protect against the potential catastrophe attendant upon _finding the elephant_. But make no mistake. While more unlikely given the repeated, iterative exposure of the system to its eventual users, there still exists the possibility of finding that pachyderm at the end.
 
-Furthermore, prototyping is also often used to “try out” improvements to a system that were not part of the original specification but which “occurred to” the developers in the process of building. In this sense, it is much closer to the Agile methods we will discuss next. But back to prototyping. 
+Furthermore, prototyping is also often used to _try out_ improvements to a system that were not part of the original specification but which _occurred to_ the developers (or users) in the process of building. In this sense, it is much closer to the Agile methods we will discuss later. For now, back to prototyping. 
 
 Figure LJ. The prototyping process![SDLC Phases](http://riordan.ca/images/proto.png)
 
 Figure LJ provides a pictorial overview of the prototyping process as it relates to software development. First, note that there are no more bunnies, cats or dogs as a cost of finding errors. Prototyping replaces them with mice because there's not as much at stake at each iteration. The exposed and under-scrutiny part of the system is smaller, the changes more easily made and the investment in development much smaller. This is an improvement over the SDLC. 
 
-Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or iterated) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for delivery. The obviously pivotal step is #6, where in addition to branching to step 7, the outcome of the prototype evaluation can branch to either a refinement of the current design (step 3) or to a revisit of the system requirements if the prototype is introducing a refinement (step 2). So it’s really all about the user feedback. This is an important advantage for prototyping.
+Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or iterated) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for implementation. The obviously pivotal step is #6, where in addition to branching to step #7, the outcome of the prototype evaluation can branch to either a refinement of the current design (step #3) or to a revisit of the system requirements if the prototype is introducing a refinement (step #2). So it’s really all about the user feedback. This is an important advantage for prototyping.
 
 ### The prototyping process for software development
 1.	Project inception and feasibility stage is a given. We don’t just start producing a system out of nowhere. There must be demonstrated need and management approval if working in a large organisation.
@@ -306,33 +309,33 @@ A user interface prototype is referred to as a horizontal prototype. Such a prot
 ### Vertical 
 A vertical prototype is an in-depth elaboration of a single process, subsystem or function. Such prototypes are useful in discovering detailed requirements, such as the “risky bits” of a system and to demonstrate that they can be accomplished.  The benefits of vertical prototyping include determining details of data modelling (database design)and in getting a handle on processing volume requirements (how many transactions, or basic units of work) a system is required to be capable of doing, 
 Further distinctions are made between Throwaway and Evolutionary prototypes. The former is just as its name imp[lies, and is not as often used in software prototyping as the latter, which retains its basic structure and functionality throughout the process to become the final system.
-### Benefits
+### Prototyping Benefits
 Prototyping has several benefits: 
-1.	Valuable user feedback is elicited early and often
-2.	Requirements can be more easily verified
-3.	Metrics around cost and time are iteratively brought into focus
-4.	Users are much more likely to buy into the system and support its use when in production as they had a stake and a voice in its development
-5.	Training requirements for users are significantly reduced as users have been exposed to the system often and have trained themselves on its use
-6. Prototyping is especially useful when systems involve extensive interaction between computer and user (have extensive Human-Computer Interaction or HCI)
+1. Valuable _user feedback_ is elicited early and often
+2. _Requirements can be more easily verified_, tweaked, added or dropped
+3. Metrics around _cost and time are brought into focus_ iteratively
+4. Users are _much more likely to buy into the system_ and support its use when it goes into production as they had a stake and a voice in its development – they feel ownership of the system because they helped craft it and accepted it at each stage
+5. _Training requirements for users are significantly reduced_ they have been exposed to the system often and have trained themselves on its use and indeed directed the development in part
+6. Prototyping is especially useful when systems involve _extensive interaction between computer and user_ (have extensive Human-Computer Interaction or HCI)
 
 Prototyping also has some drawbacks. These include, but are not limited to:
-1.	_Insufficient analysis_: The focus on a limited prototype can distract developers from properly analyzing the complete project.
-2.	_User confusion of prototype and finished system_: Users can begin to think that a prototype, intended to be thrown away, is actually a final system that merely needs to be finished or polished. 
-3.	_Developer attachment to prototype_: Developers can also become attached to prototypes they have spent a great deal of effort producing; this can lead to problems like attempting to convert a limited prototype into a final system when it does not have an appropriate underlying architecture. 
-4.	_User attachment to the features of a prototype:_ Users might become accustomed or attracted to features that were included in a prototype for consideration and then removed from the specification for a final system. This can lead to misunderstanding and conflict.
-5.	_Excessive development time of the prototype_: A key property to prototyping is the fact that it is supposed to be done quickly. If the developers lose sight of this fact, they very well may try to develop a prototype that is too complex. 
-6.	_Expense of implementing prototyping_: the startup costs for building a development team focused on prototyping may be high. Many companies tend to just jump into the prototyping without bothering to retrain their workers as much as they should.
-7.	Prototyping can lead to both _scope creep_ and _feature creep_. 
+1. _Insufficient analysis_: The focus on a limited prototype can distract developers from properly analyzing the complete project.
+2. _User confusion of prototype and finished system_: Users can begin to think that a prototype, intended to be thrown away, is actually a final system that merely needs to be finished or polished. 
+3. _Developer attachment to prototype_: Developers can also become attached to prototypes they have spent a great deal of effort producing; this can lead to problems like attempting to convert a limited prototype into a final system when it does not have an appropriate underlying architecture. 
+4. _User attachment to the features of a prototype:_ Users might become accustomed or attracted to features that were included in a prototype for consideration and then removed from the specification for a final system. This can lead to misunderstanding and conflict.
+5. _Excessive development time of the prototype_: A key property to prototyping is the fact that it is supposed to be done quickly. If the developers lose sight of this fact, they very well may try to develop a prototype that is too complex. 
+6. _Expense of implementing prototyping_: the startup costs for building a development team focused on prototyping may be high. Many companies tend to just jump into the prototyping without bothering to retrain their workers as much as they should.
+7. Prototyping can lead to both _scope creep_ and _feature creep_. 
 [Interested?]( http://en.wikipedia.org/wiki/Software_prototyping#Disadvantages_of_prototyping)
 
 ## Feature Creep and Scope Creep
 Any time clients/users ask developers to increase the amount of work a system will do, or to include features that were not specified in the original system requirements, _ creep_ is at work. Project managers and developers must be continuously on the lookout for such creeps, as they are everywhere. Each tiny little addition, without a commensurate increase of time allotted, resources allocated or quality expected, leads the project one tiny step closer to failure. 
 
-In the broadest sense, an example of scope creep might be is users were asked the developers of Microsoft Excel (a spreadsheet) to also provide the capability to produce manuscripts (a word processing function). The scope of work is therefore much broader than what a spreadsheet is normally expected to do. Feature creep, on the other hand, could be illustrated by users asking Microsoft to include a feature in Excel whereby every time a user entered a valid email address in a cell, that email address is added to the user’s contact list. Nice feature. Not in the original specs. 
+In the broadest sense, an example of scope creep might be if users were to ask the developers of Microsoft Excel (a spreadsheet) to also provide the capability to produce manuscripts (a word processing function). The scope of work is therefore much broader than what a spreadsheet is normally expected to do. Feature creep, on the other hand, could be illustrated by users asking Microsoft to include a feature in Excel whereby every time a user entered a valid email address in a cell, that email address is added to the user’s contact list. Nice feature. Not in the original specs. Nothing to do with a spreadsheet’s core functionality. 
 
 Table RM provides a comparison between SDLC and prototyping on some important dimensions. 
 
-Table RM. An evaluation of the SDLC and Prototyping methods under certain conditions
+Table RM. An evaluation of the SDLC and Prototyping 
 
 | Condition | SDLC is| Prototyping is|
 | :- | :-: | :-: |
@@ -348,7 +351,7 @@ Table RM. An evaluation of the SDLC and Prototyping methods under certain condit
 | Where scope creep or feature creep need to be carefully managed | Excellent | Poor |
 
 ## Agile
-The SDLC and, to a certain extent prototyping, represent the so-called _heavyweight_, waterfall-oriented methods, which critics have called ponderous (cumbersome), sclerotic (rigid) and over-managed. Such shortfalls led to the development of lightweight agile software development methods in the mid-1990s. 
+The SDLC and, to a certain extent prototyping, represent the so-called _heavyweight_, waterfall-oriented methods, which critics have called ponderous (cumbersome), sclerotic (rigid) and over-managed (too many rules to follow). Such shortfalls led to the development of lightweight agile software development methods in the mid-1990s. 
 
 Early implementations of agile methods include Unified Process in 1994 (specifically implemented as the Rational Unified Process or RUP following IBM’s purchase of Rational Software in 2003), Scrum in 1995, Extreme Programming (EP) in 1996, and others. 
 
@@ -356,14 +359,15 @@ These methods are now collectively referred to as Agile Development following th
 
 Figure NA. The generalised Agile process ![SDLC Phases](http://riordan.ca/images/agile.png)
 
-Note from Figure NA the emphasis on delivering working software at the end of each iteration, then moving back to the beginning after evaluation. This clearly differentiates from the SDLC where stages are begun and finished and never revisited unless a catastrophic error causes a complete reset. This is the main contrast between the two camps. The SDLC is predictive – all is known beforehand and the process doesn’t ever vary. Agile methods are more adaptive and flexible, as we’ll see from or discussion of the Scrum flavour of agile, below. 
+Note from Figure NA the emphasis on delivering working software at the end of each rapid iteration (it should take no longer than a month – and often much, much less time -- to traverse from top to bottom of one iteration in agile), then moving back to the beginning after evaluation by users. This is much closer to prototyping and clearly differentiates from the SDLC where stages are begun and finished and never revisited unless a catastrophic error causes a complete reset. This is the main contrast between the two camps. The SDLC is predictive – all is known beforehand and the process doesn’t ever vary. Agile methods are more adaptive and flexible, as we’ll see from or discussion of the Scrum flavour of agile, below. 
+
 Agile has many devotees, at least partly because the principles of the Agile movement are simple, straightforward and compelling. 
 
 [Interested?](http://agilemanifesto.org/principles.html)
 
 The contrast with SDLC are added by the author in the SDLC reflection column:
 
-Table TB. Agile principles with comparitive reflections on the SDLC 
+Table TB. Agile principles with comparative reflections on the SDLC 
 
 | Agile principle | SDLC reflection |
 | :- | :- | 
@@ -396,10 +400,14 @@ They close with “That is, while there is value in the items on the right, we v
 
 [Interested?]( http://www.ambysoft.com/essays/agileManifesto.html)
 
-Let’s now take a brief look at Scrum, a popular agile software development method model. 
+Let’s now take a brief look at Scrum, a popular agile software development method model. “Agile and SCRUM are related but distinct. Agile describes a set of guiding principles for building software through iterative development. Agile principles are best described in the Agile Manifesto. SCRUM is a specific set of rules to follow when practicing agile software development.”
+
+[Interested?](http://stackoverflow.com/questions/1586928/how-different-is-scrum-practice-from-agile-practice)
 Following is from the book entitled _Scrum: a Breathtakingly Brief and Agile Introduction_, 2012, Dymaxicon, ISBN 10: 193796504X. This overview of roles, artifacts and the sprint cycle_ is adapted from _The Elements of Scrum_ by Chris Sims & Hillary Louise Johnson, 2011, Dymaxicon, ISBN 10: 0982866917.
 
 The authors write that “Scrum is a lightweight framework designed to help small, close-knit teams of people develop complex products. The brainchild of a handful of software engineers working together in the late 20th Century, scrum has gained the most traction in the technology sector … A scrum team typically consists of around seven people [7 +/- 2] who work together in short, sustainable bursts of activity called sprints, with plenty of time for review and reflection built in. One of the mantras of scrum is “inspect and adapt,” and scrum teams are characterized by an intense focus on continuous improvement— improvement— of their process, but also of the product.”
+
+[Interested?]( https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 
 A _sprint_ is a development session (or _iteration_ in standard Agile parlance), traditionally lasting anywhere from two weeks to a month (but never longer), during which time the steps in the agile iteration process (see Figure NA) are executed in one sequence from top to bottom. Scrum sprints are increasingly shorter now, many lasting only a week. The value in short sprints is that deliverable and value-creating software is output at the conclusion of each sprint, and adding value quickly is a good thing.
 
@@ -442,7 +450,7 @@ Further, they offer that “The scrum master is not— we repeat, not— the tea
 The role of the Scrum Master can be encapsulated as follows: The Scrum Master is a/an:
 Scrum expert and advisor 
 Coach 
-Impediment bulldozer [<3 this one]
+Impediment bulldozer [love this one :)]
 Facilitator
 
 The Scrum uses various tools (called _Scrum Artifacts_ by practitioners).  
@@ -483,6 +491,21 @@ Ceremonies, as they are all about communication, are at the heart of Scrum.
 
 To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focussed on continuous improvement of not only the end product (software) but also on the actual process of making the software. 
 [Interested?]( http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm)
+
+Here’s a great summary of everything we’ve presented here, and more. It’s not along read, and it’s recommended to get the broadest overview of the various development methods along with recommendations on when to sue teach. Highly recommended.
+[Interested?]( http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/SelectingDevelopmentApproach.pdf)
+
+Supplementary resources:
+Complementary software development methods to systems development life cycle are:
+•	Software prototyping
+•	Joint applications development (JAD)
+•	Rapid application development (RAD)
+•	Extreme programming (XP); extension of earlier work in Prototyping and RAD.
+•	Open-source development
+•	End-user development
+•	Object-oriented programming
+ 
+From <http://en.wikipedia.org/wiki/Systems_development_life_cycle> 
 
 ![chuckle_bros_efficiency.gif](http://riordan.ca/images/chuckle_bros_efficiency.gif)
 [Source: <http://www.gocomics.com/chucklebros>]
