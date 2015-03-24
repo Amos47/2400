@@ -33,7 +33,7 @@ First, let's carefully define what each means in its own right, then we can exam
 
 ####Data
 
-![visualthesaurus.com Definition of data](http://riordan.ca/images/vt_data.png)
+![visualthesaurus.com Definition of data](./Images/vt_data.PNG)
 
 The excellent website (or service, really) [visualthesaurus.com](http://visualthesaurus.com) shows the visualisation, above, of the lookup term "Data" once expanded.  
 
@@ -55,7 +55,7 @@ I respectfully disagree, ever so slightly, with these two definitions. Specifica
 [[Interested?](http://www.businessdictionary.com/definition/data.html#ixzz3MHuObnyk)]
 
 ###Information
-![visualthesaurus.com Definition of information](http://riordan.ca/images/vt_info.png)
+![visualthesaurus.com Definition of information](./Images/vt_info.PNG)
 
 Our dictionary source offers that information is "Data that is:  
 1. accurate and timely, 
@@ -87,7 +87,7 @@ And let's look at Information Theory while we're here. Our dictionary defines it
 [[Interested?](http://www.businessdictionary.com/definition/information-theory.html#ixzz3MJ2TuS7s)]
 
 ###Knowledge
-![visualthesaurus.com Definition of knowledge](http://riordan.ca/images/vt_know.png)
+![visualthesaurus.com Definition of knowledge](./Images/vt_know.PNG)
 
 How about knowledge? The Visual Thesaurus cogently defines knowledge as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to "know" something since it refers to a "psychological result." Pity...  
 
@@ -100,7 +100,7 @@ Further, the first definition from our Business Dictionary source is preferred o
 [Interested? http://www.businessdictionary.com/definition/knowledge.html#ixzz3MI6pmqhU]
 
 ###Wisdom
-![visualthesaurus.com Definition of wisdom](http://riordan.ca/images/vt_wisdom.png)
+![visualthesaurus.com Definition of wisdom](./Images/vt_wisdom.PNG)
 
 
 So data is useless unless in a context, which allows it to become information. Information drives decisions, in he rich context of previous information. Collected information becomes knowledge, which begets wisdom - the ability to pass judgment on the previous three.  HAMMER THIS HOME.
@@ -134,7 +134,7 @@ We will take this narrower view of technology in this book, partly because we ju
 
 
 ### Context
-![visualthesaurus.com Definition of context](http://riordan.ca/images/vt_context.png)
+![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
 
 VT definitions for context: 
 1. Language that helps to determine its interpretation 
@@ -188,7 +188,7 @@ Furthermore, what does meaning mean? Oxford to the rescue.
 [Interested? http://bit.ly/1svpjLY]
 
 Figure 1: The flow of data into contextual information to decision and wisdom
-![](http://riordan.ca/images/context.png)
+![](./Images/context.png)
 In Figure 1 we see illustrated how existing and new data (d) flow into a new context (c) where existing and new information (i) is produced and combined with information contained in existing contexts to produce a new context. This new 'mashup' provides the necessary ingredients for a new decision. The decision, in turn, creates new information, which feeds wisdom which, in its accumulated glory, washes back over any new or even existing context. The creation of knowledge is thus a dynamic, fluid and constant activity for living organisms and inanimate entities such as organisations. 
 
 ###The two contributions of ICT
@@ -203,7 +203,7 @@ So context becomes the frame of reference within which we narrow the error bands
 First, let's define what a process is, as the two functions of ICT impact all processes.
 
 Figure 2. A simple process
-![Process](http://riordan.ca/images/process.png)
+![Process](./Images/process.png)
 A simple process, any process, has only three pieces. First, input is required. Once input is present, a process then transforms input into output. That's it. Input --> Process --> Output. All three are necessary. No process without input, no input without process, no input and process without something coming out the other side. Make sure to understand that a process also requires a trigger: something to set it in motion. Processes don't just start of their own volition (if they had any) or momentum. Something must spur them into action. 
 
 For now, in examining the ICT task of input reducer, we need to examine this function in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. Context is something that is, as referenced above, "dynamically constructed, negotiated, and contested." In order to make fewer errors in our decision-making endeavours (and thus to reduce the amount of input necessary to produce the same output), we need as much context (the rich backdrop of facts, figures and shared understandings) as possible. We need to know what data means (see Information Architecture below). We need to be able to put data into context to create actionable information. 
