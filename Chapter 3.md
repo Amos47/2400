@@ -507,5 +507,5 @@ Complementary software development methods to systems development life cycle are
  
 From <http://en.wikipedia.org/wiki/Systems_development_life_cycle> 
 
-![chuckle_bros_efficiency.gif](./Images/chuckle_bros_efficiency.gif)
+![Now that's efficient!](./Images/chuckle_bros_efficiency.gif)
 [Source: <http://www.gocomics.com/chucklebros>]
