@@ -204,6 +204,11 @@ First, let's define what a process is, as the two functions of ICT impact all pr
 
 Figure 2. A simple process
 ![Process](./Images/process.png)
+
+Figure Z. Value creation
+
+![Process](./Images/value_creation.png)
+
 A simple process, any process, has only three pieces. First, input is required. Once input is present, a process then transforms input into output. That's it. Input --> Process --> Output. All three are necessary. No process without input, no input without process, no input and process without something coming out the other side. Make sure to understand that a process also requires a trigger: something to set it in motion. Processes don't just start of their own volition (if they had any) or momentum. Something must spur them into action. 
 
 For now, in examining the ICT task of input reducer, we need to examine this function in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. Context is something that is, as referenced above, "dynamically constructed, negotiated, and contested." In order to make fewer errors in our decision-making endeavours (and thus to reduce the amount of input necessary to produce the same output), we need as much context (the rich backdrop of facts, figures and shared understandings) as possible. We need to know what data means (see Information Architecture below). We need to be able to put data into context to create actionable information. 
