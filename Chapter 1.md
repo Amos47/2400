@@ -18,19 +18,19 @@ Order:
 Themes that will run through this text and course:
 - Are we talking data, information, knowledge or wisdom?
 - Is this tangible or intangible?
-- Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? No.
+- Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is No. That's the medium and the long answer as well. 
 - If the purpose of business is to solve problems at an increasing rate (which creates real prosperity), then does the product/service/technology under consideration solve a "real" problem? And a real problem is one that either shrinks input or grows output. Think about this one. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). Here's a quote: "... the crucial contribution business makes to society is transforming ideas into products and services that solve problems."
-- We can think of this problem-solving capacity in terms of the traditional notion of the Value Proposition. A popular website that helps ecommerce firms maximise the werldwide web has this to say about the Value Proposition: "In a nutshell, value proposition is a clear statement that explains how your product solves customers’ problems or improves their situation (relevancy), delivers specific benefits (quantified value) [and] tells the ideal customer why they should buy from you and not from the competition (unique differentiation)." [[Interested?]](http://conversionxl.com/value-proposition-examples-how-to-create/)
-Ergo we ask what is the value proposition for this tech, app, service, etc.? If there is no VP, why bother?
+- We can think of this problem-solving capacity in terms of the traditional notion of the Value Proposition. A popular website that helps ecommerce firms maximise the werldwide web has this to say about the Value Proposition: "In a nutshell, value proposition is a clear statement that explains how your product solves customers’ problems or improves their situation (relevancy), delivers specific benefits (quantified value) [and] tells the ideal customer why they should buy from you and not from the competition (unique differentiation)." Ergo we ask what is the value proposition for this tech, app, service, etc.? If there is no VP, why bother?
+[Interested?](http://conversionxl.com/value-proposition-examples-how-to-create/)
 - Does this product/service/technology lead to a sustainable competitive advantage? This is developed in the context of both PERSONAL CA (such as FB  or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE CA (easier to define but must also encompass not-for-profit and government services).
 
 ###Data, information, knowledge and wisdom
 
 In the beginning, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. In any event, at the instant of the Big Bang (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then everything. Zero then one. Off became on. Dark turned to light. Up or down became possible. In became different from out. You get the picture. And so it began. Nothing, then something. We've been collecting and interpreting data ever since. 
 
-This section is lengthy (or at least lengthier that you might think is necessary from this side), but with good reason. We really need to carefully consider the differences (and there are many) between data, information, knowledge and wisdom, and also their intricate and intimate interrelationships, in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. So let's go.
+This section is lengthy (or at least lengthier that you might think is necessary from this end of the argument), but with good reason. We need to carefully consider the myriad differences between the Big Four of data, information, knowledge and wisdom. We need also to examine their intricate and intimate interrelationships in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. Let's get at it.
 
-First, let's carefully define what each means in its own right, then we can examine the hierarchy that evolves when discussing them in the context of decision making.
+First, let's carefully define what each means in its own right. We can then examine the hierarchy that evolves when discussing the BIg Four in the context of decision making. Oh yes, and _context_ will be critical too. 
 
 ####Data
 
