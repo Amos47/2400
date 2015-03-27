@@ -104,7 +104,7 @@ Further, the first definition from our Business Dictionary source is preferred o
 ![visualthesaurus.com Definition of wisdom](./Images/vt_wisdom.PNG)
 
 
-So data is useless unless in a context, which allows it to become information. Information drives decisions and decisions drive action, in the rich context of previous information. Collected information from this action, previous actions and from all other sources of knowledge becomes new or evolvngknowledge, which begets wisdom - the ability to pass judgment on the previous three.  HAMMER THIS HOME.
+So data is useless unless in a context, which allows it to become information. Information drives decisions and decisions drive action, in the rich context of previous information. Collected information from this action, previous actions and from all other sources of knowledge becomes new or evolving knowledge and confers the ability to pass judgment on the previous three.  HAMMER THIS HOME.
 
 [Google NGRAMS Maybe put this stuff below in the section on Big Data or elsewhere? Commented out now.]
 
