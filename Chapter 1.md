@@ -24,7 +24,7 @@ Themes that will run through this text and course:
 [Interested?](http://conversionxl.com/value-proposition-examples-how-to-create/) (PS: The link to Austin, TX in the article is broken) 
 - Does this product/service/technology lead to a sustainable competitive advantage? This is developed in the context of both PERSONAL CA (such as FB  or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE CA (easier to define but must also encompass not-for-profit and government services).
 
-###Data, information, knowledge and wisdom
+###Data, information and knowledge
 
 In the beginning, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. In any event, at the instant of the Big Bang (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then everything. Zero then one. Off became on. Dark turned to light. Up or down became possible. In became different from out. You get the picture. And so it began. Nothing, then something. We've been collecting and interpreting data ever since. 
 
@@ -104,7 +104,7 @@ Further, the first definition from our Business Dictionary source is preferred o
 ![visualthesaurus.com Definition of wisdom](./Images/vt_wisdom.PNG)
 
 
-So data is useless unless in a context, which allows it to become information. Information drives decisions, in the rich context of previous information. Collected information becomes knowledge, which begets wisdom - the ability to pass judgment on the previous three.  HAMMER THIS HOME.
+So data is useless unless in a context, which allows it to become information. Information drives decisions and decisions drive action, in the rich context of previous information. Collected information from this action, previous actions and from all other sources of knowledge becomes new or evolvngknowledge, which begets wisdom - the ability to pass judgment on the previous three.  HAMMER THIS HOME.
 
 [Google NGRAMS Maybe put this stuff below in the section on Big Data or elsewhere? Commented out now.]
 
