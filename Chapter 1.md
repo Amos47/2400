@@ -30,13 +30,17 @@ In the beginning, there was nothing. Or perhaps even less than that. Maybe *nega
 
 This section is lengthy (or at least lengthier that you might think is necessary from this end of the argument), but with good reason. We need to carefully consider the myriad differences between the Big Four of data, information, knowledge and wisdom. We need also to examine their intricate and intimate interrelationships in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. Let's get at it.
 
-First, let's carefully define what each means in its own right. We can then examine the hierarchy that evolves when discussing the BIg Four in the context of decision making. Oh yes, and _context_ will be critical too. 
+Let's first deal with a potential controvercy. You might have heard (more likely you will hear) this heirarchy referred to as the Data, Information, Knowledge and *Wisdom* heirarchy. There are problems with this particular characterisation so instead, we describe the Data, Information and Knowledge heirarchy here. 
+
+[[Interested?] ](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
+
+First, let's carefully define what each means in its own right. We can then examine the hierarchy that evolves when discussing the BIg Three in the context of decision making. Oh yes, and _context_ will be critical too. 
 
 ####Data
 
 ![visualthesaurus.com Definition of data](./Images/vt_data.PNG)
 
-The excellent website (or service, really) [visualthesaurus.com](http://visualthesaurus.com) shows the visualisation, above, of the lookup term "Data" once expanded.  
+The excellent website (or service, really) [visualthesaurus.com](http://visualthesaurus.com) shows the visualisation, above, of the lookup term "Data" once expanded by clicking on the red node.  
 
 The interpretation of the visual goes as follows: 
 * A solid line between two terms denotes a relationship between a meaning and a word. Thus the term at the distal (far) end of a solid line can be used to express the meaning of the defined word.
@@ -104,8 +108,7 @@ Data is useless unless in a context, which allows it to become information. Info
 
 [Google NGRAMS Maybe put this stuff below in the section on Big Data or elsewhere? Commented out now.]
 
-So clearly we have a pathway beginning with data, which, in context, provides information. Information in its collectivity, provides wisdom. With information and wisdom (which I define as the intersection of collective information with enough experience to allow for sufficient clarity such that one can critique the process of marshaling data to information and then be prepared to engineer the environment so as to lead to better information in the future)...
-
+So clearly we have a pathway beginning with measurement. Measurement gives meaning to data, which, in context, provides information. Information in its collectivity, produces knowledge. With information and knowledge (which I define as the intersection of collective information with enough experience to allow for sufficient clarity such that one can critique the process of marshaling data to information and then be prepared to engineer the environment so as to lead to better information in the future)...
 
 ### Communication
 
