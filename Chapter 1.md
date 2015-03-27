@@ -18,18 +18,19 @@ Order:
 Themes that will run through this text and course:
 - Are we talking data, information, knowledge or wisdom?
 - Is this tangible or intangible?
-- Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? No.
-- If the purpose of business is to solve problems at an increasing rate (which creates real prosperity), then does the product/service/technology under consideration solve a "real" problem? And a real problem is one that either shrinks input or grows output. Think about this one. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism)
-- What is the value proposition (definition required) for using this tech, app, service, etc.? If there is no VP, why bother? Is this same as point above? 
+- Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is No. That's the medium and the long answer as well. 
+- If the purpose of business is to solve problems at an increasing rate (which creates real prosperity), then does the product/service/technology under consideration solve a "real" problem? And a real problem is one that either shrinks input or grows output. Think about this one. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). Here's a quote: "... the crucial contribution business makes to society is transforming ideas into products and services that solve problems."
+- We can think of this problem-solving capacity in terms of the traditional notion of the Value Proposition. A popular website that helps ecommerce firms maximise the werldwide web has this to say about the Value Proposition: "In a nutshell, value proposition is a clear statement that explains how your product solves customers’ problems or improves their situation (relevancy), delivers specific benefits (quantified value) [and] tells the ideal customer why they should buy from you and not from the competition (unique differentiation)." Ergo we ask what is the value proposition for this tech, app, service, etc.? If there is no VP, why bother?
+[Interested?](http://conversionxl.com/value-proposition-examples-how-to-create/) (PS: The link to Austin, TX in the article is broken) 
 - Does this product/service/technology lead to a sustainable competitive advantage? This is developed in the context of both PERSONAL CA (such as FB  or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE CA (easier to define but must also encompass not-for-profit and government services).
 
 ###Data, information, knowledge and wisdom
 
 In the beginning, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. In any event, at the instant of the Big Bang (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then everything. Zero then one. Off became on. Dark turned to light. Up or down became possible. In became different from out. You get the picture. And so it began. Nothing, then something. We've been collecting and interpreting data ever since. 
 
-This section is lengthy (or at least lengthier that you might think is necessary from this side), but with good reason. We really need to carefully consider the differences (and there are many) between data, information, knowledge and wisdom, and also their intricate and intimate interrelationships, in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. So let's go.
+This section is lengthy (or at least lengthier that you might think is necessary from this end of the argument), but with good reason. We need to carefully consider the myriad differences between the Big Four of data, information, knowledge and wisdom. We need also to examine their intricate and intimate interrelationships in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. Let's get at it.
 
-First, let's carefully define what each means in its own right, then we can examine the hierarchy that evolves when discussing them in the context of decision making.
+First, let's carefully define what each means in its own right. We can then examine the hierarchy that evolves when discussing the BIg Four in the context of decision making. Oh yes, and _context_ will be critical too. 
 
 ####Data
 
@@ -44,7 +45,7 @@ The interpretation of the visual goes as follows:
 
 The Visual Thesaurus defines data as: "A collection of facts from which conclusions may be drawn." Hold onto this definition as we further analyse the complex relationship between data and information.
 
-The visual here implies (states, really) that data and information are synonymous; that they can be used to describe each other, and thus that they are equal. My definition, which clears up some of the ambiguity in the terms data and information, is: *Data is pre-information; potential information; a collection of one or more facts, figures or measurements of some entity whether tangible or not*.
+The visual on Data above implies (states, really) that data and information are synonymous; that they can be used to describe each other, and thus that they are equal. My definition, which clears up some of the ambiguity in the terms data and information, is: *Data is pre-information; potential information; a collection of one or more facts, figures or measurements of some entity whether tangible or not*.
 
 The online [Business Dictionary](http://businessdictionary.com) defines data as: 
 1. Information in raw or unorganized form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe. See also information and knowledge.
@@ -61,15 +62,15 @@ Our dictionary source offers that information is "Data that is:
 1. accurate and timely, 
 2. specific and organized for a purpose, 
 3. presented within a context that gives it meaning and relevance, and 
-4. can lead to an increase in understanding and decrease in uncertainty.
+4. can lead to an increase in understanding and decrease in uncertainty."
 
 Information is valuable because it can affect behavior, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory."
 
-[Interested? http://www.businessdictionary.com/definition/information.html#ixzz3MHy9CeAf]
+[[Interested?]](http://www.businessdictionary.com/definition/information.html) 
 
 Clearly, data cannot be both information and data at the same time, if the requirement for information is that it must be organised and in context. Data doesn't doesn't have the potential to change things (or lead to change). Data that can be understood, interpreted and put into context leads to information, which can effect changes in behaviour and can facilitate decision making. Now we're getting somewhere.
 
-Wolfram|Alpha [describe this] has these 5 definitions of Information. Below are the 4 that bear n our study here:
+Wolfram|Alpha [describe this] has these 5 definitions of Information. Below are the 4 that bear on our study here:
 
 1. a message received and understood 
 2. knowledge acquired through study or experience or instruction 
@@ -89,9 +90,9 @@ And let's look at Information Theory while we're here. Our dictionary defines it
 ###Knowledge
 ![visualthesaurus.com Definition of knowledge](./Images/vt_know.PNG)
 
-How about knowledge? The Visual Thesaurus cogently defines knowledge as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to "know" something since it refers to a "psychological result." Pity...  
+How about knowledge? The Visual Thesaurus cogently defines knowledge as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to *know something* since it refers to a "psychological result." Pity...  
 
-But let's look at this visual for a second. NOte how rich it is. Note how many node are of interest to us here. 
+But let's look at this visual for a second. Note how rich it is. Note how many nodes are of interest to us here. 
 
 Further, the first definition from our Business Dictionary source is preferred over the second as it refers to the context of Law. Here's what's on offer:
 
@@ -103,35 +104,28 @@ Further, the first definition from our Business Dictionary source is preferred o
 ![visualthesaurus.com Definition of wisdom](./Images/vt_wisdom.PNG)
 
 
-So data is useless unless in a context, which allows it to become information. Information drives decisions, in he rich context of previous information. Collected information becomes knowledge, which begets wisdom - the ability to pass judgment on the previous three.  HAMMER THIS HOME.
+So data is useless unless in a context, which allows it to become information. Information drives decisions, in the rich context of previous information. Collected information becomes knowledge, which begets wisdom - the ability to pass judgment on the previous three.  HAMMER THIS HOME.
 
 [Google NGRAMS Maybe put this stuff below in the section on Big Data or elsewhere? Commented out now.]
 
-
 So clearly we have a pathway beginning with data, which, in context, provides information. Information in its collectivity, provides wisdom. With information and wisdom (which I define as the intersection of collective information with enough experience to allow for sufficient clarity such that one can critique the process of marshaling data to information and then be prepared to engineer the environment so as to lead to better information in the future)...
 
- 
-###What is technology?
-Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand "tools" in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language or even applied mathematics. So technology is broad indeed. 
-[[Interested?](http://bit.ly/139Y25z)]
 
-The online [Business Dictionary](http://businessdictionary.com) also takes a broad view, and delineates categories and taxonomies. They write that technology is "The purposeful application of *information* in the design, production, and utilization of goods and services, and in the organization of human activities." (emphasis added)
+### Communication
 
-Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical -- as in the sense of services). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: "Technology is generally divided into five categories:
-1. Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]
-2. Intangible (consultancy, problem-solving, and training methods) [do not exists in the physical realm; do not exist until consumed...]
-3. High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]
-4. Intermediate (semiautomated partially intelligent technology that manipulates refined matter and medium level forces) [an eCommerce algorithm] 
-5. Low (labor-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]"
+Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say about that: "Communication (from Latin commūnicāre, meaning "to share") is the activity of conveying meaning through a shared system of signs and semiotic rules." [[Interested?]](http://en.wikipedia.org/wiki/Communication)
 
-[[Interested?](http://bit.ly/1GsH5SO)]
+Semiotics is the study of signs and symbols in communication. [[Interested?]](http://www.amazon.ca/This-Means-That-Users-Semiotics/dp/1856697355/ref=sr_1_4?ie=UTF8&qid=1427474025&sr=8-4&keywords=semiotics)
 
-But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies." 
+We further can examine a subset of what [dicionary.com](http://dictionary.reference.com/browse/communication) offers: 
+1. The act or process of communicating; fact of being communicated. 
+2. The imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 
+3. Something imparted, interchanged, or transmitted. 
+4. A document or message imparting news, views, information, etc. 
+6. Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
+7. Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.
 
-We will take this narrower view of technology in this book, partly because we just don't have the time to consider all the nuances that the broader scope suggests. So when we consider technology, and specifically information and communication technology, we be constraining ourselves to the narrow realm where engineering, science (both natural and social) and business realities intersect and interact with the systems that are in use in our modern society, with an eye to whether or not they are creating value by either reducing input or enhancing output.
-
-[[Interested?](http://bit.ly/1z0JHX3)]
-
+Now isn't that interesting, thae Biology parts? That's exactly what we are saying about Information. Specifically that we define information (being data in a context that has relevance) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. 
 
 ### Context
 ![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
@@ -162,6 +156,10 @@ Oxford also offers us the following (lightly edited and reduced for better under
 3. For Halliday, extralinguistic circumstances of use that influence the linguistic form of an utterance: not only the social and physical setting, but also such factors as social relationships, the nature of the medium, the task, and the topic. He proposed that there is a systematic relationship between ‘typical’ situations and the types of language employed within them (see also register).
 
 [Interested? http://bit.ly/1yUkLQU]
+
+Then there's a [Buick](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-of-the-day-1974-buick-electra-225-limited/). This is all about context. 
+
+![Then there's a Buick.](./Images/1974_electra_225_rear.png)
 
 ###Meaning
 
@@ -204,18 +202,17 @@ First, let's define what a process is, as the two functions of ICT impact all pr
 
 Figure 2. A simple process
 ![Process](./Images/process.png)
+
 A simple process, any process, has only three pieces. First, input is required. Once input is present, a process then transforms input into output. That's it. Input --> Process --> Output. All three are necessary. No process without input, no input without process, no input and process without something coming out the other side. Make sure to understand that a process also requires a trigger: something to set it in motion. Processes don't just start of their own volition (if they had any) or momentum. Something must spur them into action. 
 
 For now, in examining the ICT task of input reducer, we need to examine this function in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. Context is something that is, as referenced above, "dynamically constructed, negotiated, and contested." In order to make fewer errors in our decision-making endeavours (and thus to reduce the amount of input necessary to produce the same output), we need as much context (the rich backdrop of facts, figures and shared understandings) as possible. We need to know what data means (see Information Architecture below). We need to be able to put data into context to create actionable information. 
 
+Figure Z. Value creation
+![Process](./Images/value_creation.png)
+
 So context becomes the frame of reference within which we narrow the error bands around our decisions. Context is everything, and ICT has the potential to provide very rich context indeed. We will be examining context repeatedly in this book, because context is what drives understanding, and understanding drives decision making and good decisions are something that we all, as actors in both public and private scenarios, need to make. 
 
 Information systems can not only distribute that scarcest of all commodities - knowledge - but can create knowledge and understanding in socially equitable ways. It is argued that the purpose of business is to solve problems, leading to a better social situation for as many humans as possible. It is only as a by-product of problem solving that profits are generated. One could assume, however, that problems for which no profit can be made won't be solved. Unless, of course, we consider the rapidly-expanding social economy and the not-for-profit sector.
-
-Idea: To reduce error around decisions - messages (data) need to be specific even though entropy = information richness - so the questions have to be specific and this is Information Architecture - specifying what questions you will need to answer and then architecting your data collection to fit - including usability and findability. This is not to say that exploratory research isn't valuable but just that if there are specific questions you need answered you'd better carefully design your data-gathering tools in order to answer those questions. 
-
-[Nov 24 rr]
-Data architects are responsible for organizing data and ensuring that all data standards and controls including definitions, [golden]sources, data models and data quality monitoring are fully managed. Robert Half projects a 7.2 per cent salary increase in this space. Annual salaries will be around $119,750 to $164,750.
 
 Read more: http://www.itworldcanada.com/slideshow/6-hot-it-positions-in-2015#ixzz3K0CPYgOI 
 or visit http://www.itworldcanada.com for more Canadian IT News 
@@ -259,8 +256,29 @@ In the context of information systems design, information architecture refers to
 
 [[Interested?](http://books.google.ca/books?id=Tp40QFGCU2sC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)]
 
-1. In the physical sciences the *entropy* associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.  [Me: Thus for decision making, entropy is the enemy. Entropy is "junk on the signal." It thwarts our efforts to make sense of a data transmission and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.] From the yellow Curator article. 
- 
+In the physical sciences the *entropy* associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.  [Me: Thus for decision making, entropy is the enemy. Entropy is "junk on the signal." It thwarts our efforts to make sense of a data transmission and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.] From the yellow Curator article. 
 
-###Internet usage
-![Internet usage](http://blog.commander.com/wp-content/uploads/2014/07/commander_infox616_big_2.jpg)
+###What is technology?
+Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand "tools" in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language or even applied mathematics. So technology is broad indeed. 
+[[Interested?](http://bit.ly/139Y25z)]
+
+The online [Business Dictionary](http://businessdictionary.com) also takes a broad view, and delineates categories and taxonomies. They write that technology is "The purposeful application of *information* in the design, production, and utilization of goods and services, and in the organization of human activities." (emphasis added)
+
+Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical -- as in the sense of services). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: "Technology is generally divided into five categories:
+1. Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]
+2. Intangible (consultancy, problem-solving, and training methods) [do not exists in the physical realm; do not exist until consumed...]
+3. High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]
+4. Intermediate (semiautomated partially intelligent technology that manipulates refined matter and medium level forces) [an eCommerce algorithm] 
+5. Low (labor-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]"
+
+[[Interested?](http://bit.ly/1GsH5SO)]
+
+But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies." 
+
+We will take this narrower view of technology in this book, partly because we just don't have the time to consider all the nuances that the broader scope suggests. So when we consider technology, and specifically information and communication technology, we be constraining ourselves to the narrow realm where engineering, science (both natural and social) and business realities intersect and interact with the systems that are in use in our modern society, with an eye to whether or not they are creating value by either reducing input or enhancing output.
+
+[[Interested?](http://bit.ly/1z0JHX3)]
+
+### Now bring it all together!
+
+
