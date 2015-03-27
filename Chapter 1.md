@@ -110,28 +110,6 @@ So data is useless unless in a context, which allows it to become information. I
 
 So clearly we have a pathway beginning with data, which, in context, provides information. Information in its collectivity, provides wisdom. With information and wisdom (which I define as the intersection of collective information with enough experience to allow for sufficient clarity such that one can critique the process of marshaling data to information and then be prepared to engineer the environment so as to lead to better information in the future)...
 
- 
-###What is technology?
-Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand "tools" in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language or even applied mathematics. So technology is broad indeed. 
-[[Interested?](http://bit.ly/139Y25z)]
-
-The online [Business Dictionary](http://businessdictionary.com) also takes a broad view, and delineates categories and taxonomies. They write that technology is "The purposeful application of *information* in the design, production, and utilization of goods and services, and in the organization of human activities." (emphasis added)
-
-Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical -- as in the sense of services). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: "Technology is generally divided into five categories:
-1. Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]
-2. Intangible (consultancy, problem-solving, and training methods) [do not exists in the physical realm; do not exist until consumed...]
-3. High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]
-4. Intermediate (semiautomated partially intelligent technology that manipulates refined matter and medium level forces) [an eCommerce algorithm] 
-5. Low (labor-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]"
-
-[[Interested?](http://bit.ly/1GsH5SO)]
-
-But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies." 
-
-We will take this narrower view of technology in this book, partly because we just don't have the time to consider all the nuances that the broader scope suggests. So when we consider technology, and specifically information and communication technology, we be constraining ourselves to the narrow realm where engineering, science (both natural and social) and business realities intersect and interact with the systems that are in use in our modern society, with an eye to whether or not they are creating value by either reducing input or enhancing output.
-
-[[Interested?](http://bit.ly/1z0JHX3)]
-
 
 ### Communication
 
@@ -140,14 +118,14 @@ Communication is the essence of our being. Communication is almost all we do. Ou
 Semiotics is the study of signs and symbols in communication. [[Interested?]](http://www.amazon.ca/This-Means-That-Users-Semiotics/dp/1856697355/ref=sr_1_4?ie=UTF8&qid=1427474025&sr=8-4&keywords=semiotics)
 
 We further can examine a subset of what [dicionary.com](http://dictionary.reference.com/browse/communication) offers: 
-1. the act or process of communicating; fact of being communicated. 
-2. the imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 
-3. something imparted, interchanged, or transmitted. 
-4. a document or message imparting news, views, information, etc. 
-6. communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
-7. Biology - activity by one organism that changes or has the potential to change the behavior of other organisms.
+1. The act or process of communicating; fact of being communicated. 
+2. The imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 
+3. Something imparted, interchanged, or transmitted. 
+4. A document or message imparting news, views, information, etc. 
+6. Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
+7. Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.
 
-Now isn't that nteresting, that Biology part. That's exactly what we are saying about Information. Specifically that we define information (being data in a context that has relevance) as something that can cause change.
+Now isn't that interesting, thae Biology parts? That's exactly what we are saying about Information. Specifically that we define information (being data in a context that has relevance) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. 
 
 ### Context
 ![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
@@ -275,7 +253,28 @@ In the context of information systems design, information architecture refers to
 [[Interested?](http://books.google.ca/books?id=Tp40QFGCU2sC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)]
 
 In the physical sciences the *entropy* associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.  [Me: Thus for decision making, entropy is the enemy. Entropy is "junk on the signal." It thwarts our efforts to make sense of a data transmission and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.] From the yellow Curator article. 
- 
 
-###Internet usage
-![Internet usage](http://blog.commander.com/wp-content/uploads/2014/07/commander_infox616_big_2.jpg)
+###What is technology?
+Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand "tools" in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language or even applied mathematics. So technology is broad indeed. 
+[[Interested?](http://bit.ly/139Y25z)]
+
+The online [Business Dictionary](http://businessdictionary.com) also takes a broad view, and delineates categories and taxonomies. They write that technology is "The purposeful application of *information* in the design, production, and utilization of goods and services, and in the organization of human activities." (emphasis added)
+
+Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical -- as in the sense of services). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: "Technology is generally divided into five categories:
+1. Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]
+2. Intangible (consultancy, problem-solving, and training methods) [do not exists in the physical realm; do not exist until consumed...]
+3. High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]
+4. Intermediate (semiautomated partially intelligent technology that manipulates refined matter and medium level forces) [an eCommerce algorithm] 
+5. Low (labor-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]"
+
+[[Interested?](http://bit.ly/1GsH5SO)]
+
+But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies." 
+
+We will take this narrower view of technology in this book, partly because we just don't have the time to consider all the nuances that the broader scope suggests. So when we consider technology, and specifically information and communication technology, we be constraining ourselves to the narrow realm where engineering, science (both natural and social) and business realities intersect and interact with the systems that are in use in our modern society, with an eye to whether or not they are creating value by either reducing input or enhancing output.
+
+[[Interested?](http://bit.ly/1z0JHX3)]
+
+### Now bring it all together!
+
+
