@@ -45,7 +45,7 @@ The interpretation of the visual goes as follows:
 
 The Visual Thesaurus defines data as: "A collection of facts from which conclusions may be drawn." Hold onto this definition as we further analyse the complex relationship between data and information.
 
-The visual here implies (states, really) that data and information are synonymous; that they can be used to describe each other, and thus that they are equal. My definition, which clears up some of the ambiguity in the terms data and information, is: *Data is pre-information; potential information; a collection of one or more facts, figures or measurements of some entity whether tangible or not*.
+The visual on Data above implies (states, really) that data and information are synonymous; that they can be used to describe each other, and thus that they are equal. My definition, which clears up some of the ambiguity in the terms data and information, is: *Data is pre-information; potential information; a collection of one or more facts, figures or measurements of some entity whether tangible or not*.
 
 The online [Business Dictionary](http://businessdictionary.com) defines data as: 
 1. Information in raw or unorganized form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe. See also information and knowledge.
@@ -62,7 +62,7 @@ Our dictionary source offers that information is "Data that is:
 1. accurate and timely, 
 2. specific and organized for a purpose, 
 3. presented within a context that gives it meaning and relevance, and 
-4. can lead to an increase in understanding and decrease in uncertainty.
+4. can lead to an increase in understanding and decrease in uncertainty."
 
 Information is valuable because it can affect behavior, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory."
 
@@ -136,9 +136,19 @@ We will take this narrower view of technology in this book, partly because we ju
 
 ### Communication
 
-Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say about that: "Communication (from Latin commūnicāre, meaning "to share") is the activity of conveying meaning through a shared system of signs and semiotic rules." Semiotics is the study of signs and symbols in communication. [[Interested?]](http://www.amazon.ca/This-Means-That-Users-Semiotics/dp/1856697355/ref=sr_1_4?ie=UTF8&qid=1427474025&sr=8-4&keywords=semiotics). 
+Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say about that: "Communication (from Latin commūnicāre, meaning "to share") is the activity of conveying meaning through a shared system of signs and semiotic rules." [[Interested?]](http://en.wikipedia.org/wiki/Communication)
 
-We further can examine what dicionary.com offers: 1. the act or process of communicating; fact of being communicated. 2. the imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 3. something imparted, interchanged, or transmitted. 4. a document or message imparting news, views, information, etc. 5. passage, or an opportunity or means of passage, between places. 6. communications.  a.means of sending messages, orders, etc., including telephone, telegraph, radio, and television. b.routes and transportation for moving troops and supplies from a base to an area of operations. 7. Biology.  a.activity by one organism that changes or has the potential to change the behavior of other organisms. b.transfer of information from one cell or molecule to another, as by chemical or electrical signals. 
+Semiotics is the study of signs and symbols in communication. [[Interested?]](http://www.amazon.ca/This-Means-That-Users-Semiotics/dp/1856697355/ref=sr_1_4?ie=UTF8&qid=1427474025&sr=8-4&keywords=semiotics)
+
+We further can examine a subset of what [dicionary.com](http://dictionary.reference.com/browse/communication) offers: 
+1. the act or process of communicating; fact of being communicated. 
+2. the imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 
+3. something imparted, interchanged, or transmitted. 
+4. a document or message imparting news, views, information, etc. 
+6. communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
+7. Biology - activity by one organism that changes or has the potential to change the behavior of other organisms.
+
+Now isn't that nteresting, that Biology part. That's exactly what we are saying about Information. Specifically that we define information (being data in a context that has relevance) as something that can cause change.
 
 ### Context
 ![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
