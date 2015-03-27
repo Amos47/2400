@@ -70,7 +70,7 @@ Information is valuable because it can affect behavior, a decision, or an outcom
 
 Clearly, data cannot be both information and data at the same time, if the requirement for information is that it must be organised and in context. Data doesn't doesn't have the potential to change things (or lead to change). Data that can be understood, interpreted and put into context leads to information, which can effect changes in behaviour and can facilitate decision making. Now we're getting somewhere.
 
-Wolfram|Alpha [describe this] has these 5 definitions of Information. Below are the 4 that bear n our study here:
+Wolfram|Alpha [describe this] has these 5 definitions of Information. Below are the 4 that bear on our study here:
 
 1. a message received and understood 
 2. knowledge acquired through study or experience or instruction 
@@ -134,12 +134,11 @@ We will take this narrower view of technology in this book, partly because we ju
 [[Interested?](http://bit.ly/1z0JHX3)]
 
 
-### Cmmmunication
+### Communication
 
-Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say: "Communication (from Latin commūnicāre, meaning "to share") is the activity of conveying meaning through a shared system of signs and semiotic rules." Semiotics is the study of We further can examine what dicionary.com offers: 1. the act or process of communicating; fact of being communicated. 2. the imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 3. 
-something imparted, interchanged, or transmitted. 4. a document or message imparting news, views, information, etc. 5. passage, or an opportunity or means of passage, between places. 6. communications.  a.means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
-b.routes and transportation for moving troops and supplies from a base to an area of operations. 7. 
-Biology.  a.activity by one organism that changes or has the potential to change the behavior of other organisms. b.transfer of information from one cell or molecule to another, as by chemical or electrical signals. 
+Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say about that: "Communication (from Latin commūnicāre, meaning "to share") is the activity of conveying meaning through a shared system of signs and semiotic rules." Semiotics is the study of signs and symbols in communication. [[Interested?]](http://www.amazon.ca/This-Means-That-Users-Semiotics/dp/1856697355/ref=sr_1_4?ie=UTF8&qid=1427474025&sr=8-4&keywords=semiotics). 
+
+We further can examine what dicionary.com offers: 1. the act or process of communicating; fact of being communicated. 2. the imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 3. something imparted, interchanged, or transmitted. 4. a document or message imparting news, views, information, etc. 5. passage, or an opportunity or means of passage, between places. 6. communications.  a.means of sending messages, orders, etc., including telephone, telegraph, radio, and television. b.routes and transportation for moving troops and supplies from a base to an area of operations. 7. Biology.  a.activity by one organism that changes or has the potential to change the behavior of other organisms. b.transfer of information from one cell or molecule to another, as by chemical or electrical signals. 
 
 ### Context
 ![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
