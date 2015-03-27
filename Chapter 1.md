@@ -90,9 +90,9 @@ And let's look at Information Theory while we're here. Our dictionary defines it
 ###Knowledge
 ![visualthesaurus.com Definition of knowledge](./Images/vt_know.PNG)
 
-How about knowledge? The Visual Thesaurus cogently defines knowledge as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to "know" something since it refers to a "psychological result." Pity...  
+How about knowledge? The Visual Thesaurus cogently defines knowledge as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to *know something* since it refers to a "psychological result." Pity...  
 
-But let's look at this visual for a second. NOte how rich it is. Note how many node are of interest to us here. 
+But let's look at this visual for a second. Note how rich it is. Note how many nodes are of interest to us here. 
 
 Further, the first definition from our Business Dictionary source is preferred over the second as it refers to the context of Law. Here's what's on offer:
 
