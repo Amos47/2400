@@ -159,7 +159,7 @@ Oxford also offers us the following (lightly edited and reduced for better under
 
 Then there's a [Buick](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-of-the-day-1974-buick-electra-225-limited/). This is all about context. 
 
-![Then there's a Buick.](./images/1974_electra_225_rear.png)
+![Then there's a Buick.](./Images/1974_electra_225_rear.png)
 
 ###Meaning
 
