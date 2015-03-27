@@ -66,7 +66,7 @@ Our dictionary source offers that information is "Data that is:
 
 Information is valuable because it can affect behavior, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory."
 
-[Interested? http://www.businessdictionary.com/definition/information.html#ixzz3MHy9CeAf]
+[[Interested?]](http://www.businessdictionary.com/definition/information.html) 
 
 Clearly, data cannot be both information and data at the same time, if the requirement for information is that it must be organised and in context. Data doesn't doesn't have the potential to change things (or lead to change). Data that can be understood, interpreted and put into context leads to information, which can effect changes in behaviour and can facilitate decision making. Now we're getting somewhere.
 
