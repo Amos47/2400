@@ -195,7 +195,7 @@ Each of these Oxford References relate to the others and to ICT in the sense tha
 
 An input reducer functions as an agent which, at a given level of output, reduces the unit cost of inputs such that either more input is available at the same cost, or less input is required at the same cost. 
 
-An output enhancer either incresesthe volume of outpup or of the cvalue of that output, holding volume constant. 
+An output enhancer either increses the volume of output or the value of that output, holding volume constant. 
 
 [EXAMPLES for both]
 
