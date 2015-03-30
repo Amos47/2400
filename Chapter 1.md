@@ -236,9 +236,10 @@ Information architecture has somewhat different meanings in different branches o
 Idea: To reduce error around decisions - messages (data) need to be specific even though entropy = information richness - so the questions have to be specific and this is Information Architecture - specifying what questions you will need to answer and then architecting your data collection to fit. This is not to say that exploratory research isn't valuable but just that if there are specific questions you need answered you'd better carefully design your data-gathering tools in order to answer those questions. 
 
 [Nov 24 rr]
+
 Data architects are responsible for organizing data and ensuring that all data standards and controls including definitions, [golden]sources, data models and data quality monitoring are fully managed. Robert Half projects a 7.2 per cent salary increase in this space. Annual salaries will be around $119,750 to $164,750.
 
-Read more: http://www.itworldcanada.com/slideshow/6-hot-it-positions-in-2015#ixzz3K0CPYgOI 
+[[Interested?](http://www.itworldcanada.com/slideshow/6-hot-it-positions-in-2015#ixzz3K0CPYgOI)] 
 
 ##Debate
 The difficulty in establishing a common definition for "information architecture" arises partly from the term's existence in multiple fields. In the field of systems design, for example, information architecture is a component of enterprise architecture that deals with the information component when describing the structure of an enterprise.
@@ -252,7 +253,7 @@ In the context of information systems design, information architecture refers to
 
 [[Interested?](http://books.google.ca/books?id=-wy3RhKoWWQC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)]
 
-[[Intersted?](http://books.google.ca/books?id=cZlYmQrnTMwC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)]
+[[Interested?](http://books.google.ca/books?id=cZlYmQrnTMwC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)]
 
 [[Interested?](http://books.google.ca/books?id=Tp40QFGCU2sC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)]
 
