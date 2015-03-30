@@ -124,7 +124,7 @@ We further can examine a subset of what [dicionary.com](http://dictionary.refere
 6. Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
 7. Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.
 
-Now isn't that interesting, thae Biology parts? That's exactly what we are saying about Information. Specifically that we define information (being data in a context that has relevance) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. 
+Now isn't that interesting, the Biology parts? That's exactly what we are saying about Information. Specifically that we define information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. 
 
 ### Context
 ![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
