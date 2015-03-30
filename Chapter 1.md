@@ -193,6 +193,10 @@ In Figure 1 we see illustrated how the process of measurment (m), whether consci
 
 Each of these Oxford References relate to the others and to ICT in the sense that there are arguably (and I will argue thusly in this text) but two impacts that ICT can have in our individual daily lives and in the functions of every for-profit or not-for-profit enterprise, public institution and social endeavour. The first is as **Input Reducer** and the second function is that of **Output Enhancer**. Both will be fleshed out and returned to repeatedly throughout this text. 
 
+An input reducer functions as an agent which, at a given level of output, reduces the unit cost of inputs such that either more input is available at the same cost, or less input is required at the same cost. 
+
+An output enhancer either incresesthe volume of outpup or of the cvalue of that output, holding volume constant. 
+
 We need to examine IS in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. Context is something that is, as referenced above, "dynamically constructed, negotiated, and contested." In order to make fewer errors in our decision-making endeavours, we need as much context (the rich backdrop of facts, figures and shared understandings) as possible.
 
 So context becomes the frame of reference within which we narrow the error bands around our decisions. Context is everything, and IS provides, or can provide, rich context. We will be examining context repeatedly in this book, because context is what drives understanding, and understanding drives decision making and good decisions are something that we all, as actors in both public and private scenarios, need to make. 
