@@ -197,6 +197,8 @@ An input reducer functions as an agent which, at a given level of output, reduce
 
 An output enhancer either incresesthe volume of outpup or of the cvalue of that output, holding volume constant. 
 
+[EXAMPLES for both]
+
 We need to examine IS in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. Context is something that is, as referenced above, "dynamically constructed, negotiated, and contested." In order to make fewer errors in our decision-making endeavours, we need as much context (the rich backdrop of facts, figures and shared understandings) as possible.
 
 So context becomes the frame of reference within which we narrow the error bands around our decisions. Context is everything, and IS provides, or can provide, rich context. We will be examining context repeatedly in this book, because context is what drives understanding, and understanding drives decision making and good decisions are something that we all, as actors in both public and private scenarios, need to make. 
