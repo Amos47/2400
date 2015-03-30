@@ -129,9 +129,10 @@ Now isn't that interesting, thae Biology parts? That's exactly what we are sayin
 ### Context
 ![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
 
-VT definitions for context: 
+Visual Thesaurus definitions for context: 
+
 1. Language that helps to determine its interpretation 
-2. the set of facts or circumstances that surround a situation or event
+2. The set of facts or circumstances that surround a situation or event
 
 Let's start right away by considering the notion of *context*. Here's what the online Oxford Reference has to say about it:
 
@@ -150,15 +151,15 @@ Let's just drive this home by considering temperature in a little more detail. I
 Oxford also offers us the following (lightly edited and reduced for better understanding in this context...):
 
 ### Context of Situation
-1. Malinowski [eminent anthropologist] coined this phrase in 1923 to refer to the cultural context of use in which an utterance was located; furthermore, ‘the whole way of life’ (cultural context) had to be borne in mind in interpreting an utterance.
+1. Malinowski [eminent anthropologist] coined this phrase in 1923 to refer to the cultural context of use in which an utterance [something said by someone] was located; furthermore, ‘the whole way of life’ (cultural context) had to be borne in mind in interpreting an utterance.
 2. For Firth, all of the circumstances in which a spoken utterance occurs that are relevant in making sense of it. He emphasized that meaning is context-dependent.
 3. For Halliday, extralinguistic circumstances of use that influence the linguistic form of an utterance: not only the social and physical setting, but also such factors as social relationships, the nature of the medium, the task, and the topic. He proposed that there is a systematic relationship between ‘typical’ situations and the types of language employed within them (see also register).
 
 [Interested? http://bit.ly/1yUkLQU]
 
-Then there's a [Buick](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-of-the-day-1974-buick-electra-225-limited/). This is all about context. 
+Then there's [1974](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-of-the-day-1974-buick-electra-225-limited/). This is all about context. 
 
-![Then there's a Buick.](./Images/1974_electra_225_rear.png)
+![1974](./Images/1974_electra_225_rear.png)
 
 ###Meaning
 
@@ -182,7 +183,7 @@ Furthermore, what does meaning mean? Oxford to the rescue.
 1. The dependence of meaning (and/or identity) on the specifics of particular sociohistorical, geographical, and cultural contexts, social and power relations, and philosophical and ideological frameworks, within which the multiple perspectives of social actors are dynamically constructed, negotiated, and contested. 
 2. Social situatedness: the notion that the development of individual intelligence is dependent on its embedding in a social (and cultural) context. It derives from the work of Vygotsky in the 1920s.
 
-[Interested? http://bit.ly/1svpjLY]
+[[Interested?](http://bit.ly/1svpjLY)]
 
 Figure 1: The flow of data into contextual information to decision and knowledge
 ![](./Images/context.png)
