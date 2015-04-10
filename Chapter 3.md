@@ -361,10 +361,9 @@ Figure NA. The generalised Agile process ![SDLC Phases](./Images/agile.png)
 
 Note from Figure NA the emphasis on delivering working software at the end of each rapid iteration (it should take no longer than a month – and often much, much less time -- to traverse from top to bottom of one iteration in agile), then moving back to the beginning after evaluation by users. This is much closer to prototyping and clearly differentiates from the SDLC where stages are begun and finished and never revisited unless a catastrophic error causes a complete reset. This is the main contrast between the two camps. The SDLC is predictive – all is known beforehand and the process doesn’t ever vary. Agile methods are more adaptive and flexible, as we’ll see from or discussion of the Scrum flavour of agile, below.
 
-Lean is a flavour of Agile, and has been extended or adopted by other movements in the business world. As Gaping Void designer/artist/guru HUgh MacLoed and business partner Jason Korman imply in the image below, it's always where you want to get that should drive the agenda, rather than how to get there. Going on a trip, you wouldn't say you are leaving in a Toyota, but rather that you re on your way to Disneyland, for example. Here's the gapingvoid.com feature for April 10, 2015:
+Lean is a flavour of Agile, and has been extended or adopted by other movements in the business world. As Gaping Void designer/artist/guru HUgh MacLoed and business partner Jason Korman imply in the image below, it's always the destination that should drive the agenda, rather than how to get there. Going on a trip, you wouldn't say that you are "...going in a Toyota", but rather that you are "...on your way to Disneyland", for example. Here's the gapingvoid.com feature for April 10, 2015:
 
 Figure MC. The Lean process ![Gaping Void Lean](./Images/lean_gaping_void.PNG)
-
 
 I never know from the start, what a drawing is going to look like when it’s finished. I just make it up as I go along.
  
