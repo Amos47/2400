@@ -326,6 +326,7 @@ Prototyping also has some drawbacks. These include, but are not limited to:
 5. _Excessive development time of the prototype_: A key property to prototyping is the fact that it is supposed to be done quickly. If the developers lose sight of this fact, they very well may try to develop a prototype that is too complex. 
 6. _Expense of implementing prototyping_: the startup costs for building a development team focused on prototyping may be high. Many companies tend to just jump into the prototyping without bothering to retrain their workers as much as they should.
 7. Prototyping can lead to both _scope creep_ and _feature creep_. 
+
 [Interested?]( http://en.wikipedia.org/wiki/Software_prototyping#Disadvantages_of_prototyping)
 
 ## Feature Creep and Scope Creep
