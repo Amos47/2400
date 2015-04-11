@@ -329,11 +329,6 @@ Prototyping also has some drawbacks. These include, but are not limited to:
 
 [Interested?]( http://en.wikipedia.org/wiki/Software_prototyping#Disadvantages_of_prototyping)
 
-## Feature Creep and Scope Creep
-Any time clients/users ask developers to increase the amount of work a system will do, or to include features that were not specified in the original system requirements, _ creep_ is at work. Project managers and developers must be continuously on the lookout for such creeps, as they are everywhere. Each tiny little addition, without a commensurate increase of time allotted, resources allocated or quality expected, leads the project one tiny step closer to failure. 
-
-In the broadest sense, an example of scope creep might be if users were to ask the developers of Microsoft Excel (a spreadsheet) to also provide the capability to produce manuscripts (a word processing function). The scope of work is therefore much broader than what a spreadsheet is normally expected to do. Feature creep, on the other hand, could be illustrated by users asking Microsoft to include a feature in Excel whereby every time a user entered a valid email address in a cell, that email address is added to the user’s contact list. Nice feature. Not in the original specs. Nothing to do with a spreadsheet’s core functionality. 
-
 Table RM provides a comparison between SDLC and prototyping on some important dimensions. 
 
 Table RM. An evaluation of the SDLC and Prototyping 
@@ -350,6 +345,11 @@ Table RM. An evaluation of the SDLC and Prototyping
 | When user buy-in and support is critical | Poor | Excellent |
 | When audit trails and multi-level signoff are critical | Excellent | Poor |
 | Where scope creep or feature creep need to be carefully managed | Excellent | Poor |
+
+## Feature Creep and Scope Creep
+Any time clients/users ask developers to increase the amount of work a system will do, or to include features that were not specified in the original system requirements, _ creep_ is at work. Project managers and developers must be continuously on the lookout for such creeps, as they are everywhere. Each tiny little addition, without a commensurate increase of time allotted, resources allocated or quality expected, leads the project one tiny step closer to failure. 
+
+In the broadest sense, an example of scope creep might be if users were to ask the developers of Microsoft Excel (a spreadsheet) to also provide the capability to produce manuscripts (a word processing function). The scope of work is therefore much broader than what a spreadsheet is normally expected to do. Feature creep, on the other hand, could be illustrated by users asking Microsoft to include a feature in Excel whereby every time a user entered a valid email address in a cell, that email address is added to the user’s contact list. Nice feature. Not in the original specs. Nothing to do with a spreadsheet’s core functionality. 
 
 ## Agile
 The SDLC and, to a certain extent prototyping, represent the so-called _heavyweight_, waterfall-oriented methods, which critics have called ponderous (cumbersome), sclerotic (rigid) and over-managed (too many rules to follow). Such shortfalls led to the development of lightweight agile software development methods in the mid-1990s. 
