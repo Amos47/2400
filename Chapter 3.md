@@ -269,7 +269,7 @@ It appears that there is a negative relationship between risk and cost. And that
 
 Table ZZZ. Comparison of conversion methods
 
-| Conversion Method | Description | Good | Not good | Risk / Cost | 
+| Conversion Method | Description | Good | Not good | Risk/Cost | 
 | :- | :- | :- | :- | :-: | 
 |Parallel | Both systems run at the same time for a period of time. | When the existing system performs a critical function in the organisation and you can’t do without the output it provides and/or when there is an intolerable level of risk that the new system might fail. | When time is of the essence and the new system provides something that the current one cannot. Also when there just aren’t enough resources available to do both jobs at the same time (i.e., if there aren’t enough staff to prepare a critical input file in two ways). | ![Parallel](./Images/parallel.png) |  
 |Pilot| The system is incrementally implemented in subsets of the organisation. | When the organisation does not critically need the output provided by the new system and more importantly if the system is large enough to allow it to be phased in. If the organisation is large enough to warrant an enterprise-wide system, and the system will be implemented in many functional areas, then a phased conversion could be carried out in one functional area at a time (for example, first in Accounting and then in Finance and then in Sales, etc.). Another scenario could see some members of one functional area using the new system while others use the old one. Finally, if the organisation is large enough to have multiple locations doing roughly similar work (a series of auto manufacturing plants, for example) then the conversion could be phased in one plant at a time, or one country at a time, etc. This type of conversion lets the organisation gauge the success of the conversion with less exposure to risk than would be the case under Plunge conversion, for example (see below).  | When either the reach of the system or the size of the organisation do not allow for enough scenarios. In addition, if all areas or personnel or installations of the company  work in tight unison it might be difficult to find the opportunity to differentiate the work process.| ![Pilot](./Images/pilot.png) |  
@@ -337,7 +337,7 @@ Table RM provides a comparison between SDLC and prototyping on some important di
 
 Table RM. An evaluation of the SDLC and Prototyping 
 
-| Condition | SDLC is| Prototyping is|
+| Condition | SDLC is | Prototyping is |
 | :- | :-: | :-: |
 | When user requirements are poorly specified | Poor |  Excellent |
 | When developers are using unfamiliar technology | Poor | Better |
