@@ -4,7 +4,7 @@ What's coming?
 
 ## What's in store in the world of ICT
 
-<iframe src="http://carleton.ca" height=350 width=350 scrolling=no seamless ></iframe>
+<iframe src="http://carleton.ca" height=350 width=350 scrolling=no seamless></iframe>
 
 We begin by looking at Gartner Group's Emerging Technology Hype Cycle.
 
