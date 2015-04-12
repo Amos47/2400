@@ -14,9 +14,9 @@ There are five _phases_ to the cycle. Here's how each is explained by [Gartner](
 
 "Each Hype Cycle drills down into the five key phases of a technology's life cycle.
 
-"Technology Trigger: A potential technology breakthrough kicks things off. Early proof-of-concept stories and media interest trigger significant publicity. Often no usable products exist and commercial viability is unproven.
+"[Innovation] Trigger: A potential technology breakthrough kicks things off. Early proof-of-concept stories and media interest trigger significant publicity. Often no usable products exist and commercial viability is unproven. [Think of Twitter in the early days. It was cool for sure, but how to make money from it?]
 
-"Peak of Inflated Expectations: Early publicity produces a number of success stories — often accompanied by scores of failures. Some companies take action; many do not.
+"Peak of Inflated Expectations: Early publicity produces a number of success stories — often accompanied by scores of failures. Some companies take action; many do not. [Think of MP3 players.]
 
 "Trough of Disillusionment: Interest wanes as experiments and implementations fail to deliver. Producers of the technology shake out or fail. Investments continue only if the surviving providers improve their products to the satisfaction of early adopters. 
 
