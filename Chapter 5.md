@@ -4,7 +4,7 @@ What's coming?
 
 ## What's in store in the world of ICT
 
-<iframe src="http://riordan.ca/images/hype_cycle_2014.png" height=650 width=1050 seamless> </iframe>
+<iframe src="http://riordan.ca/images/hype_cycle_2014.png" height=650 width=1050 scrolling=no frameborder=0 seamless></iframe>
 
 We begin by looking at Gartner Group's Emerging Technology Hype Cycle.
 
