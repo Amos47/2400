@@ -8,7 +8,7 @@ We begin by looking at Gartner Group's Emerging Technology Hype Cycle.
 
 ![Gartner Group Emerging Tech Hype Cycle](./Images/hype_cycle_2014.png)
 
-Let's unpack the graphic. First of all, the Gartner Group is a large IT concultancy with offices worldwide and a great reputation in the IT consultancy field. Each year, they produce a bit of research on emerging (ap-and-coming) technology, and in a novel way, fit it to a curve of their design. The curve is both a visual and semantic indicator of the _life_ of a piece of technology from Innovation Trigger (red section on the left of the chart) to Plateau of Productivity (the green section on the far right). [Here](http://www.smartinsights.com/managing-digital-marketing/marketing-innovation/technology-for-innovation-in-marketing/) are some historical ones for reference. 
+Let's unpack the graphic. First of all, the Gartner Group is a large IT consultancy with offices worldwide and a great reputation in the IT consultancy field. Each year, they release research on emerging (up-and-coming) technology, and in a novel way, fit it to a curve of their design. The curve is both a visual and semantic indicator of the _life_ of a piece of technology from Innovation Trigger (red section on the left of the chart) to Plateau of Productivity (the green section on the far right). [Here](http://www.smartinsights.com/managing-digital-marketing/marketing-innovation/technology-for-innovation-in-marketing/) are some historical ones for reference. 
 
 There are five _phases_ to the cycle. Here's how each is explained by [Gartner](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp):
 
