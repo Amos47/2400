@@ -10,6 +10,7 @@ To begin, let's establish an excellent resource for looking up the gobbeldygook 
 
 We begin by looking at Gartner Group's Emerging Technology Hype Cycle. The 2014 version was the most recent available at time of writing.
 
+Figure EC. Gartner's Emerging Technology Hype Cycle
 ![Gartner Group Emerging Tech Hype Cycle](./Images/hype_cycle_2014.png)
 
 Let's unpack the graphic. First of all, the Gartner Group is a large IT consultancy with offices worldwide and a great reputation in the IT consultancy field. Each year, they release research on emerging (up-and-coming) technology, and in a novel way, fit it to a curve of their own design. The curve is both a visual and semantic indicator of the _life_ of a piece of technology from Innovation Trigger (red section on the left of the chart) to Plateau of Productivity (the green section on the far right). [Here](http://www.smartinsights.com/managing-digital-marketing/marketing-innovation/technology-for-innovation-in-marketing/) are some historical ones for reference. 
@@ -29,6 +30,9 @@ There are five _phases_ to the cycle. Here's how each is explained by [Gartner](
 "Plateau of Productivity: Mainstream adoption starts to take off. Criteria for assessing provider viability are more clearly defined. The technology's broad market applicability and relevance are clearly paying off."
 
 [[Interested?](http://www.gartner.com/newsroom/id/2819918)]
+
+Let's now take a look at some of the technology plotted on the curve, beginning with tech that Gartner thinks is at least 10 years out. Ten years from now, you will be early in your career and probably looking to move up the ladder. What kind of technology can you expect to be maturing (that is, on the Plateau of Productivity end of the curve), if it survives the trecherous middle of the curve mortality that fells so much tech. Human Augmentation might be entering the profitable stage. The Bionic Human might be a reality. Super-human atheletes and soldiers and polce and fire fighters will beome a routine part of life. And biocvontrolled prosthetics will become commonplace. Amputees will be able to function at a level that approaches the performance of the wholly able-bodied.   
+
 
 And now the Emerging Technology Roadmap. 
 
