@@ -18,7 +18,7 @@ There are five _phases_ to the cycle. Here's how each is explained by [Gartner](
 
 "Each Hype Cycle drills down into the five key phases of a technology's life cycle.
 
-"[Innovation] Trigger: A potential technology breakthrough kicks things off. Early proof-of-concept stories and media interest trigger significant publicity. Often no usable products exist and commercial viability is unproven. [Think of Twitter in the early days. It was cool for sure, but how to make money from it?]
+"Technology [or Innovation] Trigger: A potential technology breakthrough kicks things off. Early proof-of-concept stories and media interest trigger significant publicity. Often no usable products exist and commercial viability is unproven. [Think of Twitter in the early days. It was cool for sure, but how to make money from it?]
 
 "Peak of Inflated Expectations: Early publicity produces a number of success stories — often accompanied by scores of failures. Some companies take action; many do not. [This is the stage at which so-called _wearables_ (such as the Apple iWatch) are currently located. They are all cool and people are tripping over themselves to get them, but is there a real future or is it all hype? To frame it in the context of our book here, will they either reduce input requirements or increase outputs?]
 
