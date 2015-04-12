@@ -4,6 +4,8 @@ What's coming?
 
 ## What's in store in the world of ICT
 
+<iframe src="http://www.w3schools.com"></iframe>
+
 We begin by looking at Gartner Group's Emerging Technology Hype Cycle.
 
 ![Gartner Group Emerging Tech Hype Cycle](./Images/hype_cycle_2014.png)
