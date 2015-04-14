@@ -512,6 +512,9 @@ To sum up, Scrum is a straightforward, lightweight method for building software 
 Here’s a great summary of everything we’ve presented here, and more. It’s not along read, and it’s recommended to get the broadest overview of the various development methods along with recommendations on when to sue teach. Highly recommended.
 [Interested?]( http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/SelectingDevelopmentApproach.pdf)
 
+##Which to choose?
+When it comes down to a choice between development methods between the traditional waterfall method and the more contemporary (but not by much) agile methods, the choice is often made for you by the nature of the problem or opportunity the system will address and by how well you can scope out the requirements in advance. Specifically, there are two broad categories or types of requirements: the _shall_ and the _should_. This folds nicely into the 
+
 Supplementary resources:
 Complementary software development methods to systems development life cycle are:
 •	Software prototyping
