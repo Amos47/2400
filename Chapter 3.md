@@ -515,6 +515,8 @@ Here’s a great summary of everything we’ve presented here, and more. It’s 
 ##Which to choose?
 When it comes down to a choice between development methods between the traditional waterfall method and the more contemporary (but not by much) agile methods, the choice is often made for you by the nature of the problem or opportunity the system will address and by how well you can scope out the requirements in advance. Specifically, there are two broad categories or types of requirements: the _shall_ and the _should_. This folds nicely into our discussion of _creep_. 
 
+_Shall_ requirments are _prescriptive_, as it _must be done_. When your physician wortes a _prescription_ for you, it's not to suggest that you might want to think about doing this or that. It's an order. Take this medication this number of times a day and with this food. Avoid this substance n(alchohol or eggs, for example) )xax s, s,seger ohon(an(while on this medication. Do not double up if you miss a dose. And ) on and on. These are strict rules to follow. 
+
 Supplementary resources:
 Complementary software development methods to systems development life cycle are:
 •	Software prototyping
