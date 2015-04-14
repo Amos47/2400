@@ -31,7 +31,7 @@ There are five _phases_ to the cycle. Here's how each is explained by [Gartner](
 
 [[Interested?](http://www.gartner.com/newsroom/id/2819918)]
 
-Let's now take a look at some of the technology plotted on the curve, beginning with tech that Gartner thinks is at least 10 years out. Ten years from now, you will be early in your career and probably looking to move up the ladder. What kind of technology can you expect to be maturing (that is, on the Plateau of Productivity end of the curve), if it survives the trecherous middle of the curve mortality that fells so much tech. Human Augmentation might be entering the profitable stage. The Bionic Human might be a reality. Super-human atheletes and soldiers and polce and fire fighters will beome a routine part of life. And biocvontrolled prosthetics will become commonplace. Amputees will be able to function at a level that approaches the performance of the wholly able-bodied. 
+Let's now take a look at some of the technology plotted on the curve, beginning with tech that Gartner thinks is at least 10 years out. Ten years from now, you will be early in your career and probably looking to move up the ladder. What kind of technology can you expect to be maturing (that is, on the Plateau of Productivity end of the curve), if it survives the trecherous middle of the curve mortality that fells so much tech. Human Augmentation might be entering the profitable stage. The Bionic Human might be a reality. Super-human atheletes and soldiers and police and fire fighters will become a routine part of life. And bio-controlled prosthetics will become commonplace. Amputees will be able to function at a level approaching the performance of the wholly able-bodied. 
 
 
 And now the Emerging Technology Roadmap. 
