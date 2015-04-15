@@ -16,11 +16,61 @@ Order:
 3. Technology
 
 Themes that will run through this text and course:
-- Are we talking data, information, knowledge or wisdom?
-- Is this tangible or intangible?
+- Are we talking data, information or knowledge?
+- Is what we are examining a tangible or an intangible?
 - Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is No. That's the medium and the long answer as well. 
-- If the purpose of business is to solve problems at an increasing rate (which creates real prosperity), then does the product/service/technology under consideration solve a "real" problem? And a real problem is one that either shrinks input or grows output. Think about this one. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). Here's a quote: "... the crucial contribution business makes to society is transforming ideas into products and services that solve problems."
-- We can think of this problem-solving capacity in terms of the traditional notion of the Value Proposition. A popular website that helps ecommerce firms maximise the werldwide web has this to say about the Value Proposition: "In a nutshell, value proposition is a clear statement that explains how your product solves customers’ problems or improves their situation (relevancy), delivers specific benefits (quantified value) [and] tells the ideal customer why they should buy from you and not from the competition (unique differentiation)." Ergo we ask what is the value proposition for this tech, app, service, etc.? If there is no VP, why bother?
+
+A McKinsey piece on capitalism proposes that the purpose of business is to solve problems. Here's the quote: "... the crucial contribution business makes to society is transforming ideas into products and services that solve problems." They go on to specify that if problems are solved at an increasing rate, prosperity results. If this is true (and it makes good sense to me on the surface) then our task as we study technology becomes to determine if the product or service or technology under consideration (which is the tangible manifestation of a new idea) solves a _real_ problem. 
+
+
+But it also seems to me that something is missing from the McKinsey solution. And that something is _profit_. Under capitalism, for an enterprise to remain viable, it must either be supported externally or must generate a competitive return on investment. Nothing is free. Everything (and I mean everything) has a cost. So cancer research (a problem) can be supported by governments through their revenues, derived mainly from taxation. So you and I pay for that research. Some cancer research is also undertaken by private enterprise (pharmaceutical firms for example), but private enterprise won’t (or can’t for long) go down a road without the reasonable expectation of recouping a premium over what they have invested in their work. This is ROI. This is the basis of free enterprise and of capitalism itself. 
+
+It’s clear that problems don’t get solved for free. If business solves a problem, it must make a profit in so doing. But there’s also the age-old challenge of widening the gap between costs and revenues. It’s not enough to make a profit. The profit must _increase_ year over year. Grow the margins. Be more effective and/or more efficient. Expand the market, open new frontiers. Grow revenues and shrink costs, that’s what drives the system. Keep this in mind.
+
+What is also interesting from the McKinsey piece is their insistence that problems must be solved at an increasing rate. So this year must be better than last year and the year before that. Everything escalates under capitalism. Goods cost more, wages rise to meet the cost of goods and we live in this inflationary spiral which ebbs and flows but other than in rare periods of deflation (which are quickly corrected by monetary policy) is always with us. Problems must be solved at an increasing pace and profit must increase year over year. It’s enough to drive one mad. 
+
+Thus the pace of everything is accelerating. This puts increasing pressure on the processes that business uses to solve problems.  What then is a process?
+
+###Process
+Figure SG. A simple process
+![Process](./Images/process.png)
+
+A simple process, or a complex process, any process, has only three pieces. First, input is required. Once input is present, a process then transforms that input into output. That's it. Input --> Process --> Output. All three are necessary. No process without input, no input without process, no input and process without something coming out the other side. Make sure to understand that a process also requires a trigger: something to set it in motion. Processes don't just start of their own volition (if they had any) or momentum. Something must spur them into action. 
+
+Our simple graphic above depicts the process of making dairy products (something my family did 100 years ago when their telephone number in Oshawa, Ontario was _7_. Yup, that’s it. Seven. 
+
+![Riordan](./Images/riordans_dairy_cap.jpg)
+
+To make dairy products, plenty of inputs are required, including wheat to feed the cows, milk from those cows, scientific know-how, elbow grease and muscle, expertise, time, land and, of all things, data). And lots more such as a farm and a dairy with machinery to bring it all together and a supply chain to move stuff in and out. The message is that in order to produce dairy, plenty of input is required.
+
+These inputs are fed to the dairy process, and this process yields the output. Cheese and milk and yoghurt and ice cream. It’s pretty clear that  our little graphic represents a very high-level view of the dairy process. There are literally hundreds of other processes, linked in chains, that actually account for the production here. But each is the same; a simple process. How then, and where, is value added and profit realised? 
+
+Let’s look at our process again, this time in light of value add. 
+
+Figure Z. Value creation
+![Process](./Images/value_creation.png)
+
+Effectiveness = doing the right thing
+
+Efficiency = doing the thing right
+
+How does technology solve problems? Paradoxically, technological progress is not measured in terms of impact on the actual _process_ of doing anything. Business process is unaffected by technological change. This sounds heretical. What do you mean, _has no effect?_ In the simplest terms, technological progress is measured not in terms of process improvements, but rather by its impact on the inputs and outputs of the system -- the resultant decrease in required inputs (effectiveness – doing the right thing) or by an increase in realisable output given the same input (efficiency – doing the thing right). We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic shows this clearly.
+
+##A working definition of progress
+Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. This is an increase in _ effectiveness_. On the other end of the system, progress has been achieved if today those 100 units of input produce 101 units of output. This is an increase in _efficiency._ 
+
+Information and Communication Technology (ICT) operates in the process piece of business problem solving and its impacts are measured in two clear spheres. See the ICT Value creation graphic below.
+
+Figure JD. ICT Value creation
+![ICT Value creation](./Images/ict_value_creation.png)
+
+
+Thus technology has an impact if it moves the needle on efficiency and/or effectiveness. That’s how we measure technological impact. Either it leads to cost savings or to increased output. It widens the margin between costs and revenues. It increases profit.  
+
+What _real problems_ can technology solve? 
+
+And a real problem is one that either has input or output problems. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). 
+- We can think of this problem-solving capacity in terms of the traditional notion of the Value Proposition. A popular website that helps ecommerce firms maximise the worldwide web has this to say about the Value Proposition: "In a nutshell, value proposition is a clear statement that explains how your product solves customers’ problems or improves their situation (relevancy), delivers specific benefits (quantified value) [and] tells the ideal customer why they should buy from you and not from the competition (unique differentiation)." Ergo we ask what is the value proposition for this tech, app, service, etc.? If there is no VP, why bother?
 [Interested?](http://conversionxl.com/value-proposition-examples-how-to-create/) (PS: The link to Austin, TX in the article is broken) 
 - Does this product/service/technology lead to a sustainable competitive advantage? This is developed in the context of both PERSONAL CA (such as FB  or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE CA (easier to define but must also encompass not-for-profit and government services).
 
@@ -30,11 +80,11 @@ In the beginning, there was nothing. Or perhaps even less than that. Maybe *nega
 
 This section is lengthy (or at least lengthier that you might think is necessary from this end of the argument), but with good reason. We need to carefully consider the myriad differences between the Big Four of data, information, knowledge and wisdom. We need also to examine their intricate and intimate interrelationships in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. Let's get at it.
 
-Let's first deal with a potential controvercy. You might have heard (more likely you will hear) this heirarchy referred to as the Data, Information, Knowledge and *Wisdom* heirarchy. There are problems with this particular characterisation so instead, we describe the Data, Information and Knowledge heirarchy here. 
+Let's first deal with a potential controversy. You might have heard (more likely you will hear) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation so instead, we describe the Data, Information and Knowledge hierarchy here. 
 
 [[Interested?] ](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
 
-First, let's carefully define what each means in its own right. We can then examine the hierarchy that evolves when discussing the BIg Three in the context of decision making. Oh yes, and _context_ will be critical too. 
+First, let's carefully define what each means in its own right. We can then examine the hierarchy that evolves when discussing the Big Three in the context of decision making. Oh yes, and _context_ will be critical too. 
 
 ####Data
 
@@ -144,9 +194,9 @@ The salient parts of that definition refer to the "frame of reference" within wh
 
 Think for the moment of the process of getting ready for an adventure outside the home. Going to school maybe, or work, or just for a walk. Think about the decisions that need to be made, focusing on what to wear. If you're like me, you have a range of things to put on your back -- but what to wear today? First level of decision, likely made with no conscious thought whatsoever, is to consider the season. Thus the largest "context" in which the decision of what to wear outside is provided by considering the season. 
 
-Next in line is likely the general state of the weather, within the broader context of season. If it's winter, is is sunny and cold, or is a blizzard raging? Finally, just hearing that it's cold outside is insufficient context. As we know, being good Canadians, there's Winnipeg or Ottawa cold and then there's Vancouver or Niagara cold. Not the same thing at all. *Ergo* "cold" is a qualitative and relative measure, relative to the context of where one currently finds oneself and it doesn't much help us to decide on apparel. Being cold in summer is quite different from being cold in winter.
+Next in line is likely the general state of the weather, within the broader context of season. If it's winter, is it sunny and cold, or is a blizzard raging? Finally, just hearing that it's cold outside is insufficient context. As we know, being good Canadians, there's Winnipeg or Ottawa cold and then there's Vancouver or Niagara cold. Not the same thing at all. *Ergo* "cold" is a qualitative and relative measure, relative to the context of where one currently finds oneself and it doesn't much help us to decide on apparel. Being cold in summer is quite different from being cold in winter.
 
-Let's just drive this home by considering temperature in a little more detail. In determining what to wear, we might be wise to consult a weather service. Navigate to a website or click a "Follow me" app (and isn't the function of 'follow me weather' to provide the context of where one is currently located?) on your device or switch on the TV and select the weather channel (where the context will already have been chosen for you because the weather channel "knows" to where the sigla is being sent, thus provides the proper geo-context for you). Normally the current temperature is the most salient factor, thus we might find a large **20** prominently displayed on the screen. Not to put too fine a point on it, and you've likely already caught on, but *20 degrees* indicates entirely different weather in Buffalo as opposed to just across the lake in Toronto - even on a day where the objective weather is exactly the same in both cities. That's owing to, obviously, the scale of temperature being measured in Fahrenheit in Buffalo and Celsius in Toronto. Twenty F is below freezing in Buffalo whereas 20 C is t-shirt weather in Toronto. So the context of location, regardless of what the weather actually is, is important. Context drives interpretation.
+Let's just drive this home by considering temperature in a little more detail. In determining what to wear, we might be wise to consult a weather service. Navigate to a website or click a "Follow me" app (and isn't the function of 'follow me weather' to provide the context of where one is currently located?) on your device or switch on the TV and select the weather channel (where the context will already have been chosen for you because the weather channel "knows" to where the signal is being sent, thus provides the proper geo-context for you). Normally the current temperature is the most salient factor, thus we might find a large **20** prominently displayed on the screen. Not to put too fine a point on it, and you've likely already caught on, but *20 degrees* indicates entirely different weather in Buffalo as opposed to just across the lake in Toronto - even on a day where the objective weather is exactly the same in both cities. That's owing to, obviously, the scale of temperature being measured in Fahrenheit in Buffalo and Celsius in Toronto. Twenty F is below freezing in Buffalo whereas 20 C is t-shirt weather in Toronto. So the context of location, regardless of what the weather actually is, is important. Context drives interpretation.
 
 Oxford also offers us the following (lightly edited and reduced for better understanding in this context...):
 
@@ -195,7 +245,7 @@ Each of these Oxford References relate to the others and to ICT in the sense tha
 
 An input reducer functions as an agent which, at a given level of output, reduces the unit cost of inputs such that either more input is available at the same cost, or less input is required at the same cost. 
 
-An output enhancer either increses the volume of output or the value of that output, holding volume constant. 
+An output enhancer either increases the volume of output or the value of that output, holding volume constant. 
 
 [EXAMPLES for both]
 
@@ -203,20 +253,9 @@ We need to examine IS in terms of its ability to provide the necessary rich arra
 
 So context becomes the frame of reference within which we narrow the error bands around our decisions. Context is everything, and IS provides, or can provide, rich context. We will be examining context repeatedly in this book, because context is what drives understanding, and understanding drives decision making and good decisions are something that we all, as actors in both public and private scenarios, need to make. 
 
-###Process
-First, let's define what a process is, as the two functions of ICT impact all processes.
-
-Figure 2. A simple process
-![Process](./Images/process.png)
-
-A simple process, any process, has only three pieces. First, input is required. Once input is present, a process then transforms input into output. That's it. Input --> Process --> Output. All three are necessary. No process without input, no input without process, no input and process without something coming out the other side. Make sure to understand that a process also requires a trigger: something to set it in motion. Processes don't just start of their own volition (if they had any) or momentum. Something must spur them into action. 
+So context becomes the frame of reference within which we narrow the error bands around our decisions. Context is everything, and ICT has the potential to provide very rich context indeed. We will be examining context repeatedly in this book, because context is what drives understanding, and understanding drives decision making and good decisions are something that we all, as actors in both public and private scenarios, need to make. 
 
 For now, in examining the ICT task of input reducer, we need to examine this function in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. Context is something that is, as referenced above, "dynamically constructed, negotiated, and contested." In order to make fewer errors in our decision-making endeavours (and thus to reduce the amount of input necessary to produce the same output), we need as much context (the rich backdrop of facts, figures and shared understandings) as possible. We need to know what data means (see Information Architecture below). We need to be able to put data into context to create actionable information. 
-
-Figure Z. Value creation
-![Process](./Images/value_creation.png)
-
-So context becomes the frame of reference within which we narrow the error bands around our decisions. Context is everything, and ICT has the potential to provide very rich context indeed. We will be examining context repeatedly in this book, because context is what drives understanding, and understanding drives decision making and good decisions are something that we all, as actors in both public and private scenarios, need to make. 
 
 Information systems can not only distribute that scarcest of all commodities - knowledge - but can create knowledge and understanding in socially equitable ways. It is argued that the purpose of business is to solve problems, leading to a better social situation for as many humans as possible. It is only as a by-product of problem solving that profits are generated. One could assume, however, that problems for which no profit can be made won't be solved. Unless, of course, we consider the rapidly-expanding social economy and the not-for-profit sector.
 
@@ -287,5 +326,4 @@ We will take this narrower view of technology in this book, partly because we ju
 [[Interested?](http://bit.ly/1z0JHX3)]
 
 ### Now bring it all together!
-
 
