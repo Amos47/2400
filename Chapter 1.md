@@ -16,18 +16,26 @@ Order:
 3. Technology
 
 Themes that will run through this text and course:
-- Are we talking data, information or knowledge?
-- Is what we are examining a tangible or an intangible?
-- Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is No. That's the medium and the long answer as well. 
+Theme 1) Are we talking data, information or knowledge?
+Theme 2) Is what we are examining a tangible or an intangible?
+It started slowly, then picked up steam in the 1960s. What was it? It was the switch the production of tangible goods to intangible services in the post-industrial era.  Indeed the proportion of Canadians employed in the secondary sector (primary roughly being agriculture, mining, forestry, etc. and tertiary being the services sector) has declined steadily over time 
+
+The Canadian economy is dominated by the services industry, which makes up 72% of GDP and employs 78% of Canada's workforce. The services sector includes accommodation, business, cultural, education, financial, food, health care, information, professional, retail, transportation, wholesale and a range of other services. The sub-sectors that contribute the most to GDP include finance, insurance and real estate services (29% of total services), health care and social assistance (9.3%), retail trade (8.6%), public administration (8.2%) and wholesale trade (8%). Manufacturing also makes up a sizable portion of the Canadian economy, representing 13% of GDP and employing just over 10% of the workforce [this dropped to 9.6 in 2014; http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/labor10b-eng.htm]. This sector includes the production of food and clothes, as well as everything from machinery and electronic and transport equipment to paper, plastic and petroleum products. Canada also has a robust natural resources sector, which includes mining, forestry, agriculture, fisheries, oil and gas. This sector makes up roughly 7% of GDP and employs close to 4% of Canadians.
+
+http://www.horizons.gc.ca/eng/content/significant-shifts-key-economic-sectors 
+
+![Employment by sector](./Images/employment_by_sector_31_75.PNG)
+
+Theme 3) Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
 A McKinsey piece on capitalism proposes that the purpose of business is to solve problems. Here's the quote: "... the crucial contribution business makes to society is transforming ideas into products and services that solve problems." They go on to specify that if problems are solved at an increasing rate, prosperity results. If this is true (and it makes good sense to me on the surface) then our task as we study technology becomes to determine if the product or service or technology under consideration (which is the tangible manifestation of a new idea) solves a _real_ problem. 
 
 
-But it also seems to me that something is missing from the McKinsey solution. And that something is _profit_. Under capitalism, for an enterprise to remain viable, it must either be supported externally or must generate a competitive return on investment. Nothing is free. Everything (and I mean everything) has a cost. So cancer research (a problem) can be supported by governments through their revenues, derived mainly from taxation. So you and I pay for that research. Some cancer research is also undertaken by private enterprise (pharmaceutical firms for example), but private enterprise won’t (or can’t for long) go down a road without the reasonable expectation of recouping a premium over what they have invested in their work. This is ROI. This is the basis of free enterprise and of capitalism itself. 
+But it also seems to me that something is missing from the McKinsey postulation. And that something is _profit_. Under capitalism, for an enterprise to remain viable, it must either be supported externally or must generate a competitive return on investment. Nothing is free. Everything (and I mean everything) has a cost. So cancer research (cancer being the problem) can be supported by governments through their revenues, derived mainly from taxation. So you and I pay for that research. Some cancer research is also undertaken by private enterprise (pharmaceutical firms and university research labs as funded research, for example), but private enterprise won’t (or can’t for long) go down a road without the reasonable expectation of recouping a premium over what they have invested in their work. This is ROI. This is the basis of free enterprise and of capitalism itself. 
 
 It’s clear that problems don’t get solved for free. If business solves a problem, it must make a profit in so doing. But there’s also the age-old challenge of widening the gap between costs and revenues. It’s not enough to make a profit. The profit must _increase_ year over year. Grow the margins. Be more effective and/or more efficient. Expand the market, open new frontiers. Grow revenues and shrink costs, that’s what drives the system. Keep this in mind.
 
-What is also interesting from the McKinsey piece is their insistence that problems must be solved at an increasing rate. So this year must be better than last year and the year before that. Everything escalates under capitalism. Goods cost more, wages rise to meet the cost of goods and we live in this inflationary spiral which ebbs and flows but other than in rare periods of deflation (which are quickly corrected by monetary policy) is always with us. Problems must be solved at an increasing pace and profit must increase year over year. It’s enough to drive one mad. 
+What is also interesting from the McKinsey piece is their contention that problems must be solved at an increasing rate. So this year we must solve more problems (either in absolute terms or as a rate) than last year and the year before that. Everything escalates under capitalism. Goods cost more, wages rise to meet the cost of goods and we live in this inflationary spiral which ebbs and flows but other than in rare periods of deflation (which are quickly corrected by monetary policy) is always with us. Problems must be solved at an increasing pace and profit must increase year over year. It’s enough to drive one mad. 
 
 Thus the pace of everything is accelerating. This puts increasing pressure on the processes that business uses to solve problems.  What then is a process?
 
@@ -56,8 +64,8 @@ Efficiency = doing the thing right
 
 How does technology solve problems? Paradoxically, technological progress is not measured in terms of impact on the actual _process_ of doing anything. Business process is unaffected by technological change. This sounds heretical. What do you mean, _has no effect?_ In the simplest terms, technological progress is measured not in terms of process improvements, but rather by its impact on the inputs and outputs of the system -- the resultant decrease in required inputs (effectiveness – doing the right thing) or by an increase in realisable output given the same input (efficiency – doing the thing right). We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic shows this clearly.
 
-##A working definition of progress
-Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. This is an increase in _ effectiveness_. On the other end of the system, progress has been achieved if today those 100 units of input produce 101 units of output. This is an increase in _efficiency._ 
+###A working definition of progress
+Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. This is an increase in _ effectiveness_. We are making more _effective_ use of our input resources. On the other end of the system, progress has been achieved if today those 100 units of input produce 101 units of output. This is an increase in _efficiency._  We are doing more with what we have. 
 
 Information and Communication Technology (ICT) operates in the process piece of business problem solving and its impacts are measured in two clear spheres. See the ICT Value creation graphic below.
 
@@ -69,10 +77,11 @@ Thus technology has an impact if it moves the needle on efficiency and/or effect
 
 What _real problems_ can technology solve? 
 
-And a real problem is one that either has input or output problems. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). 
-- We can think of this problem-solving capacity in terms of the traditional notion of the Value Proposition. A popular website that helps ecommerce firms maximise the worldwide web has this to say about the Value Proposition: "In a nutshell, value proposition is a clear statement that explains how your product solves customers’ problems or improves their situation (relevancy), delivers specific benefits (quantified value) [and] tells the ideal customer why they should buy from you and not from the competition (unique differentiation)." Ergo we ask what is the value proposition for this tech, app, service, etc.? If there is no VP, why bother?
+And a real problem is one that either has input or output challenges – and we know by now that those are the _only_ challenges. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). 
+
+Theme 4) We can think of this problem-solving capacity in terms of the traditional notion of the Value Proposition. A popular website that helps ecommerce firms maximise the worldwide web has this to say about the Value Proposition: "In a nutshell, value proposition is a clear statement that explains how your product solves customers’ problems or improves their situation (relevancy), delivers specific benefits (quantified value) [and] tells the ideal customer why they should buy from you and not from the competition (unique differentiation)." Ergo we ask what is the value proposition for this tech, app, service, etc.? If there is no VP, why bother?
 [Interested?](http://conversionxl.com/value-proposition-examples-how-to-create/) (PS: The link to Austin, TX in the article is broken) 
-- Does this product/service/technology lead to a sustainable competitive advantage? This is developed in the context of both PERSONAL CA (such as FB  or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE CA (easier to define but must also encompass not-for-profit and government services).
+Theme 5) Does this product/service/technology lead to a sustainable competitive advantage? This is developed in the context of both PERSONAL CA (such as FB  or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE CA (easier to define but must also encompass not-for-profit and government services).
 
 ###Data, information and knowledge
 
