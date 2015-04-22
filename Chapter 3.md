@@ -256,7 +256,9 @@ Let’s take a quick look at what happens during each of these eight phases of t
 | Retirement | Finally, as with everything, the end eventually arrives. When a system cannot be further patched or tweaked and has stopped creating value (for whatever reason), it’s time to retire it and move on. Note the line in Chart XX points directly back to Inception and Feasibility. Time to start again. At this point, several critical tasks must be undertaken, including securing the input and output data, both current and historical, involved with the system. Retiring a system shouldn’t retire the data associated with it. |![Headstone](./Images/tombstone.png)|
 
 And here’s Wally’s take on implementation:
-![Wally](./Images/wally_implementation/PNG)
+
+![Wally](./Images/wally_implementation.PNG)
+
 http://dilbert.com/strip/2015-04-22
 ### System Conversion - putting the new system to work
 This process involves the replacement of an existing system with a new one. Think of the new system in the broadest possible terms, as a new system might also involve changes to infrastructure, processes, networks and even personnel. Such deeply technical details would not likely be specified by business analysts but rather must be discovered and specified by systems analysts in the requirements analysis phase of the SDLC. Regardless of when or whom, all requirements must come together and be satisfied in the implementation and integration phase. 
