@@ -268,6 +268,7 @@ Generally, the conversion phase applies only to the situation where an existing 
 Let’s take a look at the four most common methods. Figure RM below shows the methods graphically.
 
 ![Figure RM. Conversion methods](./Images/conversion.png)
+
 Let’s examine each in light detail. The metrics in the rightmost column represent subjective assessments of the Risk associated with the conversion method (the column with the little traffic cone at the bottom) and the cost of the method (with the little $ in the bottom of the column). Recall from our discussion of quality metrics in the sourcing section of this chapter, the height of the colour in the column represents the absolute top of the range for risk or cost, while the density of the colour (always more dense near the bottom) represents the likeliest value of the measure. To calibrate, note that the least risky method is parallel , but it’s also the costliest. The polar opposite is true for the plunge method. 
 
 It appears that there is a negative relationship between risk and cost. And that’s true in general. As nothing is free (even free stuff), a reduction in risk to the organisation will cost money. You just can’t escape. Willingness to accept more risk will be less costly… if things go well. 
