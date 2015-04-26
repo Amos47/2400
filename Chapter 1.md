@@ -109,9 +109,9 @@ Indeed that is exactly what you are doing as you train and study – creating in
 
 To bring it home, it’s increasingly a service-based economy. Services are weightless. And the contribution of services to GDP vis-à-vis manufacturing is growing at an increasing pace. 
 
-Evidence Figure MD:
 Figure MD. Contribution to GDP from Services and Manufacturing from 1961 to 2006, Canada
 ![NAICS](./Images/naics_GDP_data.PNG)
+
 
 Theme 3) Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
