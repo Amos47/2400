@@ -44,7 +44,9 @@ Careful reading of this passage reveals that we are firmly and irrevocably in wh
 
 Though the paper is a little dated (published in 2000), it remains quite viable today. A clever metric is reproduced below wherein the physical weight of certain commodities is expressed in terms of their cost in USD. It’s surprising.
 
-| :-: | -: | :- | :-|
+| :-: | -: | :- | :- |
+
+
 Artifact Price (USD)	Weight (pounds)	Unit price (USD/lb.)
 Pentium III	                     851	           0.001984	        42893.00
 Viagra	                         8	           0.000680	        11766.00
