@@ -44,16 +44,9 @@ Careful reading of this passage reveals that we are firmly and irrevocably in wh
 
 Though the paper is a little dated (published in 2000), it remains quite viable today. A clever metric is reproduced below wherein the physical weight of certain commodities is expressed in terms of their cost in USD. It’s surprising.
 
+Figure LAJ. Comparison of price per pound for manufactured goods in different classes
 
-Artifact | Price (USD) | Weight (pounds) | Unit price (USD/lb.) |
-| :-: | -: | :- | :- |
-
-
-Pentium III	                     851	           0.001984	        42893.00
-Viagra	                         8	           0.000680	        11766.00
-Gold	                     301	           0.625000	        48277.00
-Mercedes Benz E-class	                78445	    4134.000000	               19.00
-Hot rolled steel	                     370	    2000.000000	                 0.20
+![Price per pound](./Images/price_per_pound.PNG)
 
 (Goldfinger quotes the source of this data as _Colvin, Fortune Magazine_, but does not provide the full citation in his paper. We’ll have to take it at face value.)
 
@@ -64,6 +57,7 @@ What’s the point of this? It is to demonstrate the shift to what LSE professor
 We live in an increasingly digitised world. Consider a simple example: a hockey game.  Time was the only one way to enjoy the event was in person. Consider the myriad of ways that event can be enjoyed today, both synchronously (in real time) and asynchronously (not in real time).  See Figure TT below.
 
 Figure TT. Disassociation of content, time and support. 
+
 ![Disassociation](./Images/disassociation.png)
 
 Let’s unpack this busy graph. The event is a hockey game. In the early days of such games, they were played on local frozen ponds and then on makeshift rinks, and only when the temperature was below freezing. The teams were made up mostly of locals, and the fans, if there were such hardy souls, were locals rooting for their local boys. In order to experience the game, it was necessary to attend in person. There wasn’t even any press to report on the match. The only artefacts produced by the games were those in the memories of those in attendance, and any anecdotal scribblings of a local historian or scribe. Those were the days indeed.
