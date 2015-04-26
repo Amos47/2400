@@ -46,7 +46,6 @@ Though the paper is a little dated (published in 2000), it remains quite viable 
 
 | :-: | -: | :- | :- |
 
-
 Artifact Price (USD)	Weight (pounds)	Unit price (USD/lb.)
 Pentium III	                     851	           0.001984	        42893.00
 Viagra	                         8	           0.000680	        11766.00
