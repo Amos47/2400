@@ -128,7 +128,7 @@ Figure MD. Contribution to GDP from selected industries (% change reltive to 199
 
 ![GDP](./Images/gdp_1997_2015.PNG)
 
-Figure MD tells an interesting story. Not only are services contributing to GDP at a higher level than is manufacturing, but serives appear to be more robust and almost recession-proof. The 2008-2009 economic downturn (the _Great Recession_ as some are calling it) saw the economy as a whole (blue line) take a precipitous drop, with manufacturing and extraction taking big dives, but the Services industry as a whole was barely affected. Real estate and Finance took a hit (yellow line), but services overall were almost unchanged. 
+Figure MD tells an interesting story. Not only are services contributing to GDP at a higher level than is manufacturing, but serives appear to be more robust and almost recession-proof. The 2008-2009 economic downturn (the _Great Recession_ as some are calling it) saw the economy as a whole (blue line) take a precipitous drop, with manufacturing and extraction taking big dives, but the Services industry as a whole was barely affected. Real estate and Finance took a hit (yellow line), but services overall were almost unchanged. It appears that the service industry is a good place to be.
 
 Theme 3) Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
