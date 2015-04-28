@@ -338,8 +338,21 @@ Furthermore, what does meaning mean? Oxford to the rescue.
 
 [[Interested?](http://bit.ly/1svpjLY)]
 
+Figure LJLJ. A simplified context
+![](./Images/simple_context.png)
+
 Figure 1: The flow of data into contextual information to decision and knowledge
 ![](./Images/context.png)
+
+Figure LLJJ. Context with ICT contribution
+![](./Images/ict_context.png)
+
+Figure JJLL. Exformation as context
+![](./Images/exformation.png)
+
+Figure JL. Meausurement
+![](./Images/measurement.png)
+
 In Figure 1 we see illustrated how the process of measurment (m), whether conscious or not, provides a value for a new piece of data (d), which in combinztion with existing data, flows into a new context (c) where existing and new information (i) is produced and combined with information contained in existing contexts to produce a new context. This new 'mashup' provides the necessary ingredients for a new decision. The decision, in turn, creates new information, which leads to some action (A) whick in turn feeds knowledge from observing the outcome of the action. This new knowledge (K), in combination with other previous knowledge creations, in its accumulated glory, washes back over any new or even existing context. The creation of knowledge is thus a dynamic, fluid and constant activity for living organisms and inanimate entities such as organisations. 
 
 ###The two contributions of ICT
