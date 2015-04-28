@@ -341,19 +341,27 @@ Furthermore, what does meaning mean? Oxford to the rescue.
 Figure LJLJ. A simplified context
 ![](./Images/simple_context.png)
 
+The simple interpretation here...
+
 Figure 1: The flow of data into contextual information to decision and knowledge
 ![](./Images/context.png)
+
+In Figure 1 we see illustrated how the process of measurment (m), whether conscious or not, provides a value for a new piece of data (d), which in combinztion with existing data, flows into a new context (c) where existing and new information (i) is produced and combined with information contained in existing contexts to produce a new context. This new 'mashup' provides the necessary ingredients for a new decision. The decision, in turn, creates new information, which leads to some action (A) whick in turn feeds knowledge from observing the outcome of the action. This new knowledge (K), in combination with other previous knowledge creations, in its accumulated glory, washes back over any new or even existing context. The creation of knowledge is thus a dynamic, fluid and constant activity for living organisms and inanimate entities such as organisations. 
 
 Figure LLJJ. Context with ICT contribution
 ![](./Images/ict_context.png)
 
+What ICT does for you here...
+
 Figure JJLL. Exformation as context
 ![](./Images/exformation.png)
+
+Sir John A. and exformation here...
 
 Figure JL. Meausurement
 ![](./Images/measurement.png)
 
-In Figure 1 we see illustrated how the process of measurment (m), whether conscious or not, provides a value for a new piece of data (d), which in combinztion with existing data, flows into a new context (c) where existing and new information (i) is produced and combined with information contained in existing contexts to produce a new context. This new 'mashup' provides the necessary ingredients for a new decision. The decision, in turn, creates new information, which leads to some action (A) whick in turn feeds knowledge from observing the outcome of the action. This new knowledge (K), in combination with other previous knowledge creations, in its accumulated glory, washes back over any new or even existing context. The creation of knowledge is thus a dynamic, fluid and constant activity for living organisms and inanimate entities such as organisations. 
+The big context of all the scales and measures and everything wrapped up here... start at oval 1 at botom to explaing horizontal contexts.
 
 ###The two contributions of ICT
 
