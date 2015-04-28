@@ -122,9 +122,9 @@ From this you should clearly see that a big part of your ability to both create 
 
 Indeed that is exactly what you are doing as you train and study – creating intangible and, though we do try, almost immeasurable capacities for thought and synthesis and creation. The value you create in your career will not, in all likelihood, be measured on a weight scale (as in a bucket of made widgets), but rather on an ethereal scale that measures ideas, theories, mashups and disruptions. You will indeed be working in the weightless economy. Best to be prepared. 
 
-To bring it home, it’s increasingly a service-based economy. Services are weightless. And the contribution of services to GDP vis-à-vis manufacturing is growing at an increasing pace. 
+To bring it home, it’s increasingly a service-based economy. Services are weightless. And the contribution of services to GDP is consistently outpacing that of manufacturing (see Figure MD). 
 
-Figure MD. Contribution to GDP from selected industries (% change reltive to 1997), from 1998 to 2015, Canada
+**Figure MD. Contribution to GDP from selected industries (% change reltive to 1997), from 1998 to 2015, Canada**
 
 ![GDP](./Images/gdp_1997_2015.PNG)
 
