@@ -383,7 +383,7 @@ Information architecture has somewhat different meanings in different branches o
 
 Idea: To reduce error around decisions - messages (data) need to be specific even though entropy = information richness - so the questions have to be specific and this is Information Architecture - specifying what questions you will need to answer and then architecting your data collection to fit. This is not to say that exploratory research isn't valuable but just that if there are specific questions you need answered you'd better carefully design your data-gathering tools in order to answer those questions. 
 
-[Nov 24 rr]
+Use example of a Survey Monkey instrument and maybe get ppl to answer it? 
 
 Data architects are responsible for organizing data and ensuring that all data standards and controls including definitions, [golden]sources, data models and data quality monitoring are fully managed. Robert Half projects a 7.2 per cent salary increase in this space. Annual salaries will be around $119,750 to $164,750.
 
