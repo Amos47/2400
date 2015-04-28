@@ -124,10 +124,11 @@ Indeed that is exactly what you are doing as you train and study – creating in
 
 To bring it home, it’s increasingly a service-based economy. Services are weightless. And the contribution of services to GDP vis-à-vis manufacturing is growing at an increasing pace. 
 
-Figure MD. Contribution to GDP from selected industries (% change from 1997), from 1998 to 2015, Canada
+Figure MD. Contribution to GDP from selected industries (% change reltive to 1997), from 1998 to 2015, Canada
 
-![NAICS](./Images/gdp_1997_2015.PNG)
+![GDP](./Images/gdp_1997_2015.PNG)
 
+Figure MD tells an interesting story. Not only are services contributing to GDP at a higher level than is manufacturing, but serives appear to be more robust and almost recession-proof. The 2008-2009 economic downturn (the _Great Recession_ as some are calling it) saw the economy as a whole (blue line) take a precipitous drop, with manufacturing and extraction taking big dives, but the Services industry as a whole was barely affected. Real estate and Finance took a hit (yellow line), but services overall were almost unchanged. 
 
 Theme 3) Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
