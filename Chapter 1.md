@@ -122,13 +122,9 @@ From this you should clearly see that a big part of your ability to both create 
 
 Indeed that is exactly what you are doing as you train and study – creating intangible and, though we do try, almost immeasurable capacities for thought and synthesis and creation. The value you create in your career will not, in all likelihood, be measured on a weight scale (as in a bucket of made widgets), but rather on an ethereal scale that measures ideas, theories, mashups and disruptions. You will indeed be working in the weightless economy. Best to be prepared. 
 
-To bring it home, it’s increasingly a service-based economy. Services are weightless. And the contribution of services to GDP is consistently outpacing that of manufacturing (see Figure MD). 
+To bring it home, we live in and are likely to remain living in an increasingly a service-based economy. Services are weightless. Weightless artefacts are intimately tied to ICT whether by services or by manufacturing. And the contribution of services to GDP is consistently outpacing all other sectors. It appears that services, and ICT-leveraging services among them, is a good place to be. Let's get trained up. 
 
-**Figure MD. Contribution to GDP from selected industries (% change reltive to 1997), from 1998 to 2015, Canada**
 
-![GDP](./Images/gdp_1997_2015.PNG)
-
-Figure MD tells an interesting story. Not only are services contributing to GDP at a higher level than is manufacturing, but serives appear to be more robust and almost recession-proof. The 2008-2009 economic downturn (the _Great Recession_ as some are calling it) saw the economy as a whole (blue line) take a precipitous drop, with manufacturing and extraction taking big dives, but the Services industry as a whole was barely affected. Real estate and Finance took a hit (yellow line), but services overall were almost unchanged. It appears that the service industry is a good place to be.
 
 Theme 3) Does this (technology/service/data/etc.) either shrink input or grow output or both? If neither, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
