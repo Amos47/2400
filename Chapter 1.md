@@ -25,6 +25,8 @@ In the beginning, there was nothing. Or perhaps even less than that. Maybe *nega
 
 And so it began. Nothing, then everything. We've been collecting and interpreting data ever since. 
 
+Put artefactual data discussion here - cvraters on the moon, etc. 
+
 This section is lengthy (or at least lengthier that you might think is necessary from this end of the argument), but with good reason. We need to carefully consider the myriad differences between the Big Four of data, information, knowledge and wisdom. We need also to examine their intricate and intimate interrelationships in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. Let's get at it.
 
 Let's first deal with a potential controversy. You might have heard (more likely you will hear) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation so instead, we describe the Data, Information and Knowledge hierarchy here. 
