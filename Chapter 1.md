@@ -26,7 +26,9 @@ In the beginning, there was nothing. Or perhaps even less than that. Maybe *nega
 
 And so it began. Nothing, then everything. We've been collecting and interpreting data ever since. 
 
-Put artefactual data discussion here - cvraters on the moon, etc. 
+Much of this prelimminary section relies on work from a dated but still quite interesting article from liquidinformation.org. Qhile quite compelling and thought-provoking, I don't agree with everything written there, but certainly was stimulated by the piece.
+
+[[Interested?](http://www.liquidinformation.org/information_history.html)]
 
 This section is lengthy (or at least lengthier that you might think is necessary from this end of the argument), but with good reason. We need to carefully consider the myriad differences between the Big Four of data, information, knowledge and wisdom. We need also to examine their intricate and intimate interrelationships in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. Let's get at it.
 
