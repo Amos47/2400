@@ -14,6 +14,7 @@ Order:
 1. Information
 2. Communication
 3. Technology
+4. Why study ICT?
 
 Themes that will run through this text and course:
 
