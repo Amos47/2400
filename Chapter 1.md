@@ -21,7 +21,9 @@ Theme 1) Are we talking data, information or knowledge?
 
 ###Data, information and knowledge
 
-In the beginning, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. In any event, at the instant of the Big Bang (with apologies to Sheldon _et al_), there was instantly something. It was the very first binary data. Nothing, then everything. Zero then one. Off became on. Dark turned to light. Up or down became possible. In became different from out. You get the picture. And so it began. Nothing, then something. We've been collecting and interpreting data ever since. 
+In the beginning, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the Big Bang (with apologies to Sheldon _et al_), there was instantly something. It was the very first binary data. Nothing, then everything. Zero then one. Off became on. Dark begat light. It became possible to differentiate up from down. In became relative to out. You get the picture. 
+
+And so it began. Nothing, then something. We've been collecting and interpreting data ever since. 
 
 This section is lengthy (or at least lengthier that you might think is necessary from this end of the argument), but with good reason. We need to carefully consider the myriad differences between the Big Four of data, information, knowledge and wisdom. We need also to examine their intricate and intimate interrelationships in order to understand what Information Systems (or the broader term that I prefer - *Information and Communication Technology*) really is and what impact it has on our private and public lives. Let's get at it.
 
