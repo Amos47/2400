@@ -82,6 +82,7 @@ The Visual Thesaurus defines information, in conjunction with the visual above a
 3.	a collection of facts from which conclusions may be drawn
 4.	the psychological result of perception and learning and reasoning
 5.	(communication theory) a numerical measure of the uncertainty of an outcome (see Entropy below)
+
 Need some unpacking here.
 
 Our dictionary source offers that information is "Data that is:  
@@ -363,10 +364,12 @@ Figure Z. Value creation
 
 ###How does technology solve problems? 
 
-Paradoxically, technological progress is not measured in terms of impact on the actual _process_ of doing anything. Business process is unaffected by technological change. This sounds heretical. What do you mean, _has no effect_? In the simplest terms, technological progress is measured not in terms of processes, but rather by the impact such progress has on the inputs and outputs of the system -- the resultant decrease in required inputs (effectiveness – doing the right thing) or by an increase in realisable output given the same input (efficiency – doing the thing right). We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic (Figure Z above) shows this clearly.
+The 
+
+Paradoxically, technological progress is not measured in terms of impact on the actual _process_ of doing anything. Business process is unaffected by technological change. This sounds heretical. What do you mean, _has no effect_? In the simplest terms, technological progress is measured not in terms of processes, but rather by the impact such progress has on the inputs and outputs of the system -- the resultant decrease in required inputs to produce the same outoput (effectiveness – doing the right thing) or by an increase in realisable output given the same input (efficiency – doing the thing right). We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic (Figure Z above) shows this clearly.
 
 ###A working definition of progress
-Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. This is an increase in _ effectiveness_. We are making more _effective_ use of our input resources. On the other end of the system, progress has been achieved if today those 100 units of input produce 101 units of output. This is an increase in _efficiency._  We are doing more with what we have. 
+Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. On the other end of the system, progress has been achieved if today those 100 units of input produce 101 units of output. Either of these might represent an increase in _ effectiveness,_ where we are making more _effective_ use of our input resources, or an increase in _efficiency_ wherein we are doing more with what we have. Thus technology effects are measured at the margins of the system, where we count inputs and outputs.  
 
 Information and Communication Technology (ICT) operates in the process piece of business problem solving and its impacts are measured in two clear spheres. See the ICT Value creation graphic below.
 
