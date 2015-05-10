@@ -107,8 +107,13 @@ Now we're getting somewhere.
 [[Interested?]](http://www.businessdictionary.com/definition/information.html) 
 
 ### Entropy
-From another relatively old (1998) but still excellent piece (http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. “In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  [Me: Thus for decision making, entropy is the enemy. Entropy is "junk on the signal." It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.] 
-From the yellow Curator article []. 
+From another relatively old (1998) but still excellent piece (http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. 
+
+“In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  
+
+Thus for decision making, entropy is the enemy. Entropy is _junk on the signal._ It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.
+
+
 But this (rather long and convoluted – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". The etymology thus connotes an imposition of structure upon some indeterminate mass. […] Most people tend to think of information as disjointed little bundles of "facts". In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both "facts" in themselves and the transmission of the facts.”
 
 ####Information according to Cybernetics 
