@@ -120,59 +120,39 @@ But this (rather long and convoluted – too much so to make it an [Interested?]
 
 The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: “Cybernetics or Control and Communication in the Animal and the Machine”. Cybernetics was thus attached to biology from the beginning.
 
-Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions.
+Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...]
 
-From Wiener (1948) p. 18:
+The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation. [...]
 
-
-The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation.
-[…]
 What is information and how is it measured? Wiener defines it as a probability:
 
-_One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B, which may with uniform a priori probability lie anywhere in this range, we shall see that if we put A = 0 and B = 1, and represent the quantity in the binary scale (0 or 1), then the number of choices made and the consequent amount of information is infinite._
-
-Wiener describes the amount of information mathematically as an integral, i.e. an area of probability measurements (p.76). Wiener says the formula means: <
-
-
-The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations. (article author’s bold)
+One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations. (article author’s bold)
 
 Wiener`s view of information is thus that it contains a structure that has a meaning.
 
 It will be seen that the processes which lose information are, as we should expect, closely analogous to the processes which gain entropy. 
 
-Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a "black box", for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc.
+Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a 'black box', for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc.
 
 ####Information according to Shannon
 
 The other scientist connected with information theory is Claude Shannon. He was a contemporary of Wiener and as an AT&T mathematician he was primarily interested in the limitations of a channel in transferring signals and the cost of information transfer via a telephone line. He developed a mathematical theory for such communication in The Mathematical Theory of Communication, (Shannon & Weaver 1959). Shannon defines information as a purely quantitative measure of communicative exchanges.
 
-Weaver (in Shannon & Weaver 1959), links Shannon`s mathematical theory to the second law of thermodynamics and states that it is the entropy of the underlying stochastic [random] process in the information source that determines the rate of information generation (p.103):
+[...]
 
-The quantity which uniquely meets the natural requirements that one sets up for "information" turns out to be exactly that which is known in thermodynamics as entropy.
+For an information theorist based on Shannon it does not matter whether we are communicating a fact, a judgement or just nonsense. Everything we transmit over a telephone line is 'information'. The message 'I feel fine' is information, but 'ff eeI efni' is an equal amount of information.
 
-Shannon defines the amount of information as the negative of the logarithm of a sum of probabilities. The minus sign in this formula means the opposite of Wiener`s minus sign. It is there because the amount of information according to Shannon is equal to entropy. 
+Shannon is said to have been unhappy with the word 'information' in his theory. He was advised to use the word 'entropy' instead, but entropy was a concept too difficult to communicate so he remained with the word. Since his theory concerns only transmission of signals, Langefors (1968) suggested that a better term for Shannon’s information theory would therefore perhaps be 'signal transmission theory'.
 
-For an information theorist based on Shannon it does not matter whether we are communicating a fact, a judgement or just nonsense. Everything we transmit over a telephone line is "information". The message "I feel fine" is information, but "ff eeI efni" is an equal amount of information.
-
-Shannon is said to have been unhappy with the word "information" in his theory. He was advised to use the word "entropy" instead, but entropy was a concept too difficult to communicate so he remained with the word. Since his theory concerns only transmission of signals, Langefors (1968) suggested that a better term for Shannon’s information theory would therefore perhaps be "signal transmission theory".
-
-But Shannon`s "information" is not even a signal (p.100):
-
-If one is confronted with a very elementary situation where he has to choose [one] of two alternative messages, then it is arbitrarily said that the information, associated with this situation, is unity. Note that it is misleading (although often convenient) to say that one or the other message conveys unit information. The concept of information applies not to the individual messages (as the concept of meaning would), but rather to the situation as a whole, the unit information indicating that in this situation one has a freedom of choice, in selecting a message, which it is convenient to regard as a standard or unit amount.
 
 ####The contradiction
 
 Weaver, explaining Shannon`s theory in the same book:
 
-Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty greater information go hand in hand. 
+_Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty greater information go hand in hand._
 
-There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a "structured piece of the world", Shannon`s information is the same as (positive) entropy. This makes Shannon's _information_ the opposite of Wiener's _information_.
+There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a 'structured piece of the world', Shannon's information is the same as (positive) entropy. This makes Shannon's _information_ the opposite of Wiener's _information_."
 
-How can something be interpreted as both positive entropy and negative entropy at the same time? The confusion is unfortunately fuelled by other authors. The systems theorist James G. Miller writes in Living Systems (p.13): It was noted by Wiener and by Shannon that the statistical measure for the negative of entropy is the same as that for information.
-
-Miller also quotes (p. 43) Shannon's formula but omits Shannon's minus sign. Since entropy is defined by Shannon as a negative amount, a positive amount should be the same as negative entropy, i.e structure. It seems that Miller makes a misinterpretation of Shannon.
-
-[End article] 
 
 For Shannon, the content of a message (which he calls _information_ but which I call _potential_ information) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in _that_ a message was sent and not _what_ message was sent. Shannon did not care _what_ people were talking about on the phone but only _that_ they are able to talk. Thus for Shannon, the more _entropy_ (disorder), the more disorganisation and therefore the more _potential_ decisions could be made as a result of the message, a message which was not targeted at all. This is not helpful for us in business, where we rely on _targeted_ almost _surgical_ messaging in order to make decisions that result in positive outcomes. 
 
