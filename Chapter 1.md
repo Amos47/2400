@@ -166,7 +166,8 @@ There is thus one large - and confusing - difference between Shannon and Wiener.
 How can something be interpreted as both positive entropy and negative entropy at the same time? The confusion is unfortunately fuelled by other authors. The systems theorist James G. Miller writes in Living Systems (p.13): It was noted by Wiener and by Shannon that the statistical measure for the negative of entropy is the same as that for information.
 
 Miller also quotes (p. 43) Shannon's formula but omits Shannon's minus sign. Since entropy is defined by Shannon as a negative amount, a positive amount should be the same as negative entropy, i.e structure. It seems that Miller makes a misinterpretation of Shannon.
-----------------------------
+
+[End article] 
 
 For Shannon, the content of a message (which he calls _information_ but which I call _potential_ information) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in _that_ a message was sent and not _what_ message was sent. Who cares _what_ people are talking about on the phone. Care only about )_that_ they are able to talk. Thus for Shannon, the more _entropy_ (disorder), the more disorganisation and therefore the more _potential_ decisions could be made as a result of the message, which was not targeted at all. This is not helpful for us in business, who rely on _targeted_ almost _surgical_ messaging in order to make decisions that result in positive outcomes. 
 
