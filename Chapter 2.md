@@ -118,22 +118,23 @@ Figure JJLL. Exformation as context
 ![](./Images/exformation.png)
 
 Sir John A. and exformation here...
-Then there's [1974](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-of-the-day-1974-buick-electra-225-limited/). This is all about context or maybe EXFORMATION? 
+
+Then there's [1974](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-of-the-day-1974-buick-electra-225-limited/). 
+
+This is all about context or maybe EXFORMATION? I think exformation. 
 
 ![1974](./Images/1974_electra_225_rear.png)
 
 
-HTTP://XKCD.COM/1519/
 
-![](HTTP://IMGS.XKCD.COM/COMICS/VENUS.PNG)
+![](http://imgs.xkcd.com/comics/venus.png)
 
-HTTP://IMGS.XKCD.COM/COMICS/VENUS.PNG
 
-PERMANENT LINK TO THIS COMIC: HTTP://XKCD.COM/1513/
 
-![](HTTP://IMGS.XKCD.COM/COMICS/CODE_QUALITY.PNG)
 
-IMAGE URL (FOR HOTLINKING/EMBEDDING): HTTP://IMGS.XKCD.COM/COMICS/CODE_QUALITY.PNG
+![](http://imgs.xkcd.com/comics/code_quality.png)
+
+
 
 
 ###Internet usage
