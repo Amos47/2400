@@ -79,32 +79,105 @@ Note the definition of information below, from the same source, and note that on
 ![visualthesaurus.com Definition of information](./Images/vt_info.PNG)
 
 The Visual Thesaurus defines information, in conjunction with the visual above and ignoring the definitions pertaining strictly to the study or administration of justice and the law (with apologies to LJ), as:
-1.	a message received and understood
-2.	knowledge acquired through study or experience or instruction
-3.	a collection of facts from which conclusions may be drawn
-4.	the psychological result of perception and learning and reasoning
+1.	a message received and understood [YES]
+2.	knowledge acquired through study or experience or instruction [NO]
+3.	a collection of facts from which conclusions may be drawn [MAYBE]
+4.	the psychological result of perception and learning and reasoning  [MAYBE]
 5.	(communication theory) a numerical measure of the uncertainty of an outcome (see Entropy below)
 
 Need some unpacking here.
 
-Our dictionary source offers that information is "Data that is:  
+Our business dictionary source offers that information is:
+"Data that is:  
 1. accurate and timely, 
 2. specific and organized for a purpose, 
 3. presented within a context that gives it meaning and relevance, and 
 4. can lead to an increase in understanding and decrease in uncertainty."
 
-Information is valuable because it can affect behavior, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory."
+They go on to offer that “Information is valuable because it can affect behavior, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory."
+
+I must respectfully disagree with several of the assertions in this definition. Specifically, _data_ and _information_ are not synonymous. To begin the definition of information with the assertion that it is _data_ is clearly not helpful for us. Furthermore, data doesn't have the potential to change things (or to lead to change). Only information can lead to change through informing our decisions. Let’s be clear: Data that can be measured and put into context leads to information, which facilitates decision making. 
+
+Finally, it is categorically _not_ necessary for information to lead to change. Information leads to decisions, which are binary by nature. One of the two possibilities is the decision to do nothing! And that’s perfectly fine. Maybe that’s the right decision.
+
+Now we're getting somewhere.
+
+
 
 [[Interested?]](http://www.businessdictionary.com/definition/information.html) 
 
-Clearly, data cannot be both information and data at the same time, if the requirement for information is that it must be organised and in context. Data doesn't have the potential to change things (or lead to change). Data that can be understood, interpreted and put into context leads to information, which can effect changes in behaviour and can facilitate decision making. Now we're getting somewhere.
-
 ### Entropy
-In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.  [Me: Thus for decision making, entropy is the enemy. Entropy is "junk on the signal." It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.] From the yellow Curator article. 
+From another relatively old (1998) but still excellent piece (http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. “In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  [Me: Thus for decision making, entropy is the enemy. Entropy is "junk on the signal." It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.] 
+From the yellow Curator article []. 
+But this (rather long and convoluted – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". The etymology thus connotes an imposition of structure upon some indeterminate mass. […] Most people tend to think of information as disjointed little bundles of "facts". In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both "facts" in themselves and the transmission of the facts.”
+ More:
+Information according to Cybernetics 
 
+The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: “Cybernetics or Control and Communication in the Animal and the Machine”. Cybernetics was thus attached to biology from the beginning.
+
+Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions.
+
+From Wiener (1948) p. 18:
+
+
+The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation.
+[…]
+What is information and how is it measured? Wiener defines it as a probability:
+
+_One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B, which may with uniform a priori probability lie anywhere in this range, we shall see that if we put A = 0 and B = 1, and represent the quantity in the binary scale (0 or 1), then the number of choices made and the consequent amount of information is infinite._
+
+Wiener describes the amount of information mathematically as an integral, i.e. an area of probability measurements (p.76). Wiener says the formula means: <
+
+
+The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations. (article author’s bold)
+
+Wiener`s view of information is thus that it contains a structure that has a meaning.
+
+It will be seen that the processes which lose information are, as we should expect, closely analogous to the processes which gain entropy. 
+
+Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a "black box", for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc.
+
+Information according to Shannon
+
+The other scientist connected with information theory is Claude Shannon. He was a contemporary of Wiener and as an AT&T mathematician he was primarily interested in the limitations of a channel in transferring signals and the cost of information transfer via a telephone line. He developed a mathematical theory for such communication in The Mathematical Theory of Communication, (Shannon & Weaver 1959). Shannon defines information as a purely quantitative measure of communicative exchanges.
+
+Weaver (in Shannon & Weaver 1959), links Shannon`s mathematical theory to the second law of thermodynamics and states that it is the entropy of the underlying stochastic [random] process in the information source that determines the rate of information generation (p.103):
+
+The quantity which uniquely meets the natural requirements that one sets up for "information" turns out to be exactly that which is known in thermodynamics as entropy.
+
+Shannon defines the amount of information as the negative of the logarithm of a sum of probabilities. The minus sign in this formula means the opposite of Wiener`s minus sign. It is there because the amount of information according to Shannon is equal to entropy. 
+
+For an information theorist based on Shannon it does not matter whether we are communicating a fact, a judgement or just nonsense. Everything we transmit over a telephone line is "information". The message "I feel fine" is information, but "ff eeI efni" is an equal amount of information.
+
+Shannon is said to have been unhappy with the word "information" in his theory. He was advised to use the word "entropy" instead, but entropy was a concept too difficult to communicate so he remained with the word. Since his theory concerns only transmission of signals, Langefors (1968) suggested that a better term for Shannon’s information theory would therefore perhaps be "signal transmission theory".
+
+But Shannon`s "information" is not even a signal (p.100):
+
+If one is confronted with a very elementary situation where he has to choose [one] of two alternative messages, then it is arbitrarily said that the information, associated with this situation, is unity. Note that it is misleading (although often convenient) to say that one or the other message conveys unit information. The concept of information applies not to the individual messages (as the concept of meaning would), but rather to the situation as a whole, the unit information indicating that in this situation one has a freedom of choice, in selecting a message, which it is convenient to regard as a standard or unit amount.
+
+The contradiction
+
+Weaver, explaining Shannon`s theory in the same book:
+
+Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty greater information go hand in hand. 
+
+There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a "structured piece of the world", Shannon`s information is the same as (positive) entropy. This makes Shannon`s "information" the opposite of Wiener`s "information".
+
+How can something be interpreted as both positive entropy and negative entropy at the same time? The confusion is unfortunately fuelled by other authors. The systems theorist James G. Miller writes in Living Systems (p.13): It was noted by Wiener and by Shannon that the statistical measure for the negative of entropy is the same as that for information.
+
+Miller also quotes (p. 43) Shannon`s formula but omits Shannon`s minus sign. Since entropy is defined by Shannon as a negative amount, a positive amount should be the same as negative entropy, i.e structure. It seems that Miller makes a misinterpretation of Shannon.
+----------------------------
+
+For Shannon, the content of a message (which he calls _information_ but which I call _potential_ information) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in _that_ a message was sent and not _what_ message was sent. Who cares _what_ people are talking about on the phone. Care only about )_that_ they are able to talk. Thus for Shannon, the more _entropy_ (disorder), the more disorganisation and therefore the more _potential_ decisions could be made as a result of the message, which was not targeted at all. This is not helpful for us in business, who rely on _targeted_ almost _surgical_ messaging in order to make decisions that result in positive outcomes. 
+
+Weiner, on the other hand, saw information as _negative entropy_, or positive organisation, structure, interpretability, with less equivocation and more certainty. This is the kind of message that business requires. Straightforward and to the point. No guessing about the information content of a data stream.  Weiner is our man. We care both _what_ is being messaged and _that_ messaging is occurring. 
+
+Entropy is the friend of information _volume_ but the enemy of good _decision making_. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. 
+
+Biz dict useless def: http://www.businessdictionary.com/definition/entropy.html
 
 ####Information Theory
-And let's look at Information Theory while we're here. Our dictionary defines it as:
+And let's look at Information Theory while we're here. Our business dictionary defines it as:
 "Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the 'meaning' of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception."
 
 [[Interested?](http://www.businessdictionary.com/definition/information-theory.html#ixzz3MJ2TuS7s)]
@@ -266,7 +339,7 @@ Thus the pace of everything is accelerating. This puts increasing pressure on th
 
 ###Systems and process
 Figure SG. A simple system
-![Process](./Images/process.png)
+![Process](./Images/simple_system.png)
 
 A simple system, or a complex system, any system, has only three pieces. First, input is required. Once input is present, work (a process) then transforms that input into output. That's it. Input --> Process --> Output. All three are necessary. No work process without input, no output without work, no input and work without something coming out the other side. Make sure to understand that a system also requires a trigger: something to set it in motion. Systems don't just start of their own volition (if they had any) or momentum. Something must spur them into action. 
 
