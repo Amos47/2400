@@ -110,8 +110,8 @@ Now we're getting somewhere.
 From another relatively old (1998) but still excellent piece (http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. “In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  [Me: Thus for decision making, entropy is the enemy. Entropy is "junk on the signal." It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.] 
 From the yellow Curator article []. 
 But this (rather long and convoluted – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". The etymology thus connotes an imposition of structure upon some indeterminate mass. […] Most people tend to think of information as disjointed little bundles of "facts". In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both "facts" in themselves and the transmission of the facts.”
- More:
-Information according to Cybernetics 
+
+####Information according to Cybernetics 
 
 The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: “Cybernetics or Control and Communication in the Animal and the Machine”. Cybernetics was thus attached to biology from the beginning.
 
@@ -137,7 +137,7 @@ It will be seen that the processes which lose information are, as we should expe
 
 Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a "black box", for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc.
 
-Information according to Shannon
+####Information according to Shannon
 
 The other scientist connected with information theory is Claude Shannon. He was a contemporary of Wiener and as an AT&T mathematician he was primarily interested in the limitations of a channel in transferring signals and the cost of information transfer via a telephone line. He developed a mathematical theory for such communication in The Mathematical Theory of Communication, (Shannon & Weaver 1959). Shannon defines information as a purely quantitative measure of communicative exchanges.
 
@@ -155,7 +155,7 @@ But Shannon`s "information" is not even a signal (p.100):
 
 If one is confronted with a very elementary situation where he has to choose [one] of two alternative messages, then it is arbitrarily said that the information, associated with this situation, is unity. Note that it is misleading (although often convenient) to say that one or the other message conveys unit information. The concept of information applies not to the individual messages (as the concept of meaning would), but rather to the situation as a whole, the unit information indicating that in this situation one has a freedom of choice, in selecting a message, which it is convenient to regard as a standard or unit amount.
 
-The contradiction
+####The contradiction
 
 Weaver, explaining Shannon`s theory in the same book:
 
