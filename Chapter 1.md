@@ -103,22 +103,23 @@ Finally, it is categorically _not_ necessary for information to lead to change. 
 Now we're getting somewhere.
 
 
-
 [[Interested?]](http://www.businessdictionary.com/definition/information.html) 
 
 ### Entropy
-From another relatively old (1998) but still excellent piece (http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. 
+From another relatively old (1998) but still [excellent piece](http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. 
 
 “In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  
 
 Thus for decision making, entropy is the enemy. Entropy is _junk on the signal._ It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.
 
 
-But this (rather long and convoluted – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". […] Most people tend to think of information as disjointed little bundles of 'facts'. In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both "facts" in themselves and the transmission of the facts.”
+But this (rather dense – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". […] Most people tend to think of information as disjointed little bundles of 'facts'. In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both 'facts' in themselves and the transmission of the facts.”
 
-####Information according to Cybernetics 
+The author continues.
 
-The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: “Cybernetics or Control and Communication in the Animal and the Machine”. Cybernetics was thus attached to biology from the beginning.
+"Information according to Cybernetics 
+
+The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: 'Cybernetics or Control and Communication in the Animal and the Machine'. Cybernetics was thus attached to biology from the beginning.
 
 Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...]
 
@@ -126,11 +127,9 @@ The notion of the amount of information attaches itself very naturally to a clas
 
 What is information and how is it measured? Wiener defines it as a probability:
 
-One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations. (article author’s bold)
+One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations." (article author’s bold)
 
-Wiener`s view of information is thus that it contains a structure that has a meaning.
-
-It will be seen that the processes which lose information are, as we should expect, closely analogous to the processes which gain entropy. 
+Thus for Weiner, information is organisation and entropy is its opposite - disorganisation. The author goes on to write that "Wiener`s view of information is thus that it contains a structure that has a meaning. It will be seen that the processes which lose information are, as we should expect, closely analogous to the processes which gain entropy. 
 
 Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a 'black box', for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc.
 
