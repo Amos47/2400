@@ -161,7 +161,7 @@ Weaver, explaining Shannon`s theory in the same book:
 
 Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty greater information go hand in hand. 
 
-There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a "structured piece of the world", Shannon`s information is the same as (positive) entropy. This makes Shannon`s "information" the opposite of Wiener`s "information".
+There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a "structured piece of the world", Shannon`s information is the same as (positive) entropy. This makes Shannon's _information_ the opposite of Wiener's _information_.
 
 How can something be interpreted as both positive entropy and negative entropy at the same time? The confusion is unfortunately fuelled by other authors. The systems theorist James G. Miller writes in Living Systems (p.13): It was noted by Wiener and by Shannon that the statistical measure for the negative of entropy is the same as that for information.
 
