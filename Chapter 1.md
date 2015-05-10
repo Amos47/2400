@@ -105,13 +105,20 @@ Now we're getting somewhere.
 
 [[Interested?]](http://www.businessdictionary.com/definition/information.html) 
 
+###Information Theory
+Our business dictionary defines Information Theory as:
+"Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the 'meaning' of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception."
+
+[[Interested?](http://www.businessdictionary.com/definition/information-theory.html#ixzz3MJ2TuS7s)]
+
+To really understand Shannon and Weaver (and a guy named Weiner), we need to look at little mre deeply into the theory of information.
+
 ### Entropy
 From another relatively old (1998) but still [excellent piece](http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. 
 
 “In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  
 
 Thus for decision making, entropy is the enemy. Entropy is _junk on the signal._ It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.
-
 
 But this (rather dense – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". […] Most people tend to think of information as disjointed little bundles of 'facts'. In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both 'facts' in themselves and the transmission of the facts.”
 
@@ -143,28 +150,27 @@ Note that the message (we cannot say the 'intended message' as we do not know wh
 
 In Shannon's defence, the author goes on to write that "Shannon is said to have been unhappy with the word 'information' in his theory. He was advised to use the word 'entropy' instead, but entropy was a concept too difficult to communicate so he remained with the word. Since his theory concerns only transmission of signals, Langefors (1968) suggested that a better term for Shannon’s information theory would therefore perhaps be 'signal transmission theory'."
 
-But we have a basic contradiction here. How can one theorist describe informaton ans _negative_ entropy and another descibe it as _positive_ entropy?
+But we have a problem here. How can one theorist describe information as ordanisation and another describe it as disorganisation? The article continues with:
 
-Weaver, explaining Shannon`s theory in the same book:
+“Weaver, explaining Shannon’s theory in the same book: Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty greater information go hand in hand.”
 
-_Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty greater information go hand in hand._
+Here comes the contradiction…
 
-There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a 'structured piece of the world', Shannon's information is the same as (positive) entropy. This makes Shannon's _information_ the opposite of Wiener's _information_."
+“There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a 'structured piece of the world', Shannon's information is the same as (positive) entropy. This makes Shannon's ‘information’ the opposite of Wiener's ‘information’."
 
+For Shannon, the content of a message (which he calls _information_ but which I call _potential_ information) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in _that_ a message was sent and not _what_ message was sent. Shannon did not care _what_ people were talking about on the phone but only _that_ they were talking. The volume of data transmitted was more important than the actual content. 
 
-For Shannon, the content of a message (which he calls _information_ but which I call _potential_ information) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in _that_ a message was sent and not _what_ message was sent. Shannon did not care _what_ people were talking about on the phone but only _that_ they are able to talk. Thus for Shannon, the more _entropy_ (disorder), the more disorganisation and therefore the more _potential_ decisions could be made as a result of the message, a message which was not targeted at all. This is not helpful for us in business, where we rely on _targeted_ almost _surgical_ messaging in order to make decisions that result in positive outcomes. 
+And this makes sense if you think about it, from the point of view of a telephone conversation. Imagine you are in a phone call. In the background, you have music playing loud enough for the other party to hear. While the music is not part of the conversation, _per se_, it becomes an element of the message being sent from you to the other party. It’s background, but contributes to the richness of the signal. 
 
-Weiner, on the other hand, saw information as _negative entropy_, or positive organisation, structure, interpretability, with less equivocation and more certainty. This is the kind of message that business requires. Straightforward and to the point. No guessing about the information content of a data stream.  Weiner is our man. We care both _what_ is being messaged and _that_ messaging is occurring. 
+Thus for Shannon, the more _entropy_ (disorder – as in background music), the more disorganisation (lack of focus) and therefore the more _potential_ decisions could be made as a result of the message. If the background music was too loud, for example, the ‘intended message’ might become garbled or unintelligible. This is not helpful for us in business, where we rely on _targeted_ almost _surgical_ messaging in order to make decisions that result in positive outcomes. 
+
+Weiner, on the other hand, saw information as _negative entropy_, or positive organisation with structure, interpretability, less equivocation and noise and more certainty. This is the kind of message that business requires. Straightforward and to the point. No guessing about the information content of a data stream.  Weiner is our man. We care both _what_ is being messaged and _that_ messaging is occurring. 
 
 Entropy is the friend of information _volume_ but the enemy of good _decision making_. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. 
 
-Biz dict useless def: http://www.businessdictionary.com/definition/entropy.html
+So maybe here goes the information, disinformation, uninformation, etc. stuff? Leading to context and lots of data to get good information.
 
-####Information Theory
-And let's look at Information Theory while we're here. Our business dictionary defines it as:
-"Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the 'meaning' of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception."
-
-[[Interested?](http://www.businessdictionary.com/definition/information-theory.html#ixzz3MJ2TuS7s)]
+![Nature of information](./Images/nature_of_info.png)
 
 ###Knowledge
 ![visualthesaurus.com Definition of knowledge](./Images/vt_know.PNG)
@@ -182,8 +188,6 @@ Further, the first definition from our Business Dictionary source is preferred o
 Data is useless unless in a context, which allows it to become information. Information drives decisions and decisions drive action, in the rich context of previous information. Collected information from this action, previous actions and from all other sources of knowledge becomes new or evolving knowledge and confers the ability to pass judgment on the previous three. 
 
 [Google NGRAMS Maybe put this stuff below in the section on Big Data or elsewhere? Commented out now.]
-
-So clearly we have a pathway beginning with measurement. Measurement gives meaning to data, which, in context, provides information. Information in its collectivity, produces knowledge. With information and knowledge (which I define as the intersection of collective information with enough experience to allow for sufficient clarity such that one can critique the process of marshaling data to information and then be prepared to engineer the environment so as to lead to better information in the future)...
 
 ### Communication
 
