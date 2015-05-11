@@ -93,9 +93,9 @@ Low accuracy: good trueness, poor precision
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/High_accuracy_Low_precision.svg/200px-High_accuracy_Low_precision.svg.png)
 
 
-Lo accuracy: poor trueness, good precision 
+Low accuracy: poor trueness, good precision 
 
-[](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
  
 In binary classification[edit]
 Accuracy is also used as a statistical measure of how well a binary classification test correctly identifies or excludes a condition.
