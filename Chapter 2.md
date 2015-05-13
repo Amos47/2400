@@ -237,6 +237,7 @@ The colours in the upper box are represented using a specific method of reproduc
 It doesn’t matter how this or other colour representation methods (CMYK, Pantone, etc.) actually work. What matters is that the continuous colour scale represented by the visible spectrum of the rainbow can be _sampled_ and _digitised_ such that we can work with it in a discrete way. The RGB scale itself produces hues between which the naked eye could not discern. I challenge you to distinguish an RGB of 255, 0, 0 from 254, 0, 0. It would take an expensive display device to even reproduce that difference. The point being that, at some point or resolution, a digital representation becomes just as good as the analog one. It’s just as good because we can’t tell the difference. Take a look at Figure JP below. 
 
 Figure JP. Subtle differences in RGB
+
 ![Can you tell the difference?](./Images/rgb.png)
 
 We refer to this concept as _granularity_. And we will return to granularity shortly. 
