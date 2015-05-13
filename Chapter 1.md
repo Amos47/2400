@@ -68,41 +68,44 @@ Let's first deal with a potential controversy. You might have heard (more likely
 
 We first need to carefully consider what is meant by _measurement_ as measurement is necessary in order for data to be useful. Measurement makes data tangible and gives it value. Under the topic of ‘Accuracy and precision’, Wikipedia offers the following discussion seedlings:
 
-In the fields of science, engineering, industry, and statistics, the accuracy of a measurement system is the degree of closeness of measurements of a quantity to that quantity's actual (true) value.[1] The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results.[1][2] Although the two words precision and accuracy can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method.
-A measurement system can be accurate but not precise, precise but not accurate, neither, or both. For example, if an experiment contains a systematic error, then increasing the sample size generally increases precision but does not improve accuracy. The result would be a consistent yet inaccurate string of results from the flawed experiment. Eliminating the systematic error improves accuracy but does not change precision.
-A measurement system is considered valid if it is both accurate and precise. Related terms include bias (non-random or directed effects caused by a factor or factors unrelated to the independent variable) and error (random variability).
-The terminology is also applied to indirect measurements—that is, values obtained by a computational procedure from observed data.
-In addition to accuracy and precision, measurements may also have a measurement resolution, which is the smallest change in the underlying physical quantity that produces a response in the measurement.
-In numerical analysis, accuracy is also the nearness of a calculation to the true value; while precision is the resolution of the representation, typically defined by the number of decimal or binary digits.
+“In the fields of science, engineering, industry, and statistics, the accuracy of a measurement system is the degree of closeness of measurements of a quantity to that quantity's actual (true) value. The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results. Although the two words precision and accuracy can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method.
+“A measurement system can be accurate but not precise, precise but not accurate, neither, or both. For example, if an experiment contains a systematic error, then increasing the sample size generally increases precision but does not improve accuracy. The result would be a consistent yet inaccurate string of results from the flawed experiment. Eliminating the systematic error improves accuracy but does not change precision.
+“A measurement system is considered valid if it is both accurate and precise. Related terms include bias (non-random or directed effects caused by a factor or factors unrelated to the independent variable) and error (random variability).
+“The terminology is also applied to indirect measurements—that is, values obtained by a computational procedure from observed data.
+“In addition to accuracy and precision, measurements may also have a measurement resolution, which is the smallest change in the underlying physical quantity that produces a response in the measurement.
+In numerical analysis, accuracy is also the nearness of a calculation to the true value; while precision is the resolution of the representation, typically defined by the number of decimal or binary digits.”
  
 From <http://en.wikipedia.org/wiki/Accuracy_and_precision> 
  
 Terminology of ISO 5725
- 
- 
 According to ISO 5725-1, Accuracy consists of Trueness (proximity of measurement results to the true value) and Precision (repeatability or reproducibility of the measurement)
-A shift in the meaning of these terms appeared with the publication of the ISO 5725 series of standards, which is also reflected in the 2008 issue of the "BIPM International Vocabulary of Metrology" (VIM), items 2.13 and 2.14.[1]
-According to ISO 5725-1,[3] the terms trueness and precision are both used to describe the accuracy of a measurement. Trueness refers to the closeness of the mean of the measurement results to the actual (true) value and precision refers to the closeness of agreement within individual results. Therefore, according to the ISO standard, the term "accuracy" refers to both trueness and precision.
-ISO 5725-1 and VIM also avoid the use of the term "bias", previously specified in BS 5497-1,[4] because it has different connotations outside the fields of science and engineering, as in medicine and law.
- 
-Accuracy according to BIPM and ISO 5725
-
-
+According to ISO 5725-1, the terms trueness and precision are both used to describe the accuracy of a measurement. Trueness refers to the closeness of the mean of the measurement results to the actual (true) value and precision refers to the closeness of agreement within individual results. Therefore, according to the ISO standard, the term "accuracy" refers to both trueness and precision.
 Low accuracy: good trueness, poor precision 
-
+Source: "High accuracy Low precision" by DarkEvil - DarkEvil, based on Image:Accuracy and precision-highaccuracylowprecision.gif which is free.
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/High_accuracy_Low_precision.svg/200px-High_accuracy_Low_precision.svg.png)
 
 
 Low accuracy: poor trueness, good precision 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
- 
-In binary classification
-Accuracy is also used as a statistical measure of how well a binary classification test correctly identifies or excludes a condition.
+Source: "High precision Low accuracy" by DarkEvil - DarkEvil, based on Image:Accuracy and precision-highprecisionlowaccuracy.gif which is free.
  
 From <http://en.wikipedia.org/wiki/Accuracy_and_precision> 
 
+Information theory recognises that all data are inexact and statistical in nature. Thus the definition of measurement is: "A set of observations that reduce uncertainty where the result is expressed as a quantity."[11] This definition is implied in what scientists actually do when they measure something and report both the mean and statistics of the measurements. In practical terms, one begins with an initial guess as to the value of a quantity, and then, using various methods and instruments, reduces the uncertainty in the value. Note that in this view, unlike the positivist representational theory, all measurements are uncertain, so instead of assigning one value, a range of values is assigned to a measurement. This also implies that there is not a clear or neat distinction between estimation and measurement. From: http://en.wikipedia.org/wiki/Measurement
 
+According to ISO 5725-1,[4] the general term "accuracy" is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same measurand, it involves a component of random error and a component of systematic error. In this case trueness is the closeness of the mean of a set of measurement results to the actual (true) value and precision is the closeness of agreement among a set of results.
+http://en.wikipedia.org/wiki/Accuracy_and_precision
+
+![Accuracy](./Images/accuracy.png)
+
+"Accuracy (trueness and precision)" by SV1XV - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Accuracy_(trueness_and_precision).svg#/media/File:Accuracy_(trueness_and_precision).svg
+
+
+All this measurement talk reminds me of the great old joke about the doctor, the lawyer and the statistician on a hunting trip. While hiding in the bushes, they spot a big buck deer 25 metres directly in front of them. The doctor sizes up the distance and wind speed, aims and fires an arrow at the deer. His shot zooms one metre behind the deer. The lawyer does some quick calculations, aims and fires. His shot zips one metre in front of the deer. Our statistician friend jumps up, raises his hands in victory and shouts "GOT ‘IM!!"  (No animals were hurt in the process of creating this book.) 
+
+
+###Back to the Big Three
 First, let's carefully define what each means in its own right. We can then examine the hierarchy that evolves when discussing the Big Three in the context of decision making. Oh yes, and _context_ will be critical too. We will deal with that in some detail in Chapter 2.
 
 ####Data
@@ -132,7 +135,7 @@ I respectfully disagree, ever so slightly, with these two definitions. Specifica
 
 Note the definition of information below, from the same source, and note that one of the necessary elements of information is that it be presented within a context that gives it meaning. 
 
-[[Interested?](http://www.businessdictionary.com/definition/data.html#ixzz3MHuObnyk)]
+[Interested?](http://www.businessdictionary.com/definition/data.html)
 
 ###Information
 ![visualthesaurus.com Definition of information](./Images/vt_info.PNG)
@@ -161,76 +164,8 @@ Finally, it is categorically _not_ necessary for information to lead to change. 
 
 Now we're getting somewhere.
 
-
 [[Interested?]](http://www.businessdictionary.com/definition/information.html) 
-
-###Information Theory
-Our business dictionary defines Information Theory as:
-"Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the 'meaning' of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception."
-
-[[Interested?](http://www.businessdictionary.com/definition/information-theory.html#ixzz3MJ2TuS7s)]
-
-To really understand Shannon and Weaver (and a guy named Weiner), we need to look at little mre deeply into the theory of information.
-
-### Entropy
-From another relatively old (1998) but still [excellent piece](http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. 
-
-“In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  
-
-Thus for decision making, entropy is the enemy. Entropy is _junk on the signal._ It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.
-
-But this (rather dense – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". […] Most people tend to think of information as disjointed little bundles of 'facts'. In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both 'facts' in themselves and the transmission of the facts.”
-
-The author continues.
-
-"Information according to Cybernetics 
-
-The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: 'Cybernetics or Control and Communication in the Animal and the Machine'. Cybernetics was thus attached to biology from the beginning.
-
-"Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...]
-
-"The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation. [...]
-
-"What is information and how is it measured? Wiener defines it as a probability: One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations." (article author’s bold)
-
-Thus for Weiner, information is organisation and entropy is its opposite - disorganisation. The author goes on to write that "Wiener`s view of information is thus that it contains a structure that has a meaning. It will be seen that the processes which lose information are, as we should expect, closely analogous to the processes which gain entropy. 
-
-"Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a 'black box', for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc."
-
-We then muddy the already cloudy water by introducing an opposing viewpoint, that of Claude Shannon, an eminent information scientist working at AT&T (the telephone people) in the 1950s. The author writes:
-
-"The other scientist connected with information theory is Claude Shannon. He was a contemporary of Wiener and as an AT&T mathematician he was primarily interested in the limitations of a channel in transferring signals and the cost of information transfer via a telephone line. He developed a mathematical theory for such communication in The Mathematical Theory of Communication, (Shannon & Weaver 1959). Shannon defines information as a purely quantitative measure of communicative exchanges."
-
-So Shannon wasn't interested as much in _what_ was communicated as much as he was in the _volume_ or _occurrence_ of communication. It's not _what_ for him, but _that_. The author continues:
-
-"[...] based on Shannon it does not matter whether we are communicating a fact, a judgement or just nonsense. Everything we transmit over a telephone line is 'information'. The message 'I feel fine' is information, but 'ff eeI efni' is an equal amount of information."
-
-Note that the message (we cannot say the 'intended message' as we do not know what the intention of the sender was when sending it) 'I feel fine' is contained in the jibberish 'ff eeI efni', but there are other possible combinations of letters and spaces that would yield other equally viable messages in this context. For Shannon there is information richness in this disorganisation. The potential for many messages means there is more raw information in the message. As we will see, for business, this isn't a good thing. 
-
-In Shannon's defence, the author goes on to write that "Shannon is said to have been unhappy with the word 'information' in his theory. He was advised to use the word 'entropy' instead, but entropy was a concept too difficult to communicate so he remained with the word. Since his theory concerns only transmission of signals, Langefors (1968) suggested that a better term for Shannon’s information theory would therefore perhaps be 'signal transmission theory'."
-
-But we have a problem here. How can one theorist describe information as ordanisation and another describe it as disorganisation? The article continues with:
-
-“Weaver, explaining Shannon’s theory in the same book: Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty greater information go hand in hand.”
-
-Here comes the contradiction…
-
-“There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a 'structured piece of the world', Shannon's information is the same as (positive) entropy. This makes Shannon's ‘information’ the opposite of Wiener's ‘information’."
-
-For Shannon, the content of a message (which he calls _information_ but which I call _potential_ information) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in _that_ a message was sent and not _what_ message was sent. Shannon did not care _what_ people were talking about on the phone but only _that_ they were talking. The volume of data transmitted was more important than the actual content. 
-
-And this makes sense if you think about it, from the point of view of a telephone conversation. Imagine you are in a phone call. In the background, you have music playing loud enough for the other party to hear. While the music is not part of the conversation, _per se_, it becomes an element of the message being sent from you to the other party. It’s background, but contributes to the richness of the signal. 
-
-Thus for Shannon, the more _entropy_ (disorder – as in background music), the more disorganisation (lack of focus) and therefore the more _potential_ decisions could be made as a result of the message. If the background music was too loud, for example, the ‘intended message’ might become garbled or unintelligible. This is not helpful for us in business, where we rely on _targeted_ almost _surgical_ messaging in order to make decisions that result in positive outcomes. 
-
-Weiner, on the other hand, saw information as _negative entropy_, or positive organisation with structure, interpretability, less equivocation and noise and more certainty. This is the kind of message that business requires. Straightforward and to the point. No guessing about the information content of a data stream.  Weiner is our man. We care both _what_ is being messaged and _that_ messaging is occurring. 
-
-Entropy is the friend of information _volume_ but the enemy of good _decision making_. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. 
-
-So maybe here goes the information, disinformation, uninformation, etc. stuff? Leading to context and lots of data to get good information.
-
-![Nature of information](./Images/nature_of_info.png)
-
+"High precision Low accuracy" by DarkEvil - DarkEvil, based on Image:Accuracy and precision-highprecisionlowaccuracy.gif which is free.. Licensed under Public Domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:High_precision_Low_accuracy.svg#/media/File:High_precision_Low_accuracy.svgprecision
 ###Knowledge
 ![visualthesaurus.com Definition of knowledge](./Images/vt_know.PNG)
 
