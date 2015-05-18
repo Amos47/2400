@@ -270,7 +270,9 @@ ASCII: http://en.wikipedia.org/wiki/ASCII
 A very old but again ever-so-interesting site (www.liquidinformation.org) has this (http://www.liquidinformation.org/ana_digi_liqui.html) to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. First some definitions:
  
 **Analog**: a mechanism in which data is represented by continuously variable physical quantities
+
 **Digital**: of or relating to the fingers or toes. Using calculation by numerical methods or by discrete units
+
 **Liquid**: flowing freely like water. Having the properties of a liquid: being neither solid nor gaseous. Smooth and unconstrained in movement 
   
  The article offers: “We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet. 
