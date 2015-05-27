@@ -161,7 +161,9 @@ Thus for Shannon, the more _entropy_ (disorder – as in background music), the 
 
 Weiner, on the other hand, saw information as _negative entropy_, or positive organisation with structure, interpretability, less equivocation and noise and more certainty. This is the kind of message that business requires. Straightforward and to the point. No guessing about the information content of a data stream.  
 
-Weiner is our man. We care both _what_ is being messaged and _that_ messaging is occurring. 
+Weiner is our man. We care both _what_ is being messaged and _that_ messaging is occurring. But Shannon was an inspiring academic. 
+
+[Interested?]( http://www.kerryr.net/pioneers/shannon.htm)
 
 Entropy is the friend of _information volume_ but the enemy of good _decision making_. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. Understanding is critical.
 
@@ -238,36 +240,55 @@ Figure JP. Subtle differences in RGB
 
 ![Can you tell the difference?](./Images/rgb.png)
 
-The four reds are, for certain, red. The normally-sighted would have no trouble identifying each and all as red from among the other colours of the visible spectrum. But the differences within the range of red are more difficult to detect. The leftmost (labelled 255) is the same red as in Figure ECC. I have altered the amount of red from the max to 254, then 245 and then 225. The difference between 255 and 254 is impossible to detect at the resolution of that figure on any of my devices or monitors with my eyes (such as they are). We begin to see a subtle difference at 245 (a darker tint) while the difference at 225 is quite noticeable. For some purposes, a specific red at a specific fidelity might be required. For the vast majority of others, any of these reds will do. And that’s the point.
+The four reds are, for certain, red. The normally-sighted would have no trouble identifying each and all as being of the colour red from among the other colours of the visible spectrum. But the differences within the range of red are more difficult to detect. The leftmost (labelled 255) is the same red as in Figure ECC. I have altered the amount of red first from the max to 254, then to 245 and then to 225. The difference between 255 and 254 is impossible to detect at the resolution of that figure on any of my devices or monitors with my eyes (such as they are). We begin to see a subtle difference at 245 (a darker tint) while the difference at 225 is quite noticeable. For some purposes, a specific red at a specific fidelity might be required. For the vast majority of others, any of these reds will do. We would all stop at a traffic light if it showed any of these reds. And that’s the point.
 
-Imagine now, sensing the difference between an RGB value of 255, 0, 0 and 254.5460274, 0, 0. Only in the most exacting and demanding of scientific or engineering contexts would such a difference be important. In 99.999999999999999% of cases where the two were compared, it would make no difference. We can _model_ the analog nature of nature and get a _good enough_ representation on a digital scale. Hang on. 
+Imagine now, sensing the difference between an RGB value of 255, 0, 0 and 254.5460274, 0, 0. Only in the most exacting and demanding of scientific or engineering contexts would such a difference be important (you see the use of _context_ here as a _situation_ in which certain things, such as precision, are critical). In 99.999999999999999% of cases where the two were compared, it would make no difference. We can _model_ the analog nature of nature and get a _good enough_ representation on a digital scale. Hang on. 
 
 This concept is akin to _granularity_, and we will be introduced to it shortly. 
 
-[Add in here a description of what DIGITAL is – the 0s and 1s of a binary system for context :) ]
+##How computers work
+At this point, it’s likely time to dive into the _guts_ of computers and talk just a little about how they  actually work. Everyone, interested or not, needs to follow this link(http://www.explainthatstuff.com/howcomputerswork.html) and read up on how computers work, which will illustrate the fact that computers are systems in the exact same sense that we have been describing here. Note especially the difference between hardware and software. The distinction between system software (operating systems such as Widows, Android and Apple OS, etc.) and application software (things that you actually use on the computer such as Excel, Word or a browser) is also important. Finally, this short link provides a gentle introduction to _the digital divide_, to which we will return later. 
 
-Another mathematician and philosopher by the name of George Boole published a paper in 1847 called 'The Mathematical Analysis of Logic' that describes an algebraic system of logic, now known as Boolean algebra. Boole’s system was based on binary, a yes-no, on-off approach that consisted the three most basic operations: AND, OR, and NOT. This system was not put into use until a graduate student from Massachusetts Institute of Technology by the name of Claude Shannon noticed that the Boolean algebra he learned was similar to an electric circuit. Shannon wrote his thesis in 1937, which implemented his findings. Shannon's thesis became a starting point for the use of the binary code in practical applications such as computers, electric circuits, and more. 
+We humans are most familiar with the Base 10 number system because we have 10 fingers and 10 toes. We refer to this as the _decimal system_. In this system, the columns of numbers correspond to ones, tens, hundreds, thousands, and so on. And it’s also _digital_ because it’s based on our digits (fingers). Fun eh?
 
-Above from: http://en.wikipedia.org/wiki/Binary_code
-
-[Claude Shannon: http://www.kerryr.net/pioneers/shannon.htm]
-
-http://www.explainthatstuff.com/howcomputerswork.html
-An exhaustive list of devices: http://www.explainthatstuff.com/articles_computers.html
-http://www.kerryr.net/pioneers/binary.htm [Binary: So simple a computer can do it]
-We humans are most familiar with the Base 10 number system because we have 10 fingers and 10 toes. We refer to this as the _decimal system_. In this system, the columns of numbers correspond to ones, tens, hundreds, thousands, and so on.
-
-Computers, however, are digital, binary creatures, run by 0s and 1s. They understand only black or white. Up or down. In or out. Off or on. Like a light switch. They operate under the _binary_ system and understand only 0s and 1s. A vast array of _transistors_ capable of holding a tiny electrical charge are _loaded_ with a meaningful pattern of such charges. The pattern represents the _real world_ that we are modelling. The contents of these transistors are referred to as _bits_, short for _binary digits_.  In this system, the columns represent powers of two (two, four, eight, sixteen, thirty two, sixty four, and so on). So the decimal number 55 becomes 110111 in binary, which is 32+16+4+2+1. You need a lot more binary digits (also called bits) to store a number. With eight bits (also called a byte), you can store any decimal number from 0–255 (00000000–11111111 in binary). 
-
-It is not a coincidence that the RGB system stores colour in a range of 0-255. It should be coming together for you.
+Computers, however, are _binary_ creatures, run by 0s and 1s. They understand only black or white, up or down, in or out, off or on -- like a collection of light switches. They operate under the _binary_ (or _Boolean_ see below) system, which operates on two states. In a computer, a vast array of _transistors_ capable of holding a tiny electrical charge are _loaded_ with a meaningful and constantly changing pattern of such charges. The pattern represents the _real world_ that we are modelling. The contents of these transistors are referred to as _bits_, short for _binary digits_.  In this system, the columns represent powers of two (two, four, eight, sixteen, thirty two, sixty four, and so on). So the decimal number 55 becomes 110111 in binary, which is 32+16+4+2+1. With eight bits (also called a byte), you can store any decimal number from 0 to 255 (00000000 to 11111111 in binary). It’s no coincidence that the RGB system represents colour in a range of 0-255. It should be coming together for you.
 
 [Interested?]( http://www.explainthatstuff.com/how-computer-memory-works.html)
 
-ASCII: http://en.wikipedia.org/wiki/ASCII
+Wikipedia offers this: “Another mathematician and philosopher by the name of George Boole published a paper in 1847 called 'The Mathematical Analysis of Logic' that describes an algebraic system of logic, now known as Boolean algebra. Boole’s system was based on binary, a yes-no, on-off approach that consisted the three most basic operations: AND, OR, and NOT. This system was not put into use until a graduate student from Massachusetts Institute of Technology by the name of Claude Shannon [yes, the one-and-the-same Claude Shannon from our discussion of _entropy_] noticed that the Boolean algebra he learned was similar to an electric circuit. Shannon wrote his thesis in 1937, which implemented his findings. Shannon's thesis became a starting point for the use of the binary code in practical applications such as computers, electric circuits, and more.” 
 
-![ASCII for BUSI 2400](./Images/ascii.png)
+[Interested?](http://en.wikipedia.org/wiki/Binary_code)
 
-A very old but again ever-so-interesting site (www.liquidinformation.org) has this (http://www.liquidinformation.org/ana_digi_liqui.html) to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. First some definitions:
+[Interested?](http://www.kerryr.net/pioneers/boolean.htm)
+
+An exhaustive list of devices: http://www.explainthatstuff.com/articles_computers.html
+
+http://www.kerryr.net/pioneers/binary.htm [Binary: So simple a computer can do it]
+
+
+![Figure NF. ASCII for BUSI 2400](./Images/ascii.png)
+
+Let’s unpack Figure NF above. ASCII stands for _American Standard Code for Information Interchange_, and was developed from telegraph codes to represent some basic English-language characters and certain _control codes_ (non-printable codes which did things like ring a bell on a teletype machine to get the operator’s attention or to signal a certain state, such as ‘end of message transmission’). ASCII is a 7-bit encoding scheme (note the first bit of each character in Figure NF is never on) and can encode 128 characters and codes. (Remember binary? Using 7 bits, we can encode 64+32+16+8+4+2+1 = 127 and remembering that the range is 0 to 127 which equals 128 states.) Expanding to an 8-bit standard adds 128 states, allowing 256 things (0-255) to be represented. The 8-bit standard is the basis for the currently-standard (on the web) UTF-8 encoding scheme (which is _backwards compatible_ with ASCII-7 or USASCII as some call it). 
+
+Figure NF shows the ASCII encoding of the characters ‘BUSI 2400’. The characters are encoded in a vertical fashion from top to bottom. Also included are the binary values for each bit position. (I know for many of you that your eyes glazed over as soon as you saw this thing. But bear with me. I’ll be quick and gentle as we make sense of this stuff.) 
+
+The binary values make their way up, doubling with each bit position, from 1 to 128. This give us an 8-bit scheme. If we sum the decimal equivalent represented by the binary positions for the letter ‘B’, for example, we get 64+2=66. Thus the decimal equivalent of this binary pattern is 66. Taking a look at the table of ASCII values on the right (only printable characters are shown here), and locating decimal value 66 (it’s highlighted so you can find it) we see that the bit pattern translated to decimal 66 represents the letter ‘B’. (Note that a lowercase ‘b’ is decimal 98, an altogether different character and, to a computer, as different as the number 6 and the % character.) Summing the locations for the letter ‘U’ gives 85. Same process: look for the decimal 85 in the ASCII chart and note that it’s the letter ‘U’. And you can continue the process with the remainder of the BUSI 2400 representation and see that it makes sense. Look at the decimal value for the character ‘S’ and see if the binary sum equals 83. 
+
+Note especially that the ASCII for the space between BUSI and 2400 (here denoted by a ‘˽’) is a real printable control code character, having decimal value 32. A space is as real to a computer as a letter or number and it’s not at all the equivalent of a ‘nul’ (nothing; absent;) character which has the ASCII code of 0000000 and the decimal value of 0 (zero)). 
+
+But that’s going too far. Let’s get back to what’s important here.
+
+Note again that the first (topmost) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, along with some common typographic glyphs in the English language (such as swearing, often denoted by ‘!@#$%^&*’). 
+
+I’m hoping that by this point you are starting to get the point. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the _real thing_ and the binary/digital representation of it that, well, it doesn’t matter at all. Witness Apple’s _retina displays_ which claim to be so close to analog that our retinas can’t tell the difference.
+
+And just to throw a huge wrench into the works, the notion of human _spirit_ and a _soul_ play large in this debate. If everything analog can eventually be represented by a series of bits to the point where we can’t tell, then are people simply huge binary machines, as are computers, made up of such minute and many binary objects that we simply can’t tell? Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) 
+
+[Interested in ASCII?](http://en.wikipedia.org/wiki/ASCII)
+
+[Interested in Glyphs?]( http://en.wikipedia.org/wiki/Glyph)
+
+Let’s bring this home. A very old but again ever-so-interesting site (www.liquidinformation.org) has this (http://www.liquidinformation.org/ana_digi_liqui.html) to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. First some definitions:
  
 **Analog**: a mechanism in which data is represented by continuously variable physical quantities
 
@@ -283,11 +304,11 @@ Everyday home and office computers, with capacities to manipulate literally bill
  
 So the question for us is: At what point does digital become analog? At what point (threshold) does it matter to us? At what point can we detect? What resolution is important for us? This is akin to decimal place precision. How many decimals is it necessary to report in a table before the additional number becomes meaningless? 
 
-This introduces the notion of  Just-noticeable Difference or JND. And of course a just-noticeable difference is context dependent (isn’t everything?). The message, however, is that at some point in the digitisation of analogue phenomena, the distinction disappears and we can’t tell the difference. 
+This introduces the notion of  Just-noticeable Difference or JND. And of course a just-noticeable difference is context dependent (isn’t everything?). The message, however, is that at some point in the digitisation of analog phenomena, the distinction disappears and we can’t tell the difference. 
 
-[Interested?] http://apps.usd.edu/coglab/WebersLaw.html
+[Interested?](http://apps.usd.edu/coglab/WebersLaw.html)
 
-[Interested?] Weber-Fechner law of Just-noticeable Difference (jnd): http://en.wikipedia.org/wiki/Just-noticeable_difference
+[Interested in the Weber-Fechner Law of JND?](http://en.wikipedia.org/wiki/Just-noticeable_difference)
  
 We might also want to consider the concept of _resolution_. The resolution of a sensor is the smallest change it can detect in the quantity that it is measuring. 
 
