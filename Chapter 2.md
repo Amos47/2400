@@ -279,7 +279,7 @@ Note especially that the ASCII for the space between BUSI and 2400 (here denoted
 
 But that’s going too far. Let’s get back to what’s important here.
 
-Note again that the first (topmost) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, along with some common typographic glyphs in the English language (such as swearing, often denoted by ‘!@#$%^&*’). 
+Note again that the first (topmost or 128) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, along with some common typographic glyphs in the English language (such as swearing, often denoted by ‘!@#$%^&*’). 
 
 I’m hoping that by this point you are starting to get the point. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the _real thing_ and the binary/digital representation of it that, well, it doesn’t matter at all. Witness Apple’s _retina displays_ which claim to be so close to analog that our retinas can’t tell the difference.
 
