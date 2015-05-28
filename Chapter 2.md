@@ -259,9 +259,9 @@ Computers, however, are _binary_ creatures, run by 0s and 1s. They understand on
 
 Wikipedia offers this: “Another mathematician and philosopher by the name of George Boole published a paper in 1847 called 'The Mathematical Analysis of Logic' that describes an algebraic system of logic, now known as Boolean algebra. Boole’s system was based on binary, a yes-no, on-off approach that consisted the three most basic operations: AND, OR, and NOT. This system was not put into use until a graduate student from Massachusetts Institute of Technology by the name of Claude Shannon [yes, the one-and-the-same Claude Shannon from our discussion of _entropy_] noticed that the Boolean algebra he learned was similar to an electric circuit. Shannon wrote his thesis in 1937, which implemented his findings. Shannon's thesis became a starting point for the use of the binary code in practical applications such as computers, electric circuits, and more.” 
 
-[Interested?](http://en.wikipedia.org/wiki/Binary_code)
+[Interested in Binary Code?](http://en.wikipedia.org/wiki/Binary_code)
 
-[Interested?](http://www.kerryr.net/pioneers/boolean.htm)
+[Interested in Boolean?](http://www.kerryr.net/pioneers/boolean.htm)
 
 An exhaustive list of devices: http://www.explainthatstuff.com/articles_computers.html
 
