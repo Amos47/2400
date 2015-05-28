@@ -283,6 +283,8 @@ But that’s going too far. Let’s get back to what’s important here.
 
 Note again that the first (topmost or 128) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all the letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, along with some common typographic glyphs [Interested in Glyphs?]( http://en.wikipedia.org/wiki/Glyph) in the English language (such as swearing, often denoted by ‘!@#$%^&*’). 
 
+[Interested in ASCII?](http://en.wikipedia.org/wiki/ASCII)
+
 I’m hoping that by this point you are starting to get the point. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the _real thing_ and the binary/digital representation of it such that, well, it doesn’t matter at all. Witness Apple’s _retina displays_ which Apple claims to be so close to analog that our retinae can’t tell the difference.
 
 And just to throw a wrench into the works, the notion of human _spirit_ and a _soul_ play large in this debate. If everything analog can ultimately be represented by a series of bits to the point where we can’t tell, then are people simply huge binary machines, as are computers, made up of such minute and many binary objects that we simply can’t detect and measure them? Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) 
@@ -291,7 +293,6 @@ Time for an XKCD…
 
 ![](http://imgs.xkcd.com/comics/venus.png)
 
-[Interested in ASCII?](http://en.wikipedia.org/wiki/ASCII)
 
 Let’s bring this home. A very old but again ever-so-interesting site (www.liquidinformation.org) has [this](http://www.liquidinformation.org/ana_digi_liqui.html) to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. 
 
