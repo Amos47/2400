@@ -265,6 +265,7 @@ An exhaustive list of devices: http://www.explainthatstuff.com/articles_computer
 
 http://www.kerryr.net/pioneers/binary.htm [Binary: So simple a computer can do it]
 
+Check out Figure NF below, representing the encoding of a simple series of characters. 
 
 ![Figure NF. ASCII for BUSI 2400](./Images/ascii.png)
 
