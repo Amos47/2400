@@ -249,6 +249,8 @@ This concept is akin to _granularity_, and we will be introduced to it shortly.
 ##How computers work
 At this point, it’s likely time to dive into the _guts_ of computers and talk just a little about how they  actually work. Everyone, interested or not, needs to follow this link(http://www.explainthatstuff.com/howcomputerswork.html) and read up on how computers work, which will illustrate the fact that computers are systems in the exact same sense that we have been describing here. Note especially the difference between hardware and software. The distinction between system software (operating systems such as Widows, Android and Apple OS, etc.) and application software (things that you actually use on the computer such as Excel, Word or a browser) is also important. Finally, this short link provides a gentle introduction to _the digital divide_, to which we will return later. 
 
+![Figure KS. The digital divide](./Images/internet_usage.png)
+
 We humans are most familiar with the Base 10 number system because we have 10 fingers and 10 toes. We refer to this as the _decimal system_. In this system, the columns of numbers correspond to ones, tens, hundreds, thousands, and so on. And it’s also _digital_ because it’s based on our digits (fingers). Fun eh?
 
 Computers, however, are _binary_ creatures, run by 0s and 1s. They understand only black or white, up or down, in or out, off or on -- like a collection of light switches. They operate under the _binary_ (or _Boolean_ see below) system, which operates on two states. In a computer, a vast array of _transistors_ capable of holding a tiny electrical charge are _loaded_ with a meaningful and constantly changing pattern of such charges. The pattern represents the _real world_ that we are modelling. The contents of these transistors are referred to as _bits_, short for _binary digits_.  In this system, the columns represent powers of two (two, four, eight, sixteen, thirty two, sixty four, and so on). So the decimal number 55 becomes 110111 in binary, which is 32+16+4+2+1. With eight bits (also called a byte), you can store any decimal number from 0 to 255 (00000000 to 11111111 in binary). It’s no coincidence that the RGB system represents colour in a range of 0-255. It should be coming together for you.
@@ -269,27 +271,31 @@ Check out Figure NF below, representing the encoding of a simple series of chara
 
 ![Figure NF. ASCII for BUSI 2400](./Images/ascii.png)
 
-Let’s unpack Figure NF above. ASCII stands for _American Standard Code for Information Interchange_, and was developed from telegraph codes to represent some basic English-language characters and certain _control codes_ (non-printable codes which did things like ring a bell on a teletype machine to get the operator’s attention or to signal a certain state, such as ‘end of message transmission’). ASCII is a 7-bit encoding scheme (note the first bit of each character in Figure NF is never on) and can encode 128 characters and codes. (Remember binary? Using 7 bits, we can encode 64+32+16+8+4+2+1 = 127 and remembering that the range is 0 to 127 which equals 128 states.) Expanding to an 8-bit standard adds 128 states, allowing 256 things (0-255) to be represented. The 8-bit schema is the basis for the currently-standard (on the web) UTF-8 encoding scheme (which is _backwards compatible_ with ASCII-7 or USASCII as some call it). 
+Let’s unpack Figure NF above. ASCII stands for _American Standard Code for Information Interchange_, and was developed from telegraph codes to represent some basic English-language characters and certain _control codes_ (non-printable codes which did things like ring a bell on a teletype machine to get the operator’s attention or to signal a certain state, such as ‘end of message transmission’). ASCII is a 7-bit encoding scheme (note the first bit of each character in Figure NF is never on) and can encode 128 characters and codes. (Remember binary? Using 7 bits, we can encode 64+32+16+8+4+2+1 = 127 and also remember that the range is 0 to 127 and this equals 128 states.) Expanding to an 8-bit standard adds 128 states, allowing 256 things (0-255) to be represented. This 8-bit schema is the basis for the currently-standard (on the web) UTF-8 encoding scheme (which is _backwards compatible_ with ASCII-7 or USASCII as some call it). 
 
-Figure NF shows the ASCII encoding of the characters ‘BUSI 2400’. The characters are encoded in a vertical fashion from top to bottom. Also included are the binary values for each bit position. (Many of you experienced your eyes glazing over as soon as you saw this thing. But bear with me. I’ll be quick and gentle as we make sense of this stuff.) 
+Figure NF shows the ASCII encoding of the characters ‘BUSI 2400’. The characters are encoded in a vertical fashion from bottom to top. Also included are the binary values for each bit position. (Many of you experienced your eyes glazing over as soon as you saw this thing. But bear with me. I’ll be quick and gentle as we make sense of this stuff. And if no one has ever used that ‘quick and gentle’ line on you before, please be warned. It’s neither.) 
 
-The binary values make their way up, doubling with each bit position, from 1 to 128. This give us an 8-bit scheme. If we sum the decimal equivalent represented by the binary positions for the letter ‘B’, for example, we get 64+2=66. Thus the decimal equivalent of this binary pattern is 66. Taking a look at the table of ASCII values on the right (only printable characters are shown here), and locating decimal value 66 (it’s highlighted so you can find it) we see that the bit pattern translated to decimal 66 represents the letter ‘B’. (Note that a lowercase ‘b’ is decimal 98, an altogether different character and, to a computer, as different as the number 6 and the % character.) Summing the locations for the letter ‘U’ gives 85. Same process: look for the decimal 85 in the ASCII chart and note that it’s the letter ‘U’. And you can continue the process with the remainder of the BUSI 2400 representation and see that it makes sense. Look at the decimal value for the character ‘S’ and see if the binary sum equals 83. 
+The binary values make their way up, doubling with each bit position, from 1 to 128. This give us an 8-bit scheme. If we sum the decimal equivalent represented by the binary positions for the letter ‘B’, for example, we see that the ‘2’ bit and the ‘64’ bit are on (circle darkened), giving us 64+2=66. Thus the decimal equivalent of this binary pattern is 66. Taking a look at the table of ASCII values on the right (only printable characters are shown here), and locating decimal value 66 (it’s highlighted so you can find it) we see that our bit pattern translates to decimal 66, representing the letter ‘B’. (Note that a lowercase ‘b’ is decimal 98, an altogether different character and, to a computer, as different as the number 6 and the % character.) Summing the locations for the letter ‘U’ gives 85. Same process: look for the decimal 85 in the ASCII chart and note that it’s the letter ‘U’. You can continue the process with the remainder of the BUSI 2400 representation and see that it makes sense. Look at the decimal value for the character ‘S’ and verify that the binary sum of positions equals 83. 
 
 Note especially that the ASCII for the space between BUSI and 2400 (here denoted by a ‘˽’) is a real printable control code character, having decimal value 32. A space is as real to a computer as a letter or number and it’s not at all the equivalent of a ‘nul’ (nothing; absent;) character which has the ASCII code of 0000000 and the decimal value of 0 (zero)). 
 
 But that’s going too far. Let’s get back to what’s important here.
 
-Note again that the first (topmost or 128) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all the letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, along with some common typographic glyphs in the English language (such as swearing, often denoted by ‘!@#$%^&*’). 
+Note again that the first (topmost or 128) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all the letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, along with some common typographic glyphs [Interested in Glyphs?]( http://en.wikipedia.org/wiki/Glyph) in the English language (such as swearing, often denoted by ‘!@#$%^&*’). 
 
-I’m hoping that by this point you are starting to get the point. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the _real thing_ and the binary/digital representation of it that, well, it doesn’t matter at all. Witness Apple’s _retina displays_ which claim to be so close to analog that our retinas can’t tell the difference.
+I’m hoping that by this point you are starting to get the point. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the _real thing_ and the binary/digital representation of it such that, well, it doesn’t matter at all. Witness Apple’s _retina displays_ which Apple claims to be so close to analog that our retinae can’t tell the difference.
 
-And just to throw a wrench into the works, the notion of human _spirit_ and a _soul_ play large in this debate. If everything analog can ultimately be represented by a series of bits to the point where we can’t tell, then are people simply huge binary machines, as are computers, made up of such minute and many binary objects that we simply can’t tell? Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) 
+And just to throw a wrench into the works, the notion of human _spirit_ and a _soul_ play large in this debate. If everything analog can ultimately be represented by a series of bits to the point where we can’t tell, then are people simply huge binary machines, as are computers, made up of such minute and many binary objects that we simply can’t detect and measure them? Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) 
+
+Time for an XKCD…
+
+![](http://imgs.xkcd.com/comics/venus.png)
 
 [Interested in ASCII?](http://en.wikipedia.org/wiki/ASCII)
 
-[Interested in Glyphs?]( http://en.wikipedia.org/wiki/Glyph)
+Let’s bring this home. A very old but again ever-so-interesting site (www.liquidinformation.org) has [this](http://www.liquidinformation.org/ana_digi_liqui.html) to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. 
 
-Let’s bring this home. A very old but again ever-so-interesting site (www.liquidinformation.org) has this (http://www.liquidinformation.org/ana_digi_liqui.html) to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. First some definitions:
+First some definitions:
  
 **Analog**: a mechanism in which data is represented by continuously variable physical quantities
 
@@ -297,13 +303,13 @@ Let’s bring this home. A very old but again ever-so-interesting site (www.liqu
 
 **Liquid**: flowing freely like water. Having the properties of a liquid: being neither solid nor gaseous. Smooth and unconstrained in movement 
   
- The article offers: “We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet. 
+The article offers: “We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet. 
 
-“Well you know, it just ain't so. Imagine a couple of small grains of sand. Digital, separate, discrete. Now add a couple more. And a couple more. Millions more. Billions. And you have a beach. An analog, a smooth continuous environment. 
+“Well you know, it just ain't so. Imagine a couple of small grains of sand. Digital, separate, discrete. Now add a couple more. And a couple more. Millions more. Billions. And you have a beach. An analog, a smooth continuous environment. [sic] 
   
-Everyday home and office computers, with capacities to manipulate literally billions of bits literally billions of times a second […] have gone the way of the grains of sand and are definitively not just digital anymore. And they have the potential to become more than analog. They have the potential to become, and make us, liquid.”
+“Everyday home and office computers, with capacities to manipulate literally billions of bits literally billions of times a second […] have gone the way of the grains of sand and are definitively not just digital anymore. And they have the potential to become more than analog. They have the potential to become, and make us, liquid.”
  
-So the question for us is: At what point does digital become analog? At what point (threshold) does it matter to us? At what point can we detect? What resolution is important for us? This is akin to decimal place precision. How many decimals is it necessary to report in a table before the additional number becomes meaningless? 
+So the question for us is: At what point does digital become analog? At what point (threshold) does it matter to us? At what point can we detect? What resolution is important for us? This is akin to decimal place precision. How many decimals is it necessary to report in a table before the additional number becomes meaningless? Think about this. Especially the Accountants and Finance people among you. How may decimal places, how much precision, is necessary? When is it _good enough_? 
 
 This introduces the notion of  Just-noticeable Difference or JND. And of course a just-noticeable difference is context dependent (isn’t everything?). The message, however, is that at some point in the digitisation of analog phenomena, the distinction disappears and we can’t tell the difference. 
 
@@ -337,12 +343,5 @@ Then there's [1974](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-
 This is all about context or maybe EXFORMATION? I think exformation. 
 
 ![1974](./Images/1974_electra_225_rear.png)
-
-
-
-![](http://imgs.xkcd.com/comics/venus.png)
-
-
-
 
 ![](http://imgs.xkcd.com/comics/code_quality.png)
