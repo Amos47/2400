@@ -1,26 +1,32 @@
 # Chapter 2
 ## In which we dig in a little deeper
 
+We begin this chapter by stating unequivocally that computers have historically done a lousy job with _context_. They have been unable to understand, process and make sense of the nuanced detail of our lives and our interactions with each other and with our environment. Why? Because they have struggled with _knowledge_. They have struggled to _learn_ in the way that humans learn. They have not been able to generalise either from the specific to the general or from the general to the specific. They have been unable to observe a piece of art and decide if they _like_ it or not or even, until very recently, to quantify its characteristics. They struggle with deciding if a painting were a Picasso, a Monet or a Da Vinci. 
+
+Those kind of tasks; appreciating beauty, creating music, writing poetry, have been left to humans because computers lacked the ability to create and appreciate _context_. The can’t see the _bigger picture_. All this is changing. Read on.
+
 ![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
 
-Visual Thesaurus definitions for context: 
+The Visual Thesaurus definition for context reads, in part: 
 
 1. Language that helps to determine its interpretation 
 2. The set of facts or circumstances that surround a situation or event
 
-Between the two definitions, the second one is most important for us. I have written elsewhere that data can be considered to be _facts_. Just pieces of unencumbered specifics, providing measurement of some phenomenon. _Circumstance_, on the other hand, is a synonym for _context_. It’s the _situation_ or _condition_. It’s where we find ourselves. It’s all the stuff that happens _around_ an event or a place and time that give it the richness and allow us to understand, as it were, what’s happening in a particular setting. Here's what the online Oxford Reference has to say about context:
+Of the two definitions, the second is most important for us. I have written elsewhere that data are _facts_. Just pieces of unencumbered specifics, providing measurement outcome of some phenomenon. _Circumstance_, on the other hand, is a collection of facts which together frame the _situation_ or _condition_. It’s the _fact bath_ in which we continuously find ourselves. It’s all the stuff that happens _around_ an event at a place and time that give us the ability to weave a rich fabric of meaning around the event and allows us reduce the error around what’s happening in a particular setting. Here's what the online Oxford Reference has to say about context:
 
 "Most broadly, any frame of reference or framework within which something is perceived, produced, consumed, communicated, interpreted, or otherwise experienced, or which is seen as relevant to the description or analysis of any phenomenon."
 
 [Interested? http://bit.ly/1ITF5oD]
 
-The salient parts of that definition refer to the _frame of reference_ within which _something is perceived, consumed... or otherwise experienced..._ Why so important? Because context is everything. 
+The salient parts of that definition refer to the _frame of reference_ within which _something is perceived, consumed... or otherwise experienced..._ Why so important? Because context is everything. As humans, we live in a contextual soup of signs, signals, impressions, facts and suspicions. Computers can’t quite figure us out. Yet.
 
-Think for the moment of the process of getting ready for an adventure outside the home. Going to school maybe, or work, or just for a walk. Think about the decisions that need to be made, focusing on what to wear. If you and I are even somewhat alike, then you have a range of things to put on your back -- but what to wear today? First level of decision, likely made with no conscious thought whatsoever, is to consider the season. Thus the season provides the largest or highest level (most abstract) _context_ in which is made the decision of what to wear outside. Season sets the broad parameters. 
+So what is context?
 
-Next in line is likely the general state of the weather, within the broader context of season. If it's winter, is it sunny and cold or is a blizzard raging? Finally, just hearing that it's cold outside is insufficient context. As we know, being good Canadians, there's Winnipeg or Ottawa cold and then there's Vancouver or Niagara cold. Not the same thing at all. *Ergo* "cold" is a qualitative and relative measure, relative to the context of where one currently finds oneself and it doesn't much help us to decide on apparel. Summer cold is a different beast entirely from winter cold.
+Think for the moment of the process of getting ready for an adventure outside the home. Going to school maybe, or work, or just for a walk. Think about the decisions that need to be made, focusing on what to wear. If you and I are even somewhat alike, then you have a range of things to put on your back -- but what to wear today? First level of decision, likely made with no conscious thought whatsoever, is to consider the season. Thus the season provides the largest or highest level (most abstract) _context_ in which is made the decision of what to wear outside. Season sets the broad parameters. Fact: It’s cold in winter and hot in summer and spring and fall are a crap shoot. 
 
-Let's just drive this home by considering temperature in a little more detail. In determining what to wear, we might be wise to consult a weather service. Navigate to a website or click a _Follow me_ app such as www.theweathernetwork.com (and isn't the function of 'follow me weather' to provide the context of where one is currently located?) on your device or switch on the TV and select the weather channel (where the context will already have been chosen for you because the weather channel _knows_ to where the signal is being sent and thus provides the proper geo-context for you). Normally the current temperature is the most salient factor, thus we might find a large **20** prominently displayed on the screen. Not to put too fine a point on it, and you've likely already caught on, but *20 degrees* indicates entirely different weather in Buffalo as opposed to just across the lake in Toronto - even on a day where the objective weather is nearly exactly the same in both cities. That's owing to, obviously, the scale of temperature being measured in _Fahrenheit_ in Buffalo and _Celsius_ in Toronto. Twenty F is below freezing in Buffalo whereas 20 C is t-shirt weather in Toronto. So the context of location, regardless of what the weather actually is, is important. Context drives interpretation. Context makes information out of data and allows us to make decisions.
+Next in line is likely the general state of the weather, within the broader context of season. If it's winter, is it sunny and cold or is a blizzard raging? Finally, just hearing that it's cold outside is insufficient context. As we know, being good Canadians, there's Winnipeg or Ottawa cold and then there's Vancouver or Niagara cold. Not the same thing at all. *Ergo* "cold" is a qualitative and relative measure, relative to the context of where one currently finds oneself. It doesn't much help us to decide on apparel. Summer cold is a different beast entirely from winter cold.
+
+Let's just drive this home by considering temperature in a little more detail. In determining what to wear, we might be wise to consult a weather service. Navigate to a website or click a _Follow me_ app such as www.theweathernetwork.com (and isn't the function of 'follow me weather' to provide the **context** of where one is currently located?) on your device or switch on the TV and select the weather channel (where a local context will already be provided because the weather channel _knows_ to where the signal is being sent and thus provides the proper geo-context for you). Normally the current temperature is the most salient factor, thus we might find a large **20** prominently displayed on the screen. Not to put too fine a point on it, and you've likely already caught on, but *20 degrees* indicates entirely different weather in Buffalo as opposed to just across the lake in Toronto - even on a day where the objective weather is nearly exactly the same in both cities. That's owing to, obviously, the scale of temperature being measured in _Fahrenheit_ in Buffalo and _Celsius_ in Toronto. Twenty F is below freezing in Buffalo whereas 20 C is t-shirt weather in Toronto. So the context of location, regardless of what the weather actually is, is important. Context drives interpretation. Context makes information out of data and allows us to make decisions.
 
 ###Situatedness
 An interesting corollary of context is the notion of _situatedness_. Oxford Reference defines it partly as:
@@ -29,21 +35,27 @@ An interesting corollary of context is the notion of _situatedness_. Oxford Refe
 
  [[Interested?](http://bit.ly/1svpjLY)]
 
-Ever answered to someone “You had to be there.” in reply to the question “What are you guys talking about?” Then you appreciate _context_. The interpretation of a message or communication is dependent on the situation in which and to which the communication refers. Imagine how many ways a simple word like _Yes_ or _No_ could be interpreted when you consider situational variables such as voice inflection, facial expression, volume and the length of utterance of the speaker, to name but a few. There are literally dozens of possible interpretations or meanings for a simple word, depending on the context in which the word was uttered. Misreading the context of a situation can be a very serious matter.
+Ever answered to someone “You had to be there.” in reply to the question “What’s so funny?” If so, then you appreciate _context_. The interpretation of a message or communication is dependent on the situation in which and to which the communication refers. Imagine how many ways a simple word like _Yes_ or _No_ could be interpreted when you consider situational variables such as voice inflection, facial expression, volume and the length of utterance of the speaker, emphasis on a particular word or even syllable, to name but a few. There’s an hilarious comedy skit by a Jewish comic in which he successively puts the emphasis on each word in the interrogative phrase “He said I should bring a gift?” and in so doing changes the interpretation of the phrase each time. Try it yourself: Emphasise the **bolded** word in each sentence below and note how the meaning attached to the phrase changes each time:
+**He** said I should bring a gift?
+He **said** I should bring a gift?
+He said **I** should bring a gift?
+He said I **should** bring a gift?
+And so forth. 
 
-Oxford suggests that context is dynamically constructed, negotiated and contested. I would add that people navigate and interpret context all the time. We are social actors who are continuously jostling for a position of advantage among our peers and contemporaries. This is the human condition. 
+There are literally dozens of possible interpretations or meanings for a simple word, depending on the context in which the word was uttered. Misreading the context of a situation can be a very serious matter. If someone has ever quoted you _out of context_ then you know what we’re talking about here. So subtle and so powerful is context that we must dynamically manage all our behaviours in order to be appropriate _in context_.
 
-Our question is “Can machines be empowered to do the same?” We’ll get there in our discussion. Hang on. 
+Oxford suggests that context is dynamically constructed, negotiated and contested. I would add that people navigate and interpret context all the time. We are social actors who are continuously jostling for a position of advantage among our peers and contemporaries. Such is the human condition. 
+
+Our question in this section is “Can machines be empowered to do the same?” We’ll get there in our discussion. Hang on. 
 
 ###Meaning
+How do we derive meaning from data or communication? Through interpreting data and facts in context. Context provides meaning for meaningless data. But what does _meaning_ mean? Oxford to the rescue.
 
-How do we derive meaning from data or communication? Through context. Context provides meaning. But what does meaning mean? Oxford to the rescue.
-
-"Whatever it is that makes what would otherwise be mere sounds and inscriptions into instruments of communication and understanding. The philosophical problem is to demystify this power, and to relate it to what we know of ourselves and the world."
+"Whatever it is that makes what would otherwise be mere sounds […] into instruments of communication and understanding. The philosophical problem is to demystify this power, and to relate it to what we know of ourselves and the world."
 
 [Interested? http://bit.ly/1GoQwmb]
 
-What we _know_ of ourselves and the world is clearly _knowledge_.  From where comes knowledge?
+What we _know_ of ourselves and the world is clearly _knowledge_.  But from where comes knowledge?
 Oxford offers the following (edited for applicability in context ;). Knowledge is:
 1. **Facts, information**, and skills acquired by a person through **experience** or education; the theoretical or practical understanding of a subject
 2. Awareness or familiarity gained by experience of a fact or **situation** 
@@ -53,51 +65,68 @@ http://www.oxforddictionaries.com/us/definition/american_english/knowledge
 The important concepts are **bolded** in the definitions above. Let’s look at each in turn:
 1.	Facts – facts can be thought of as data; simple measurements lacking context.
 2.	Information – we deal with information below, and how it is derived from data and then becomes transformed into potential action through context.
-3.	Experience – experience is a synonym for context.
-4.	Situation – also a synonym for context.
-Where does this all fit in terms of business? 
+3.	Experience – come from observation of the results of actions, which flow from context.
+4.	Situation – clearly a synonym for context.
+
+This suggests a simple and general model of knowledge acquisition that applies to all creatures, great and small, that are faced with making decisions. But where does this all fit in terms of business? 
 
 ### Context in business decisions
 Figure LJLJ. A simple context
 ![](./Images/simple_context.png)
 
-Examine Figure LJLJ from left to right. Imagine this as the first ever measurement of a phenomenon; the very first ever observation of this data. The first day of a new business. It’s all brand new. View it as a system where _d_ (data) is the input and _K_ (knowledge) is the output. The only existing elements are measurements, which make the data tangible (length, for example, is a concept; 6 cm is tangible data representing length). 
+Examine Figure LJLJ from left to right. Imagine this as the first ever measurement of a phenomenon in a state of complete _nescience_ (absence of knowledge); the very first ever occurrence of this data; perhaps the first day of a new business where everything is all brand new. View it as a system in the way we understand systems from the introductory chapter where _d_ (data) is the input and _K_ (knowledge) is the output. The only existing elements are measurements, which make the data tangible (length, for example, is a concept or a variable; 6 cm is tangible data and a fact representing the length of something being measured). 
 
-The process begins as newly-measured data approach from outside the system and become understood in a _context_ where the data become _information_. This creation of new information allows a decision to be made, and decisions lead either to _action_ or _non-action_. Actions/non-actions lead to results, the measurement of which yield new data (observations) in the context of that situation, which leads ultimately to knowledge (experienced gained by observing the effects of the action/non-action in this particular context). This is a theory of how data are transformed into knowledge. 
+There might well be a question or a challenge creating a strategy vacuum and drawing data into that question context. It’s also possible that exploratory research is driving the data initiative, as in “Let’s look at our data and see what it has to tell us.” with no particular agenda in mind. 
 
-There are thus two contexts in each chain from data to knowledge. There’s the initial context with the decision and action attendant upon it, then there’s the context resulting from the action. This is how we gain knowledge. We experiment. We make decisions and we see what happens. But there is a much richer model to come, wherein we benefit from our accumulated knowledge and our observations of context. Hang on. 
+Regardless of what nudged the process into action (remember that systems need a trigger in order to start), the ensuing procedure is the same. The process begins as newly-measured data approach from outside the system and become understood in a _context_ where the data become _information_. This creation of new information allows a decision to be made, and decisions lead either to _action_ or _inaction_. Actions/inactions lead to results, the measurement of which yield new data (measured observations) in the context of that situation, which leads ultimately to knowledge (experienced gained by observing the effects of the action/inaction in this particular context). This is a general theory of how data are transformed into knowledge. 
+
+There are thus two contexts in each chain from data to knowledge. There’s the initial context with the decision and action/inaction attendant upon it, then there’s the context resulting from the action/inaction. This is how we gain knowledge. We act or stand still. We experiment. We make decisions and we see what happens. But there is a much richer model to come, wherein we benefit from our accumulated knowledge and our observations of context. That’s the only real reason for any of this. To get better at what we do based on experience. Hang on. 
 
 It’s important to note that information only occurs within a context, and each context is, by definition, unique. There can be similar contexts, contexts that share traits with other, but each context is itself unique. The universe ticks ahead and an infinite array of things change with each tick. Thus it’s important to bring as much data as possible to bear on a particular context, as it will never occur again. Everything changes in the ticking of the clock. We will return to this.  
 
 Let’s re-examine our clothing decision in light of this theory.  
 
-Imagine a new friend has just landed from Mars. Or Alberta. No preconceived notions (previous contexts) upon which to base a choice of clothing, and you’re not there to help. Our Martian friend has an objective measurement of temperature (temperature being a universal measure), is aware of their location (earth) and of the star date, and finally that they have a certain tolerance for temperature (an operating range as it were – this is accumulated knowledge). What to wear? 
+Imagine a new friend has just landed from Mars. Or Alberta. Our visitor needs to find food and has no preconceived notions (previous contexts) upon which to base a choice of clothing. Our Martian friend has an objective measurement of temperature (temperature being a universal concept and all living organisms are sensitive to temperature and have an _operating range_ outside of which they cannot function), is aware of their location (earth) and of the star date, and finally that they have a certain tolerance for temperature (this is accumulated knowledge). What to wear? 
 
-In this knowledge-acquisition model, there is _always_ context. The context in this case is that there is precious little data upon which to base the information required to choose what to wear. So in this context, our Martian friend simply chooses to wear nothing (no action) while going for a stroll to the mall.  Turns out today is February 10th and we’re in Ottawa. Tad chilly. The result of this decision to take no dressing action is that our friend experiences intense cold against an unprotected body and that cold is outside the sustainable operating range of a healthy Martian. Their body measures the temperature and the effects of that temperature and this data, in the new context, becomes information. When this information in this context, in association with the information provided by the initial context is stored, it becomes knowledge. 
+In our knowledge-acquisition model, there is _always_ context. The context in this case is that there is precious little data upon which to base the information required to choose what to wear. So in this context, our Martian friend simply chooses to wear nothing (no action) while going for a stroll to the mall. Turns out today is February 10th and we’re in Ottawa. Tad chilly. The result of this decision to take no dressing action is that our friend experiences intense cold against an unprotected body and the outside temperature is outside the sustainable operating range of a healthy Martian. Their body measures the temperature and the effects of that temperature and this data, in the new context, becomes information. This information in this context, in association with the information provided by the initial context is stored, becomes knowledge. Now our friend has a bit of a bead on what to wear. They have gained some _knowledge_. 
 
-The nugget of knowledge for our little green friend is that at this temperature on this date in this location taking no action to protect oneself from the elements is potentially damaging.  Bingo. Knowledge and a new context upon which to base further action. Walk through this scenario again with this knowledge but with the same Martian in the same situation on July 10. What would the process look like? 
+The nugget of knowledge for our little green friend is that at this temperature on this date in this location taking no action to protect oneself from the elements is potentially damaging. Bingo. Knowledge and a new context upon which to base further action. Walk through this scenario again with this knowledge but with the same Martian in the same situation on July 10. What would the process look like? 
 
-To answer this question, we must move to the more elaborated model of knowledge acquisition (or decision making if you prefer). See figure 1.
+To answer this question, we must move to the more elaborated model of knowledge acquisition (or decision making if you prefer). See Figure LAJ.
 
-Figure 1: The flow of data into contextual information to decision, action and knowledge
+Figure LAJ: The flow of data into contextual information to decision, action and knowledge
 ![Context](./Images/context.png)
 
-In Figure 1 we see illustrated how the process of measurement (m), whether conscious or not, provides a value for a new piece of data (d), which in combination with existing, measured data (whether newly-measured or previously measured) flows into a new context (circle) where new information (green) is produced when combined with knowledge available through feedback from previous contexts (green arrow). This new 'mashup' provides the necessary ingredients for a new decision. The decision begets some results, whether through action or non-action, which, in turn, creates new information in this new context. This new information in turn feeds knowledge from observing the outcome of the action. This new knowledge (K), in combination with prior knowledge, in its accumulated glory, washes back over any new context. The creation of knowledge is thus a dynamic, fluid and constant activity for living organisms and inanimate entities such as organisations. 
+In Figure LAJ we see illustrated how the process of measurement (m), whether conscious or not, provides a value for a new piece of data (d), which in combination with existing, measured data (whether newly-measured or previously measured) flows into a new context (circle) where new information (green) is produced when combined with knowledge available through feedback from previous contexts (green arrow). This new 'mashup' provides the necessary ingredients for a new decision. The decision begets some results, whether through action or inaction, which, in turn, creates new information in this new context. This new information in turn feeds knowledge from observing the outcome of the action. This new knowledge (K), in combination with prior knowledge, in its accumulated glory, washes back over any new context. The creation of knowledge is thus a dynamic, fluid and constant activity for living organisms and inanimate entities such as organisations alike. 
 
-Knowledge creation can be seen as a system, with the four main entities identified by coloured ovals in Figure 1. On the left is _Input_, flowing into _Process_, which produces _Output_ which is fed back into the system as _Input_ to the continuous process of knowledge production and acquisition. 
+###Schemata and knowledge acquisition
+This model of knowledge acquisition is not inconsistent with, and may be seen as an extension of, the work done in the fields of Psychology and Cognitive Science in the area of _schemata_. Pioneering work by Bartlett, extended by Jean Piaget, (see the Interested? links below) postulates that people learn about and make sense of their work by building, modifying, extending and discarding mental models of how things work. A quick (and brutally naïve) explanation and example follows.
+
+ The first premise necessary to accept if one subscribes to the schema notion of knowledge acquisition is that of _tabula rasa_, loosely translated and understood to mean _blank slate_ as in a blank chalk board in a classroom. As far back as Aristotle, the notion that humans are born with a blank slate mind has been popular. [Interested?]( http://en.wikipedia.org/wiki/Tabula_rasa) This _blank slate_ is written on, erased, altered and generally enhanced as humans grow and learn and acquire knowledge. So at the first encounter of a child with a dog, for example, the rudimentary schema of dog_ is created that inscribes the characteristics of the dog (a particular size creature with four legs, fur, a tail and a long snout of a nose, etc.) to the dog schema. A parent label the creature _dog_ and the kid is off to the races, able to recognise all manner of four-legged creatures forever more. But trouble looms…
+
+Next, our fearless young dog expert encounters a cow. Slightly bigger, but hey, it’s got four legs, fur, a snout and a tail. Must be a dog. So our schema builder points to the cow and happily announces to their parents “Dog!” Nope, the parents correct, that’s a cow. New schema in order here. At the same time, it’s possible that a _super schema_ is also developed, this one encompassing the characteristics we know as _animal_ and containing the attributes “four legs, fur, tail, long snout” of which _dog_ and _cow_ are specific examples. _Dog_ might now have an encoded attribute for _size_ that would differentiate the dog from the cow based on size. But _calf_ and _pony_ and _puppy_  and _kitten_ present problems, necessitating further refinements of the existing schemata. We won’t even get into the difference between a house cat (and the colour variation) and the myriad of _jungle casts_. Learning can be frustrating. 
+
+It is through continual exposure to new data and continual feedback based on decisions made emanating from that exposure that specific and actionable knowledge is created and stored. You can see that the notion of context fits nicely here (well maybe you can’t see yet, but I can and I hope you will come to an understanding of these principles as we progress). It is also very interesting to note the similarities between the schemas of cognitive psychology and the software development technique known as _Object-Oriented Programming_ (or OOP). I’ll try to remember to we’ll revisit that connection in the chapter on Systems Development… :)   
+
+Knowledge acquisition (also referred to as the process of _Knowledge Engineering_) is also the biggest obstacle to creating _Artificial Intelligence_ (or AI). If we have time to fit that in somewhere, it will likely be in the final chapter on _Future Trends_. While we’re here, I also strongly recommend a course (or even picking up a book on the topic) in Cognitive Psychology for anyone interested in ICT, Marketing, Finance or Management. It’s so cool you might just fall in love.  
+
+[Interested in schemas?]( http://en.wikipedia.org/wiki/Schema_(psychology))
+[Interested in Knowledge Acquisition?]( http://www.wisegeek.com/what-is-knowledge-acquisition.htm)
+
+Knowledge acquisition can be seen as a system, with the four main entities identified by coloured background ovals in Figure LAJ. On the left is _Input_, flowing into _Process_, which produces _Output_ which is fed back into the system as _Input_ to the continuous process of knowledge production and acquisition. 
 
 ## Important takeaways
 * 
 A context is a new, unique and non-reoccurring circumstance created out of the intersection of existing and new data and existing knowledge gained from previous contexts. It can only occur once. No two contexts are alike.
 
 * 
-Since contexts (and thus decisions emanating from the information created in them) are unique, it is critical to provide the optimal amount of data and knowledge as input to the context. There is no substitute for accurately-measured data and accumulated knowledge. 
+Since contexts (and thus decisions emanating from the information created in them) are unique, it is critical to provide the optimal (note I didn’t write _maximal_ as too little data can be as confounding as too much data) amount of data and knowledge as input to the context. There is no substitute for accurately-measured data and accumulated knowledge. 
 
 * 
 Decision quality is a function of reducing error around the decision outcome. Accumulated knowledge from previous contexts and of the outcomes of decisions attendant upon them will reduce error. Better decisions are the result. If you have _seen stuff like it before_ and have _observed the outcome_ you are clearly in a better position to make a more accurate prediction of the future. 
 
 * 
-Knowledge is accumulated by observing results in context. 
+Knowledge is accumulated by observing results of action/inaction in context. 
 
 * 
 Wisdom is knowing how and when to use it…
@@ -108,14 +137,14 @@ Our business dictionary defines Information Theory as:
 
 [[Interested?](http://www.businessdictionary.com/definition/information-theory.html)]
 
-To really understand Shannon and Weaver (and a guy named Weiner), we need to look at little more deeply into the theory of information.
+To really understand Shannon and Weaver (and a guy named Weiner), we need to look a little more deeply into the theory of information.
 
 ### Entropy
 From another relatively old (1998) but still [excellent piece](http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of _entropy_. 
 
 “In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals high level of chaos.”  
 
-Thus for decision making, entropy is the enemy. Entropy is _junk on the signal, static on the line,._ It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the volume of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question.
+Thus for decision making, entropy is the enemy. Entropy is _junk on the signal or static on the line._ It thwarts our efforts to make sense of a data transmission  and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the **volume** of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question and to guide action.
 
 But this (rather dense – too much so to make it an [Interested?] link) article also raises some crucial points. Specifically that “The word information is derived from Latin _informare_ which means "give form to". […] Most people tend to think of information as disjointed little bundles of 'facts'. In the Oxford definition of the word it is connected both to knowledge and communication. […] The way the word information is used can refer to both 'facts' in themselves and the transmission of the facts.”
 
@@ -126,6 +155,10 @@ The author continues.
 "Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...]
 
 "The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation. [...]
+
+Thus organisation of data yields … this seems contradictory. Explain this better! 
+
+ALSO link this to less input more output theory for systems. Like more pure rock gives better ore. More clear cell transmission yields better understanding of the data in context. 
 
 "What is information and how is it measured? Wiener defines it as a probability: One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations." (article author’s bold)
 
@@ -201,11 +234,13 @@ Figure LLJJ. Context with ICT contribution
 ###System input
 We begin on the input end of the context system. And we begin pre-data, with measurement. ICT provides several critical functions in terms of data measurement, beginning at the very basic level of sensing. ICT systems are deployed in a myriad of situations as sensors, simply sitting quietly waiting for something to happen. Sensing a phenomenon is often akin to measuring it – a photon of light passing through a pane of glass, for example, causes the count of photons to tick up by one. An RFID (Radio Frequency Identification) system on a gas pump continuously broadcasts its presence, waiting for a customer’s matching key fob transmitter to spring to life in response to the signal. Then all kinds of commerce can happen. Sensors are everywhere from parking lots to soft drink dispensers and from washrooms to smartphones. And more and more sensors are being deployed all the time. We will return to this topic a number of times as we move forward. 
 
+[Interested in measurement?]( http://en.wikipedia.org/wiki/Measurement)
+
 ICT can of course measure things independent of sensing. A scale on the highway measures truck weight in the same way a bathroom scale measures our own weight, minus the incessant upward bias that shows our weight as impossibly and erroneously heavy… oops. Did I say that out loud? A radar gun measures speed. An elevator measures weight and will refuse to close its doors if overloaded. An accelerometer measures the speed of your finger swipe on a tablet computer in order to calibrate the throwing of a lance at an invading barbarian in protecting your virtual village from attack. All are measurement devices. In performing this function, ICT systems must be engineered to respect the most critical tenet of measurement: accuracy and its constituents, trueness and precision, and including _reproducibility_. Once measured, the same data must yield the same results using the same technique. This is sometimes referred to as _reliability_.
 
-Note also that the infographic implies that a lot of data just _fly right by_ the system. This is true in two ways. First, data that has no known bearing on the current context has no value in this system. Data about vehicle mileage, no matter how accurate and reliable, simply cannot add to the context of a decision about the marketing of disposable diapers, for example (though both involve tailpipe emissions). It’s simply not in the domain. So this data flies right by. 
+Note also that the infographic implies that a lot of data just _fly right by_ the system. This is true in two ways. First, data that has no known bearing on the current context has no value in this system. Data about vehicle fuel efficiency, no matter how accurate and reliable, simply cannot add to the context of a decision about the marketing of disposable diapers, for example (though both involve tailpipe emissions). It’s simply not in the domain. So this data flies right by. 
 
-Next, however, is a more important aspect. There is simply so much data being generated every micro-second (5 EB every two days according to Google’s Schmidt) that it’s impossible to capture it all in either it’s incredible volume or to process it in a timely manner before it becomes stale, so vast is the big data cloud. But what’s important is to get as much of it as possible in order to create the richest context and thus the most informed information, leading to the most accurate decisions about a course of action. 
+Next, however, is a more important aspect. There is simply so much data being generated every micro-second (5 EB every two days according to Google’s Schmidt) that it’s impossible to capture it all in either it’s incredible volume or to process it in a timely manner before it becomes stale, so vast is the big data cloud. But what’s important is to capture an optimal amount in order to create the richest context and thus the most informed information, leading to the most accurate decisions about a course of action. 
 
 This leads to the next contribution of ICT to the area of decision making and knowledge acquisition, that of dealing with the data itself. ICT systems can act as data filters, enforcing rules about relevancy, domain, accuracy, currency and reliability. Data can be fed through systems and sorted, filtered, combined and then stored for later use. When required, systems can assemble and package data into useable formats (a spreadsheet format for example) and then send them on their way to other systems for analysis (via network file sharing or even email). This is referred to as _marshalling_. ICT can store, slice and dice and then assemble and transport data. A one-stop shop for management. 
 
@@ -281,11 +316,33 @@ Note especially that the ASCII for the space between BUSI and 2400 (here denoted
 
 But that’s going too far. Let’s get back to what’s important here.
 
-Note again that the first (topmost or 128) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all the letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, along with some common typographic glyphs [Interested in Glyphs?]( http://en.wikipedia.org/wiki/Glyph) in the English language (such as swearing, often denoted by ‘!@#$%^&*’). 
+Note again that the first (topmost or 128) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all the letters of the alphabet in both _UPPERCASE_ and _lowercase_ format, the numbers from 0-9, along with some common typographic glyphs [Interested in Glyphs?]( http://en.wikipedia.org/wiki/Glyph) in the English language (such as swearing, often denoted by ‘!@#$%^&*’) and the mathematical operators such as +-*/, etc. Other implementations of ASCII provide mappings to the Euro glyph (€) or the British Pound Sterling (₤) for example.   
 
 [Interested in ASCII?](http://en.wikipedia.org/wiki/ASCII)
 
+On top of ASCII is layered a mapping onto a specific font. One the specific character is known, computers can draw that character according the style characteristics of particular font sets. This online publishing service doesn’t allow one to specify particular fonts in the text. I had to choose one font for the whole book. Below is an image of this book when it was in draft form in an MS Word doc with several fonts shown. Important to note is that the ASCII codes for each letter are identical. Only the mapping of those codes to the particular font style are different, and that happens on a different layer altogether. 
+
+The quick brown fox jumps over the lazy dog. (Calibri sans serif)
+The quick brown fox jumps over the lazy dog. (Trebuchet sans serif)
+The quick brown fox jumps over the lazy dog. (Algerian all caps decorative)
+The quick brown fox jumps over the lazy dog. (Baskerville Serif)
+The quick brown fox jumps over the lazy dog. (Brush Script decorative)
+The quick brown fox jumps over the lazy dog. (Stencil bold all caps serif)
+The quick brown fox jumps over the lazy dog. (Comic Sans)
+The quick brown fox jumps over the lazy dog. (Old English decorative)
+The quick brown fox jumps over the lazy dog. (OCR A monospace)
+
+Figure XYZ. Fonts… 
+![Figure XYZ. Fonts](./Images/fonts.PNG)
+The phrase “The quick brown fox jumps over the lazy dog.” Is often seen in connection with a discussion of fonts as it contains all 26 letters of the English alphabet. Other aspects of fonts include whether the individual characters have little _feet_ on them (called _serifs_ and rhymes with _sheriffs_ - fonts without feet are called _sans serif_) whether they are bold, italics, underlined, strikethrough or otherwise _decorated_. In addition, fonts have a _size_ attribute, normally represented in _points_. IN addition, some fonts are _monospaced_ meaning that all characters occupy the exact same _real estate_ on the screen or in print, regardless of the difference in the actual size of the character. Note the difference in width between a lowercase L “l” and an UPPERCASE “X” for example. The OCR font above is monospace. 
+
+All this is beyond our scope here but you might be [Interested?]( http://en.wikipedia.org/wiki/Font) and (http://www.imdb.com/title/tt0133093/?ref_=nv_sr_1)
+
 I’m hoping that by this point you are starting to get the point. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the _real thing_ and the binary/digital representation of it such that, well, it doesn’t matter at all. Witness Apple’s _retina displays_ which Apple claims to be so close to analog that our retinae can’t tell the difference.
+
+And what self-respecting chapter on this topic would be complete without a reference to the Keanu Reeves, Lawrence Fishburne epic movie series _The Matrix_, first released in 1999? 
+
+[Interested?]( http://en.wikipedia.org/wiki/The_Matrix) and [Interested?](http://www.imdb.com/title/tt0133093/?ref_=nv_sr_1)
 
 And just to throw a wrench into the works, the notion of human _spirit_ and a _soul_ play large in this debate. If everything analog can ultimately be represented by a series of bits to the point where we can’t tell, then are people simply huge binary machines, as are computers, made up of such minute and many binary objects that we simply can’t detect and measure them? Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) 
 
