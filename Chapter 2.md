@@ -333,7 +333,9 @@ The quick brown fox jumps over the lazy dog. (Old English decorative)
 The quick brown fox jumps over the lazy dog. (OCR A monospace)
 
 Figure XYZ. Fonts… 
+
 ![Figure XYZ. Fonts](./Images/fonts.PNG)
+
 The phrase “The quick brown fox jumps over the lazy dog.” Is often seen in connection with a discussion of fonts as it contains all 26 letters of the English alphabet. Other aspects of fonts include whether the individual characters have little _feet_ on them (called _serifs_ and rhymes with _sheriffs_ - fonts without feet are called _sans serif_) whether they are bold, italics, underlined, strikethrough or otherwise _decorated_. In addition, fonts have a _size_ attribute, normally represented in _points_. IN addition, some fonts are _monospaced_ meaning that all characters occupy the exact same _real estate_ on the screen or in print, regardless of the difference in the actual size of the character. Note the difference in width between a lowercase L “l” and an UPPERCASE “X” for example. The OCR font above is monospace. 
 
 All this is beyond our scope here but you might be [Interested?]( http://en.wikipedia.org/wiki/Font) and (http://www.imdb.com/title/tt0133093/?ref_=nv_sr_1)
