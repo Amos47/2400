@@ -5,7 +5,7 @@ We begin this chapter by stating unequivocally that computers have historically 
 
 Those kind of tasks -- appreciating beauty, creating music, writing poetry -- have been left to humans because computers lacked the ability to create and appreciate _context_. The can’t see the _bigger picture_. All this is changing. Read on.
 
-![visualthesaurus.com Definition of context](./Images/vt_context.PNG)
+![visualthesaurus.com Definition of context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_context.PNG)
 
 The Visual Thesaurus definition for context reads, in part: 
 
@@ -74,7 +74,8 @@ This suggests a simple and general model of knowledge acquisition that applies t
 
 ### Context in business decisions
 Figure LJLJ. A simple context
-![](./Images/simple_context.png)
+
+![Simple context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/simple_context.png)
 
 Examine Figure LJLJ from left to right. Imagine this as the first ever measurement of a phenomenon in a state of complete _nescience_ (absence of knowledge); the very first ever occurrence of this data; perhaps the first day of a new business where everything is all brand new. View it as a system in the way we understand systems from the introductory chapter where _d_ (data) is the input and _K_ (knowledge) is the output. The only existing elements are measurements, which make the data tangible (length, for example, is a concept or a variable; 6 cm is tangible data and a fact representing the length of something being measured). 
 
@@ -97,7 +98,8 @@ The nugget of knowledge for our little green friend is that at this temperature 
 To answer this question, we must move to the more elaborated model of knowledge acquisition (or decision making if you prefer). See Figure LAJ.
 
 Figure LAJ: The flow of data into contextual information to decision, action and knowledge
-![Context](./Images/context.png)
+
+![Context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/context.png)
 
 In Figure LAJ we see illustrated how the process of measurement (m), whether conscious or not, provides a value for a new piece of data (d), which in combination with existing, measured data (whether newly-measured or previously measured) flows into a new context (circle) where new information (green) is produced when combined with knowledge available through feedback from previous contexts (green arrow). This new 'mashup' provides the necessary ingredients for a new decision. The decision begets some results, whether through action or inaction, which, in turn, creates new information in this new context. This new information in turn feeds knowledge from observing the outcome of the action. This new knowledge (K), in combination with prior knowledge, in its accumulated glory, washes back over any new context. The creation of knowledge is thus a dynamic, fluid and constant activity for living organisms and inanimate entities such as organisations alike. 
 
@@ -120,7 +122,7 @@ Knowledge acquisition can be seen as a system, with the four main entities ident
 ## Important takeaways
 * 
 A context is a new, unique and non-reoccurring circumstance created out of the intersection of existing and new data and existing knowledge gained from previous contexts. It can only occur once. No two contexts are alike.
-
+	
 * 
 Since contexts (and thus decisions emanating from the information created in them) are unique, it is critical to provide the optimal (note I didn’t write _maximal_ as too little data can be as confounding as too much data) amount of data and knowledge as input to the context. There is no substitute for accurately-measured data and accumulated knowledge. 
 
@@ -204,7 +206,7 @@ Entropy is the friend of _information volume_ but the enemy of good _decision ma
 
 Below is an infographic of sorts, showing the five faces of information. The faces and their characteristics are from a (highly recommended) 2012 book by Joel Katz entitled _Designing Information: Human factor and common sense in design_ (2012, John Wiley & Sons).  
 
-![Nature of information](./Images/nature_of_info.png)
+![Nature of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/nature_of_info.png)
 
 I have grouped Katz’s five types into three, then ranked them in terms of their importance to us as students of business, but moreover, added a column delineating the approach taken by ICT to the challenge of how to deal with each group. Let’s begin at the bottom, and explain each in turn. 
 
@@ -231,7 +233,7 @@ We can now provide a little more depth in terms of contextualisation and the rol
 
 Figure LLJJ. Context with ICT contribution
 
-![ICT context](./Images/ict_context.png)
+![ICT context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ict_context.png)
 
 ###System input
 We begin on the input end of the context system, and we begin pre-data, with measurement. ICT provides several critical functions in terms of data measurement, beginning at the very basic level of _sensing_. ICT systems are deployed in a myriad of situations as sensors, simply sitting quietly and waiting for something to happen. Sensing a phenomenon is often akin to measuring it – a photon of light passing through a pane of glass, for example, causes a count of photons to tick up by one. An RFID (Radio Frequency Identification) system on a gas pump continuously broadcasts its presence, waiting for a customer’s matching key fob transmitter to spring to life in response to the signal. Then all kinds of commerce can happen. Sensors are everywhere from parking lots to soft drink dispensers and from washrooms to smartphones. And more and more sensors are being deployed all the time. We will return to this topic a number of times as we move forward. 
@@ -269,7 +271,7 @@ The distinction between the concepts of _analog_ and _digital_ is important here
 Consider colour. In Figure ECC below, we see colour represented in two different ways, as discrete swatches representing the ROYGBIV colours of the rainbow and then, below that, as a continuum of those visible colours. 
 
 Figure ECC. Illustrating the difference between analog and digital
-![Analog and digital](./Images/analog_digital.png)
+![Analog and digital](https://raw.githubusercontent.com/robertriordan/2400/master/Images/analog_digital.png)
 
 We can (most of us – some people suffer with some form of colour blindness [Interested?]( http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/)) easily discern the difference between red and orange, or orange and yellow from among the boxes in the top row of the figure. And we could equally easily point to a green region or a blue region in the continuous strip of colour beneath. The challenge becomes specifying the point at which yellow becomes green, or exactly where indigo becomes violet. Try and pinpoint the exact location where yellow disappears and becomes green as we move left to right. The continuous nature of the colour strip makes it difficult to nail anything down, in fact. 
 
@@ -279,7 +281,7 @@ It doesn’t matter to us how this or other colour representation methods (such 
 
 Figure JP. Subtle differences in RGB
 
-![Can you tell the difference?](./Images/rgb.png)
+![Can you tell the difference?](https://raw.githubusercontent.com/robertriordan/2400/master/Images/rgb.png)
 
 The four reds are, for certain, red. The normally-sighted would have no trouble identifying each and all as being of the colour red from among the other colours of the visible spectrum. But the differences within the range of red are more difficult to detect. The leftmost (labelled 255) is the same red as in Figure ECC. I have altered the amount of red first from the max to 254, then to 245 and then to 225. The difference between 255 and 254 is so slight that it is nearly impossible to detect at the resolution of that figure on any of my devices or monitors with my eyes (such as they are). _Perhaps a slightly darker tint?_ We begin to see a subtle but discernable difference at 245 (a clearly darker tint) while the difference at 225 is quite noticeable. For some purposes, a specific red of a specific hue might be required. For the vast majority of others, any of these reds will do. We would all stop at a traffic light if it showed any of these reds. And that’s the point.
 
@@ -291,7 +293,7 @@ I’m hoping that by this point you are starting to get the point. The point bei
 
 And what self-respecting chapter on this topic would be complete without a reference to the Keanu Reeves / Lawrence Fishburne epic movie series _The Matrix_, first released in 1999, written and directed by The Wachowski Brothers? 
 
-[Interested?]( http://en.wikipedia.org/wiki/The_Matrix) and/or  [Interested?](http://www.imdb.com/title/tt0133093/?ref_=nv_sr_1)
+[Interested?]( http://en.wikipedia.org/wiki/The_Matrix) and/or [Interested?](http://www.imdb.com/title/tt0133093/?ref_=nv_sr_1)
 
 And just to throw a wrench into the works, the notion of human _spirit_ and a _soul_ play large in this debate. If everything analog can ultimately be represented by a series of bits to the point where we can’t tell the difference, then are people simply huge binary machines, as are computers, made up of such minute and many binary objects that we simply can’t _yet_ detect and measure them? Is the analog nature of nature just digital at such a fine level of precision that we simply haven’t seen it yet?  Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) 
 
@@ -331,7 +333,7 @@ But what’s more interesting for us is the parallel he draws between sound and 
 
 We might also want to consider the concept of _resolution_. The resolution of a sensor is the smallest change it can detect in the quantity that it is measuring. Sensor resolution is being continuously refined.
 
-[Interested?] (http://en.wikipedia.org/wiki/Sensor)
+[Interested?](http://en.wikipedia.org/wiki/Sensor)
 
 Why matters all of this? It matters because as systems and sensors and communication proliferate, their ability to measure with more and more precision in more and more places at lower and lower resolutions at increasing rates of speed provides a richer and richer stream of input data to flow into and to generate our contexts. And that’s how decisions get made. As ICT is increasingly able to provide more and more context, machines are more and more able to work at a resolution level that is not only _good enough_ for most situations, but maybe better than we humans can do…
 
@@ -369,8 +371,10 @@ We come finally to the Knowledge component of Figure LLJJ. This is the culminati
 We next tackle the feedback piece and talk about the synthesis of new with existing knowledge and how it washes back over new and unique contexts to become input to the next set of decisions.
 
 When the context diagram is complete, we bring it back to the big measurement picture.
+
 Figure JL. Measurement
-![The big picture in and organisation](./Images/measurement.png)
+
+![The big picture in and organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/measurement.png)
 
 The big context of all the scales and measures and everything wrapped up here... start at the Type of work and work done by… 
 
@@ -384,6 +388,14 @@ Next up is the activity of Data collection and storage. Again, the vast majority
 We next find Context, where we see the dominance of machines being reversed with human activity taking the lead. This won’t last long however, as machines are coming to the fore in terms of providing context through the mass deployment of sensors and artificial intelligence. More later.
 
 With context created, however, we find machines being responsible for the majority of information creation. This assumes that the contexts created by humans are being turned over to machines to create the information necessary to make decisions. There is simply just so fucking much information out there that it’s impossible for humans to keep up. In order to make decisions that return value to the decision makers, it is imperative that …
+
+[Edit this…]
+Bounded rationality is the idea that in decision-making, rationality of individuals is limited by the information they have, the cognitive limitations of their minds, and the finite amount of time they have to make a decision. It was proposed by Herbert A. Simon as an alternative basis for the mathematical modelling of decision making, as used in economics and related disciplines; it complements rationality as optimization, which views decision-making as a fully rational process of finding an optimal choice given the information available.[1] Another way to look at bounded rationality is that, because decision-makers lack the ability and resources to arrive at the optimal solution, they instead apply their rationality only after having greatly simplified the choices available. Thus the decision-maker is a satisficer, one seeking a satisfactory solution rather than the optimal one.[2] Simon used the analogy of a pair of scissors, where one blade is the "cognitive limitations" of actual humans and the other the "structures of the environment"; minds with limited cognitive resources can thus be successful by exploiting pre-existing structure and regularity in the environment.[1]
+
+Some models of human behavior in the social sciences assume that humans can be reasonably approximated or described as "rational" entities (see for example rational choice theory). Many economics models assume that people are on average rational, and can in large enough quantities be approximated to act according to their preferences. The concept of bounded rationality revises this assumption to account for the fact that perfectly rational decisions are often not feasible in practice because of the finite computational resources available for making them.
+
+http://en.wikipedia.org/wiki/Bounded_rationality
+[end edit]
 
 When it comes to decisions, the activity is nearly exactly split between human and machine. 
 
@@ -418,9 +430,11 @@ At the highest level, strategy gets made in the smoky war rooms. General Highbot
 
 Mittlestaff then pushes the tactical plan down the line to Captain Gitterdunn, who works at the operational level, at the interface with the enemy. Gitterdunn receives the tactical directives, is given access to the human and physical resources and proceeds to organise and execute the plan, with the help of subordinates such as Sergeant Spitzumfire, according to the tactical directives. The soldiers, such as Private Gruntz, are equipped, taken into battle and expected to succeed.  
 
-Gitterdunn reports at regular intervals on how the battle is progressing. In turn, Mittlestaff (who might be coordinating several different battles), informs Highbottom, who has the highest view in our scenario. Much of the _gut work_ is done by Mittlestaff. Middle management has forever been under-appreciated.
+Gitterdunn reports at regular intervals on how the battle is progressing. In turn, Mittlestaff (who might be coordinating several different battles), informs Highbottom, who has the highest view in our scenario. Much of the _gut work_ is done by Mittlestaff. Middle management has forever been under-appreciated. Take a look at Figure PP below:
 
-![Strategy](./Images/strategy.png)
+Figure PP. Strategy, tactics and operations – the case of taking a hill 
+
+![Strategy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/strategy.png)
 
 You can see that information flows both ways in this scenario. From the top, the messages sent down are “Do this!” The messages pushed up from the field are “Here’s how it’s going.” Each player and level has a different view on the situation and each requires different information in order to fulfil their role. It’s the same in any organisation. Different roles require different information, and different information dictates different systems. 
 
@@ -450,14 +464,97 @@ Context is important for these types of decisions, and MIS can provide context a
 
 MIS help firms to manage the myriad processes that must be managed on a day-to-day basis. They aren’t about strategy but are rather about operations. Boots on the ground. They deal in structured data (known and predictable format) that is of low to medium granularity, cost and complexity.  They sort, prioritise and merge data from different internal sources and then summarise it, providing rich context. They will also tell you anything you want to know about what they have done. They have excellent reporting facilities but can’t tell you about the future. They deal strictly in the past up to the present and are not at all strategic. 
 
+Another way to think of MIS is to approach it in terms of supporting particular business activities in the _value chain_ along two dimensions, namely primary_ and _secondary_ activities. The value chain is a connected series of activities, each of which adds value or supports the addition of value to the firm’s goods or services. _Primary activities_ create the most direct business value for the organisation and its customers. Primary activities in order along the value chain are _inbound logistics_, _operations_, _outbound logistics_, _marketing and sales_ and finally _service_ (both product and customer). 
+
+_Secondary activities_ are conducted in support of or expansion of the business value that is created by the primary activities. These include _firm infrastructure_ (which is often also called administration), _ICT_, _quality assurance_ and _product development_ (R&D), as well as _human resource management_ (HRM) and _procurement_ (sourcing and purchasing).
+
+A final way to conceive of the various systems that are required to run and organisation is the take the _supply chain_ perspective. Every business has a supply chain, which is a _system of organisations, people, technology, activities, information, and resources involved in moving a product or service from suppliers, through the firm, to the customer._ Supply chain activities transform natural resources, raw materials, and components into a finished product, delivered to the end customer. In sophisticated supply chain systems, used products may re-enter the supply chain at any point where residual value is recyclable. For example, reclaimed steel, paper and plastic are often reused in several industries.
+
+There are multiple systems available from multiple vendors to support and automate each of these functional systems. And that could be part of the problem. Read on. 
+ 
+
 ###Decision Support Systems (DSS)
 Next up are _Decision Support Systems_.  DSS, as they are most often to referred to, are knowledge-based systems used by senior management to assist in the complex process of making decisions. They are, in fact, _context systems_, creating the rich soup of data, information and previous knowledge that allows organisations to _learn_. They are best suited to assisting in the complex process of making _semi-structured_ and _unstructured_ decisions. Tapping databases of TPS and MIS data for their _memory_, they do _what if_ analysis (discussed later), perform forecasting to simulate the long-term effects of various decisions and are adept at distributing their results through reporting and integration into various _dashboards_ displaying the health of the organisation.
 
 Several different _flavours_ of DSS are in use, including Group Decisions Making Systems (GDMS), logistics systems (logistics is concerned with getting the right thing to the right place at the right time in the supply chain) and financial planning systems (where forecasting come in quite handy). Systems as ubiquitous (found everywhere) such as spreadsheets like Microsoft Excel can and are also considered to be DSS. Thus every enterprise large or small has access to a DSS. It’s just knowing how to use them. So let’s talk about a _what-if Analysis_.
 
-What-if analysis answers the question “What is likely to happen to _x_ if we do _y_?” So what is likely to happen to our sales if we raise prices by 5%? Or what will be the impact on our bottom line if we ramp up production to 125% next fiscal year? In a fairly structured analysis, using historical data and algorithms (a step-by-step set of operations to be performed on data that yield a predictable and verifiable result) designed to produce outcomes along a continuum from worst to best, let’s say, what-if analysis can reduce the error around a decision by allowing the range of potential outcomes to be examined before the decision is made to embark on a tactic. For example, in the scenario where the impact of ramping up production is being examined, it might be concluded while the short-term implications are serious (spending on new machinery, new hires and new warehouse and fulfilment capacity will impact the bottom line in the near-term), the longer-term gain from increasing capacity will more than sooth the short-term pain and overall ROI will be quite favourable. Taking the short-term outlook would lead to erroneous conclusions. A simple spreadsheeet model can illuminate the way forward. 
+What-if analysis answers the question “What is likely to happen to _x_ if we do _y_?” So what is likely to happen to our sales if we raise prices by 5%? Or what will be the impact on our bottom line if we ramp up production to 125% next fiscal year? In a fairly structured analysis, using historical data and algorithms (a step-by-step set of operations to be performed on data that yield a predictable and verifiable result) designed to produce outcomes along a continuum from worst to best, let’s say, what-if analysis can reduce the error around a decision by allowing the range of potential outcomes to be examined before the decision is made to embark on a tactic. For example, in the scenario where the impact of ramping up production is being examined, it might be concluded while the short-term implications are serious (spending on new machinery, new hires and new warehouse and fulfillment capacity will impact the bottom line in the near-term), the longer-term gain from increasing capacity will more than sooth the short-term pain and overall ROI will be quite favourable. Taking the short-term outlook would lead to erroneous conclusions. A simple spreadsheet model can illuminate the way forward. 
+
 ###Executive Information Systems (EIS)
 We now move on to the penultimate (next to last) set of systems, those used by the very top executives in the organisation. Occupants of the _C-suites_ need a specific set of tools with a specific set of characteristics. Such systems allow for analysis of the context (environment) in which the organisation finds itself (the wider set of circumstances illuminated by a PESTLED analysis, for example), illuminate long-term trends and possibilities, and to suggest potential strategic initiatives to address the longer-term trends identified. The data in such systems is often poorly or completely unstructured and makes use not only of rolled-up TPS and MIS data, but also from data from sources external to the organisation (as suggested by the PESTLED analysis). EISs are future-oriented, support unstructured decision-making, and are designed with simplicity and intuitiveness in mind so that executives can easily manipulate and customise the system for individual circumstances and preference. An EIS used by an oil exploration executive would look much different from one used by a senior federal bureaucrat, but both are the same _under the hood_.   
+
+###Enterprise Systems
+The final type of system we will discuss here is the most all-encompassing of all, the so-called Enterprise System or ES for short. Enterprise systems are just as their name suggests – they target or encompass a wider target of functions that the MIS, for example. Recall that MIS include systems such as payroll or sales support of personnel (HR) functions. What happens when an organisation is structured around various _silos_ in terms of function? Take a look at Figure PB below.
+
+![A siloed organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/silo.png)
+
+In a so-called _siloed_ organisation, functional areas of the firm (such as Sales and Marketing) operate in silos much like farm silos, one of which might  contain only corn and another only oats, etc. and they never mix. They operate independently of each other, even though they are on the same farm and farmed by the same farmer.  Silos in organisation create problems such as:
+-	Delays in communication where protracted lead time results in problems getting raw materials from suppliers 
+-	Expanded cycle time, or the elapsed time from the beginning to end of a process
+-	Excess inventory in order to compensate for lead time and cycle time delays, a firm must have finished product or raw materials on hand – this costs money
+-	Lack of visibility in terms of the overall workflow within the organisation – issues such as confusion over the status of process when it’s currently in other parts of organisation (lack of communication between functions means that only the current function knows the status of an order making its way through the firm, for example 
+-	This lack of visibility leads to Point of contact confusion -- who has current order status? Sales? Accounting? CS?
+-	Performance metrics are a challenge – it’s difficult to know how well process is performing over time because of the lack of process visibility
+
+Figure PB shows that each functional silo in this organisation has its own data store (represented by the multicoloured cylinders at the bottom of the figure). Pity the poor Senior VP responsible for Sales, Marketing and Customer Service who needs data from each department in order to do some forecasting. The database of each department must be accessed (and each database might be from a different vendor with a different file structure and data characteristics), and the data from each must be formatted in a compatible way with corresponding dates and reporting periods in order to make sense of the overall picture in the division. Even though each department might be using a_ state-of-the art MIS optimised for their function_, note the path of requests and returns, represented by the blue and yellow paths up and down the silo and out to and back from the data stores. Often systems just don’t play nice with each other. 
+
+In siloed organisations, even the sharing of information _between_ functional areas can be a challenge  as requests must be made up the chain to senior management, passed to the down target silo, back up to the management level and then back down to the requesting silo. Neither efficient nor effective. Now move up one to the Cxx level and imagine, since now some lower boundaries are crossed (note the CFO is responsible for the Customer Service function rather than the Chief Marketing Officer (stranger things have and do happen in organisations). Imagine the reporting nightmare of trying to integrate data across so many functional and management boundaries.  
+
+What to do? As a first step, some rationalisation of data stores is in order. Take a look at Figure CSV. Note the only real change? Functions under the same VP now share databases, making reporting much easier at that level. The databases are bigger, more sophisticated in terms of reporting and relationships and allow for data to be stored and formatted in compatible ways for reporting purposes in this management structure. That’s a great first step. But really, we have only _reduced_ the pain. It’s not a cure. Note the CFO would experience the same problem getting compatible and timely reports as before, as she or he must cross systems boundaries to get rolled-up data. Not a complete solution at all.
+
+Examples of enterprise systems include: 
+-	_CRM_ (Customer Relationship Management) -- manages customer-related processes
+-	_PLM_ (Product Lifecycle Management) -- handles creation and implementation of new products
+-	_SCM_ (Supply Chain Management) -- deals with procurement, inventory, and other supply chain processes
+-	SRM (Supplier Relationship Management) -- helps working with suppliers, vendors and service providers
+
+![An ES organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/es.png)
+
+You are probably already guessing what the ultimate fix might be, and that is the enterprise system to beat all enterprise systems -- the mother of all ESs -- the _Enterprise Resource Planning_, or ERP, system. The ERP organisation is a medium to large (to enormous) operation with enough functional complexity and cash to warrant such a comprehensive and expensive solution. ERP (Enterprise Resource Planning systems) automate and rationalize key business functions such as financials, human capital, operations, and corporate services, and also provide complete _snap-in_ solutions for a wide variety of industries (such as pharma, auto, defense, agriculture, retail, etc…) which integrate and automate all functions of an organisation.
+
+###ERP vendors
+
+There are several large vendors of these large systems, and some of the names of the players in this market will be familiar to you. You may or may not know SAP, the world’s largest provider of enterprise application software. No, it’s not Microsoft or Apple of even IBM. It’s this large German software house, started by former employees of IBM. 
+
+[Interested in SAP?]( http://bit.ly/1MDeI6Y)
+
+Other big players in this market are the database giant Oracle, who have over the past few years gobbled up other equally large players such as PeopleSoft, whose offerings included Financial Management Solutions (FMS), Human Resource Management Systems (HRMS), Supply Chain Management (SCM), Customer Relationship Management (CRM), and Enterprise Performance Management (EPM) software, as well as systems for manufacturing and student administration. Microsoft is also a player in this general ERP marketplace, but the biggest by far is SAP. Walk through any airport and you can’t help but notice the big ads for SAP. 
+
+![An ERP organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/erp.png)
+
+Note the major change – one massive database has replaced all functional and MIS systems. While this is the most _obvious_ change, it is by no means the _only_ change that organisations undergo when adopting an ERP.  Next in line in terms of significance following the integration of all company data stores into a single, transaction-oriented database, the largest impact that an ERP has on an organisation is the requirement that the firm examine and alter all its business processes to match the _best practice_ standards enforced by the ERP system. Don’t want to do business our way? Then you won’t be running SAP or Oracle or Microsoft ERP systems. You play by the rules or you don’t play. This is the most common reason cited for failed ERP installations – the inability (or unwillingness) of the organisation to change the way it does business to match the ERP’s standards.
+
+But the knife cuts both ways. ERP business process is based on best practices (extensive research, testing and proof in the field that the recommended ERP way to do business is the most efficient and effective way. The opportunity for an organisation to actually stop and look at its processes – which may have grown up over years in a patchwork quilt of expediency and become inefficient and redundant – is an amazing opportunity. 
+
+Key features of ERP include dealing with key business functions such as:
+
+- Financials, including:
+	- Tools for core accounting and reporting capabilities
+	- Financial links to supply chain processes (paying suppliers)
+	- Functions for compliance with national and global financial regulations
+	- Monitoring cash flow
+
+- Human Capital Management
+	- Empowering employees to manage personal information
+	- Allowing department-level collaboration for corporate budget (sharing of information)
+
+- ERP Operations
+	- Automate and manage day-to-day organisational activities
+
+- Enterprise Systems (ES):
+	- Enable a company to link its business processes
+	- Remove silo walls between business functions leading to an integrated business solution
+	- Remove friction between functions, individuals and processes to promote optimal workflow
+	- Operate in real time (not batch or offline so everything is instantly up to date)
+	- Are scalable (can grow and shrink as needed) and flexible (somewhat…)
+
+There are downsides to implementing such large-scale solutions, and one of them is that they are expensive – not at all for the faint of heart or light of wallet.  A 2013 report form the City of Toronto, for example, cited the all-in cost of some $69M to implement an SAP system. They write, “The FPARS project is a transformative effort that aims to restructure the financial planning, budgeting, accounting, human resource and management information systems and processes by implementing SAP as an integrative solution. Improving the City's financial and organizational management functions has the potential to produce significant benefits both in terms of greater internal efficiencies and enhanced value to the public in improved transparency, accountability and the delivery of higher quality of services.” 
+
+[Interested? Take a look at the first 4 or 5 pages]( http://bit.ly/1MEPuFm)
+
+Back to the virtues of an integrated solution. Note in Figure 
+
+
 
 [Interested in types of ICT?]( http://tutor2u.net/business/ict/intro_information_system_types.htm)
 
@@ -465,6 +562,8 @@ Sir John A. and exformation here...
 
 Figure JJLL. Exformation as context
 ![](./Images/exformation.png)
+
+![](https://raw.githubusercontent.com/robertriordan/2400/master/Images/exformation.png)
 
 
 Then there's [1974](http://blog.hemmings.com/index.php/2012/07/10/hemmings-find-of-the-day-1974-buick-electra-225-limited/). 
@@ -474,3 +573,4 @@ This is all about context or maybe EXFORMATION? I think exformation.
 ![1974](./Images/1974_electra_225_rear.png)
 
 ![](http://imgs.xkcd.com/comics/code_quality.png)
+
