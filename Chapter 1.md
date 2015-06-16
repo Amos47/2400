@@ -7,6 +7,8 @@ Intro to ICT for the average smart person
 
 Source: http://xkcd.com/1352/
 
+<iframe width="800" height="491" src="https://www.powtoon.com/embed/fdjbos4uIyd/" frameborder="0"></iframe>
+
 ***Welcome to our course!***
 
 Order: 
