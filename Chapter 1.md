@@ -9,6 +9,10 @@ Source: http://xkcd.com/1352/
 
 <iframe width="800" height="491" src="https://www.powtoon.com/embed/fdjbos4uIyd/" frameborder="0"></iframe>
 
+<iframe src='//my.visme.co/embed/test-of-course-53086b' height='2400' width='800' style='border: 0px;' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<script src='//my.visme.co/visme.js'></script><div class='visme_d' data-url='test-of-course-53086b' data-w='800' data-h='2400'></div>
+
 ***Welcome to our course!***
 
 Order: 
