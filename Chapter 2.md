@@ -82,7 +82,7 @@ Figure LJLJ. A simple context - from measurement to knowledge
 
 ![Simple context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/simple_context.png)
 
-Examine Figure LJLJ from left to right. Imagine this as the first ever measurement of a phenomenon in a state of complete *nescience* (absence of knowledge); the very first ever occurrence of this data; perhaps the first day of a new business where everything is all brand new. View it as a system in the way we understand systems from the introductory chapter where *d* (data) is the input and *K* (knowledge) is the output. The only existing elements are measurements, which make the data tangible (length, for example, is a concept or a variable; 6 cm is tangible data and a fact representing the length of something being measured). 
+Examine Figure LJLJ from left to right. Imagine this as the first ever measurement of a phenomenon in a state of complete *nescience* (absence of knowledge); the very first ever occurrence of this data; perhaps the first day of a new business where everything is all brand new. View it as a system in the way we understand systems from the introductory chapter [(take me there)](#system) where *d* (data) is the input and *K* (knowledge) is the output. The only existing elements are measurements, which make the data tangible (length, for example, is a concept or a variable; 6 cm is tangible data and a fact representing the length of something being measured). 
 
 There might well be a question or a challenge creating a strategy vacuum and drawing data into that question context. It’s also possible that exploratory research is driving the data initiative, as in “Let’s look at our data and see what it has to tell us.” with no particular agenda in mind. 
 
@@ -163,7 +163,7 @@ For now, imagine a survey with only one question: "So what do you think?" This w
   
 In this regard, organisations must carefully consider their data strategy. But we must also be aware that simply saving everything in every possible format *just in case* is not a wise strategy either. The burden would be onerous, the data would be monstrous, the information generated from it redundant and perhaps even contradictory. The cost would soon far outweigh the benefits. Rather, an intelligent strategy to specify what data will be required in what volume at what frequency and in which format(s) is the best way forward. 
 
-### Information Theory
+### Information Theory 
 This all leads to thinking about how to think about information, and for this, we need to dig a bit deeper. Here we go. 
 
 Our business dictionary defines Information Theory as: "Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the 'meaning' of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception."
@@ -172,6 +172,7 @@ Our business dictionary defines Information Theory as: "Basic data communication
 
 To really understand Shannon and Weaver (and a guy named Weiner), we need to look a little more deeply into the theory of information.
 
+<a name="entropy"></a>
 ### Entropy and organisation and *potential* information
 From another relatively old (1998) but still [excellent piece](http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of *entropy*. 
 
@@ -275,7 +276,7 @@ We begin on the input end of the context system, and we begin pre-data, with mea
 
 [Interested in measurement?]( http://en.wikipedia.org/wiki/Measurement)
 
-ICT can of course measure things independent of sensing. A scale on the highway measures truck weight in the same way a bathroom scale measures our own weight, minus the incessant upward bias that shows our weight as impossibly and erroneously heavy… oops. Did I say that out loud? A radar gun measures speed. An elevator measures weight and will refuse to close its doors if overloaded. An accelerometer measures the speed of your finger swipe on a tablet computer in order to calibrate the throwing of a lance at an invading barbarian to protect your virtual village from attack. All are measurement devices. In performing this function, ICT systems must be engineered to respect the most critical tenet of measurement: *accuracy* and its constituents, *trueness* and *precision*, and including *reproducibility*. Once measured, the same data must yield the same results using the same technique. This is sometimes referred to as *reliability*. We discussed these things in Chapter 1. 
+ICT can of course measure things independent of sensing. A scale on the highway measures truck weight in the same way a bathroom scale measures our own weight, minus the incessant upward bias that shows our weight as impossibly and erroneously heavy… oops. Did I say that out loud? A radar gun measures speed. An elevator measures weight and will refuse to close its doors if overloaded. An accelerometer measures the speed of your finger swipe on a tablet computer in order to calibrate the throwing of a lance at an invading barbarian to protect your virtual village from attack. All are measurement devices. In performing this function, ICT systems must be engineered to respect the most critical tenet of measurement: *accuracy* and its constituents, *trueness* and *precision*, and including *reproducibility*. Once measured, the same data must yield the same results using the same technique. This is sometimes referred to as *reliability*. We discussed these things in Chapter 1 [(take me there)](#measurement). 
 
 **On to Area 2**. Note also that the infographic implies that a lot of data just *fly right by* the system. This is true in two ways. First, data that has no known bearing on the current context has no value in this system. Data about vehicle fuel efficiency, no matter how accurate and reliable, simply cannot add to the context of a decision about the marketing of disposable diapers, for example (though both involve tailpipe emissions). It’s simply not in the domain. So this data flies right by. 
 
@@ -312,7 +313,7 @@ Note that a considerable part of this data that is brought to bear on a context 
 
 But we seem to be on the verge of a change. Context is *the single biggest thing happening in ICT today*. The proliferation of sensors, so tiny and innocuous, is facilitating measurement at such a fine scale and with such sensitivity that soon we’ll have what one author referred to as *liquid information* (see below). Context is so compelling, let’s take a few more minutes with it. 
 
-
+<a name="digital"></a>
 ###Digital vs. Analog
 The distinction between the concepts of *analog* and *digital* is important here. The difference between them is akin to the difference between an integer (whole) number and a real number (with decimal precision of varying degrees). Analog is the *real numbers* of nature. Analog is the subtle curve and continuous change we witness all around us; so subtle that sometimes it’s impossible to tell where one thing ends and another begins. 
 
@@ -351,6 +352,7 @@ Time for an [XKCD](http://xkcd.com/1519/ "XKCD Venus")…
 ![](http://imgs.xkcd.com/comics/venus.png)
 
 
+<a name="liquid"></a>
 ###Liquidity...
 
 Let’s bring this home. A very old but again ever-so-interesting site (www.liquidinformation.org) has [this](http://www.liquidinformation.org/ana_digi_liqui.html) to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. 
@@ -682,3 +684,7 @@ This is all about context or maybe EXFORMATION? I think exformation.
 
 
 ![](http://imgs.xkcd.com/comics/code_quality.png)
+
+Random SC advert Make sure to do EMBED and the right size then change to HTTPSSSSS <---  to run in Markdown :)
+
+<iframe width="800" height="491" src="https://www.powtoon.com/embed/fdjbos4uIyd/" frameborder="0"></iframe>
