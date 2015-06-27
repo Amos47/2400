@@ -130,7 +130,7 @@ Each of these will become important at different junctures in our study. Measure
 *All this measurement talk reminds me of the great old joke about the doctor, the lawyer and the statistician on a hunting trip. While hiding in the bushes, they spot a big buck deer at a distance of 25 metres directly in front of them. The doctor sizes up the distance and wind speed, then aims and fires an arrow at the deer. His shot zooms one metre to the rear of the unsuspecting creature. The lawyer does some quick calculations, then aims and fires. His shot zips one metre in front of the deer. Our statistician friend jumps up, raises his hands in victory and shouts "GOT ‘IM!!"  (No animals were hurt in the process of creating this book.)* 
 
 ###Back to the Big Three
-With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2 [take me there](#context).
+With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2 [(take me there)](#context).
 
 ####Data
 
@@ -164,6 +164,109 @@ I respectfully disagree, ever so slightly, with these two definitions. Specifica
 Note the definition of information below, from the same source, and note that one of the necessary elements of information is that it be presented within a context that gives it meaning. 
 
 [Interested?](http://www.businessdictionary.com/definition/data.html)
+
+### Levels (types) of data
+
+### NOIR taxonomy:
+
+1. Nominal
+2. Ordinal
+3. Interval
+4. Ratio
+
+Roughly corresponds to LATCH (later) but affords understanding of intrinsic value of data type
+
+#### Nominal 
+
+name only – no intrinsic value - such as Chevrolet, Ford, Ferrari, Male, Female
+
+Lowest information affordance
+
+Can only be reported or used as a category for bins (and then the counts become Ratio – for example you can say that “35,000 times as many people own Chevrolets as Ferraris” – but that’s a count and not an attribute of Chev-ness or Ferrari-itude)
+
+No algebraic operations possible
+
+Corresponds to Location (in certain instances but not strictly to GPS which would be Interval) or Attribute in LATCH
+
+#### Ordinal – an intrinsic ordering but cannot specify the exact value implied by changes in category along the ordering
+A Likert scale in a survey for example
+
+How satisfied are you with this class?
+
+Not at all, Somewhat, Neither satisfied nor dissatisfied, etc…
+
+One cannot say that somewhat is twice as satisfied as not at all. It’s more satisfied, but we do not know exactly how much more satisfied. Cannot do algebraic operations on categories except to report frequencies/counts, which are then Ratio. Corresponds to Hierarchical in LATCH.
+
+#### Interval 
+Similar to Ordinal but the exact difference in increments between categories can be specified but has an arbitrary zero value
+
+For example temperature:
+
+23oC is exactly one degree warmer than 24oC but 0oC is arbitrarily simply the temperature at which fresh water freezes at sea level
+
+Can do some algebra (addition/subtraction)
+
+Corresponds to Time and Hierarchical in LATCH
+
+#### Ratio 
+
+Is the highest level of measuerment – affords the most opportunity to understand the underlying dimensions capture therein
+
+Age, dollar values, counts of discrete items (number of events, purchases, people, goods… expressed as a ratio to each other or to a total)
+
+Interval data are exact and have a real zero thus any and all algebraic operations are possible (addition, subtraction, multiplication, division and exponentiation)
+
+Corresponds to Hierarchical in LATCH
+
+### LATCH Taxonomy
+
+All data can be categorised according to one of the LATCH descriptors. Note the relationship to the more technical NOIR categories:
+
+![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/noir_latch.png)
+
+#### L -  Location data
+
+Maps broadly defined (from a location on the body for a surgeon to a room in a building for a delivery all the way up to quadrant in the universe)
+
+GPS devices make use of data tagged with geo-locale information (latitude by longitude)
+
+#### A - Alphabetic data
+
+Very frequently used, often as a secondary attribute
+
+Good for categorising enormous datasets such as the phone book or an employee directory or an email contact list
+
+Since virtually everyone understands alphabetical order, this method is often used when consumers of data are not familiar with the subtle nuances of other methods of categorisation
+
+#### T - Time data
+
+Anything that is tracked chronologically and has either a measurable start point and/or end point can be expressed in terms of time
+
+The Vietnam Memorial in Washington, for example, is ordered by time, affording viewers the added information of seeing others who died roughly same time, and allowing context with other events in the news
+
+#### C - Categorical data
+
+That which falls into mutually-exclusive categories
+
+Gender
+
+Paint colour
+
+Options group on a website
+
+Degree programme
+
+Works well when trying to make sense of information of similar importance
+
+#### H - Hierarchical Data
+
+That which is measured in comparison with others and which can be compared in terms of quantity and/or quality
+
+Temperature
+
+Weight
+
+Dollar value
 
 ###Information
 ![visualthesaurus.com Definition of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_info.PNG)
