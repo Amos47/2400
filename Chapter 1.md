@@ -1,6 +1,5 @@
-#Intro to ICT for the average smart person
-
-##Preamble -- in which we introduce some critical context
+# Chapter 1 
+### In which we introduce some critical context
 
 
 ![XKCD is life itself](http://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png)
@@ -21,7 +20,7 @@ Themes that will run through this text and course:
 
 ## Theme 1: Are we talking data, information or knowledge? ##
 
-###Data, information and knowledge###
+### Data, information and knowledge
 
 In the beginning, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the Big Bang (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up was different from down. In became relative to out. You get the picture. 
 
@@ -103,36 +102,34 @@ Figure BFHC. Low accuracy: good precision, poor trueness
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
 
-Here we have a different situation. While again not even one attempt was dead centre, all four were clustered closely to the left and below pay dirt area. Still a situation of *low accuracy* but not for the same reason as above. In this case, the *precision* is excellent. The attempts are very closely clustered together and are thus very precise. Consistently wrong. As is some technical difficulty is introducing bias into the process (a crooked site perhaps?) causing an otherwise great set of attempts to be consistently wrong. But unlike the first low accuracy situation we looked at above, the attempts are not considered to be *true* on the whole. This is because their *average* distance from dead centre is considered to be large. 
+Here we have a different situation. While again not even one attempt was dead centre, all four were clustered closely to the left and below the *pay dirt* area. Still a situation of *low accuracy* but not for the same reason as above. In this case, the *precision* is excellent. The attempts are very closely clustered together and are thus very precise. But they are *consistently* wrong. As if some technical difficulty is introducing bias into the process (a crooked site perhaps?) causing an otherwise great set of attempts to be consistently wrong. But unlike the first low accuracy situation we looked at above, the attempts are not considered to be *true* on the whole. This is because their *average* distance from dead centre is considered to be large. 
 
 Note in the first case above if you were to calculate an average difference from the centre, you would note that they are all at least touching the first outer ring of the target (though it is enticing to note, it doesn't matter that they are nearly at the 12, 3, 6 and 9 o'clock positions). Calculating an average distance for all four would yield a mean very close to 1 (one) if we were calibrating the rings as 1, 2, 3, etc.  
 
 Now consider the second case. All are clustered in one spot AND two of the attempts are clearly farther away than any in the first example. The average difference would, therefore, be greater. It appears to be splitting hairs, but it's the best I've got. I'll try to photo some of my own for the next edition of this text. 
 
-Source: [Wikipedia accuracy and precision](http://en.wikipedia.org/wiki/Accuracy_and_precision). Image sources: Credit DarkEvil (public domain)
+*Source: [Wikipedia accuracy and precision](http://en.wikipedia.org/wiki/Accuracy_and_precision). Image sources: Credit DarkEvil (public domain)*
 
 This might clear up some of the confusion: "According to ISO 5725-1, the general term *accuracy* is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same _measurand_ [see this reference to understand the term *measurand*](http://en.wiktionary.org/wiki/measurand), it involves a component of random error and a component of systematic error. In this case *trueness* is the closeness of the mean of a set of measurement results to the actual (true) value and *precision* is the closeness of agreement among a set of results." 
 
 Figure SR. Precision and trueness of measurement
 
-![Accuracy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/accuracy.png)
+![Accuracy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/accuracy_new.png)
 
 Figure SR might help in that it clearly shows precision as being *-how close a measure is to the true value* whereas trueness is how closely each measure in a set of measures agrees with the others. And maybe it doesn't help. I'm doing my best. I'm sure you will LMK if you don't get this.   
 
-Source: "Accuracy (trueness and precision)" by SV1XV - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons [Original media](http://commons.wikimedia.org/wiki/File:Accuracy_(trueness_and_precision).svg#/media/File:Accuracy_(trueness_and_precision).svg)
-
 The Wikipedia article continues that, “The terminology is also applied to indirect measurements—that is, values obtained by a computational procedure from observed data. In addition to accuracy and precision, measurements may also have a measurement resolution, which is the smallest change in the underlying physical quantity that produces a response in the measurement. In numerical analysis, accuracy is also the nearness of a calculation to the true value; while precision is the resolution of the representation, typically defined by the number of decimal or binary digits.”
 
-Each of these will become important at different junctures in our study. Measurement resolution will appear again when we discuss *sensors* [(take me there)](#sensors) and resolution of representation when we talk about the shrinking divide between digital and binary [(take me there)](#digital). 
+Each of these will become important at different junctures in our study. Measurement resolution will appear again when we discuss *sensors* and resolution of representation when we talk about the shrinking divide between *digital and binary*. 
  
 [Interested?](http://en.wikipedia.org/wiki/Accuracy_and_precision)  
 
 *All this measurement talk reminds me of the great old joke about the doctor, the lawyer and the statistician on a hunting trip. While hiding in the bushes, they spot a big buck deer at a distance of 25 metres directly in front of them. The doctor sizes up the distance and wind speed, then aims and fires an arrow at the deer. His shot zooms one metre to the rear of the unsuspecting creature. The lawyer does some quick calculations, then aims and fires. His shot zips one metre in front of the deer. Our statistician friend jumps up, raises his hands in victory and shouts "GOT ‘IM!!"  (No animals were hurt in the process of creating this book.)* 
 
-###Back to the Big Three
-With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2 [(take me there)](#context).
+### Back to the Big Three
+With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
 
-####Data
+### Data
 
 Figure STT. The definition of data from the visual thesaurus
 
@@ -152,7 +149,7 @@ The visual on *data* above implies (states, really) that data and information ar
 
 *Data is pre-information*. It is potential information; a collection of one or more facts, figures or measurements of some entity whether tangible or not. *Information*, on the other hand, is *actionable data*; data embedded in a *context* that allows us to make a decision on a course of action. 
 
-We have already considered *measurement* in some depth [(take me there)](#measurement) and we will spend some time unpacking the concepts of *entities* [(take me there)](#entities) and *tangible/intangible* [(take me there)](#tangible) in due course. 
+We have already considered *measurement* in some depth [(take me there)](#measurement) and we will spend some time unpacking the concepts of *entities*  and *tangible/intangible* in due course. 
 
 The online [Business Dictionary](http://businessdictionary.com) defines data as:
 
@@ -167,37 +164,40 @@ Note the definition of information below, from the same source, and note that on
 
 ### Levels (types) of data
 
-### NOIR taxonomy:
+#### NOIR taxonomy:
 
 1. Nominal
 2. Ordinal
 3. Interval
 4. Ratio
 
-Roughly corresponds to LATCH (later) but affords understanding of intrinsic value of data type
+Roughly corresponds to LATCH (discussion of this taxonomy follows directly below NOIR) but affords understanding of intrinsic value of data type
 
-#### Nominal 
+##### Nominal 
 
-name only – no intrinsic value - such as Chevrolet, Ford, Ferrari, Male, Female
+Name only – no intrinsic value - such as Chevrolet, Ford, Ferrari, Male, Female
 
-Lowest information affordance
+Lowest information *affordance*
 
-Can only be reported or used as a category for bins (and then the counts become Ratio – for example you can say that “35,000 times as many people own Chevrolets as Ferraris” – but that’s a count and not an attribute of Chev-ness or Ferrari-itude)
+Can only be reported or used as a category for bins (and then the counts become Ratio – for example you can say that “35,000 times more people own a Chevrolet than a Ferrari.” – but that’s a count and not an attribute of *Chevyness* or *Ferraritude*).
 
-No algebraic operations possible
+No algebraic operations possible - no math other than comparing frequencies between categories. 
 
-Corresponds to Location (in certain instances but not strictly to GPS which would be Interval) or Attribute in LATCH
+Corresponds to Location (in certain instances but not strictly to GPS which would be Interval-level data) or Attribute in LATCH. 
 
-#### Ordinal – an intrinsic ordering but cannot specify the exact value implied by changes in category along the ordering
-A Likert scale in a survey for example
+##### Ordinal 
 
-How satisfied are you with this class?
+An intrinsic (implied) ordering but cannot specify the *exact value* implied by changes from one category to the next
 
-Not at all, Somewhat, Neither satisfied nor dissatisfied, etc…
+A *Likert* scale in a survey for example - "On a scale of 1 to 5, how happy are you?" Is someone who answers *2* only *half* as happy as someone who answers *4*? The scale is not sensitive enough, or well enough *calibrated*, to make these determinations. We can report *frequencies* along latent dimensions only - for example "Twice as many people in our survey reported being somewhat or very *happy* as opposed to those reporting being somewhat or very *unhappy*."  
 
-One cannot say that somewhat is twice as satisfied as not at all. It’s more satisfied, but we do not know exactly how much more satisfied. Cannot do algebraic operations on categories except to report frequencies/counts, which are then Ratio. Corresponds to Hierarchical in LATCH.
+Another example: "How satisfied are you with this book?" There is no real objective way to measure the underlying dimension of *satisfaction*. We can ask if you are *Not at all, Somewhat, Neither satisfied nor dissatisfied,* etc. This gives us an indication and we can compare person to person at one point in time or with the same person over time. We just can't say that we've measured *satisfaction* in a truly rigorous way. 
 
-#### Interval 
+Researchers call these underlying states *latent dimensions*. We often look for things that *act like the latent variable* and measure it, instead, as a *proxy* for the unmeasured variable. These *indicator variables* are *correlated * with our variable of interest - so they vary in a known way with our latent variable - but are not exact measures of the dimension that we are interested in measuring. (Don't leave me yet, it's just getting good.) So if we're measuring *happiness* we might measure the number of times a sample of people smiles in a day along with the number of laughs and warm embraces, etc. These things, are not *exactly* the same as happiness, but together, they can make a compelling argument for being able to tap into the underlying river of emotions that are expressed as happiness, sadness, anger, etc.     
+
+Finally, with ordinal variables, we cannot do algebraic operations on categories except to report frequencies/counts, which are then Ratio. Corresponds to Hierarchical in LATCH.
+
+##### Interval 
 Similar to Ordinal but the exact difference in increments between categories can be specified but has an arbitrary zero value
 
 For example temperature:
@@ -208,7 +208,7 @@ Can do some algebra (addition/subtraction)
 
 Corresponds to Time and Hierarchical in LATCH
 
-#### Ratio 
+##### Ratio 
 
 Is the highest level of measuerment – affords the most opportunity to understand the underlying dimensions capture therein
 
@@ -224,13 +224,13 @@ All data can be categorised according to one of the LATCH descriptors. Note the 
 
 ![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/noir_latch.png)
 
-#### L -  Location data
+##### L -  Location data
 
 Maps broadly defined (from a location on the body for a surgeon to a room in a building for a delivery all the way up to quadrant in the universe)
 
 GPS devices make use of data tagged with geo-locale information (latitude by longitude)
 
-#### A - Alphabetic data
+##### A - Alphabetic data
 
 Very frequently used, often as a secondary attribute
 
@@ -238,13 +238,13 @@ Good for categorising enormous datasets such as the phone book or an employee di
 
 Since virtually everyone understands alphabetical order, this method is often used when consumers of data are not familiar with the subtle nuances of other methods of categorisation
 
-#### T - Time data
+##### T - Time data
 
 Anything that is tracked chronologically and has either a measurable start point and/or end point can be expressed in terms of time
 
 The Vietnam Memorial in Washington, for example, is ordered by time, affording viewers the added information of seeing others who died roughly same time, and allowing context with other events in the news
 
-#### C - Categorical data
+##### C - Categorical data
 
 That which falls into mutually-exclusive categories
 
@@ -258,7 +258,7 @@ Degree programme
 
 Works well when trying to make sense of information of similar importance
 
-#### H - Hierarchical Data
+##### H - Hierarchical Data
 
 That which is measured in comparison with others and which can be compared in terms of quantity and/or quality
 
@@ -268,7 +268,7 @@ Weight
 
 Dollar value
 
-###Information
+### Information
 ![visualthesaurus.com Definition of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_info.PNG)
 
 The Visual Thesaurus defines information, in conjunction with the visual above and ignoring the definitions pertaining strictly to the study or administration of justice and the law (with apologies to LJ), as:
@@ -285,7 +285,7 @@ The second and fourth definitions are acceptable, on the whole, , especially, as
 
 The third definition is shading into murky territory. A collection of facts, in and of itself, cannot afford a conclusion. That is the domain of information. The facts might well form a context from which information can arise, but alone, no.
 
-The fifth definition as it applies to *entropy* is dealt with in detail in Chapter 2 [(take me there)](#entropy).  
+The fifth definition as it applies to *entropy* is dealt with in detail in Chapter 2.  
 
 Our business dictionary source offers that *information* (not data but information) is:
 
@@ -310,7 +310,7 @@ Now we're getting somewhere.
 
 [Interested?](http://www.businessdictionary.com/definition/information.html) 
 
-###Knowledge
+### Knowledge
 
 ![visualthesaurus.com Definition of know](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_know.PNG)
 
@@ -326,7 +326,7 @@ Next let's look at what our Business Dictionary source offers for the definition
 
 Some very rich definition and context here. From this we can glean that *data is useless unless in a context*, which allows it to become information. Information drives decisions and decisions drive action, in the rich context of previous information. Collected information from this action, previous actions and from all other sources of knowledge becomes new or evolving knowledge and confers the ability to pass judgment on the previous three. 
 
-####Important takeaways
+#### Important takeaways
 
 - Measurement is complex, critical and has several quality metrics associated with it
 - Data and information are not synonymous 
@@ -353,11 +353,11 @@ We can further examine a subset of what [dictionary.com](http://dictionary.refer
 6. Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
 7. Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.
 
-Now isn't that interesting, the Biology parts? That's exactly what we are saying about *Information*. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. Indeed a website article we will examine in depth in Chapter 2 on Liquid Information [(take me there)](#liquid) offers on the [history of information]((http://www.liquidinformation.org/information_history.html) "History of info from liquid information") that as life appeared on earth it required “[…] storing information about how to replicate something, how to replicate itself. Information now served a purpose…”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. 
+Now isn't that interesting, the Biology parts? That's exactly what we are saying about *Information*. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. Indeed a website article we will examine in depth in Chapter 2 on Liquid Information offers on the [history of information]((http://www.liquidinformation.org/information_history.html) "History of info from liquid information") that as life appeared on earth it required “[…] storing information about how to replicate something, how to replicate itself. Information now served a purpose…”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. 
 
 Thus communication allows humans to fulfil their only real purpose on this planet: to remain on this planet. Too contentious for a business course in ICT? Deal with it... ;) 
 
-## What is technology?
+### What is technology?
 
 Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand 'tools' in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language or even applied mathematics. So technology is broad indeed.
 
@@ -367,13 +367,16 @@ The online [Business Dictionary](http://businessdictionary.com) also takes a bro
 
 <a name="tangible"></a>
 #### Tangible versus intangible
-Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical -- as in the sense of services). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: "Technology is generally divided into five categories:
+Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical -- as in the sense of services). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: "Technology is generally divided into five categories [my explanations/examples in brackets]." The list begins with the distinction between tangible and intangible:
 
 1. Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]
 2. Intangible (consultancy, problem-solving, and training methods) [do not exist in the physical realm; do not exist until consumed...]
-3. High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]
-4. Intermediate (semi-automated partially intelligent technology that manipulates refined matter and medium level forces) [an eCommerce algorithm to get you to buy stuff] 
-5. Low (labour-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]"
+
+And then continues in term of *sophistication*:
+
+1. High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]
+2. Intermediate (semi-automated partially intelligent technology that manipulates refined matter and medium level forces) [an eCommerce algorithm to get you to buy stuff] 
+3. Low (labour-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]"
 
 [Interested?](http://bit.ly/1GsH5SO)
 
@@ -541,7 +544,7 @@ And remember that the purpose of business is to solve problems. We have added th
 
 A business is a collection of systems, large and small, simple and complex. How do we measure the value creation potential of technology in a set of complex processes? 
  
-The twin concepts used in measurement of all systems are: *effectiveness – doing the right thing*, and *efficiency – doing the thing right*. Effectiveness is all about the components of a system. No process should be part of a system if it doesn’t add value at output. Nothing should be done that doesn’t need to be done. On the other hand, efficiency is all about doing the right thing in the right way, with the least waste and the maximum output. It should be clear that the first priority is effectiveness. Once the process is doing the right thing, effort can be put into doing the thing right. It’s all too easy to be really efficiently doing the *wrong thing*. 
+The twin concepts used in measurement of all systems are: *effectiveness – doing the right thing*, and *efficiency – doing the thing right*. Effectiveness is all about the components of a system. No process should be part of a system if it doesn’t add value at output. Nothing should be done that doesn’t need to be done. On the other hand, efficiency is all about doing the right thing in the right way, with the least waste and the maximum output. It should be clear that the top priority is effectiveness. Once the process is doing the right thing, effort can be put into doing the thing right. It’s all too easy to be really efficiently doing the *wrong thing*. 
 
 Paradoxically, technological progress is not measured in terms of impact on the actual *business process* of doing anything. Technological change impacts business process, but it’s impact is measured elsewhere. Though this sounds heretical, in the simplest terms, technological progress is measured not in terms of process improvements, but rather by the impact such progress has on the inputs and outputs of the system -- the resultant decrease in required inputs to produce the same output or by an increase in realisable output given the same input. 
 
@@ -551,18 +554,22 @@ Figure JD. ICT Value creation
 ![ICT value add](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ict_value_creation.png)
 
 ### A working definition of progress
-Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. On the other end of the system, progress will also have been achieved if tomorrow those 100 units of input produce 101 units of output. Either of these might represent an increase in *effectiveness*, where we are making more *effective* use of our input resources, or an increase in *efficiency* wherein we are doing more with what we have. Thus technology effects are measured at the boundaries of the system, where we count inputs and outputs.  
-
-Information and Communication Technology (ICT) operates in the process piece of business problem solving, but its impacts are measured on the edges of the system. See the ICT Value creation graphic above.
+Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. On the other end of the system, progress will also have been achieved if tomorrow those 100 units of input produce 101 units of output. Either of these might represent an increase in *effectiveness*, where we are making more *effective* use of our input resources, or an increase in *efficiency* wherein we are doing more with what we have. Message: technology effects are measured at the boundaries of the system, where we count inputs and outputs.  
 
 Thus technology has an impact if it moves the needle on efficiency and/or effectiveness. That’s how we measure technological impact. Either it leads to cost savings on the input side or to increased realisable value on the output side. Technology has the capacity to widen the margin between costs and revenues. It can increase profit. It can also cost a lot of money and have no appreciable impact.
+
+What if an entirely *new* solution to an existing problem emerges? What if there's no input to improve on or outputs to augment? We're still good. If it's entirely new and better than anything extant. then if must be cheaper to run or produce better outcomes, otherwise why use it? Bingo.
+
+Finally, the part where I specify *realisable* output is important. If progress results in *so much output that it can be used or sold or examined or put to good use* then it's of no value, and in fact is potentially wasteful. Imagine a new variant on growing mushrooms that increase output by a factor of 100,000. That's a lot o' 'shrooms. What to do with them all? Is it progress if we can realise value from it? That's a great topic for a debate someday.
+
+Important takeaway: Information and Communication Technology (ICT) operates in the process piece of business problem solving, but its impacts are measured on the edges of the system. See the ICT Value creation graphic above.
 
 ### What *real problems* can technology solve? 
 A real problem is one that either has input or output challenges – and we know by now that those are the *only* challenges. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). Thus in this book and this course we will examine at each juncture in discussing a piece of technology (whether it is personal productivity software or social media or an enormous enterprise system) whether the technology can be demonstrated to either reduce the cost of inputs or increase the value of outputs. If not, it simply is a waste of time and effort.
 
 ## Theme 4: Does this product/service/technology lead to a sustainable competitive advantage?
 
-This is developed in the context of both PERSONAL CA (such as FB or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE CA (easier to define but must also encompass not-for-profit and government services). TK
+This is developed in the context of both PERSONAL Competitive Advantage (such as FB or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE Competitive Advantage (easier to define but must also encompass not-for-profit and government services). TK
 
 ### What is competitive advantage?
 All of us, every minute of every day, are in competition for scarce resources. Though not particularly *culturally inclusive*, Wikipedia (accessed June 12, 2015) has this to say on the subject [emphasis added]:
@@ -577,7 +584,7 @@ Figure TTT. Competition
 
 ![Competition](https://raw.githubusercontent.com/robertriordan/2400/master/Images/competition.png)
 
-In discussing competition in the business context, we usually consider the struggle for *competitive advantage*. The online Business Dictionary offers the following:
+In discussing competition in the business context, we usually consider the struggle for *competitive advantage*. The online Business Dictionary offers the following definition:
 
 "A superiority gained by an organization when it can provide the same value as its competitors but at a lower price, or can charge higher prices by providing greater value through differentiation. Competitive advantage results from matching core competencies to the opportunities."
 
@@ -585,13 +592,13 @@ In discussing competition in the business context, we usually consider the strug
 
 Broadly scoped, competition can be understood as anything that could otherwise occupy customers' time or money, *including doing nothing.* In order to sustain long-term profitability, a firm must respond strategically to competition and that’s just as much about creating value as it is about being efficient and effective. But just looking at your direct competitors is completely inadequate. Buyers can play you against your rivals to drive prices down. Suppliers can constrain profits with high prices. New entrants can bring new technology and synergies to bear, ratcheting up the investment required to remain competitive. Substitute offerings (even from outside your own industry) can lure customers away. These are Porter’s Five Forces. [Source: BUSI 3800 course notes, Fall, 2013, Robert Riordan]
 
-Once competitive advantage is understood in terms of one firm's ability to provide superior price, quality or service over another, the discussion normally turns to *sustainable* competitive advantage. The ability to persist in this position of superiority over your competitors. To stay ahead and different and desirable. 
+Once competitive advantage is understood in terms of one firm's ability to provide superior price, quality or service over another, the discussion normally turns to *sustainable* competitive advantage. The ability to persist in this position of superiority over your competitors. To stay ahead, different and desirable. 
 
-The question then becomes, in our context, *how can ICT contribute to sustainable competitive advantage?*
+The question then becomes, in our context, *How can ICT contribute to sustainable competitive advantage?*
 
-The answer is complex and not at all pretty for proponents of ICT. The back story is that ICT has become, in the words of Nicholas Carr, a commodity, not unlike electricity (*Does It Matter?: Information Technology and the Corrosion of Competitive Advantage*, Harvard Business Review Press, 2004). It's all the same for every firm in every market. No firm can *sustain* a competitive advantage from ICT since it's freely available to all and is not at all *differentiated*. We will see in Chapter 2 how more and more firms are installing ERP systems (mammoth enterprise systems that manage all important processes in a firm) [(take me there)](#enterprisesystems) and that, when deciding to implement an ERP, the most cost-efficient way to do so is to accept the defaults in the system (such as SAP) rather than customise. So firms alter their business processes to conform with the way the ERP works *rather than the other way around*. So a firm doesn't customise (in any meaningful way) the ERP. Rather, the ERP standardises the firm. And with more and more forms implementing ERPs as a *competitive necessity*, there is little of no competitive advantage left in ICT *because every firm has ICT and it operates in the same way for everyone, thus there cannot be any advantage in it*.
+The answer is complex and not at all pretty for proponents of ICT. The back story is that ICT has become, in the words of Nicholas Carr, a *commodity*, not unlike electricity (*DOES IT MATTER?: Information Technology and the Corrosion of Competitive Advantage*, Harvard Business Review Press, 2004). It's all the same for every firm in every market. No firm can *sustain* a competitive advantage from ICT since it's freely available to all and is not at all *differentiated*. We will see in Chapter 2 how more and more firms are installing ERP systems (mammoth enterprise systems that manage all important processes in a firm) and that, when deciding to implement an ERP, the most cost-efficient way to do so is to accept the defaults in the system rather than customise. So firms alter their business processes to conform with the way the ERP works *rather than the other way around*. So a firm doesn't customise (in any meaningful way) the ERP. Rather, the ERP standardises the firm. And with more and more forms implementing ERPs as a *competitive necessity*, there is little of no competitive advantage left in ICT *because every firm has ICT and it operates in the same way for everyone, thus there cannot be any advantage in it*.
 
-In addition, what Carr refers to as the *technology replications cycle* is continually being shortened. If a firm were to create their own ICT system and gain some kind of advantage from it, the entire industry will know about it very soon through the free flow of information and the fact that large tech consultancies (such as Accenture and McKinsey and Bain and others) hire out their ICT consultants to a wide range of companies in a market and those consultants act to spread the insights of particular firms to the broader community. So everyone knows fairly quickly the mechanics of the advantage. Coupled with robust and efficient technology tools to build systems quickly, a competitive advantage conferred on a firm for creating their own value-add system will soon be replicated across the industry. So *sustainable* competitive advantage is difficult.
+In addition, what Carr refers to as the *technology replications cycle* is continually being shortened. If a firm were to create their own ICT system and gain some kind of advantage from it, the entire industry will know about it very soon through the free flow of information and the fact that large tech consultancies (such as Accenture and McKinsey and Bain and Deloitte and others) hire out their ICT consultants to a wide range of companies in a market and those consultants act to spread the insights of particular firms to the broader community. So everyone knows fairly quickly the mechanics of the advantage. Coupled with robust and efficient technology tools to build systems quickly, a competitive advantage conferred on a firm for creating their own value-add system will soon be replicated across the industry. So *sustainable* competitive advantage is difficult.
 
 This is not to say that there have never been cases of ICT conferring sustained advantage. For example, American Airlines automated reservations (the beginning of the end for travel agencies), pricing, and seat assignments (using yield management technology) in the 1960s and continue to enjoy some advantage to this day. And Walmart created logistics applications in the 1980s and invested heavily in *Radio Frequency Identification* (RFID) applications (though this initiative eventually lost steam) and continue to dominate rivals such as Target, Sears and Kmart. But the examples are few and far between. The value gained by standardising - the cost advantage for a firm to be like their competitors - trump the advantages of being different.
 
@@ -606,62 +613,3 @@ So context becomes the frame of reference within which we narrow the error bands
 For now, in examining the ICT task of input reducer, we need to examine this function in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. In order to make fewer errors in our decision-making endeavours (and thus to reduce the amount of input necessary to produce the same output), we need as much context (the rich backdrop of facts, figures and shared understandings) as possible. We need to know what data means. We need to be able to put data into context to create actionable information. All this will come in Chapter 2. 
 
 Information systems can not only distribute that scarcest of all commodities - knowledge - but can create knowledge and understanding in socially equitable ways. It is argued that the purpose of business is to solve problems, leading to a better social situation for as many humans as possible. It is only as a by-product of problem solving that profits are generated. One could assume, however, that problems for which no profit can be made won't be solved. Unless, of course, we consider the rapidly-expanding social economy and the not-for-profit sector.
-
-## How computers work
-At this point, it’s time to dive into the *guts* of computers and talk just a little about how they actually work. Everyone, interested or not, needs to follow [this link](http://www.explainthatstuff.com/howcomputerswork.html) and read up on how computers work, which will illustrate the fact that computers are systems in the exact same sense that we have been describing here. Note especially the difference between hardware and software. The distinction between system software (operating systems such as Widows, Android and Apple OS, etc.) and application software (things that you actually use on the computer such as Excel, Word or a browser) is also important. Finally, this short link provides a gentle introduction to *the digital divide*, to which we will return later. [Move this figure to that discussion.] 
-
-![Figure KS. The digital divide](https://raw.githubusercontent.com/robertriordan/2400/master/Images/internet_usage.png)
-
-We humans are most familiar with the Base 10 number system because we have 10 fingers and 10 toes. We refer to this as the *decimal system*. In this system, the columns of numbers correspond to ones, tens, hundreds, thousands, and so on. And it’s also *digital* because it’s based on our digits (fingers). Fun eh?
-
-Computers, however, are *binary* creatures, run by 0s and 1s. They understand only black or white, up or down, in or out, off or on -- like a collection of light switches. They operate under the *binary* (or *Boolean* see below) system, which operates on two states. In a computer, a vast array of *transistors* capable of holding a tiny electrical charge are *loaded* with a meaningful and constantly changing pattern of such charges. The pattern represents the *real world* that we are modelling. The contents of these transistors are referred to as *bits*, short for *binary digits*.  In this system, the columns represent powers of two (two, four, eight, sixteen, thirty two, sixty four, and so on). So the decimal number 55 becomes 110111 in binary, which is 32+16+4+2+1. With eight bits (also called a byte), you can store any decimal number from 0 to 255 (00000000 to 11111111 in binary). It’s no coincidence that the RGB system (which we will tackle in Chapter 2 [(take me there)](#digital) represents colour in a range of 0-255. It should  come together for you.
-
-[Interested?]( http://www.explainthatstuff.com/how-computer-memory-works.html)
-
-Wikipedia offers this: “Another mathematician and philosopher by the name of George Boole published a paper in 1847 called 'The Mathematical Analysis of Logic' that describes an algebraic system of logic, now known as Boolean algebra. Boole’s system was based on binary, a yes-no, on-off approach that consisted the three most basic operations: AND, OR, and NOT. This system was not put into use until a graduate student from Massachusetts Institute of Technology by the name of Claude Shannon (yes, the one-and-the-same Claude Shannon whom we will discuss when we consider *entropy* in Chapter 2 [(take me there)](#entropy)) noticed that the Boolean algebra he learned was similar to an electric circuit. Shannon wrote his thesis in 1937, which implemented his findings. Shannon's thesis became a starting point for the use of the binary code in practical applications such as computers, electric circuits, and more.” 
-
-[Interested in Binary Code?](http://en.wikipedia.org/wiki/Binary_code)
-
-[Interested in Boolean?](http://www.kerryr.net/pioneers/boolean.htm)
-
-[An exhaustive list of devices](http://www.explainthatstuff.com/articles_computers.html)
-
-[Binary](http://www.kerryr.net/pioneers/binary.htm) [Binary: So simple a computer can do it]
-
-#### ASCII codes
-Check out Figure NF below, representing the encoding of a simple series of characters. 
-
-![Figure NF. ASCII for BUSI 2400](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ascii.png)
-
-Let’s unpack Figure NF above. ASCII stands for *American Standard Code for Information Interchange*, and was developed from telegraph codes to represent some basic English-language characters and certain *control codes* (non-printable codes which did things like ring a bell on a teletype machine to get the operator’s attention or to signal a certain state, such as ‘end of message transmission’). ASCII is a 7-bit encoding scheme (note the first bit of each character in Figure NF is never on) and can encode 128 characters and codes. (Remember binary? Using 7 bits, we can encode 64+32+16+8+4+2+1 = 127 and also remember that the range is 0 to 127 and this equals 128 states.) Expanding to an 8-bit standard adds 128 states, allowing 256 things (0-255) to be represented. This 8-bit schema is the basis for the currently-standard (on the web) UTF-8 encoding scheme (which is *backwards compatible* with ASCII-7 or USASCII as some call it). 
-
-Figure NF shows the ASCII encoding of the characters ‘BUSI 2400’. The characters are encoded in a vertical fashion from bottom to top. Also included are the binary values for each bit position. (Many of you experienced your eyes glazing over as soon as you saw this thing. But bear with me. I’ll be quick and gentle as we make sense of this stuff. And if no one has ever used that ‘quick and gentle’ line on you before, please be warned. It’s neither.) 
-
-The binary values make their way up, doubling with each bit position, from 1 to 128. This give us an 8-bit scheme. If we sum the decimal equivalent represented by the binary positions for the letter ‘B’, for example, we see that the ‘2’ bit and the ‘64’ bit are on (circle darkened), giving us 64+2=66. Thus the decimal equivalent of this binary pattern is 66. Taking a look at the table of ASCII values on the right (only printable characters are shown here), and locating decimal value 66 (it’s highlighted so you can find it) we see that our bit pattern translates to decimal 66, representing the letter ‘B’. (Note that a lowercase ‘b’ is decimal 98, an altogether different character and, to a computer, as different as the number 6 and the % character.) Summing the locations for the letter ‘U’ gives 85. Same process: look for the decimal 85 in the ASCII chart and note that it’s the letter ‘U’. You can continue the process with the remainder of the BUSI 2400 representation and see that it makes sense. Look at the decimal value for the character ‘S’ and verify that the binary sum of positions equals 83. 
-
-Note especially that the ASCII for the space between BUSI and 2400 (here denoted by a ‘˽’) is a real printable control code character, having decimal value 32. A space is as real to a computer as a letter or number and it’s not at all the equivalent of a ‘null' (nothing; absent;) character which has the ASCII code of 0000000 and the decimal value of 0 (zero)). 
-
-But that’s going too far. Let’s get back to what’s important here.
-
-Note again that the first (topmost or 128) bit is never on in this 8-bit representation of a 7-bit standard. Seven bits are sufficient to represent a range of control codes, all the letters of the alphabet in both *UPPERCASE* and *lowercase* format, the numbers from 0-9, along with some common typographic glyphs [Interested in Glyphs?]( http://en.wikipedia.org/wiki/Glyph) in the English language (such as swearing, often denoted by ‘!@#$%^&*’) and the mathematical operators such as +-*/, etc. Other implementations of ASCII provide mappings to the Euro glyph (€) or the British Pound Sterling (₤) for example.   
-
-[Interested in ASCII?](http://en.wikipedia.org/wiki/ASCII)
-
-#### Fonts
-On top of ASCII is layered a mapping onto a specific font. One the specific character is known, computers can draw that character according the style characteristics of particular font sets. This online publishing service doesn’t allow one to specify particular fonts in the text. I had to choose one font for the whole book. Below is an image of this book when it was in draft form in an MS Word doc with several fonts shown. Important to note is that the ASCII codes for each letter are identical. Only the mapping of those codes to the particular font style are different, and that happens on a different layer altogether. 
-
-Figure XYZ. Fonts… 
-
-![Figure XYZ. Fonts](https://raw.githubusercontent.com/robertriordan/2400/master/Images/fonts.PNG)
-
-The phrase “The quick brown fox jumps over the lazy dog.” Is often seen in connection with the discussion of fonts as it contains all 26 letters of the English alphabet. Other aspects of fonts include whether the individual characters have little *feet* on them (called *serifs* and rhymes with *sheriffs* - fonts without feet are called *sans serif* *sans* being French for *without* - there's no rocket surgery here) whether they are bold, italics, underlined, strikethrough or otherwise *decorated*. Some fonts are created with only UPPERCASE. In addition, fonts have a *size* attribute, normally represented in *points*. Some fonts are *monospaced* meaning that all characters occupy the exact same *real estate* on the screen or in print, regardless of the difference in the actual size of the character. Note the difference in width between a lowercase L “l” and an UPPERCASE “X” for example. The OCR font above is monospace. Finally, some fonts are considered *decorative* meaning that they are for titles or limited use for emphasis on posters or adverts and not meant for reading reams of text (as you are doing here). Algerian, Brush Script and Old English above are decorative. 
-
-It is interesting to note that characteristics such as font *decoration* require an entirely separate set of fonts for **bold** and *italics*. So a font such as Baskerville above would have one set of glyphs for the normal set of letters and characters, a different set with the same style characteristics but drawn heavier for the bold font, one for the slanted italics set of characters, one for underlined (the underline is part of the font and not a separate element of typesetting), etc.  It’s a major undertaking to create a font.
-
-[Interested in creating a font?]( http://www.fontsquirrel.com/)
-
-All this is beyond our scope here but in general you might be [Interested in fonts?]( http://en.wikipedia.org/wiki/Font) 
-
-
-### Now bring it all together!
-
