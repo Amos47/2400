@@ -78,6 +78,16 @@ Examine Figure JJLL and imagine time-transporting Canada's first PM, Sir John A.
 
 Our question in this section is “Will machines ever be able to make sense of context and exformation?" We’ll get there in our discussion. Hang on. 
 
+Meanwhile, take a look at context in practice. Below in Figure GH we see the distribution of scores on the 2013 high school exit examination in Poland. Is human decision making at play here (We just can't let poor Wojciech fail... he's so close!") or have humans written an algorithm that says "given that scores have a confidence interval around them of say +/-3%, any score that is in the range of 27-30 should be awarded a grade of 30." We don't know, but this is interesting *context*, no? Also note the small amount of what's referred to in statistical circles as *heaping* at the highest level (100%). I guess if you get close enough, what's the difference? :) (If you log into bit.ly (see below) and examine the data, you will see that there were no scores of 92, 95 or 98, but that the frequency of test scores at 100% was twice that at 99%. You might also note that no one scored a 29. There was also a bit of a heap at 31 (that's everyone who scored a legit 30 and 31 so as to differentiate from those who were gifted a 30 - that's a message in itself. A 30 means you didn't earn it... An otherwise almost textbook *normal distribution* the victim of context.) 
+
+Figure GH. Context at its finest.
+
+<div>
+    <a href="https://plot.ly/~Dreamshot/461/" target="_blank" title="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="display: block; text-align: left;"><img src="https://plot.ly/~Dreamshot/461.png" alt="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Dreamshot:461"  src="https://plot.ly/embed.js" async></script>
+</div>
+*Source: https://plot.ly. Create an account and play around. Fun stuff.*
+
 ### Meaning
 How do we derive meaning from data or communication? Through interpreting data and facts in context. Context provides meaning for meaningless data. But what does *meaning* mean? Oxford to the rescue.
 
