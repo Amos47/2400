@@ -862,6 +862,5 @@ The bait must be tasty to the fish, not the fisher.
 
 Uber might disrupt parcel delivery, pizza delivery (FedEx, UPS, Purolater), prescription delivery, and anything else that's on the road. Uber can sell their on-road experience (real time) data to lost of ppl and could probably make a living just being on the road and f the taxi industry shit. What else can they disrupt?
 
-The sharing economy: http://sloanreview.mit.edu/article/adapting-to-the-sharing-economy/
 
-There is a difference between "recall" (to bring back from memory; recollect; remember) and "memory" (the mental capacity or faculty of retaining and reviving facts, events, *impressions*, etc., or of recalling or recognizing previous *experiences*; this faculty as possessed by a particular individual; the act or fact of retaining and recalling *impressions*, facts, etc.; remembrance; recollection). ICT does recall. People do memory. Nothing new can possibly be created out of recall. Memory, especially *curated* memory (which is what we do: "to pull together, sift through, and select for presentation, as music or website content") creates new and novel and revolutionary content.
+
