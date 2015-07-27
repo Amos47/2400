@@ -477,4 +477,4 @@ This wraps up our introduction to database, probably the *most* important tool i
 ## Tools
 Critical stuff.
 
-
+ 
