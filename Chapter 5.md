@@ -1,4 +1,4 @@
-# Chapter 5
+# Chapter 6
 
 What's coming?
 
@@ -13,7 +13,7 @@ We begin by looking at Gartner Group's Emerging Technology Hype Cycle. The 2014 
 Figure EC. Gartner's Emerging Technology Hype Cycle
 ![Gartner Group Emerging Tech Hype Cycle](./Images/hype_cycle_2014.png)
 
-Let's unpack the graphic. First of all, the Gartner Group is a large IT consultancy with offices worldwide and a great reputation in the IT consultancy field. Each year, they release research on emerging (up-and-coming) technology, and in a novel way, fit it to a curve of their own design. The curve is both a visual and semantic indicator of the _life_ of a piece of technology from Innovation Trigger (red section on the left of the chart) to Plateau of Productivity (the green section on the far right). [Here](http://www.smartinsights.com/managing-digital-marketing/marketing-innovation/technology-for-innovation-in-marketing/) are some historical ones for reference. 
+Let's unpack the graphic. First of all, the Gartner Group is a large IT consultancy with offices worldwide and a great reputation in the IT consultancy field. Each year, they release research on emerging (up-and-coming) technology, and in a novel way, fit it to a curve of their own design. The curve is both a visual and semantic indicator of the _life_ of a piece of technology from Innovation Trigger (red section on the left of the chart) to Plateau of Productivity (the green section on the far right). [Here](http://www.smartinsights.com/managing-digital-marketing/marketing-innovation/technology-for-innovation-in-marketing/) are some historical ones for reference.
 
 There are five _phases_ to the cycle. Here's how each is explained by [Gartner](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp) with the authors comments in [square parens]:
 
@@ -23,7 +23,7 @@ There are five _phases_ to the cycle. Here's how each is explained by [Gartner](
 
 "Peak of Inflated Expectations: Early publicity produces a number of success stories — often accompanied by scores of failures. Some companies take action; many do not. [This is the stage at which so-called _wearables_ (such as the Apple iWatch) are currently located. They are all cool and people are tripping over themselves to get them, but is there a real future or is it all hype? To frame it in the context of our book here, will they either reduce input requirements or increase outputs?]
 
-"Trough of Disillusionment: Interest wanes as experiments and implementations fail to deliver. Producers of the technology shake out or fail. Investments continue only if the surviving providers improve their products to the satisfaction of early adopters. [Technology located here is not a failure! It's simple the lfe cycle stage where all the _hype_ has worn off. It's technology in the spot where it will either live or die; if it lives, it moves on to the Slope of Enlightenment" as productive applications are found and exploited.] 
+"Trough of Disillusionment: Interest wanes as experiments and implementations fail to deliver. Producers of the technology shake out or fail. Investments continue only if the surviving providers improve their products to the satisfaction of early adopters. [Technology located here is not a failure! It's simple the lfe cycle stage where all the _hype_ has worn off. It's technology in the spot where it will either live or die; if it lives, it moves on to the Slope of Enlightenment" as productive applications are found and exploited.]
 
 "Slope of Enlightenment: More instances of how the technology can benefit the enterprise start to crystallize and become more widely understood. Second- and third-generation products appear from technology providers. More enterprises fund pilots; conservative companies remain cautious. [Note that 3D printing technologies are in this phase.]
 
@@ -31,9 +31,9 @@ There are five _phases_ to the cycle. Here's how each is explained by [Gartner](
 
 [[Interested?](http://www.gartner.com/newsroom/id/2819918)]
 
-Let's now take a look at some of the technology plotted on the curve, beginning with tech that Gartner thinks is at least 10 years out. Ten years from now, you will be early in your career and probably looking to move up the ladder. What kind of technology can you expect to be maturing (that is, on the Plateau of Productivity end of the curve), if it survives the trecherous middle of the curve mortality that fells so much tech. Human Augmentation might be entering the profitable stage. The Bionic Human might be a reality. Super-human atheletes and soldiers and police and fire fighters will become a routine part of life. And bio-controlled prosthetics will become commonplace. Amputees will be able to function at a level approaching the performance of the wholly able-bodied. 
+Let's now take a look at some of the technology plotted on the curve, beginning with tech that Gartner thinks is at least 10 years out. Ten years from now, you will be early in your career and probably looking to move up the ladder. What kind of technology can you expect to be maturing (that is, on the Plateau of Productivity end of the curve), if it survives the trecherous middle of the curve mortality that fells so much tech. Human Augmentation might be entering the profitable stage. The Bionic Human might be a reality. Super-human atheletes and soldiers and police and fire fighters will become a routine part of life. And bio-controlled prosthetics will become commonplace. Amputees will be able to function at a level approaching the performance of the wholly able-bodied.
 
 
-And now the Emerging Technology Roadmap. 
+And now the Emerging Technology Roadmap.
 
 ![CEB Emerging Tech Roadmap](./Images/emerging_tech_roadmap_2014.png)
