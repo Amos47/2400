@@ -101,7 +101,7 @@ How do we derive meaning from data or communication? Through interpreting data a
 [Interested?](http://bit.ly/1GoQwmb)
 
 What we *know* of ourselves and the world is clearly *knowledge*.  But from where comes knowledge?
-[Oxford](http://www.oxforddictionaries.com/us/definition/american_english/knowledge "Oxford on knowledge") offers the following (edited for applicability in this context <-- see? Context everywhere). Knowledge is:
+[Oxford](http://www.oxforddictionaries.com/us/definition/american_english/knowledge "Oxford on knowledge") offers the following (edited for applicability in this context <=-- see? Context everywhere). Knowledge is:
 
 1. **Facts, information**, and skills acquired by a person through **experience** or education; the theoretical or practical understanding of a subject
 2. Awareness or familiarity gained by experience of a fact or **situation**
@@ -305,7 +305,7 @@ The first category in the red zone is ‘disinformation’, which Katz character
 
 Indeed, news organisations are continuously on the lookout for potentially damaging posts in the *Comments* section following many news stories (in fact, many online news publications have abandoned comments altogether owing to the near impossibility of monitoring and moderating them). The *Toronto Star*, for example, wrote the following in an editorial piece appearing on their online site on July 23, 2015, regarding such comment sections:
 
-"Our moderation team spends the bulk of its time working on limiting the worst of the worst: racism, threats and personal attacks. This is done with help from readers who flag comments they deem out of line with our community guidelines and *software that scans for keywords we have identified as sensitive, and moves those comments to a ‘disabled’ queue until an editor can read them.*" [*emphasis* added]
+"Our moderation team spends the bulk of its time working on limiting the worst of the worst: racism, threats and personal attacks. This is done with help from readers who flag comments they deem out of line with our community guidelines and *software that scans for keywords we have identified as sensitive, and moves those comments to a ‘disabled’ queue until an editor can read them.*" [*emphasis* added]
 
 #### Misinformation
 If analysis determines that the information released by our competitor is not deliberately untrue, it might well be ‘misinformation’, described as definitely not true and important to avoid, in the sense that if the information were considered to be true (where it is, in fact, *untrue*) any actions taken under the erroneous belief that it *is* true would be inappropriate in the least and damaging at worst. This information is toxic and needs to be corrected before inappropriate action is taken by some party believing it to be true. Some party such as our customers! The ICT response could be to provide true information to counter the false assertions, which could be provided to our customers through various actions (email, Twitter, Facebook, etc.) made possible by stored electronic customer service records with contact information.
@@ -807,15 +807,15 @@ Below is a table equating gigaflops with dollars. How much did the computing pow
 
 | :- | :- | :- | :- | :- |
 | **Date** | **Approximate cost per GFLOPS** | **Approximate cost per GFLOPS** [inflation adjusted to 2013 US dollars] | **Platform providing the lowest cost per GFLOPS** | **Comments** |
-| 1961 | US $1,100,000,000,000 ($1.1 trillion) | US $8.3 trillion | About 17 million IBM 1620 units costing $64,000 each | The 1620's multiplication operation takes 17.7 ms. |
+| 1961 | US $1,100,000,000,000 ($1.1 trillion) | US $8.3 trillion | About 17 million IBM 1620 units costing $64,000 each | The 1620's multiplication operation takes 17.7 ms. |
 | 1984 |$18,750,000 | $42,780,000 |Cray X-MP/48 | $15,000,000 / 0.8 GFLOPS |
-| 1997 | $30,000 | $42,000 | Two 16-processor Beowulf clusters withPentium Pro microprocessors ||
+| 1997 | $30,000 | $42,000 | Two 16-processor Beowulf clusters with Pentium Pro microprocessors ||
 | April 2000 | $1,000 | $1,300 | Bunyip Beowulf cluster | Bunyip was the first sub-US-$1/MFLOPS computing technology. It won the Gordon Bell Prize in 2000.|
 | May 2000 | $640 | $836 | KLAT2 |KLAT2 was the first computing technology which scaled to large applications while staying under US-$1/MFLOPS. |
 | August 2003 | $82 | $100 | KASY0 |KASY0 was the first sub-US-$100/GFLOPS computing technology. |
 | August 2007 | $48 | $52 | Microwulf | As of August 2007, this 26.25 GFLOPS "personal" Beowulf cluster can be built for $1256. |
 | March 2011 | $1.80 | $1.80 | HPU4Science | This $30,000 cluster was built using only commercially available "gamer" grade hardware. |
-| June 2013 | $0.22 | $0.22 | Sony Playstation 4 | The Sony PlayStation 4 is listed as having a peak performance of 1.84 TFLOPS, at a price of $400 |
+| June 2013 | $0.22 | $0.22 | Sony Playstation 4 | The Sony PlayStation 4 is listed as having a peak performance of 1.84 TFLOPS, at a price of $400 |
 | November 2013 | $0.16 | $0.16 | AMD Sempron 145 GeForce GTX 760 System | Built using commercially available parts, a system using one AMD Sempron 145 and three GeForce GTX 760 reaches a total of 6.771 TFLOPS for a total cost of $1090.66. |
 | December 2013 | $0.12 | $0.12 | Pentium G550 R9 290 System | Built using commercially available parts. Pentium G550 & AMD R9 290 tops out at 4.848 TFLOPS grand total of $681.84 USD. |
 | January 2015 | $0.08 | $0.08 | Celeron G1830 R9 295x2 System | Built using commercially available parts. Intel Celeron G1830 & AMD Radeon R9 295x2 tops out at over 11.5 TFLOPS at a grand total of $902.57 USD. |
