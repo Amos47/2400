@@ -475,6 +475,6 @@ Durability means that once a transaction has been committed, it will remain so, 
 This wraps up our introduction to database, probably the *most* important tool in the business. You will see the impact of database no matter in what stream of business you find yourself.
 
 ## Tools
-
+Critical stuff.
 
 
