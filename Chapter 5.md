@@ -7,3 +7,5 @@ Let's start with a gentle introduction to *the digital divide*.
 **Figure KS. The digital divide**
 
 ![Figure KS. The digital divide](https://raw.githubusercontent.com/robertriordan/2400/master/Images/internet_usage.png)
+
+Test
