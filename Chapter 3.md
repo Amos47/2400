@@ -12,6 +12,7 @@ Here's a quiz about Gitbook
 > Gitbook is good
 
 What does Gitbook support?
+
 - [x] Table-based questions with radio buttons
 - [x] Table-based questions with checkboxes
 - [ ] Telepathy
@@ -25,23 +26,22 @@ What does Gitbook support?
 
 ---
 
-
-In this chapter we will consider the broad topic of how systems come to be. What sparks the need for a system or a system change? How are system requirements decided?  How are systems built? How are they put into place in an organisation? How are they cared for during their life-span and how are they retired?
+In this chapter we will consider the broad topic of how systems come to be. What sparks the need for a system or a system change? How are system requirements decided?  How are systems built? How are they put into place in an organisation? How are they cared for during their life-span and how are they retired? In chapter 5, we consider how organisations set priorities for and decide upon those priorities.
 
 This chapter is about more than building new systems. It is also about NOT building a system when a new system is required, but rather acquiring it through other channels. And it's about how organisations decide whether to buy, build, rent or commission the building of a brand-new system.
 
 ## What sparks the need for a new system in a typical organisation?
 
-The on-line [Merriam-Webster Dictionary](http://www.merriam-webster.com/dictionary/process) defines *process* simply as "a series of actions that produce something or that lead to a particular result." Recall our discussion of a simple process in Chapter 1. *Input* **-->** *Process* **-->** *Output*. Simple and clean. When you stop to think about it, everything that happens in any organisation (and in your life) is part of a process. Something spurs action (you feel cold in your room - this is input) so you either turn up the thermostat, or put on a sweater or close an open window (this is the process part). From this process action,  some output is produced (something is changed - more warmth or less cold but in the end, you feel more comfortable).
+The on-line [Merriam-Webster Dictionary](http://www.merriam-webster.com/dictionary/process) defines *process* simply as "a series of actions that produce something or that lead to a particular result." Recall our discussion of a simple process in Chapter 1. *Input* **-->** *Process* **-->** *Output*. Simple and clean. When you stop to think about it, everything that happens in any organisation (and in your life) is part of a process. Something spurs action (you feel cold in your room - this is input) so you either turn up the thermostat, or put on a sweater or close an open window (this is the process part). From this process action,  some output is produced (something is changed - more warmth or less cold but in the end, you feel more comfortable). The process *improvement* piece is another matter. I argued in chapter 1 that improvement is measured at the margins: either the input is less costly or less voluminous, or the output is better, faster, more plentiful. So in this example, an improvement could be in making the sweater easier to put on (less effort at input) or more insulating (better outcome or quicker time to value) or in the thousands of other potential improvements including automating the closing of a window or in better insulation or a more efficient hear source. At any rate, in this book, we talk about process improvement (progress) being measured at the margins where we measure input and output.
 
-It's the same in an organisation. Something happens as input (profits are falling; employees are calling in sick in record numbers; a competitor releases a new product or it's simply time for a strategic review - the ticking of the clock has led to a milestone being hit, triggering a review). This input bubbles through the organisation until it's recognised by someone or some monitoring process, causing someone or some group to start mounting a response.
+It's the same in an organisation. Something acts as an input (profits are falling; employees are calling in sick in record numbers; a competitor releases a new product or it's simply time for a strategic review - the ticking of the clock has led to a milestone being hit, triggering a review). This input bubbles through the organisation until it's recognised by somebody or some monitoring process, causing someone or some group to start mounting a response.
 
-One of those possible *somethings that could be done* is a change to an existing system or the recognition that an entirely new system is required. This decision would be made using one of the decision models discussed in Chapter 3, where we also discuss strategic alignment. For now, let's just assume that a decision was made to respond to the input stimulus through the tactic of introducing (what is often called *sourcing*) a new (meaning new *to the organisation*) system.
+One of those possible *somethings that could be done* is a change to an existing system or the recognition that a system should be scrapped and/or that an entirely new system is required. This decision would be made using one of the decision models discussed in Chapter 4, where we also discuss strategic alignment. For now, let's just assume that a decision was made to respond to the input stimulus through the tactic of introducing (what is often called *sourcing*) a new (meaning new *to the organisation*) system.
 
 ## Sourcing a new system
-What are the choices when sourcing a new system? There are several different variations, leading to eleven distinct possible paths plus (just to make a long story even longer) several possibilities for combing one or more of the eleven.
+What are the choices when sourcing a new system? There are several different variations, leading to eleven distinct possible paths plus (just to make a long story even longer) several possibilities for combining one or more of the eleven.
 
-We will first make the distinction of whether the system will be: A) custom build using some combination of existing components and/or brand new code, or; B) if the system is sourced from the marketplace of existing software systems that any organisation could purchase or rent on the open market. Purchased commercial software is referred to as COTS (for *Commercial Off-The-Shelf*) software (such as Microsoft Excel), while rented software is referred to as *Software as a Service* or SaaS. A further wrinkle is produced in that *Open Source Software* (or OSS) can be had for literally no initial capital outlay. Furthermore, systems can be pieced together using components sourced from any or all of the possibilities, creating a mashup that defies categorisation.
+We will first make the distinction of whether the system will be: A) custom build using some combination of existing components and/or brand new code, or; B) if the system is sourced from the marketplace of existing software systems that any organisation could purchase or rent on the open market. Purchased commercial software is referred to as COTS (for *Commercial Off-The-Shelf*) software (such as Microsoft Excel), while rented software is referred to as *Software as a Service* or SaaS. A further wrinkle is produced in that *Open Source Software* (or OSS) can be had for literally no initial capital outlay. Furthermore, systems can be pieced together using components sourced from any or all of the possibilities, creating a *mashup* that defies categorisation.
 
 So as not to muddy the already turbid waters, the four groups and the eleven total possibilities are described in general below, followed by a table outlining pros, cons and including a high-level determination of cost, time to value and overall quality.
 
@@ -80,24 +80,24 @@ C4. Purchasing a COTS solution and implementing it with no changes whatsoever (t
 
 **D: Software as a Service (SaaS)**
 
-D1. SaaS involves essentially *renting* software from a software service provider. If the organisation wants a big enterprise system and doesn’t want the cost or responsibility of buying, installing and maintaining its own copy of the software, said software can be “rented” and provided over the internet. There is little or no customisation here. You take what is offered. If any customisation is available, it's done on a outsourced basis by the service provider.
+D1. SaaS involves essentially *renting* software from a software service provider. If the organisation wants a big enterprise system and doesn’t want the cost or responsibility of buying, installing and maintaining its own copy of the software, said software can be *rented* and provided over the internet. There is little or no customisation here. You take what is offered. If any customisation is available, it's done on a outsourced basis by the service provider.
 
-As you might imagine, there are pros and cons to each approach, a summary of which appears below. The cost, time and quality assessments are made using graphical *thermometers*. The higher the green temperature (for quality), the higher the general quality of the solutions in this category. For cost and time, the higher the temperature the more costly and time-consuming the solutions in this category. So ideally, we're looking for the east amount of red and the most green. That's the ideal solution but perhaps not the optimal in every situation. To get very high quality, for example, you might have to pay and wait... but it might be worth it.
+As you might imagine, there are pros and cons to each approach, a summary of which appears below. The cost, time and quality assessments are made using graphical *thermometers*. The higher the green temperature (for quality), the higher the general quality of the solutions in this category. For cost and time, the higher the temperature, the more costly and time-consuming are the solutions in this category. So ideally, we're looking for the least amount of red and the most green. That's the ideal solution, but *perhaps not the optimal* in every situation. To get very high quality, for example, you might have to pay and wait... but it might be worth it.
 
 **Table X: Sourcing a system**
 
 | Source type | Advantages | Disadvantages | Assessment
 | :- | :- | :- |:-:
-| A. CDS | By far the most costly option, but you get what you pay for. CDS provides systems that are specifically optimised to deal with exactly the challenge or opportunity faced by the organisation, and are built upon (hopefully) rigorous analysis, testing and monitoring in ways that are specific to the situation. The organisation isn’t forced to shoehorn into a one-size-fits-all solution and compromise functionality, flexibility and efficiency for the sake of cost. Furthermore, the evolution of the software is under the organisation’s control. The asset value of the intellectual property (IP) embodied in the code is owned and internal and thus controlled. Finally, the organisation retains full control of any data that is implicated in the process. Plenty of upside here. | The old adage that “nothing is free” is nowhere more appropriate than here. While surgical solutions to critical issues are the ideal for every organisation, they come at a price. Here, the price is the double-headed monster of real dollar cost and a long time to value (a metric that indicates the elapsed time from spend to reward). There is a risk of obsolescence as well and the organisation owns the system and must maintain it – you own the stack and all the risk associated with the development right through to retirement. Finally, all tech and user support is on your organisation. This can be expensive. Big bucks and a lot of time are the main drawbacks here. If cheap and quick are important, look elsewhere.| ![Custom Designed Software](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_CDS.png)
-| B. OSS | An increasingly worthy consideration in the systems development mix is the use, whether exclusively or as one of more components of a solution, of open source software. OSS is software that is made available free from initial cost by developers in the community. The code is free to *fork* (copy), modify (create an organisation’s own local version) and implement. Knowing what we do about the time value of money (it’s better to have your money now than at any time in the future) and especially if capital availability is low and/or the cost of capital is high, this is indeed an intriguing opportunity as there is little or no cash outlay at onset. Solutions can be built from existing code or modified as required. Code (at least initially) is supported by a community of developers, providing many eyes on the implementation (but this can be risky as many eyes can also see potential vulnerabilities). Another potential advantage lies in not being tethered to a particular vendor such as SAP or Oracle or Microsoft. OSS is open, and open means freedom to choose. | Again, nothing is free, even free stuff. [Gartner](http://gartner.com/webinar/1633714) (accessed February 12, 2015) maintains that a sobering 92% of the total cost of systems ownership is accounted for by the maintenance phase (the period during which the system is in use) ergo the initial savings are not as enticing as expected, especially when trying to do maintenance on code that was not written from scratch to be maintainable and is not supported by a software vendor but rather by a vague *user community.*  Moreover, like COTS solutions (see below), such generic code, if unmodified, confers no competitive advantage on the organisation. If it’s a strategic priority to use a system that is tailored to a particular value-generating process, then OSS is not the way to go. In addition, the issue of solution integration must be addressed. A system can’t simply be dropped into place and begin to work seamlessly in the organisation. Larger commercial vendors such as Google or Microsoft will provide such service as part of the development costs were you to hire an integrator to produce and install a CDS. With OSS, it’s on you to make all the pieces of the organisation perform like a symphony. Penultimately, there just might not be any OSS available to address the challenge at your organisation. There’s no guarantee that anything will fit, and forcing a solution on a problem just because it’s the best solution available poses risks similar to buying COTS (see below). Finally, mixing and matching OSS with other solutions such as CDS and COTS might raise governance issues with open source licensing. Beware and read the agreements carefully. | ![Open-source Software](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_oss.png)
-| C. COTS | By far the least costly option, and that's always a valid consideration. But paradoxically there's a price to be paid for being cost conscious (see disadvantages). Additionally, it’s likely that industry best practices (efficient and generally accepted, near universal ways of doing things) are adhered to and enforced in commercial software. This should be encouraging to the operations people at your organisation. Finally, it’s likely that the technology is up-to-date. | Given the nature of such software (commercially available, generic systems to solve generic problems), it is unlikely that an organisation's challenges would be efficiently or effectively addressed by such an all-purpose tool. Think Excel. Great tool, tons of power, massive scope, not at all specific to an industry or a functional area. You can do some dentistry with a pair of pliers; question is, would it be efficient or effective? The organisation buying COTS also exposes itself to the risk of vendor viability. What if you buy a system from XYZ Co. and suddenly they go bust? Or are bought out? Additionally, much like OSS, a solution might not exist right off the shelf. So your problem could become framed in the context of the available solution. (For example if a specific solution for your problem is not available, you might find yourself picking a solution to a similar problem because there’s a solution available to solve that *sort of the same* problem. Think of having a piece of wood that you need to cut into two, equal-length pieces. Obviously a saw would work best. However if a saw is not available but a hammer is, the job can be done, but with considerable expense of time and effort and with a much less accurate outcome.) This is obviously not optimal. Finally, retaining competent developers on your staff will likely be difficult. After all, if you’re buying software off the shelf, why would you need developers? Developers develop. Buyers buy. Different people. | ![Commercial Off-the-shelf Software](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_COTS.png)
-| D. SaaS | This is a fairly expensive proposition, despite there being no development costs at all. The organisation will pay a price for essentially transferring all the application risk to an outside provider, which house and maintain the software at remote locations. There is no need for the organisation to have local hardware or software other than an internet connection and display devices for users. System maintenance (upgrades, bug fixes, etc.) are all the responsibility of the service provider. Service Level Agreements (SLAs) provide guarantees of uptime and availability and the hefty penalties attached to such agreements guarantee that the organisation consuming the SaaS are protected from loss of business arising from unforeseen circumstances (such as outages, system failures, etc.). SaaS offers a very short time to value, includes codified best practices and service providers provide state-of-the-art, up-to-date software, made available on all platforms and devices (from mainframe to smartphone). Finally, the software is available anywhere you have internet access, so distributed systems and scattered workforces (such as the cottage in summer, for example -- oh joy!) are all supported. | Of all the software form factors, SaaS has the highest vendor viability risk. Putting all your eggs in one basket with one vendor can be dangerous. Much like COTS, what if the vendor (service provider) were to suddenly close its doors or go offline? The risk of data lock-in is also high. There is little opportunity to specify the optimal data model (data architecture) for the organisation. You take what you get. This also impinges on data confidentiality issues – how does the organisation protect its IP in terms of its own data when the data is processed and stored off-site? Finally, usage-based pricing could become costly over time if the organisation’s use of the software scales up and is locked-in to the SaaS solution. It is expected that SaaS will grow rapidly in proportion to other forms of system acquisition.| ![Software as a Service](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_SaaS.png)
-| 1. In-source | More likely to meet user requirements as the organisation’s developers, who will build the system in the case of CDS or configure/modify it in the case of OSS and COTS, are familiar with the organisation's business model and processes. Organisation owns the code and the solution.| On the downside, it’s costly to support such a systems development function and unless the organisation is itself a software house, systems development will not be a core competence. | ![In sourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_in_source.png)
-| 2. Outsource | Frees up the organisation to focus on its core competence. There is more certain cost control (through performance metrics and contractual obligations) and external technical specialists are likely to use state-of-the-art tools and procedures along with industry best practices. Finally, systems development houses have well-trained staff as technology solutions are *their* core competence| Less likely than in- or self-sourcing to meet user requirements as the requirements must be provided to an outside team with no particular expertise or knowledge of the organisation's business model. This route can be very costly and time consuming. The organisation has no control over the external entity in terms of its survival, potential sale or even going out of business, thus exposing the organisation to significant vendor risk. Moreover, the advantage of doing your own technology in-house is lost to the organisation. Penultimately, this development route is less likely to produce a sustainable competitive advantage as the driver is external to the organisation. Finally, unless specifically guaranteed by contract, the firm that creates the solution (that’s the outsourcer) also owns the code – so the IP is lost. | ![Outsourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_out_source.png)
-| 3. Self-source | This route is very likely to meet user requirements as the end-users – who are actually creating a solution based on their own needs - are quite familiar with their own processes. Furthermore, the organisation owns the code and the solution, thus the IP remains in house. | Very costly in terms of diverting attention and resources away from the actual work of the end-users (they aren't doing their real job if they are developing a system). Often there is no attention to organisational standards in terms of software tools, protocols, connectivity to larger, enterprise-wide systems or, especially, **security**. Systems development is not a core competence of functional specialists in, for example, the Accounting department, thus systems built by those whose training is in Accounting or Finance or Marketing will not be optimised. Finally, to reiterate, system-wide connectivity, security and privacy are often the most serious issues. And heaven help the organisation if the employee who did the work were to leave for any of the various reasons that people move on, to say nothing about sabotage perpetrated by a disgruntled employee on whose home-made system the organisation has become dependent. Documentation is almost never attempted, let alone completed, in self-created systems. Finally, as Abraham Maslow famously wrote “Give a small boy a hammer, and he will find that everything he encounters needs hammering.” [Interested?](Abraham H. Maslow, 1966. The Psychology of Science. p. 15.) Re-written in its more familiar aphorism form, we often see or hear “If the only tool you have is a hammer, everything looks like a nail.” If the functional analyst building the system is familiar with Excel, then Excel will be her hammer and will be the solution to everything, whether or not it’s the best too for a good solution. | ![Self-sourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_self_source.png)
+| A. CDS | By far the most costly option, but you get what you pay for. CDS provides systems that are specifically optimised to deal with exactly the challenge or opportunity faced by the organisation, and are built upon (hopefully) rigorous analysis, testing and monitoring in ways that are specific to the situation. The organisation isn’t forced to shoehorn into a one-size-fits-all solution and compromise functionality, flexibility and efficiency for the sake of cost. Furthermore, the evolution of the software is under the organisation’s control. The asset value of the intellectual property (IP) embodied in the code is internally owned and thus controlled. Finally, the organisation retains full control of any data that is implicated in the process. Plenty of upside here. | The old adage that “nothing is free” is nowhere more appropriate than here. While surgical solutions to critical issues are the ideal for every organisation, they come at a price. Here, the price is the two-headed monster of real dollar cost and a long time to value (a metric that indicates the elapsed time from spend to reward). There is a risk of obsolescence as well and, as the organisation owns the system, it must maintain it. When you own the stack you are subject to all the risk associated with the development right through to retirement. Finally, all tech and user support is your responsibility. This can be expensive. Big bucks and a lot of time are the main drawbacks here. If cheap and quick are important, look elsewhere.| ![Custom Designed Software](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_CDS.png)
+| B. OSS | An increasingly worthy consideration in the systems development mix is the use, whether exclusively or as one of more components of a solution, of open source software. OSS is software that is made available *free from initial cost* by developers in the development community. The code is free to *fork* (copy), modify (create an organisation’s own local version) and implement. Knowing what we do about the time value of money (it’s better to have your money now than at any time in the future) and especially if capital availability is low and/or the cost of capital is high, this is indeed an intriguing opportunity as there is little or no cash outlay at onset. Solutions can be built from existing code or modified as required. Code (at least initially) is supported by a community of developers, providing many eyes on the implementation (but this can be risky as many eyes can also see potential vulnerabilities). Another potential advantage lies in not being tethered to a particular vendor such as SAP or Oracle or Microsoft. OSS is open, and open means freedom to choose. | Again, nothing is free, even free stuff. [Gartner](http://gartner.com/webinar/1633714) (accessed February 12, 2015) maintains that a sobering 92% of the total cost of systems ownership is accounted for by the maintenance phase (the period during which the system is in use) *ergo* the initial savings are not as enticing as expected, especially when trying to do maintenance on code that was not written from scratch to be maintainable and is not supported by a software vendor but rather by a vague *user community.*  Moreover, like COTS solutions (see below), such generic code, if unmodified, confers no competitive advantage on the organisation. If it’s a strategic priority to use a system that is tailored to a particular value-generating process, then OSS is not the way to go. In addition, the issue of solution integration must be addressed. A system can’t simply be dropped into place and begin to work seamlessly in the organisation. Larger commercial vendors such as Google or Microsoft will provide such integration service as part of the development costs if you hire an integrator to produce and install a CDS. With OSS, it’s on you to make all the pieces of the organisation perform like a symphony. Penultimately, there just might not be any OSS available to address the challenge at your organisation. There’s no guarantee that anything will fit, and forcing a solution on a problem just because it’s the best solution available poses risks similar to buying COTS (see below). Finally, mixing and matching OSS with other solutions such as CDS and COTS might raise governance issues with open source licensing. *Beware and read the agreements carefully.* | ![Open-source Software](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_oss.png)
+| C. COTS | By far the least costly option, and that's always a valid consideration. But paradoxically there's a price to be paid for being cost conscious (see disadvantages). Additionally, it’s likely that industry *best practices* (efficient and generally accepted, near universal ways of doing things) are adhered to and enforced in commercial software. This should be encouraging to the operations people at your organisation. Finally, it’s likely that the technology is up-to-date. | Given the nature of such software (commercially available, generic systems to solve generic problems), it is unlikely that an organisation's challenges would be efficiently or effectively addressed by such an all-purpose tool. Think Excel. Great tool, tons of power, massive scope, not at all specific to an industry or a functional area. You can do some dentistry with a pair of pliers; question is, would it be efficient or effective? The organisation buying COTS also exposes itself to the risk of vendor viability. What if you buy a system from XYZ Co. and suddenly they go bust? Or are bought out and all contracts up for renegotiation? Additionally, much like OSS, a solution might not exist right off the shelf. So your problem could become framed in the context of the available solution. (For example if a specific solution for your problem is not available, you might find yourself picking a solution to a similar problem because there’s a solution available to solve that *sort of the same* problem. Think of having a piece of wood that you need to cut into two, equal-length pieces. Obviously a saw would work best. However if a saw is not available but a hammer is, the job can be done, but with considerable expense of time and effort and with a much less accurate outcome.) This is obviously not optimal. Finally, retaining competent developers on your staff will likely be difficult. After all, if you’re buying software off the shelf, why would you need developers? Developers develop. Buyers buy. Different people. | ![Commercial Off-the-shelf Software](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_COTS.png)
+| D. SaaS | This is a fairly expensive proposition, despite there being no development costs at all. The organisation will pay a price for essentially transferring all the application risk to an outside provider, which houses and maintains the software at remote locations. There is no need for the organisation to have local hardware or software other than an internet connection and display devices for users. System maintenance (upgrades, bug fixes, etc.) are all the responsibility of the service provider. Service Level Agreements (SLAs) provide guarantees of uptime and availability and the hefty penalties attached to such agreements guarantee that the organisation consuming the SaaS are protected from loss of business arising from unforeseen circumstances (such as outages, system failures, etc.). SaaS offers a very short time to value, includes codified best practices and service providers provide state-of-the-art, up-to-date software, made available on all platforms and devices (from mainframe to smartphone). Finally, the software is available anywhere you have internet access, so distributed systems and a scattered workforce (such as the cottage in summer, for example -- oh joy!) are all supported. | Of all the software form factors, SaaS has the highest vendor viability risk. Putting all your eggs in one basket with one vendor can be dangerous. Much like COTS, what if the vendor (service provider) were to suddenly close its doors or go offline? The risk of data lock-in is also high. There is little opportunity to specify the optimal data model (data architecture) for the organisation. You take what you get. This also impinges on data confidentiality issues – how does your organisation protect its IP in terms of its own data when the data is processed and stored off-site? Finally, usage-based pricing could become costly over time if the organisation’s use of the software scales up and is locked-in to the SaaS solution. It is expected that SaaS will grow rapidly in proportion to other forms of system acquisition.| ![Software as a Service](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_SaaS.png)
+| 1. In-source | More likely to meet user requirements since the organisation’s developers, who will build the system in the case of CDS or configure/modify it in the case of OSS and COTS, are familiar with the organisation's business model and processes. Your organisation owns the code and the solution.| On the downside, it’s costly to support such a systems development function and unless the organisation is itself a software house, systems development will not be a core competence. | ![In sourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_in_source.png)
+| 2. Outsource | Frees up the organisation to focus on its core competence. There is more certain cost control (through performance metrics and contractual obligations) and external technical specialists are likely to use state-of-the-art tools and procedures along with industry best practices. Finally, systems development houses have well-trained staff as technology solutions are *their* core competence. | Less likely than in- or self-sourcing to meet user requirements as the requirements must be provided to an outside team with no particular expertise or knowledge of the organisation's business model or value chain. This route can be very costly and time consuming. The organisation has no control over the external entity in terms of its survival, potential sale or even going out of business, thus exposing the organisation to significant vendor risk. Moreover, the advantage of doing your own technology in-house is lost to the organisation. Penultimately, this development route is less likely to produce a sustainable competitive advantage as the driver is external to the organisation. Finally, unless specifically guaranteed by contract, the firm that creates the solution (that’s the outsourcer) also owns the code – so the IP is lost. | ![Outsourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_out_source.png)
+| 3. Self-source | This route is very likely to meet user requirements as the end-users – who are actually creating a solution based on their own needs - are quite familiar with their own processes. Furthermore, the organisation owns the code and the solution, thus the IP remains in house. | Very costly in terms of diverting attention and resources away from the actual work of the end-users (they aren't doing their real job if they are developing a system). Often there is no attention to organisational standards in terms of software tools, protocols, connectivity to larger, enterprise-wide systems or, especially, **security**. Systems development is not a core competence of functional specialists in, for example, the Accounting department, thus systems built by those whose training is in Accounting or Finance or Marketing will not be optimal. Finally, to reiterate, system-wide connectivity, security and privacy are often the most serious issues. And heaven help the organisation if the employee who did the work were to leave for any of the various reasons that people move on, to say nothing about sabotage perpetrated by a disgruntled employee on whose home-made system the organisation has become dependent. Documentation is almost never attempted, let alone completed, in self-created systems. Finally, as Abraham Maslow famously wrote “Give a small boy a hammer, and he will find that everything he encounters needs hammering.” [Interested?](Abraham H. Maslow, 1966. The Psychology of Science. p. 15.) Re-written in its more familiar aphorism form, we often see or hear “If the only tool you have is a hammer, everything looks like a nail.” If the functional analyst building the system is familiar with Excel, then Excel will be her hammer and will be the solution to everything, whether or not it’s the best tool for the situation. | ![Self-sourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_self_source.png)
 
 ### Buy or Build?
-We will consider Rent to be a subset of Buy. That being said, let's start with the *Buy or Build* decision. That's the distinction between commissioning a brand new system using either the in-, out- or self-sourcing option, compared to the decision to buy or rent a commercial product and either customise it or not.
+We will consider *Rent* to be a subset of *Buy*. That being said, let's start with the *Buy or Build* decision. That's the distinction between commissioning a brand new system using either the in-, out- or self-sourcing option, compared to the decision to buy or rent an existing commercial product and either customise it or not.
 
 We begin by posing the question "Should we start from scratch here, rent something or should we buy off the shelf?" There are actually two distinct ways to look at the *B-or-B* question in terms of what is described above in the pros and cons table. We can consider the broad *Buy* category to be comprised of buying or renting anything from outside the organisation, whether it's a custom, ground-up application or an OTS solution that is either customised through outsourcing or not customised at all. So this one broad category involves not using internal resources in any way.
 
@@ -105,7 +105,7 @@ The other broad category is, obviously, the opposite -- doing everything in-hous
 
 A useful tool to understand the context of this choice is the Outsourcing Decision Matrix. This is a strategy tool, useful in a wide variety of situations but not necessarily in the B-or-B software systems arena. We'll use the tool to give us an appreciation for the decision process in B-or-B.
 
-The Mindtools website (see the Interested? link below) poses a series of questions much like these: "Which activities should we outsource, and which tasks should we do in-house? For instance, imagine that you are in the health care industry, let's say you are the administrator of a small, rural primary-care hospital. Should you outsource your cleaning staff, or hire in-house cleaners? Would the decision be the same for a furniture manufacturer in a large, urban setting? If you worked for an airline, would you outsource your in-flight meal preparation, or would you hire cooks directly? What if you managed a luxury hotel?" As I write this chapter, I have just returned from my local Ikea store. My wife and I made a stop in the cafeteria (shopping at Ikea makes for hungry work) and I found myself wondering if the cooks and serving personnel providing the meals were Ikea employees or outsiders occupying Ikea-owned space and using their own or Ikea's kitchen tools to provide service under contract to Ikea. You get the idea.
+The Mindtools website (see the Interested? link below) poses a series of questions much like these: "Which activities should we outsource, and which tasks should we do in-house? For instance, imagine that you are in the health care industry and let's say you are the administrator of a small, rural primary-care hospital. Should you outsource your cleaning staff, or hire in-house cleaners? Would the decision be the same for a furniture manufacturer in a large, urban setting? If you worked for an airline, would you outsource your in-flight meal preparation, or would you hire cooks directly and maintain kitchens? What if you managed a luxury hotel?" As I write this chapter, I have just returned from my local *Ikea* store (unpaid plug). My wife and I made a stop in the cafeteria (shopping at Ikea makes for hungry work) and I found myself wondering if the cooks and serving personnel providing the meals were Ikea employees or outsiders occupying Ikea-owned space and using their own or Ikea's kitchen tools to provide service under contract to Ikea. You get the idea.
 
 So do you do it yourself or get others to do for you? This is a good question indeed. [Interested?](http://www.mindtools.com/pages/article/newSTR_45.htm)
 
@@ -119,19 +119,19 @@ Before we launch into examining this important question, consider that all moder
 
 [Interested?](https://www.gartner.com/doc/2688515?ref=SiteSearch&sthkw=software&fnl=search&srcId=1-3478922254)
 
-Figure x. Outsourcing Decision Matrix (symmetrical)
+**Figure x. Outsourcing Decision Matrix (symmetrical)**
 
 ![Outsourcing Decision Matrix (Symmetrical)](https://raw.githubusercontent.com/robertriordan/2400/master/Images/outsourcing_decision_equal.JPG)
 
 Figure X shows the matrix in a symmetrical configuration. The idea of this tool is to envision a process or activity undertaken or proposed by a particular organisation and decide what to do with it. We get a measurement on the two dimensions (Contribution to Performance and Strategic Importance) and then plot the process on the grid based on the values of the two dimensions. Simple.
 
-We will use as illustration here a strategic review process with which we should all be able to relate: that of a University considering the value of an existing academic programme. Universities are increasingly numbers driven (bums in seats) as government funding is increasingly tied to enrolment numbers so schools are required to be agile and to engage in continuous programme review.
+We will use as illustration here a strategic review process with which we should all be able to relate: that of a University considering the value of an existing academic programme. Universities are increasingly numbers driven (bums in seats) as government funding is increasingly tied to enrolment numbers. *Ergo* schools are required to be agile and to engage in continuous programme review.
 
 Let’s say that the programme under consideration is a degree in Airborne Fulfillment Logistics – better understood as *delivering stuff using drones*. The school in question currently offers the programme as a joint initiative of the Aerospace Engineering department and the Supply Chain Management people in the Business faculty.
 
 Now we need to work towards deciding if and how to proceed with the decision of what to do with this *drone degree*. This is where the tool comes in handy.
 
-Figure Z. Outsourcing Decision Matrix with proposed process
+**Figure Z. Outsourcing Decision Matrix with proposed process**
 
 ![Outsourcing Decision Matrix with process located](https://raw.githubusercontent.com/robertriordan/2400/master/Images/outsourcing_decision_system_box.jpg)
 
@@ -175,7 +175,7 @@ That's how it works in the ideal world. The real world is a bit messier and more
 
 What are the issues? First of all, we have chosen arbitrary cut points between decision outcomes, located at 50% on each scale. This is aesthetically quite pleasing (yielding four, nice, equally-sized quadrants), but it unlikely to represent reality in all but the most unusual cases. More likely is the organisation having different cultures, priorities, strategies and practices, thus requiring different cut-points.
 
-Figure Y. Decision Matrix examples with different variable cut points
+**Figure Y. Decision Matrix examples with different variable cut points**
 
 ![Outsourcing Decision Matrix Mashup](https://raw.githubusercontent.com/robertriordan/2400/master/Images/outsourcing_decision_mashup.jpg)
 
@@ -185,13 +185,13 @@ The recent and astoundingly swift rise of Web 2.0 communications and collaborati
 
 Don't confuse this sort of virtual organisation with a *virtual corporation*, which is really a form of strategic alliance. [Some sources](http://www.allbusiness.com/glossaries/virtual-corporation/4960651-1.html) muddy the water a bit on this.
 
-[[Interested?](http://www.economist.com/node/14301746)]
+[Interested?](http://www.economist.com/node/14301746)
 
 Let's then take our new-found expertise in decision making and translate it into a more difficult situation which, while sharing some similarities with the outsourcing decision challenge, has more and varied inputs to the process.
 
 To make the decision about how to commission a new system in an organisation, a series of determinations need to be made. The *consideration* column can be seen as the *characteristics* of the system or of the organisation considering the system.
 
-Table XX. Buy-or-build considerations
+**Table XX. Buy-or-build considerations**
 
 | Consideration | Build if | Buy if |
 | :- | :- | :- |
@@ -280,7 +280,7 @@ That’s the order of magnitude of issues faced by software developers who use t
 
 In fact, risk remains higher in SDLC-type (waterfall) projects than in agile-type (iterative) projects until the very end of the process. This is at least *partly* a function of the method itself, and partly a function of the type of project that matches with the method. Figure BCR shows the risk as measured in a procurement environment systems development *milieu*.
 
-Figure BCR. Risk comparison between SDLC and Agile development.
+**Figure BCR. Risk comparison between SDLC and Agile development.**
 
 ![Risk comparison](https://raw.githubusercontent.com/robertriordan/2400/master/Images/risk_curve.png)
 
@@ -288,7 +288,7 @@ We can clearly see that risk drops steadily for iterative method projects, while
 
 [Interested?](http://www.iscn.at/select_newspaper/procurement/tieto.html)
 
-Figure XCB. SDLC Phases
+**Figure XCB. SDLC Phases**
 
 ![SDLC Phases](https://raw.githubusercontent.com/robertriordan/2400/master/Images/SystemsDLC.png)
 
@@ -309,14 +309,17 @@ And here’s Wally’s take on implementation:
 
 ![Wally](https://raw.githubusercontent.com/robertriordan/2400/master/Images/wally_implementation.PNG)
 
-http://dilbert.com/strip/2015-04-22
+*Source: http://dilbert.com/strip/2015-04-22*
 
 ### System Conversion - putting the new system to work
+
 This process involves the replacement of an existing system with a new one. Think of the new system in the broadest possible terms, as a new system might also involve changes to infrastructure, processes, networks and even personnel. Such deeply technical details would not likely be specified by business analysts but rather must be discovered and specified by systems analysts in the requirements analysis phase of the SDLC. Regardless of when or whom, all requirements must come together and be satisfied in the implementation and integration phase.
 
 Generally, the conversion phase applies only to the situation where an existing system is being replaced by a new one. An entirely new-to-the-organisation system would likely be converted with the *plunge* method (see below).
 
 Let’s take a look at the four most common methods. Figure RM below shows the methods graphically.
+
+**Figure RM. Conversion alternatives**
 
 ![Figure RM. Conversion methods](https://raw.githubusercontent.com/robertriordan/2400/master/Images/conversion.png)
 
@@ -324,14 +327,14 @@ Let’s examine each in light detail. The metrics in the rightmost column repres
 
 It appears that there is a negative relationship between risk and cost. And that’s true in general. As nothing is free (even free stuff), a reduction in risk to the organisation will cost money. You just can’t escape. Willingness to accept more risk will be less costly… if things go well.
 
-Table ZZZ. Comparison of conversion methods
+**Table ZZZ. Comparison of conversion methods**
 
 | Conversion Method | Description | Good | Not good | Risk/Cost
 | :- | :- | :- | :- | :-: |
-|Parallel | Both systems run at the same time for a period of time. | When the existing system performs a critical function in the organisation and you can’t do without the output it provides and/or when there is an intolerable level of risk that the new system might fail. | When time is of the essence and the new system provides something that the current one cannot. Also when there just aren’t enough resources available to do both jobs at the same time (i.e., if there aren’t enough staff to prepare a critical input file in two ways). | ![Parallel](https://raw.githubusercontent.com/robertriordan/2400/master/Images/parallel.png) |
-|Pilot| The system is incrementally implemented in subsets of the organisation. | When the organisation does not critically need the output provided by the new system and more importantly if the system is large enough to allow it to be phased in. If the organisation is large enough to warrant an enterprise-wide system, and the system will be implemented in many functional areas, then a phased conversion could be carried out in one functional area at a time (for example, first in Accounting and then in Finance and then in Sales, etc.). Another scenario could see some members of one functional area using the new system while others use the old one. Finally, if the organisation is large enough to have multiple locations doing roughly similar work (a series of auto manufacturing plants, for example) then the conversion could be phased in one plant at a time, or one country at a time, etc. This type of conversion lets the organisation gauge the success of the conversion with less exposure to risk than would be the case under Plunge conversion, for example (see below).  | When either the reach of the system or the size of the organisation do not allow for enough scenarios. In addition, if all areas or personnel or installations of the company  work in tight unison it might be difficult to find the opportunity to differentiate the work process.| ![Pilot](https://raw.githubusercontent.com/robertriordan/2400/master/Images/pilot.png) |
-|Phased | Different pieces (modules, functions) of the overall system are implemented at different times. | When the system is large enough and the pieces are different enough to warrant splitting up the system. | When the benefits of the system (or even the integrity) would be compromised by piecemeal implementation. Some systems are all or nothing. In addition, it could be quite expensive to  repeatedly integrate pieces of a new system with existing infrastructure and processes, let alone train users many times as new pieces become available. | ![Pilot](https://raw.githubusercontent.com/robertriordan/2400/master/Images/pilot.png)
-|Plunge | Lights off, lights on. Out with the old, in with the new. Retirement party on Friday. Monday we start the new system. | This is good when cost is critical or when it’s not operationally feasible to run two systems at one. Also when the output of the old system is not needed in its current form and moreover, if time is of the essence – you need the new outputs ASAP or if there is a drop-dead date for implementation that cannot be changed (funds might disappear, for example, if the new system isn’t implemented before the end of the fiscal year). Finally, it’s good in situations where it’s relatively easy to return to the old system should the situation warrant.  | When you need the output from the existing system, or when it’s not clear what the outcome of the conversion will be (risky). | ![Plunge](https://raw.githubusercontent.com/robertriordan/2400/master/Images/plunge.png)
+|Parallel | Both systems run at the same time for a period of time. | When the existing system performs a critical function in the organisation and you can’t do without the output it provides and/or when there is an intolerable level of risk that the new system might fail. | When time is of the essence and the new system provides something that the current one cannot. Also when there just aren’t enough resources available to do both jobs at the same time (i.e., if there aren’t enough staff to prepare a critical input file in two ways). | ![Parallel](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_parallel.png) |
+|Pilot| The system is incrementally implemented in subsets of the organisation. | When the organisation does not critically need the output provided by the new system and more importantly if the system is large enough to allow it to be phased in. If the organisation is large enough to warrant an enterprise-wide system, and the system will be implemented in many functional areas, then a phased conversion could be carried out in one functional area at a time (for example, first in Accounting and then in Finance and then in Sales, etc.). Another scenario could see some members of one functional area using the new system while others use the old one. Finally, if the organisation is large enough to have multiple locations doing roughly similar work (a series of auto manufacturing plants, for example) then the conversion could be phased in one plant at a time, or one country at a time, etc. This type of conversion lets the organisation gauge the success of the conversion with less exposure to risk than would be the case under Plunge conversion, for example (see below).  | When either the reach of the system or the size of the organisation do not allow for enough scenarios. In addition, if all areas or personnel or installations of the company  work in tight unison it might be difficult to find the opportunity to differentiate the work process.| ![Pilot](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_pilot.png) |
+|Phased | Different pieces (modules, functions) of the overall system are implemented at different times. | When the system is large enough and the pieces are different enough to warrant splitting up the system. | When the benefits of the system (or even the integrity) would be compromised by piecemeal implementation. Some systems are all or nothing. In addition, it could be quite expensive to  repeatedly integrate pieces of a new system with existing infrastructure and processes, let alone train users many times as new pieces become available. | ![Pilot](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_phased.png)
+|Plunge | Lights off, lights on. Out with the old, in with the new. Retirement party on Friday. Monday we start the new system. | This is good when cost is critical or when it’s not operationally feasible to run two systems at one. Also when the output of the old system is not needed in its current form and moreover, if time is of the essence – you need the new outputs ASAP or if there is a drop-dead date for implementation that cannot be changed (funds might disappear, for example, if the new system isn’t implemented before the end of the fiscal year). Finally, it’s good in situations where it’s relatively easy to return to the old system should the situation warrant.  | When you need the output from the existing system, or when it’s not clear what the outcome of the conversion will be (risky). | ![Plunge](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_plunge.png)
 
 Regardless of what you might think of the SDLC in terms of its viability for creating systems, the stark truth is that all methods (more of which we are about to discuss) must engage in each and every phase of the SDLC in order to produce a software system. It is in the emphasis, sequence, frequency, timing and duration of time spent on each phase that is the major differentiator between the various methods of systems development.
 
@@ -347,7 +350,7 @@ Prototyping, as an iterative (built in smaller pieces and shown to the users for
 
 Furthermore, prototyping is also often used to *try out* improvements to a system that were not part of the original specification but which *occurred to* the developers (or users) in the process of building. In this sense, it is much closer to the Agile methods we will discuss later. So the prototyping method is a hybrid, thus the *half method* label. For now, back to prototyping.
 
-Figure LJ. The prototyping process
+**Figure LJ. The prototyping process**
 
 ![Prototyping](https://raw.githubusercontent.com/robertriordan/2400/master/Images/proto.png)
 
@@ -389,9 +392,9 @@ Prototyping also has some drawbacks. These include, but are not limited to:
 
 [Interested?]( http://en.wikipedia.org/wiki/Software_prototyping#Disadvantages_of_prototyping)
 
-Table RM provides a comparison between SDLC and prototyping on some important dimensions.
+Table RMA provides a comparison between SDLC and prototyping on some important dimensions.
 
-Table RM. An evaluation of the SDLC and Prototyping
+**Table RMA. An evaluation of the SDLC and Prototyping**
 
 | Condition | SDLC is | Prototyping is |
 | :- | :-: | :-: |
@@ -418,7 +421,7 @@ Early implementations of agile methods include Unified Process in 1994 (specific
 
 These methods are now collectively referred to as Agile Development following the publication of the [Agile Manifesto](http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto) in 2001.
 
-Figure NA. The generalised Agile process
+**Figure NA. The generalised Agile process**
 
 ![SDLC Phases](https://raw.githubusercontent.com/robertriordan/2400/master/Images/agile.png)
 
@@ -426,7 +429,7 @@ Note from Figure NA the emphasis on delivering working software at the end of ea
 
 Let's take a moment with the RUP flavour of Agile and dig into what a project using this development method would look like.
 
-Figure MH. Tasks and timelines in a RUP project
+**Figure MH. Tasks and timelines in a RUP project**
 
 ![SDLC Phases](https://raw.githubusercontent.com/robertriordan/2400/master/Images/rup_cycle.png)
 
@@ -449,7 +452,7 @@ The title of the diagram from the original work says it all. Business value can 
 
 Lean is a flavour of Agile, and has been extended or adopted by other movements in the business world. As Gaping Void designer/artist/guru Hugh MacLoed and business partner Jason Korman imply in the image below, it's always the destination that should drive the agenda, rather than how to get there. Going on a trip, you wouldn't say that you are "...going in a Toyota", but rather that you are "...on our way to Wonderland", for example. Here's the gapingvoid.com feature for April 10, 2015:
 
-Figure MC. The Lean process
+**Figure MC. The Lean process**
 
 ![Gaping Void Lean](https://raw.githubusercontent.com/robertriordan/2400/master/Images/lean_gaping_void.PNG)
 
@@ -469,7 +472,7 @@ Agile has many devotees, at least partly because the principles of the Agile mov
 
 The contrast with SDLC are added by the author in the SDLC reflection column:
 
-Table TB. Agile principles with comparative reflections on the SDLC
+**Table TB. Agile principles with comparative reflections on the SDLC**
 
 | Agile principle | SDLC reflection |
 | :- | :- |
@@ -599,7 +602,78 @@ Ceremonies, as they are all about communication, are at the heart of Scrum.
 To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focused on continuous improvement of not only the end product (software) but also on the actual process of making the software.
 [Interested?]( http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm)
 
-Here’s a great summary of everything we’ve presented here, and more. It’s not a long read, and it’s recommended to get the broadest overview of the various development methods along with recommendations on when to sue teach. Highly recommended.
+#### UML, Use Cases and Use Case Diagrams - a light intro
+
+https://www.youtube.com/watch?v=nN7lTDWKP6g - Business analysis Use Cases
+
+The *Unified Process* (UP) or the *Rational* Unified Process (RUP) is an *object-oriented* (OO) systems development process developed by the three *godfathers* of the OO approach, the famous Booch, Rumbaugh and Jacobson. Their pioneering enterprise was named Rational Software, which was subsequently bought by IBM. UP is tailored to organisational and project needs, meaning is is less *presdictive* than SDLC and more on the *adaptive* side, *a la* Agile. It is use-case driven, using a design tool known as *Unified Modelling Language* or UML.
+
+Let's interject here in the Scrum process and backtrack to the origin of the requirements that are being coded by the Scrum teams. What are these things that are being prioritised? They are *user requirements* (UR) and are the result of an intense exercise to elicit exactly what the system is meant to accomplish. Designers, architects and programmers need at least a general idea of what the system is meant to do, even if the exact details will emerge through an agile process of discovery. Unlike an ancient explorer who just *kept heading west* to see what they could find, our modern-day explorers need a good compass heading. We need to know exactly where we are meant to end up, even if the exact route is unknown. Such is the goal of user requirement discovery.
+
+The process is not exactly set in stone and can itself proceed along a path of discovery, but in the end, certain things must have been documented and agreed upon. They are the *Business Requirements* often shortened to BR# where # refers to a sequential number that can later be referenced when particular *Functional Requirements* (FR) are listed. Each FR must map back to a BR. The FR are the top-level things that the system must allow and accomplish. In our auction system, there are certain things that absolutely need to be accomplished. Examples are:
+
+- BR1: Professors must be able to log into the system
+- BR2: Students must be able to log into the system
+- BR3: Students must be able to buy products
+- BR4: Sales of products must be recorded along with other contextual variables
+- BR5: The system must be able to decide who gets bonus marks and who doesn't
+- BRn ...
+
+There are often many others.
+
+There needs to be a comprehensive list of such requirements. Note that *how* those things would be accomplished or *what* the interface would look like are not a priority at this stage. These are simply the highest level requirements possible. After assumptions such as "students must have a wi-fi enabled device", and "the classroom must allow wi-fi authentication" and "the internet must be available." Such things are often assumed, but can be stated in an even higher-level document, or as the very highest level precursors to a successful system in the requirements document. Sometimes, such high-level requirements are labelled *System Assumptions* (SA) and are listed and numbered in the same way as BRs. We are talking about *solution features* here.
+
+Once all RAs and BRs are listed, the Scrum team *Product Owner* has the responsibility to prioritise the requirements. Let's refresh some of the PO's responsibilities. The Product Owner:
+
+- Represents the customers
+- Owns the product backlog
+- **Orders (prioritizes) the items in the product backlog**
+- **Creates acceptance criteria for the backlog items**
+
+I've added the **bold** where the requirements document directly affects the roles of the Scrum teams. So what does that look like? Figure TM shows a mock-up of a *Use Case* in a *Requirements Document* that a Scrum team might use to help prioritise, create the system and remain accountable. There could be literally hundreds (or even thousands depending on the size of the system) or these to prioritise in the Scrum:
+
+**Figure TM. Use Case sample**
+
+![Use case](https://raw.githubusercontent.com/robertriordan/2400/master/Images/use_case.png)
+
+So what exactly is a Use Case? The nice folks at *TechTarget* offer this:
+
+"A use case is a methodology used in system analysis to identify, clarify, and organize system requirements. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. [...] The [sum of all] use case[s] should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous."
+
+So a Use Case is simply a story. A story about how actors (anything external to the system being built) interact with the system in order to get something done (a goal). These *things* are in fact *requirements* and are what Scrum POs prioritise. Some things must logically be done before others can be attempted. A user must be able to log into the system before they can print a document, for example. But each thing is important in its own right and each has a story to tell. Use Cases are those stories and must relate back to a requirement either directly or indirectly. And such stories can be told in pictures as well, as we see below in UML (Use Case) diagrams.
+
+[Interested?](http://searchsoftwarequality.techtarget.com/definition/use-case)
+
+**Figure MM. UML (Use Case) diagram**
+
+![Use case](https://raw.githubusercontent.com/robertriordan/2400/master/Images/uml_diagram.png)
+
+The Unified Modelling Language (UML) tool for visual storytelling is the Use Case Diagram (UCD). Here is part of the definition provided by *agilemoddeling.com* (see the Interested link below):
+
+"Use Case: A use case describes a sequence of actions that provide something of measurable value to an actor and is drawn as a horizontal ellipse.
+
+"Actor: An actor is a person, organization, or external system that plays a role in one or more interactions with your system. Actors are drawn as stick figures.
+
+"Associations. Associations between actors and use cases are indicated in use case diagrams by solid lines. An association exists whenever an actor is involved with an interaction described by a use case. Associations are modeled as lines connecting use cases and actors to one another, with an optional arrowhead on one end of the line. The arrowhead is often used to indicating the direction of the initial invocation of the relationship or to indicate the primary actor within the use case. The arrowheads are typically confused with data flow and as a result I avoid their use."
+
+Figure MM (above) models the online auction system as a series of Use Cases. There are too many individual cases and actors and associations in this diagram (I created it just to show scope) but it nonetheless gives an overview of the tool used in agile programming of all kinds to make sense of requirements. Note the relationships between the *Use Case* and the set of diagrams. The UC itself is brought to life in the diagram.  A better way to understand this tool is to look at the UCD detail in Figure VP, below.
+
+**Figure VP. UML (Use Case) diagram detail**
+
+![Use case](https://raw.githubusercontent.com/robertriordan/2400/master/Images/uml_detail.png)
+
+The detailed view of just the Student actor's interaction with the system highlights two powerful aspects of UML, the *Extends* and *Includes* extensions. An *includes* is used where a particular process, byu its nature, *must* use another, independent process in the course of doing what it is supposed to do. The the Student actor's activity of *buy item* is a discreet activity. It involves a student playing the auction game observing a price on the interface and then clicking a button if they decide to buy t that price. But whether the player likes it or not, the sale must be recorded in the database in order for other things (such as the awarding of bonus marks) to occur. So we model this as "player decision to buy also *includes* the activity of recording that sale n the database". There is no other way to get to this saving behaviour *except* through the *buy* action. The player can't just decide to *record something to the database*. Furthermore, the recording of a sale to the database also *includes* updating the player's individual statistics to the interface.
+
+The other important extension is *extends*. The functionality in an *extends* only happens *sometimes* and not every time as in an includes. For example, the *Professor* actor in the use case shown in Figure MM has a use case named *Start/stop/pause* auction. Only in *certain cases* does this use case result in *Calculate bonus distribution* (when the simulation has ended for example, and not when it is simply paused. So the calculation of the bonus mark distribution is *optional* and only carried out when the game has officially ended in a normal way (time has expired).
+
+The way to distinguish between and *includes* and an *extends* is that ncludes are *always* and extends are *sometimes*. Clean and simple.
+
+[Interested?](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
+
+### Summary
+
+Here’s a great summary of everything we’ve presented here, and more. It’s not a long read, and it’s recommended to get the broadest overview of the various development methods along with recommendations on when to use each. Highly recommended.
+
 [Interested?]( http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/SelectingDevelopmentApproach.pdf)
 
 ## Which to choose?
@@ -769,7 +843,9 @@ RAD is an incremental method that makes good use of prototyping, with regularly-
 
 - Extreme programming (XP)
 XP is extension of earlier work in Prototyping and RAD. The core values of XP are: Communication (open, frequent verbal discussions between the business and the tech side and among developers on the tech side); Simplicity (in designing and implementing solutions - deliver only what is required is the most straightforward fashion); Feedback (frequent stocktaking on functionality, requirements, designs and code; Courage (I love this one - courage
-in facing choices such as throwing away bad code or standing up to a too-tight schedule), and finally Pair Programming where two programmers work intensely together side-by-side on particular elements of the code and test cycles of development. [Interested in comparing Agile, XP and SDLC?](http://bit.ly/1Tj7gSp)
+in facing choices such as throwing away bad code or standing up to a too-tight schedule), and finally Pair Programming where two programmers work intensely together side-by-side on particular elements of the code and test cycles of development.
+
+[Interested in comparing Agile, XP and SDLC?](http://bit.ly/1Tj7gSp)
 
 ## Why do systems development projects fail?
 
@@ -807,60 +883,9 @@ That being said (and I feel better for having said it and defending my old frien
 9. Don't get seduced by cool, cutting-edge, shiny new technology. It could be here today and gone tomorrow. Make sure all the pieces fit together. Make sure the project can deliver on expectations. Don't do something because you *can*. Do it because it adds value.
 10. Get end-user buy-in and acceptance early and maintain as close and as good a relationship with those who will ultimately use your system as possible. Many shiny new systems have failed on the shop floor when users refused to use them, once delivered. Prototyping with end-users is a great way to earn user respect and acceptance. And it reduces the need for training as well.
 
-#### UML, Use Cases and Use Case Diagrams - a light intro
+### UxD - User experience design
 
-Agile versus RUP
-http://www.agilemodeling.com/essays/agileModelingRUP.htm
+The final topic (I know!!! finally...) we need to look at is *User Experience Design*. UxD was the topic of an Interested? link in Chapter 7, but I wanted to close this chapter on development with an interesting article from the Nielson-Norman Group on the importance of the *platform* upon which you do business. A *platform* can be thought of as a *computing model* in the sense of the size of the device (a smartphone being infinitely smaller - though getting larger again of late - than a tablet, than a laptop, than a desktop) upon which business is being offered, as well as vaguely the operating system (Android presenting itself differently than Apple iOS than Apple OS than Windows, etc.). But thinking strictly of what are called *conversion rates* (as simple as simply the number of sales on an eCommerce site divided by the number of visitors multiplied by 100 or as medium complex as the number of abandoned shopping carts divided by the number of visitors or as a ratio of completed sales to abandoned sales, etc.) it is apparent that platform matters. If you're in Marketing, this will interest you. If you are in IS, this will interest you. If you are in Finance, this will interest you. If you are in Supply Chain, this will interest you. If you are in Managerial Accounting, this will interest you. It's just plain interesting. Check it out.
 
-https://www.youtube.com/watch?v=nN7lTDWKP6g - Business analysis Use Cases
-
-The *Unified Process* (UP) or the *Rational* Unified Process (RUP) is an *object-oriented* (OO) systems development process developed by the three *godfathers* of the OO approach, the famous Booch, Rumbaugh and Jacobson. Their pioneering enterprise was named Rational Software, which was subsequently bought by IBM. UP is tailored to organisational and project needs, meaning is is less *presdictive* than SDLC and more on the *adaptive* side, *a la* Agile. It is use-case driven, using a design tool known as *Unified Modelling Language* or UML.
-
-Let's interject here in the Scrum process and backtrack to the origin of the requirements that are being coded by the Scrum teams. What are these things that are being prioritised? They are *user requirements* (UR) and are the result of an intense exercise to elicit exactly what the system is meant to accomplish. Designers, architects and programmers need at least a general idea of what the system is meant to do, even if the exact details will emerge through an agile process of discovery. Unlike an ancient explorer who just *kept heading west* to see what they could find, our modern-day explorers need a good compass heading. We need to know exactly where we are meant to end up, even if the exact route is unknown. Such is the goal of user requirement discovery.
-
-The process is not exactly set in stone and can itself proceed along a path of discovery, but in the end, certain things must have been documented and agreed upon. They are the *Business Requirements* often shortened to BR# where # refers to a sequential number that can later be referenced when particular *Functional Requirements* (FR) are listed. Each FR must map back to a BR. The FR are the top-level things that the system must allow and accomplish. In our auction system, there are certain things that absolutely need to be accomplished. Examples are:
-
-- BR1: Professors must be able to log into the system
-- BR2: Students must be able to log into the system
-- BR3: Students must be able to buy products
-- BR4: Sales of products must be recorded along with other contextual variables
-- BR5: The system must be able to decide who gets bonus marks and who doesn't
-- BRn ...
-
-There are often many others.
-
-There needs to be a comprehensive list of such requirements. Note that *how* those things would be accomplished or *what* the interface would look like are not a priority at this stage. These are simply the highest level requirements possible. After assumptions such as "students must have a wi-fi enabled device", and "the classroom must allow wi-fi authentication" and "the internet must be available." Such things are often assumed, but can be stated in an even higher-level document, or as the very highest level precursors to a successful system in the requirements document. Sometimes, such high-level requirements are labelled *System Assumptions* (SA) and are listed and numbered in the same way as BRs. We are talking about  - *solution features* here.
-
-Once all RAs and BRs are listed, the Scrum team *Product Owner* has the responsibility to prioritise the requirements. Let's refresh some of the PO's responsibilities. The Product Owner:
-
-- Represents the customers
-- Owns the product backlog
-- **Orders (prioritizes) the items in the product backlog**
-- **Creates acceptance criteria for the backlog items**
-
-I've added the **bold** where the requirements document directly affects the roles of the Scrum teams. So what does that look like? Figure TM shows a mock-up of a *Use Case* in a *Requirements Document* that a Scrum team might use to help prioritise, create the system and remain accountable. There could be literally hundreds (or even thousands depending on the size of the system) or these to prioritised in the Scrum:
-
-Figure TM. Use Case sample
-
-![Use case](https://raw.githubusercontent.com/robertriordan/2400/master/Images/use_case.png)
-
-For Diagrams start with the Actors or with the (Google it again)?
-
-Extends, Depends, Inherits and Includes? (Google it again)
-
-![Use case](https://raw.githubusercontent.com/robertriordan/2400/master/Images/uml_diagram.png)
-
-![Use case](https://raw.githubusercontent.com/robertriordan/2400/master/Images/uml_detail.png)
-
-Context, sequence and class diagrams, too!
-
-![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/value_zone.png)
-
-It's in the Telematics/Usage/Data exhaust box where we are finding a lot of value being generated by what were traditional manufacturers or service providers who now find that their data are as or more valuable than their product/service. Witness Uber, Google, GE and Ford (see the industries tab in OneNote.
-
-The bait must be tasty to the fish, not the fisher.
-
-Uber might disrupt parcel delivery, pizza delivery (FedEx, UPS, Purolater), prescription delivery, and anything else that's on the road. Uber can sell their on-road experience (real time) data to lost of ppl and could probably make a living just being on the road and f the taxi industry shit. What else can they disrupt?
-
-
+[Interested?](http://bit.ly/1egGGcN)
 
