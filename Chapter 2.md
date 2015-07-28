@@ -101,7 +101,7 @@ How do we derive meaning from data or communication? Through interpreting data a
 [Interested?](http://bit.ly/1GoQwmb)
 
 What we *know* of ourselves and the world is clearly *knowledge*.  But from where comes knowledge?
-[Oxford](http://www.oxforddictionaries.com/us/definition/american_english/knowledge "Oxford on knowledge") offers the following (edited for applicability in this context <-- see? Context everywhere). Knowledge is:
+[Oxford](http://www.oxforddictionaries.com/us/definition/american_english/knowledge "Oxford on knowledge") offers the following (edited for applicability in this context -- see? Context everywhere). Knowledge is:
 
 1. **Facts, information**, and skills acquired by a person through **experience** or education; the theoretical or practical understanding of a subject
 2. Awareness or familiarity gained by experience of a fact or **situation**
@@ -305,7 +305,7 @@ The first category in the red zone is ‘disinformation’, which Katz character
 
 Indeed, news organisations are continuously on the lookout for potentially damaging posts in the *Comments* section following many news stories (in fact, many online news publications have abandoned comments altogether owing to the near impossibility of monitoring and moderating them). The *Toronto Star*, for example, wrote the following in an editorial piece appearing on their online site on July 23, 2015, regarding such comment sections:
 
-"Our moderation team spends the bulk of its time working on limiting the worst of the worst: racism, threats and personal attacks. This is done with help from readers who flag comments they deem out of line with our community guidelines and *software that scans for keywords we have identified as sensitive, and moves those comments to a ‘disabled’ queue until an editor can read them.*" [*emphasis* added]
+"Our moderation team spends the bulk of its time working on limiting the worst of the worst: racism, threats and personal attacks. This is done with help from readers who flag comments they deem out of line with our community guidelines and *software that scans for keywords we have identified as sensitive, and moves those comments to a ‘disabled’ queue until an editor can read them.*" [*emphasis* added]
 
 #### Misinformation
 If analysis determines that the information released by our competitor is not deliberately untrue, it might well be ‘misinformation’, described as definitely not true and important to avoid, in the sense that if the information were considered to be true (where it is, in fact, *untrue*) any actions taken under the erroneous belief that it *is* true would be inappropriate in the least and damaging at worst. This information is toxic and needs to be corrected before inappropriate action is taken by some party believing it to be true. Some party such as our customers! The ICT response could be to provide true information to counter the false assertions, which could be provided to our customers through various actions (email, Twitter, Facebook, etc.) made possible by stored electronic customer service records with contact information.
