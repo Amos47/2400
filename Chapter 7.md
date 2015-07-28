@@ -1,7 +1,7 @@
 # Chapter 7
 ### Tools and techniques - we get into the weeds here
 
-## How computers work
+## How do computers work anyway?
 
 It’s time to dive into the *guts* of computers and talk just a little about how they actually work. Everyone, interested or not, needs to follow [this link](http://www.explainthatstuff.com/howcomputerswork.html) and read up on how computers work, which will illustrate the fact that computers are systems in the exact same sense that we have been describing here. Note especially the difference between hardware and software. The distinction between system software (operating systems such as Widows, Android and Apple OS, etc.) and application software (things that you actually use on the computer such as Excel, Word or a browser) is also important.
 
@@ -477,4 +477,4 @@ This wraps up our introduction to database, probably the *most* important tool i
 ## Tools
 Critical stuff.
 
- 
+
