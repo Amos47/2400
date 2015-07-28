@@ -1,7 +1,7 @@
 # Chapter 4 - The corporate side #
 
 
-In which we discuss strategy, Porter, value chain, IT decision making models, corporate governance - see business dictionary definitions such as:
+### In which we discuss strategy, Porter, value chain, IT decision making models, corporate governance - see business dictionary definitions such as:
 
 http://www.businessdictionary.com/definition/governance.html
 http://www.businessdictionary.com/definition/corporate-governance.html
@@ -29,3 +29,7 @@ Among the most common decision-making structures are:
 · capital approval committees
 
 Of these, CIOs rate IT leadership committees and business/IT relationship managers as the most effective means of ensuring adequate decision making. In both cases IT expertise is matched with business knowledge so that decisions are more comprehensive than departmental.
+
+The sharing economy: http://sloanreview.mit.edu/article/adapting-to-the-sharing-economy/
+
+There is a difference between "recall" (to bring back from memory; recollect; remember) and "memory" (the mental capacity or faculty of retaining and reviving facts, events, *impressions*, etc., or of recalling or recognizing previous *experiences*; this faculty as possessed by a particular individual; the act or fact of retaining and recalling *impressions*, facts, etc.; remembrance; recollection). ICT does recall. People do memory. Nothing new can possibly be created out of recall. Memory, especially *curated* memory (which is what we do: "to pull together, sift through, and select for presentation, as music or website content") creates new and novel and revolutionary content.
