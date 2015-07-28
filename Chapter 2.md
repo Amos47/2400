@@ -91,6 +91,7 @@ Figure GH. Context at its finest.
     <a href="https://plot.ly/~Dreamshot/461/" target="_blank" title="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="display: block; text-align: left;"><img src="https://plot.ly/~Dreamshot/461.png" alt="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Dreamshot:461"  src="https://plot.ly/embed.js" async></script>
 </div>
+
 *Source: https://plot.ly. Create an account and play around. Fun stuff.*
 
 ### Meaning
@@ -101,7 +102,7 @@ How do we derive meaning from data or communication? Through interpreting data a
 [Interested?](http://bit.ly/1GoQwmb)
 
 What we *know* of ourselves and the world is clearly *knowledge*.  But from where comes knowledge?
-[Oxford](http://www.oxforddictionaries.com/us/definition/american_english/knowledge "Oxford on knowledge") offers the following (edited for applicability in this context <-- see? Context everywhere). Knowledge is:
+[Oxford](http://www.oxforddictionaries.com/us/definition/american_english/knowledge "Oxford on knowledge") offers the following (edited for applicability in this context -- see? Context everywhere). Knowledge is:
 
 1. **Facts, information**, and skills acquired by a person through **experience** or education; the theoretical or practical understanding of a subject
 2. Awareness or familiarity gained by experience of a fact or **situation**
