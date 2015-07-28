@@ -91,7 +91,6 @@ Figure GH. Context at its finest.
     <a href="https://plot.ly/~Dreamshot/461/" target="_blank" title="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="display: block; text-align: left;"><img src="https://plot.ly/~Dreamshot/461.png" alt="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Dreamshot:461"  src="https://plot.ly/embed.js" async></script>
 </div>
-
 *Source: https://plot.ly. Create an account and play around. Fun stuff.*
 
 ### Meaning
@@ -810,15 +809,15 @@ Below is a table equating gigaflops with dollars. How much did the computing pow
 
 | :- | :- | :- | :- | :- |
 | **Date** | **Approximate cost per GFLOPS** | **Approximate cost per GFLOPS** [inflation adjusted to 2013 US dollars] | **Platform providing the lowest cost per GFLOPS** | **Comments** |
-| 1961 | US $1,100,000,000,000 ($1.1 trillion) | US $8.3 trillion | About 17 million IBM 1620 units costing $64,000 each | The 1620's multiplication operation takes 17.7 ms. |
+| 1961 | US $1,100,000,000,000 ($1.1 trillion) | US $8.3 trillion | About 17 million IBM 1620 units costing $64,000 each | The 1620's multiplication operation takes 17.7 ms. |
 | 1984 |$18,750,000 | $42,780,000 |Cray X-MP/48 | $15,000,000 / 0.8 GFLOPS |
-| 1997 | $30,000 | $42,000 | Two 16-processor Beowulf clusters withPentium Pro microprocessors ||
+| 1997 | $30,000 | $42,000 | Two 16-processor Beowulf clusters withPentium Pro microprocessors ||
 | April 2000 | $1,000 | $1,300 | Bunyip Beowulf cluster | Bunyip was the first sub-US-$1/MFLOPS computing technology. It won the Gordon Bell Prize in 2000.|
 | May 2000 | $640 | $836 | KLAT2 |KLAT2 was the first computing technology which scaled to large applications while staying under US-$1/MFLOPS. |
 | August 2003 | $82 | $100 | KASY0 |KASY0 was the first sub-US-$100/GFLOPS computing technology. |
 | August 2007 | $48 | $52 | Microwulf | As of August 2007, this 26.25 GFLOPS "personal" Beowulf cluster can be built for $1256. |
 | March 2011 | $1.80 | $1.80 | HPU4Science | This $30,000 cluster was built using only commercially available "gamer" grade hardware. |
-| June 2013 | $0.22 | $0.22 | Sony Playstation 4 | The Sony PlayStation 4 is listed as having a peak performance of 1.84 TFLOPS, at a price of $400 |
+| June 2013 | $0.22 | $0.22 | Sony Playstation 4 | The Sony PlayStation 4 is listed as having a peak performance of 1.84 TFLOPS, at a price of $400 |
 | November 2013 | $0.16 | $0.16 | AMD Sempron 145 GeForce GTX 760 System | Built using commercially available parts, a system using one AMD Sempron 145 and three GeForce GTX 760 reaches a total of 6.771 TFLOPS for a total cost of $1090.66. |
 | December 2013 | $0.12 | $0.12 | Pentium G550 R9 290 System | Built using commercially available parts. Pentium G550 & AMD R9 290 tops out at 4.848 TFLOPS grand total of $681.84 USD. |
 | January 2015 | $0.08 | $0.08 | Celeron G1830 R9 295x2 System | Built using commercially available parts. Intel Celeron G1830 & AMD Radeon R9 295x2 tops out at over 11.5 TFLOPS at a grand total of $902.57 USD. |

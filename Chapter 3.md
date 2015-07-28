@@ -729,7 +729,7 @@ d.	Create bid records in tBids
 
 	ix.	Calculate total bids this player
 
-	x.	If total <= Max bids then Enable bid button else Disable
+	x.	If total LTE Max bids then Enable bid button else Disable
 
 e.	End game (duration override)
 
@@ -741,7 +741,7 @@ e.	End game (duration override)
 
 	iv.	For each CUID in tBids where oID = gID (current game)
 
-		1.	Verify Sum of bids in tBids >= Min Bids and <= Max Bids
+		1.	Verify Sum of bids in tBids GTE Min Bids and LTE Max Bids
 
 			a.	If within range
 
@@ -763,9 +763,9 @@ e.	End game (duration override)
 
 	vii.	Sort Averages in descending order
 
-	viii.	For each CUID in tBids where Average bid > 0
+	viii.	For each CUID in tBids where Average bid GT 0
 
-		1.	If Average >= gCutoff_1 and < gCutoff_2 from tGame
+		1.	If Average GTE gCutoff_1 and LT gCutoff_2 from tGame
 
 			a.	Increment gActual_1
 
@@ -783,7 +783,7 @@ e.	End game (duration override)
 
 		2.	End If
 
-		3.	Else if  Average >= to gCutoff_2 from tGame
+		3.	Else if  Average GTE to gCutoff_2 from tGame
 
 			a.	Increment gActual_2
 
