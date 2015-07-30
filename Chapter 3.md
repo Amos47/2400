@@ -2,13 +2,13 @@
 
 ### In which we consider ICT as a product
 
-In this chapter we will consider the broad topic of how systems come to be. What sparks the need for a system or a system change? How are system requirements decided?  How are systems built? How are they put into place in an organisation? How are they cared for during their life-span and how are they retired? In chapter 5, we consider how organisations set priorities for and decide upon those priorities.
+In this chapter we consider the broad topic of how systems come to be. What sparks the need for a system or a system change? How and who makes the decisions on what systems get commissioned? How are system requirements decided? How are systems built? How are they put into place in an organisation? How are they cared for during their life-span and how are they retired?
 
-This chapter is about more than building new systems. It is also about *not* building a system when a new system is required, but rather acquiring it through other channels. And it's about how organisations decide whether to buy, build, rent or commission the building of a brand-new system.
+This chapter is about more than building new systems. It is also about NOT building a system when a new system is required, but rather acquiring it through other channels. And it's about how organisations decide whether to buy, build, rent or commission the building of a brand-new system.
 
 ## What sparks the need for a new system in a typical organisation?
 
-The on-line [Merriam-Webster Dictionary](http://www.merriam-webster.com/dictionary/process) defines *process* simply as "a series of actions that produce something or that lead to a particular result." Recall our discussion of a simple process in Chapter 1. *Input -- Process -- Output*. Simple and clean. When you stop to think about it, everything that happens in any organisation (and in your life) is part of a process. Something spurs action (you feel cold in your room - this is input) so you either turn up the thermostat, or put on a sweater or close an open window (this is the process part). From this process action,  some output is produced (something is changed - more warmth or less cold but in the end, you feel more comfortable). The process *improvement* piece is another matter. I argued in chapter 1 that improvement is measured at the margins: either the input is less costly or less voluminous, or the output is better, faster, more plentiful. So in this example, an improvement could be in making the sweater easier to put on (less effort at input) or more insulating (better outcome or quicker time to value) or in the thousands of other potential improvements including automating the closing of a window or in better insulation or a more efficient hear source. At any rate, in this book, we talk about process improvement (progress) being measured at the margins where we measure input and output.
+The on-line [Merriam-Webster Dictionary](http://www.merriam-webster.com/dictionary/process) defines *process* simply as "a series of actions that produce something or that lead to a particular result." Recall our discussion of a simple process in Chapter 1. *Input* **-->** *Process* **-->** *Output*. Simple and clean. When you stop to think about it, everything that happens in any organisation (and in your life) is part of a process. Something spurs action (you feel cold in your room - this is input) so you either turn up the thermostat, or put on a sweater or close an open window (this is the process part). From this process action,  some output is produced (something is changed - more warmth or less cold but in the end, you feel more comfortable). The process *improvement* piece is another matter. I argued in chapter 1 that improvement is measured at the margins: either the input is less costly or less voluminous, or the output is better, faster, more plentiful. So in this example, an improvement could be in making the sweater easier to put on (less effort at input) or more insulating (better outcome or quicker time to value) or in the thousands of other potential improvements including automating the closing of a window or in better insulation or a more efficient hear source. At any rate, in this book, we talk about process improvement (progress) being measured at the margins where we measure input and output.
 
 It's the same in an organisation. Something acts as an input (profits are falling; employees are calling in sick in record numbers; a competitor releases a new product or it's simply time for a strategic review - the ticking of the clock has led to a milestone being hit, triggering a review). This input bubbles through the organisation until it's recognised by somebody or some monitoring process, causing someone or some group to start mounting a response.
 
@@ -729,7 +729,7 @@ d.	Create bid records in tBids
 
 	ix.	Calculate total bids this player
 
-	x.	If total LTE Max bids then Enable bid button else Disable
+	x.	If total <= Max bids then Enable bid button else Disable
 
 e.	End game (duration override)
 
@@ -741,7 +741,7 @@ e.	End game (duration override)
 
 	iv.	For each CUID in tBids where oID = gID (current game)
 
-		1.	Verify Sum of bids in tBids GTE Min Bids and LTE Max Bids
+		1.	Verify Sum of bids in tBids >= Min Bids and <= Max Bids
 
 			a.	If within range
 
@@ -763,9 +763,9 @@ e.	End game (duration override)
 
 	vii.	Sort Averages in descending order
 
-	viii.	For each CUID in tBids where Average bid GT 0
+	viii.	For each CUID in tBids where Average bid > 0
 
-		1.	If Average GTE gCutoff_1 and LT gCutoff_2 from tGame
+		1.	If Average >= gCutoff_1 and < gCutoff_2 from tGame
 
 			a.	Increment gActual_1
 
@@ -783,7 +783,7 @@ e.	End game (duration override)
 
 		2.	End If
 
-		3.	Else if  Average GTE to gCutoff_2 from tGame
+		3.	Else if  Average >= to gCutoff_2 from tGame
 
 			a.	Increment gActual_2
 
