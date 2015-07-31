@@ -578,6 +578,12 @@ Ceremonies, as they are all about communication, are at the heart of Scrum.
 To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focused on continuous improvement of not only the end product (software) but also on the actual process of making the software.
 [Interested?]( http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm)
 
+#### Challenges with agile (in general)
+
+Increasingly, software is produced by system development shops who specialise in creating solutions for clients, using the most up-to-date technology and best practices. These software *houses* are referred to as *vendors.* The organisations requiring the system to be built are *clients.* So for the client, what this means is *outsourcing*. The client is outsourcing the creation of a system to a vendor. Increasingly, however, solution vendors (and almost everyone else) are *also* outsourcing their work to geographically-distributed software *authors*, i.e., independent or at least very small, teams of coders and specialists who live in China, India and increasingly, Latin America while the clients and solution providers are predominantly in North America and Europe. And this is a problem for agile. It's a problem because agile, according to its own manifesto, relies on real-time, face-to-face and frequent client/vendor and development team interaction. The vendor needs to be intimately immersed in the culture and business process of their client in order to fully understand the *user stories* that will drive the solution. Furthermore, agile requires (as illustrated by daily *standup meetings* in Scrum) that the development team meet in order to prioritise, knowledge share and schedule their sprints. But how do this this effectively in teams that are distributed across the planet and don't work the same hours, speak the same language and/or understand each others (let alone the client's) cultural norms? This is a new and increasingly researched area of systems development termed *agile global outsourced software development (AGOSD)*.
+
+[Interested?](https://msdn.microsoft.com/en-us/magazine/hh771057.aspx)
+
 #### UML, Use Cases and Use Case Diagrams - a light intro
 
 https://www.youtube.com/watch?v=nN7lTDWKP6g - Business analysis Use Cases
@@ -663,161 +669,17 @@ Here's an example of *prescriptive requirements* that I created so that a develo
 
 --- *Begin specs* ---
 
-Ruleset 4: Run Game (Scenario C)
-
-Processes:
-
-a.	Start game
-
-	i.	Set gPending = False in tGame
-
-	ii.	Deny Student login
-
-	iii. Fetch and write Start time to tGame
-
-	iv.	Calculate and write Total players to tGame
-
-b.	Pause running game
-
-	i.	Stop the timer
-
-	ii.	Preserve all elements
-
-	iii. Function to resume running game
-
-c.	Running game (Client)
-
-	i.	Poll and show game status (running = green / stopped = red)
-
-	ii.	Poll and Enable BUY! button as appropriate
-
-	iii. Show total game time in seconds
-
-	iv.	Show time remaining (Start time + Duration – Current time) in seconds
-
-	v.	Show Min buy number
-
-	vi.	Show Max buy number
-
-	vii. Show already bought this client
-
-	viii. Show average paid this client
-
-	ix.	Show average paid all clients
-
-	x.	Fetch current price
-
-	xi.	Show current price
-
-d.	Create bid records in tBids
-
-	i.	Fetch oID  from tLogin and write boID to tBids
-
-	ii.	Fetch sCUID  and write bCUID to tBids
-
-	iii. Fetch IP from running game
-
-	iv.	Fetch oIP form tLogin
-
-	v. Compare IP with oIP
-
-	vi.	If same write IP to tBids else exit
-
-	vii. Get and write Player bid
-
-	viii. Get and write Time bid submitted to tBids
-
-	ix.	Calculate total bids this player
-
-	x.	If total <= Max bids then Enable bid button else Disable
-
-e.	End game (duration override)
-
-	i.	Get and write Elapsed time to tGame
-
-	ii.	Get and write Success (game came to resolution) to tGame
-
-	iii. Fetch and write Total bids entered to tGame
-
-	iv.	For each CUID in tBids where oID = gID (current game)
-
-		1.	Verify Sum of bids in tBids >= Min Bids and <= Max Bids
-
-			a.	If within range
-
-				i.	For each bBid in tBids
-
-					1.	Increment counter
-
-					2.	Store Bid price
-
-				ii.	Next
-
-			b.	End if
-
-		c.	Calculate Average Bid price this student
-
-	v.	Next
-
-	vi.	Get and write gBonus = if bonus marks awarded based on this game to tGame
-
-	vii.	Sort Averages in descending order
-
-	viii.	For each CUID in tBids where Average bid > 0
-
-		1.	If Average >= gCutoff_1 and < gCutoff_2 from tGame
-
-			a.	Increment gActual_1
-
-			b.	If bBonus in tGame = True then
-
-				i.	Create record in tBonus
-
-				ii.	Write CUID from tBids
-
-				iii.	Write gID from tGame
-
-				iv.	Write nBonus = gBonus_1 from tGame
-
-			c.	End if
-
-		2.	End If
-
-		3.	Else if  Average >= to gCutoff_2 from tGame
-
-			a.	Increment gActual_2
-
-			b.	If bBonus in tGame = True then
-
-			i.	Create record in tBonus
-
-			ii.	Write CUID from tBids
-
-			iii. Write gID from tGame
-
-			iv.	Write nBonus = gBonus_2 from tGame
-
-			c.	End If
-
-		4.	End If
-
-	ix.	Next
-
-	x.	Write gActual_1 to tGame
-
-	xi.	Write gActual_2 to tGame
-
 --- *End specs* ---
 
 Complementary software development methods to systems development life cycle, along with a short description and pros/cons as appropriate, are:
 
-- Joint applications development (JAD)
+- *Joint applications development (JAD)*
 JAD features a workshop-like methodology emphasising continuous feedback and iterative development. This is an agile method to be sure, but emphasises complete agreement between the business side and the tech side before development begins on any piece of a system. [Interested?](http://bit.ly/1S65x06)
 
-- Rapid application development (RAD)
+- *Rapid application development (RAD)*
 RAD is an incremental method that makes good use of prototyping, with regularly-scheduled delivery of components for user feedback. [Interested?](http://bit.ly/1HKkQMy)
 
-- Extreme programming (XP)
+- *Extreme programming (XP)*
 XP is extension of earlier work in Prototyping and RAD. The core values of XP are: Communication (open, frequent verbal discussions between the business and the tech side and among developers on the tech side); Simplicity (in designing and implementing solutions - deliver only what is required is the most straightforward fashion); Feedback (frequent stocktaking on functionality, requirements, designs and code; Courage (I love this one - courage
 in facing choices such as throwing away bad code or standing up to a too-tight schedule), and finally Pair Programming where two programmers work intensely together side-by-side on particular elements of the code and test cycles of development.
 
