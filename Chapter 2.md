@@ -92,6 +92,7 @@ Figure GH. Context at its finest.
     <a href="https://plot.ly/~Dreamshot/461/" target="_blank" title="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="display: block; text-align: left;"><img src="https://plot.ly/~Dreamshot/461.png" alt="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Dreamshot:461"  src="https://plot.ly/embed.js" async></script>
 </div>
+
 *Source: https://plot.ly. Create an account and play around. Fun stuff.*
 
 ### Meaning
@@ -162,7 +163,7 @@ A [McKinsey report on Machine Learning](http://www.mckinsey.com/insights/high_te
 
 We return to *Jeopardy!* and Watson later in this chapter.
 
-It is through continual exposure to new data and continual feedback based on decisions made emanating from that exposure that specific and actionable knowledge is created and stored. You can see that the notion of context fits nicely here (well maybe you can’t see yet, but I can and I hope you will come to an understanding of these principles as we progress). It is also very interesting to note the similarities between the schemas of cognitive psychology and the software development technique known as *Object-Oriented Programming* (or OOP). I’ll try to remember to revisit that connection in the chapter on Systems Development… :)
+It is through continual exposure to new data and continual feedback based on decisions made emanating from that exposure that specific and actionable knowledge is created and stored. You can see that the notion of context fits nicely here (well maybe you can’t see yet, but I can and I hope you will come to an understanding of these principles as we progress). It is also very interesting to note the similarities between the schemas of cognitive psychology and the software development technique known as *Object-Oriented Programming* (or OOP). I’ll try to remember to revisit that connection in the chapter on Systems Development... :)
 
 Knowledge acquisition (also referred to as the process of *Knowledge Engineering*) is also the biggest obstacle to creating *Artificial Intelligence* (or AI). If we have time to fit that in somewhere, it will likely be in the final chapter on *Future Trends*. While we’re here, I also strongly recommend a course (or even picking up a book on the topic) in Cognitive Psychology for anyone interested in ICT, Marketing, Finance or Management. It’s so cool you might just fall in love.
 
