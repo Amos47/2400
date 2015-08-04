@@ -2,7 +2,7 @@
 
 ## software
 
-Computer code designed o accept input, process the input and output results. 
+Computer code designed to accept input, process the input and output results. 
 
 ## requirements
 
