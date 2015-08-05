@@ -381,7 +381,9 @@ How pervasive is information communication? What's the *coverage* in Canada? Tak
 
 **Figure FMAP. Cellular coverage in Canada**
 
+
 <iframe src="https://www.google.com/maps/d/embed?mid=ziiXzGEk59_I.kvJPNhGl3KKk" width="640" height="480"></iframe>
+
 
 *Source: http://www.itbusiness.ca/news/interactive-map-inside-canadas-wireless-landscape/56833*
 
