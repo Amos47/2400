@@ -110,10 +110,10 @@ What we *know* of ourselves and the world is clearly *knowledge*.  But from wher
 
 The important concepts were **bolded** in the definitions above by me. Let’s look at each in turn:
 
-1.    Facts – facts are data; simple measurements lacking context
-2.    Information – we deal with information below, and how it is derived from data and then becomes transformed into potential action through context
-3.    Experience – comes from observation of the results of actions, which flow from decisions fuelled by actions as a result of information produced from data in a context
-4.    Situation – clearly a synonym for context
+1. Facts – facts are data; simple measurements lacking context
+2. Information – we deal with information below, and how it is derived from data and then becomes potentially actionable through context
+3. Experience – comes from observation of the results of actions, which flow from decisions fuelled by actions as a result of information produced from data in a context
+4. Situation – clearly a synonym for context
 
 This suggests a simple and general model of knowledge acquisition that applies to all creatures, great and small, that are faced with making decisions. But where does this all fit in terms of business?
 
