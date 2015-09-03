@@ -6,6 +6,10 @@
 
 Source: http://xkcd.com/1352/
 
+In the very beginning, at the murky beginning of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up was different from down. In became relative to out. You get the picture. 
+
+
+
 ***Welcome to the study of ICT!***
 
 Let's get the dry, most academic stuff possible out of the way early, with a quote from the *Association for Computing Machinery, the Association for Information Systems* and the *Association of Information Systems Professionals* who, from time to time, get together and knock out a position paper on what should be taught to students in information systems in various different university and college faculties and programs. The most recent such update is from 2002 (yes, really). The full document is available [here](http://www.acm.org/education/education/curric_vols/is2002.pdf "ACM Curriculum"). But this is is the gist of what you need to know about what they think ICT is (even though they don't use the term *Information and Communication Technology* or the abbreviation (ICT), we do). That aside, here's what they say, *for the record*:
@@ -42,10 +46,6 @@ So let's get started.
 ## Pillar 1: Are we talking data, information or knowledge?
 
 ### What are data, information and knowledge?
-
-In the very beginning, at the murky beginning of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up was different from down. In became relative to out. You get the picture. 
-
-And so it began. Data began to accumulate at that very instant.  
 
 Much of this preliminary section relies on work from a dated but still quite interesting article from *liquidinformation.org*. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.
 
