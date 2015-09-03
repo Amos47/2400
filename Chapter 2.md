@@ -216,7 +216,7 @@ For now, imagine a survey with only one question: "So what do you think?" Admini
 - to determine how to move forward
 - in reply to our employees, customers, stakeholders, regulators, partners and even competitors
   
-In this regard, organisations must carefully consider their data strategy. But we must also be aware that simply saving everything in every possible format *just in case* is not a wise strategy either. The burden would be onerous, the data would be monstrous, the information generated from it redundant and perhaps even contradictory. The cost would soon far outweigh the benefits. Rather, an intelligent strategy to specify what data will be required in what volume at what frequency and in which format(s) is the best way forward. 
+In this regard, organisations must carefully consider their data strategy. But we must also be aware that simply saving everything in every possible format *just in case* is not a wise strategy either. The burden would be onerous, the data would be monstrous, the information generated from it redundant and perhaps even contradictory. The cost would soon far outweigh the benefits. The inputs would baloon and the outputs shrink. Our output to nput ratio would soon be underwater. Rather, the best way forward is an intelligent strategy to specify what data will be required in what volume at what frequency and in which format(s). 
 
 [McKinsey](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning "Machine Learning") had this to say on the subject of whom should be responsible for *marshalling data* in the organisation:
 
