@@ -8,7 +8,7 @@ Source: http://xkcd.com/1352/
 
 In the very beginning, at the murky beginning of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up was different from down. In became relative to out. You get the picture. 
 
-
+And so it began. Data began to accumulate at that very instant.  
 
 ***Welcome to the study of ICT!***
 
@@ -20,17 +20,17 @@ Let's get the dry, most academic stuff possible out of the way early, with a quo
 
 *"The activity of developing or acquiring information technology applications for organizational and inter-organizational processes involves projects that define creative and productive use of information technology for transaction processing, data acquisition, communication, coordination, analysis, and decision support. Design, development or acquisition, and implementation techniques, technology, and methodologies are employed. Processes for creating and implementing information systems in organizations incorporate concepts of business process design, innovation, quality, human-machine systems, human-machine interfaces, e-business design, sociotechnical systems, and change management.*
 
-*"Information systems professionals work with information technology and must have sound technical knowledge of computers, communications, and software. Since they operate within organizations and with organizational systems, they must also understand organizations and the functions within organizations (accounting, finance, marketing, operations, human resources, and so forth). They must understand concepts and processes for achieving organizational goals with information technology. The academic content of an information systems degree program therefore includes:
+*"Information systems professionals work with information technology and must have sound technical knowledge of computers, communications, and software. Since they operate within organizations and with organizational systems, they must also understand organizations and the functions within organizations (accounting, finance, marketing, operations, human resources, and so forth). They must understand concepts and processes for achieving organizational goals with information technology. The academic content of an information systems degree program therefore includes:*
 
-[1] information technology, 
+[1] *information technology, *
 
-[2] information systems management, 
+[2] *information systems management, *
 
-[3] information systems development and implementation, 
+[3] *information systems development and implementation,* 
 
-[4] organizational functions, and 
+[4] *organizational functions, and *
 
-[5] concepts and processes of organizational management."*
+[5] *concepts and processes of organizational management."*
 
 We will endeavour to hit ACM proclamations [1 to 3] *very* hard, and [4 and 5] slightly less so, in this book. If you are in an ICT concentration of degree, other courses of study will fill in the blanks on the remaining requirements.
 
