@@ -40,7 +40,7 @@ Those kind of tasks -- appreciating beauty, creating music, writing poetry -- ha
 
 **Figure DC. The definition of context from Visual Thesaurus**
 
-![visualthesaurus.com Definition of context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_context.PNG)
+![visualthesaurus.com Definition of context](https://raw.githubusercontent.com/robertriordan/2400_textbook/master/Images/vt_context.PNG)
 
 The Visual Thesaurus definition for context reads, in part:
 
