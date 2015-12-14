@@ -12,4 +12,4 @@ Dilbert: Move this to discussion of robots
 
 ![Dilbert](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_bankers.PNG)
 
-Make sure to do the Nuclear reactor backup thing.
+Make sure to do the Nuclear reactor backup thing. 

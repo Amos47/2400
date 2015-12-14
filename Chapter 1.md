@@ -6,13 +6,17 @@
 
 Source: http://xkcd.com/1352/
 
-In the very beginning, at the murky beginning of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up was different from down. In became relative to out. You get the picture. 
+In the very beginning, at the murky start of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up became different from down. In became relative to out. You get the picture. 
 
 And so it began. Data began to accumulate at that very instant.  
 
+Brief
+Basics
+Backstory 
+
 ***Welcome to the study of ICT!***
 
-Let's get the dry, most academic stuff possible out of the way early, with a quote from the *Association for Computing Machinery, the Association for Information Systems* and the *Association of Information Systems Professionals* who, from time to time, get together and knock out a position paper on what should be taught to students in information systems in various different university and college faculties and programs. The most recent such update is from 2002 (yes, really). The full document is available [here](http://www.acm.org/education/education/curric_vols/is2002.pdf "ACM Curriculum"). But this is is the gist of what you need to know about what they think ICT is (even though they don't use the term *Information and Communication Technology* or the abbreviation (ICT), we do). That aside, here's what they say, *for the record*:
+Let's get the dry, most academic stuff possible out of the way early, with a quote from the *Association for Computing Machinery, the Association for Information Systems* and the *Association of Information Systems Professionals* who, from time to time, get together and bang out a position paper on what should be taught to students in information systems in various different university and college faculties and programs. The most recent such update is from 2002 (yes, really). The full document is available [here](http://www.acm.org/education/education/curric_vols/is2002.pdf "ACM Curriculum"). But this is is the gist of what you need to know about what they think ICT is (even though they don't use the term *Information and Communication Technology* or the abbreviation (ICT), I do). That aside, here's what they say, *for the record*:
 
 *"Information Systems as a field of academic study encompasses the concepts, principles, and processes for two broad areas of activity within organizations: (1) acquisition, deployment, and management of information technology resources and services (the information systems function) and (2) development, operation, and evolution of infrastructure and systems for use in organizational processes (system development, system operation, and system maintenance). The systems that deliver information and communications services in an organization combine both technical components and human operators and users. They capture, store, process, and communicate data, information, and knowledge.*
 
@@ -22,24 +26,24 @@ Let's get the dry, most academic stuff possible out of the way early, with a quo
 
 *"Information systems professionals work with information technology and must have sound technical knowledge of computers, communications, and software. Since they operate within organizations and with organizational systems, they must also understand organizations and the functions within organizations (accounting, finance, marketing, operations, human resources, and so forth). They must understand concepts and processes for achieving organizational goals with information technology. The academic content of an information systems degree program therefore includes:*
 
-[1] *information technology, *
+*[1] information technology,* 
 
-[2] *information systems management, *
+*[2] information systems management,* 
 
-[3] *information systems development and implementation,* 
+*[3] information systems development and implementation,* 
 
-[4] *organizational functions, and *
+*[4] organizational functions, and* 
 
-[5] *concepts and processes of organizational management."*
+*[5] concepts and processes of organizational management."*
 
-We will endeavour to hit ACM proclamations [1 to 3] *very* hard, and [4 and 5] slightly less so, in this book. If you are in an ICT concentration of degree, other courses of study will fill in the blanks on the remaining requirements.
+We will endeavour to hit ACM proclamations [1 to 3] *very* hard, and [4 and 5] slightly less so, in this book. If you are in an ICT concentration or degree program, other courses of study will back fill the depth of knowledge required on the remaining requirements.
 
 With the formalities out of the way, there are four important pillars upon which we will focus in this opening chapter. They form the basis of all subsequent discussion throughout this text. They are:
 
 1. Are we talking data, information or knowledge?
 2. Is what we are examining a tangible or an intangible? REMOVE AS PILLAR. 
 3. Does this (technology/service/data/etc.) either shrink input or grow output or both?
-4. Does this product/service/technology lead to a sustainable competitive advantage?
+4. Does this product/service/technology or strategy lead to a sustainable competitive advantage?
 
 So let's get started.
 
@@ -388,7 +392,7 @@ Now isn't that interesting, the Biology parts? That's exactly what we are saying
 
 Thus communication allows humans to fulfil their only real purpose on this planet: to remain on this planet. Too contentious for a business course in ICT? Expand your horizons. Read lots. Think lots. Then we can talk.  
 
-How pervasive is information communication? What's the *coverage* in Canada? Take a look at this (crudely) interactive map:
+How pervasive is information communication? What's the *coverage* in Canada? Take a look at this simple interactive map:
 
 **Figure FMAP. Cellular coverage in Canada**
 
@@ -399,6 +403,11 @@ How pervasive is information communication? What's the *coverage* in Canada? Tak
 An excellent introduction to the history of communication is available in Wikipedia. 
 
 [Interested?](https://en.wikipedia.org/wiki/History_of_communication)
+
+**Flesh this out:**
+Here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world . Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
+
+And here is an interactive map of the [submarine cables](http://www.submarinecablemap.com/) in the world. Why is this important? [Interested?](http://www.cbc.ca/news/technology/submarine-cables-explainer-1.3289954)
 
 ### What is technology?
 
@@ -533,6 +542,10 @@ If they don’t follow this model, they risk being shoved aside by the content p
 
 ![Illusion of choice](http://www.dailyinfographic.com/wp-content/uploads/2015/04/IllusionofChoice.jpg)
  
+**NEED SOME DISCUSSION OF THIS**
+
+![The on-demand effect](https://raw.githubusercontent.com/robertriordan/2400/master/Images/netflix.jpg)
+
 While the Policy Horizons article (*ibid.*) is excellent in its entirely, below is the most important material from our perspective: They write: 
 
 “While a large part of the services sector will continue to include low-skilled work, some significant shifts for an economy that increasingly revolves around services are highlighted below.
