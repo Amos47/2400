@@ -1,4 +1,4 @@
-# Chapter 6 - Where's it coming from?
+# Chapter 6 - What's coming?
 
 ## What's in store in the world of ICT
 
