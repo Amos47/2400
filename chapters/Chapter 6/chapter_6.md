@@ -26,6 +26,12 @@ Now just short of four years later, Dilbert's creator, Scott Adams, returns Dilb
 
 Here's the strip so you can scroll back and forth to get the context: [Dilbert The Singularity](http://dilbert.com/strip/2015-12-01)
 
+**Figure LJSQ. Robots revenge** 
+![Dilbert teaches robots to code](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_robots_2.png)
+
+
+Here's the link to the strip sequence for your browsing pleasure: [Dilbert Robots](http://dilbert.com/strip/2015-12-10)
+
 To begin, let's establish an excellent resource for looking up the gobbeldygook craziness of technology terminology. Need to know what a particular technology means in (almost) human terms? Check out Gartner's [IT Glossary](http://www.gartner.com/it-glossary/). Keep this resource close. You'll use it often.
 
 We begin by looking at Gartner Group's Emerging Technology Hype Cycle. The 2014 version was the most recent available at time of writing.
