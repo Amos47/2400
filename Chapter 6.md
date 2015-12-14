@@ -6,10 +6,33 @@
 http://dilbert.com/strip/2015-08-27
 ![Dilbert replacing workers w robots](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_robots.png)
 
-
+Before you decry the above cartoon as being in bad taste, please consider that such technology already exists, and is being put to good, albeit less humerous, use. 
 <iframe src="http://riordan.ca/images/hype_cycle_2014.png" height=650 width=1050 scrolling=no frameborder=0 seamless></iframe>
 
-To begin, let's establish an excellent resource for looking up the gobbeldygook craziness of technology terminology. Need to know what a particular technology means in (almost) human terms? Check out Gartner's [IT Glossary](http://www.gartner.com/it-glossary/). Keep this resource close, You'll use it often.
+###The Singularity
+
+Way back in 20912, Dilbert predicted the day would come when machines would be intelligent enough (some call this *sentience*) to *create* themselves. Here's what that looked like:
+
+**Figure LJST. Dilbert and the Singularity**
+![Dilbert teaches robots to code](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_singularity.png)
+
+Here's the link to that strip (but there is no context provided by scrolling back and forth in the strip):
+[Dilbert The Singularity](http://dilbert.com/strip/2012-01-31)
+
+Now just short of four years later, Dilbert's creator, Scott Adams, returns Dilbert to his prescient prediction:
+
+**Figure LJTP. Dilbert teaches robots to code** 
+![Dilbert teaches robots to code](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_teaches_robots_to_code.png)
+
+Here's the strip so you can scroll back and forth to get the context: [Dilbert The Singularity](http://dilbert.com/strip/2015-12-01)
+
+**Figure LJSQ. Robots revenge** 
+![Dilbert teaches robots to code](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_robots_2.png)
+
+
+Here's the link to the strip sequence for your browsing pleasure: [Dilbert Robots](http://dilbert.com/strip/2015-12-10)
+
+To begin, let's establish an excellent resource for looking up the gobbeldygook craziness of technology terminology. Need to know what a particular technology means in (almost) human terms? Check out Gartner's [IT Glossary](http://www.gartner.com/it-glossary/). Keep this resource close. You'll use it often.
 
 We begin by looking at Gartner Group's Emerging Technology Hype Cycle. The 2014 version was the most recent available at time of writing.
 
