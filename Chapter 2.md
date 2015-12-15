@@ -601,7 +601,7 @@ Below is a table equating gigaflops with dollars. How much did the computing pow
 **Table GFP. Hardware cost to get a gig going**
 
 | :- | :- | :- | :- | :- |
-| **Date** | **Approximate cost per GFLOPS** | **Approximate cost per GFLOPS** [inflation adjusted to 2013 US dollars] | **Platform providing the lowest cost per GFLOPS** | **Comments** |
+| **Date** | **Approximate cost per GFLOPS** | **Approximate cost per GFLOPS** [adjusted to 2013 USD] | **Platform providing the lowest cost per GFLOPS** | **Comments** |
 | 1961 | US $1,100,000,000,000 ($1.1 trillion) | US $8.3 trillion | About 17 million IBM 1620 units costing $64,000 each | The 1620's multiplication operation takes 17.7 ms. |
 | 1984 |$18,750,000 | $42,780,000 |Cray X-MP/48 | $15,000,000 / 0.8 GFLOPS |
 | 1997 | $30,000 | $42,000 | Two 16-processor Beowulf clusters withPentium Pro microprocessors ||
