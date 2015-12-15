@@ -6,7 +6,7 @@
 
 Source: http://xkcd.com/1352/
 
-In the very beginning, at the murky start of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up became different from down. In became relative to out. You get the picture. 
+In the very beginning, at the murky start of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up was different from down. In became relative to out. You get the picture. 
 
 And so it began. Data began to accumulate at that very instant.  
 
