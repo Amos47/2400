@@ -118,12 +118,12 @@ So the nice folks at PARC used everyday objects and then created what we refer t
 **Table TA. OO visual elements**
 
 |:--------:|:------------:|
-| Button with visual cue | Check boxes for multiple selection 
- | ![button](https://raw.githubusercontent.com/robertriordan/2400/master/Images/button.png) | ![check box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/check_boxes.png) 
-| Series of combo boxes | Image container and scroll bar 
-| ![combo box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/combo_box.png) | ![image + scroll bar](https://raw.githubusercontent.com/robertriordan/2400/master/Images/image_scroll.png) 
-| Radio buttons for single selection | Label and text box for data input 
-| ![radio button](https://raw.githubusercontent.com/robertriordan/2400/master/Images/radio_buttons.png) | ![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/label_text_box.png) 
+| Button with visual cue | Check boxes for multiple selection |
+| ![button](https://raw.githubusercontent.com/robertriordan/2400/master/Images/button.png) | ![check box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/check_boxes.png) |
+| Series of combo boxes | Image container and scroll bar |
+| ![combo box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/combo_box.png) | ![image + scroll bar](https://raw.githubusercontent.com/robertriordan/2400/master/Images/image_scroll.png) |
+| Radio buttons for single selection | Label and text box for data input |
+| ![radio button](https://raw.githubusercontent.com/robertriordan/2400/master/Images/radio_buttons.png) | ![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/label_text_box.png) |
 
 But what really got the ball rolling was the idea of the desktop, and virtual windows onto that desktop. Again, Xerox PARC were the innovators who brought these idioms to the world. (Many Apple devotees erroneously believe that it was Apple which 'invented' Windows and the GUI and icons and mouse input etc. Not so. Everyone followed PARC's lead. They were the first and they, in turn, further developed ideas originated at Stanford University, for example.) For a *very* long (by our standards) [Interested?](http://www.newyorker.com/magazine/2011/05/16/creation-myth) please have a read here. It's worth it, especially if you are an Apple fan. (Spoiler alert: This article dates from 2011 when Steve Jobs was still with us.)  
 
