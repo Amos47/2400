@@ -117,7 +117,7 @@ So the nice folks at PARC used everyday objects and then created what we refer t
 
 **Table TA. OO visual elements**
 
-|:--------:|:------------:|
+| :--------: | :------------: |
 | Button with visual cue | Check boxes for multiple selection |
 | ![button](https://raw.githubusercontent.com/robertriordan/2400/master/Images/button.png) | ![check box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/check_boxes.png) |
 | Series of combo boxes | Image container and scroll bar |
