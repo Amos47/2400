@@ -321,11 +321,11 @@ And this makes sense if you think about it, from the point of view of a telephon
 
 But that music does *not* contribute to the clarity of the conversation. Music is competition for understanding the spoken word. 
 
-Thus for Shannon, the more *entropy* (disorder – as in background music), the more disorganisation (lack of focus) and therefore the more *potential* interpretations could be made as a result of the message. If the background music was too loud, for example, the *intended message* might become garbled or unintelligible. This is not helpful for us in business, where we rely on *targeted* almost *surgical* messaging in order to make decisions that result in positive outcomes. This is especially true in information systems, where *interpretation* is not a particularly strong suit of software. Systems are rules based for the most part. They don't interpret well. Yet. 
+Thus for Shannon, the more *entropy* (disorder – as in background music), the more disorganisation (lack of focus) and therefore the more *potential* interpretations could be made as a result of the message. If the background music was too loud, for example, the *intended message* might become garbled or unintelligible. This is not helpful for us in business, where we rely on *targeted* almost *surgical* messaging in order to make decisions that result in positive outcomes. This is especially true in information systems, where *interpretation* is not a particularly strong suit of software. Systems are rule based for the most part. They don't interpret well. Yet. 
 
 Weiner, on the other hand, saw information as *negative entropy*, or positive organisation with structure, interpretability, less equivocation and noise and more certainty. This is the kind of message that business communication requires. Straightforward and to the point. No guessing about the information content of a data stream. *Less input for a given output.*
 
-Entropy is the friend of *information volume* but the enemy of good *decision making*. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. Understanding is critical.
+Entropy is the friend of *data volume* but the enemy of good *decision making*. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. Understanding is critical.
 
 Thus Weiner is our man. We care both *that* messaging is occurring and *what* is being messaged. But Shannon was an inspiring academic. You’ll see reference to him in the section on ASCII. 
 
@@ -338,9 +338,9 @@ Below is an infographic of sorts, showing the five faces of information. The fac
 
 ![Nature of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/nature_of_info.png)
 
-I have arranged Katz’s five types into three groups, then ranked them in terms of their importance to us as students of business, but moreover, added a column delineating the approach taken by ICT to the challenge of how to deal with each group. Let’s begin at the bottom, and explain each in turn. 
+I have arranged Katz’s five types into three groups, then ranked them in terms of their importance to us as students of business. Moreover, I have added a column delineating the approach taken by ICT to the challenge of how to deal with each group. Let’s begin at the bottom, and explain each in turn. 
 
-As we walk our way up the scale, consider the context to be that our organisation is examining the results of an online poll asking visitors to a third-party website to rate the various products in our industry (let’s say it’s the toothpaste segment of the dental hygiene industry just to put a face on it). The results have been summarised by the polling firm and released at a press conference sponsored by one of our biggest competitors. This could be damaging to us. The opinions of visitor’s to the website have been measured with the online survey and the raw data have been contextualised by the polling firm and, worst of all, our competitor has provided their own spin. 
+As we walk our way up the scale, consider the context to be that our organisation is examining the results of an online poll asking visitors to a third-party website to rate the various products in our industry (let’s say it’s the toothpaste segment of the dental hygiene industry just to put some teeth in it). The results have been summarised by the polling firm and released at a press conference sponsored by one of our biggest competitors. This could be damaging to us. The opinions of visitor’s to the website have been measured with the online survey and the raw data have been contextualised by the polling firm and, worst of all, our competitor has provided their own spin. 
 
 Though the data have been transformed into information in the context of our competitor’s survey and the analysis by the polling firm, for us, it’s still raw data. In order to make a decision whether to act on the release of the data, we need to put it in our own unique context. The data are inbound per Figure LJLJ. 
 
@@ -376,6 +376,13 @@ We can now provide a little more depth in terms of contextualisation and the rol
 
 ### System input
 As our discussion moves from left to right in Figure LLJJ, each area is marked with a numbered black box for easier reference. 
+
+![Measurement?](https://raw.githubusercontent.com/robertriordan/2400/master/Images/gaping_void_measurement.PNG)
+
+The Gaping Void artist, Hugh MacLeod, writes this about his measurement piece: "Measurement is a good and necessary thing. That which gets measured, gets done etc. The problem is, measurement for measurement’s sake is stagnant. It can be a crutch, just like anything else. It can be an especially unhelpful crutch, when it starts becoming a substitute for creativity, risk taking and yes, actual thinking. Like the executive who confuses Facebook Likes with actual sales. Or confusing a temporary spike in store traffic with fixing an actual long-term marketing  problem.
+The temptation is to think that, just because something is making your life easier, you can start taking short cuts. It doesn’t work that way."
+
+Do some interpretation of the ^ above. 
 
 We begin on the input end of the context system, and we begin pre-data, with measurement. **This is Area 1.** ICT provides several critical functions in terms of data measurement, beginning at the very basic level of *sensing*. ICT systems are deployed in a myriad of situations as sensors, simply sitting quietly and waiting for something to happen. Sensing a phenomenon is often akin to measuring it – a photon of light passing through a pane of glass, for example, causes a count of photons to tick up by one. An RFID (Radio Frequency Identification) system on a gas pump continuously broadcasts its presence, waiting for a customer’s matching key fob transmitter to spring to life in response to the signal. Then all kinds of commerce can happen. Sensors are everywhere from parking lots to soft drink dispensers and from washrooms to smart phones. And more and more sensors are being deployed all the time. We will return to this topic a number of times as we move forward, including later in this chapter when we discuss sensors and *beacons* in a bit more depth [(take me there}](#sens_beac). 
 
