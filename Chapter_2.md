@@ -131,11 +131,14 @@ Meanwhile, take a look at context in practice. Below in Figure GH we see the dis
 
 **Figure GH. Context at its finest.**
 
+![](https://plot.ly/~Dreamshot/461.png)
 <div>
     <a href="https://plot.ly/~Dreamshot/461/" target="_blank" title="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="display: block; text-align: left;"><img src="https://plot.ly/~Dreamshot/461.png" alt="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Dreamshot:461"  src="https://plot.ly/embed.js" async></script>
 </div>
+
 *Source: https://plot.ly. Create an account and play around. Fun stuff.*
+[*Source: plot.ly*](https://plot.ly) *Create an account and play around. Fun stuff.*
 
 ### Meaning
 How do we derive meaning from data or communication? Through interpreting data and facts in context. Context provides meaning for meaningless data. But what does *meaning* mean? Oxford to the rescue:
