@@ -217,7 +217,7 @@ It is through continual exposure to new data and continual feedback based on mad
 
 Knowledge acquisition (also referred to as the process of *Knowledge Engineering*) is also the biggest obstacle to creating *Artificial Intelligence* (AI). If we have time to fit that in somewhere, it will likely be in the chapter on *Future Trends*. While we’re here, I also strongly recommend a course (or even picking up a book on the topic) in *Cognitive Psychology* for anyone interested in ICT, Marketing, Finance or Management. It’s so cool you might just fall in love.  
 
-[Interested in schemas?](http://en.wikipedia.org/wiki/Schema_(psychology))
+[Interested in schemas?](http://en.wikipedia.org/wiki/Schema_(psychology)
 [Interested in knowledge acquisition?]( http://www.wisegeek.com/what-is-knowledge-acquisition.htm)
 
 Knowledge acquisition can be seen as a system, with the four main entities identified by coloured background ovals in Figure LAJ. On the left is *Input*, flowing into *Process*, which produces *Output* which is fed back into the system as *Input* to the continuous process of knowledge production and acquisition. And don't overlook the important tenet that much of the data that enters a decision process as input, and equally previous knowledge that is fed back to the decision-making process, functions as *context*. It is the soup made from the situation and the previous experience that allows us to decide how to move forward. All the ingredients of the soup together allow us to decide if we like the taste. 
