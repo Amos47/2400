@@ -144,7 +144,7 @@ How do we derive meaning from data or communication? Through interpreting data a
 
 [Interested?](http://bit.ly/1GoQwmb)
 
-What we *know* of ourselves and the world is clearly *knowledge*.  But from where comes knowledge?
+What we *know* of ourselves and the world is clearly *knowledge*. But from where comes knowledge?
 [Oxford](http://www.oxforddictionaries.com/us/definition/american_english/knowledge "Oxford on knowledge") offers the following (edited for applicability in this context -- see? Context is everywhere). Knowledge is:
 
 1. **Facts, information**, and skills acquired by a person through **experience** or education; the theoretical or practical understanding of a subject
@@ -155,7 +155,7 @@ The important concepts were **bolded** in the definitions above by me. Let’s l
 1. *Facts* – facts are data; simple measurements lacking context
 2. *Information* – we deal with information below, and how it is derived from data and then becomes actionable through context
 3. *Experience* – comes from observation of the results of actions, which flow from decisions fuelled by actions as a result of information produced from data in a context
-4. *Situation* – clearly a synonym for context
+4. Situation – clearly a synonym for context
 
 This suggests a simple and general model of knowledge acquisition that applies to all creatures, great and small, that are faced with making decisions. But where does this all fit in terms of business? 
 
