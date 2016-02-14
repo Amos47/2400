@@ -17,10 +17,14 @@ What systems are expected to accomplish. What the party requesting the system ne
 
 Computer code designed to accept input, process the input and provide results as output. 
 
+## synchronous
+
+At the same time. Opposite of asynchronous. 
+
 ## turbid
 
 Stirred up; opaque; difficult to see through.
 
-## synchronous
+## bluetooth
 
-At the same time. Opposite of asynchronous. 
+According to Google: "Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[4]) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994,[5] it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization"
