@@ -287,7 +287,7 @@ The author continues. “The double notions of information as both facts and com
 
 "Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...] "The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation. [...]
 
-Thus *entropy* = *disorganisation* = *information*. How odd. How can *dis*organisation yield more *information*? It is because *disorganisation* can produce richer interpretation in that it allows for various different conclusions about the actual message or meaning of the data. The process of organising information reduces *dis*organisation in that superfluous elements (not related to a particular context, for example) are removed, yielding more targeted and focused data. 
+Thus *entropy* = *disorganisation* = *information*. How odd. How can *dis*organisation yield more *information*? It is because *disorganisation* can produce richer interpretation in that it allows for various different conclusions about the actual message or meaning of the data. BUt this disorganisation is the enemy of tactical decision making. The process of organising information reduces *dis*organisation in that superfluous elements (not related to a particular context, for example) are removed, yielding more targeted and focused data. 
 
 We can also easily imagine how this notion jives with our contention that systems only add value if they either reduce input or augment output. The more parsimonious we are in architecting our data for specific purposes, the less input will be required in any specific context. Thus thinking about data is important, and planning its collection, storage and retrieval is pivotal to efficiency. Think of this as a geologist would inasmuch as more pure ore makes it easier to produce steel - there is less to discard. Or the more pure and clean a cell transmission is, the better understanding of the conversation in context.  
 
@@ -299,7 +299,7 @@ I will now muddy the already turbid water by introducing an opposing viewpoint, 
 
 "The other scientist connected with information theory is Claude Shannon. He was a contemporary of Wiener and as an AT&T mathematician he was primarily interested in the limitations of a channel in transferring signals and the cost of information transfer via a telephone line. He developed a mathematical theory for such communication in *The Mathematical Theory of Communication*, (Shannon & Weaver 1959). Shannon defines information as a purely quantitative measure of communicative exchanges."
 
-So Shannon wasn't interested in *what* was communicated as much as he was in the *volume* or *occurrence* of communication. It's not *what* for him, but *that*. The author continues:
+So Shannon wasn't interested in *what* was communicated as much as he was in the *occurrence* or *volume* of communication. It's not *what* for him, but *that*. The author continues:
 
 "[...] based on Shannon it does not matter whether we are communicating a fact, a judgment or just nonsense. Everything we transmit over a telephone line is 'information'. The message 'I feel fine' is information, but 'ff eeI efni' is an equal amount of information."
 
