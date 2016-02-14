@@ -20,3 +20,7 @@ Computer code designed to accept input, process the input and provide results as
 ## turbid
 
 Stirred up; opaque; difficult to see through.
+
+## synchronous
+
+At the same time. Opposite of asynchronous. 
