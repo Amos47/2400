@@ -514,13 +514,13 @@ First some definitions:
 
 **Liquid**: Flowing freely like water. Having the properties of a liquid: being neither solid nor gaseous. Smooth and unconstrained in movement. 
   
-The article offers that “We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet. 
+The article offers that “We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet." 
 
 The author writes: “Well you know, it just ain't so. Imagine a couple of small grains of sand. Digital, separate, discrete. Now add a couple more. And a couple more. Millions more. Billions. And you have a beach. An analog, a smooth continuous environment. [sic] 
   
-“Everyday home and office computers, with capacities to manipulate literally billions of bits literally billions of times a second […] have gone the way of the grains of sand and are definitively not just digital anymore. And they have the potential to become more than analog. They have the potential to become, and make us, liquid.”
+“Everyday home and office computers, with capacities to manipulate literally billions of bits literally billions of times a second [...] have gone the way of the grains of sand and are definitively not just digital anymore. And they have the potential to become more than analog. They have the potential to become, and make us, liquid.”
  
-So the question for us is: At what point does digital become analog? At what point (threshold) does it matter to us? At what point can we detect? What resolution is important for us? This is akin to decimal place precision. How many decimals is it necessary to report in a table of financial ratios, for example, before the additional digit becomes meaningless? Think about this. Especially the Accountants and Finance people among you. How may decimal places, how much precision, is necessary? When is it *good enough*? 
+So the question for us is: At what point does digital become analog? At what point (threshold) does it matter to us? At what point can we detect the difference? What resolution is important for us? This is akin to decimal place precision. How many decimals is it necessary to report in a table of financial ratios, for example, before the additional digit becomes meaningless? Think about this. Especially the Accountants and Finance people among you. How may decimal places, how much precision, is necessary? When is it *good enough*? 
 
 
 #### Just-noticeable differences and your brain on music
@@ -534,7 +534,9 @@ This introduces the notion of *Just-noticeable Difference* or JND. And of course
 
 I’m reading a few books as I am writing this text. One that is particularly interesting to me is entitled *This is Your Brain on Music: The Science of a Human Obsession* by McGill neuroscientist and musician Daniel Levitin (2006, Penguin). He writes: “Less well known are the extraordinary advances we have been able to make in modeling how our neurons work, thanks to the continuing revolution in computer technology. We are coming to understand computational systems in our head like never before.” He continues that “Even consciousness itself is no longer shrouded in a mystical fog, but rather is something that emerges from observable physical systems.”
 
-But what’s more interesting for us is the parallel he draws between sound and sight. Consider a motion picture. In case you didn’t know, a movie is made up of a series of still photos interspersed with black screens. When shown at the right speed, however, our visual system can’t tell that it’s a series of stills. Here’s what Levitin writes: “The lowest note on a standard piano vibrates with a frequency of 27.5 Hz. Interestingly, this is about the same rate of motion that constitutes an important threshold in visual perception. [...] ‘Motion pictures’ are a sequence of still images alternating with pieces of black film presented at a rate (one forty-eighth of a second) that exceeds the temporal receiving property of the human visual system. We perceive smooth, continuous motion when in fact there is no such thing actually being shown to us.”  So motion pictures are *just as good* as the real thing for us. Next time you're out on the road, take a look at the wheels of vehicles as they pass on the street. Note that for many, it appears as if you can see the disk brakes behind the wheels as if there were almost no spokes in the rims at all. Our eyes can't keep up with the spinning speed and our brain can't paint the picture fast enough for us, rather just showing us that there's nothing there. But we know different. 
+But what’s more interesting for us is the parallel he draws between sound and sight. Consider a motion picture. In case you didn’t know, a movie is made up of a series of still photos interspersed with black screens. When shown at the right speed, however, our visual system can’t tell that it’s a series of stills. Here’s what Levitin writes: “The lowest note on a standard piano vibrates with a frequency of 27.5 Hz. Interestingly, this is about the same rate of motion that constitutes an important threshold in visual perception. [...] ‘Motion pictures’ are a sequence of still images alternating with pieces of black film presented at a rate (one forty-eighth of a second) that exceeds the temporal receiving property of the human visual system. We perceive smooth, continuous motion when in fact there is no such thing actually being shown to us.”  
+
+So motion pictures are *just as good* as the real thing for us. Next time you're out on the road, take a look at the wheels of vehicles as they pass on the street. Note that for many, it appears as if you can see the disk brakes behind the wheels as if there were almost no spokes in the rims at all. Our eyes can't keep up with the spinning speed and our brain can't paint the picture fast enough for us, rather just showing us that there's nothing there. But we know different. 
 
 Finally, just for fun...
 
@@ -542,13 +544,13 @@ Finally, just for fun...
 
 ![ICT context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/WagonWheelEffect.gif)
 
-The *Wagon wheel effect* is often seen in old Western movies where the wheels of a horse-drawn carriage sometimes appear to either be frozen or to be rotating counter to the direction in which the wagon is moving. This animated GIF illustrates the phenomenon. The speed of the "camera", moving towards the right, constantly increases at the same rate with the objects sliding to the left. Halfway through the 24-second loop, the objects appear to suddenly shift and head backwards.
+The *Wagon wheel effect* is often seen in old Western movies where the wheels of a horse-drawn carriage sometimes appear to either be frozen or to be rotating counter to the direction in which the wagon is moving. The animated GIF in Figure WWE illustrates the phenomenon. The speed of the "camera", moving towards the right, constantly increases at the same rate with the objects sliding to the left. Halfway through the 24-second loop, the objects appear to suddenly shift and head backwards.
 
 *Credit: "WagonWheelEffect" by Ulillillia at the English language Wikipedia. Licensed under CC BY-SA 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:WagonWheelEffect.gif#/media/File:WagonWheelEffect.gif*
 
 [Interested?](https://en.wikipedia.org/wiki/Wagon-wheel_effect)
 
-We might also want to consider the concept of *resolution*. The resolution of a sensor is the smallest change it can detect in the quantity that it is measuring. Sensor resolution is being continuously improving.
+We might also want to consider the concept of *resolution*. The resolution of a sensor is the smallest change it can detect in the quantity that it is measuring. Sensor resolution is being continuously improved.
 
 [Interested?](http://en.wikipedia.org/wiki/Sensor)
 
