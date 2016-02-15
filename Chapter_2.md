@@ -465,7 +465,7 @@ But we are on the verge of a change. Context is *the single biggest thing happen
 
 <a name="digital"></a>
 ###Digital vs. Analog
-The distinction between the concepts of *analog* and *digital* is important here. The difference between them is akin to the difference between an integer (whole) number and a real number (with decimal precision of varying degrees). Analog is the *real numbers* of nature. Analog is the subtle curve and continuous and apparently seamless change we witness all around us; so subtle that sometimes it’s impossible to tell where one thing ends and another begins. 
+The distinction between the concepts of *analog* and *digital* is important here. The difference between them is akin to the difference between an integer (whole) number and a real number (with decimal precision of varying degrees). Analog is the *real numbers* of nature. Analog is the subtle curve and continuous and apparently seamless change we witness all around us; so subtle that sometimes it’s impossible to tell where one thing ends and another begins. We all know what a leaf is and what a branch is, but at which exact point does a leaf become a branch. This is analog. 
 
 Consider colour. In Figure ECC below, we see colour represented in two different ways, as discrete swatches representing the ROYGBIV colours of the rainbow and then, below that, as a continuum of those visible colours. 
 
