@@ -91,7 +91,7 @@ Before we launch into examining this important question, consider that all moder
 
 "But enterprises pursuing the digitalization of their business often find that *application development is a competitive differentiator too valuable to outsource*. Digitalization almost always requires new, unique applications. The applications and the staff that build them *can become valuable competitive assets and valuable intellectual property that are best protected in-house*.
 
-"Transitioning application development from a cost center [like paying for such things as photocopying service, for example - it's just a service that needs to get done] to a business catalyst [something that can become a competitive differentiator and actually add value for the enterprise] is not easy, but is crucial for every enterprise looking to keep pace in the digital age."
+"Transitioning application development from a cost center [like paying for such things as photocopying service, for example - it's just a service that needs to get done] to a business catalyst [something that can become a competitive differentiator and actually add value for the enterprise] is not easy, but is *crucial for every enterprise looking to keep pace in the digital age*."
 
 [Interested?](https://www.gartner.com/doc/2688515?ref=SiteSearch&sthkw=software&fnl=search&srcId=1-3478922254)
 
