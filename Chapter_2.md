@@ -589,7 +589,7 @@ ICT can both make decisions and *act on them*. This is **Area 6.** ICT can also 
 
 ICT can also execute decisions (take action) as a consequence of human intervention (we can decide to send an email, for example, and the machine will do our bidding). When executing, it can record and store the context of the execution action as well as monitoring and policing its own actions and provide an audit of its activities - such as adherence to policies, for example. Everything about your email is recorded in multiple places.   
 
-Moving to the right in Figure LLJJ, we encounter the work of ICT in sensing and storing the results of the actions executed by human and beast. **This is Area 7.** In this realm, ICT can both sense the results of actions and store those results for further analysis. At any juncture, as with any other activity undertaken by ICT, systems can report on their activities. To whom they report is a critical aspect of privacy. We will deal with this elsewhere in this manuscript. 
+Moving to the right in Figure LLJJ, we encounter the work of ICT in sensing and storing the results of the actions executed by human and beast. This is **Area 7.** In this realm, ICT can both sense the results of actions and store those results for further analysis. At any juncture, as with any other activity undertaken by ICT, systems can report on their activities. To whom they report is a critical aspect of privacy. We will deal with this elsewhere in this manuscript. 
 
 Moving again to the right in Figure LLJJ, we again encounter the impact of ICT on the Data and Information entities. **This is Area 8 and 9.** Here the actions and impacts are the same as in our previous discussion of data and information so we won’t belabour them again here. 
 
