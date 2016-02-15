@@ -508,11 +508,11 @@ Let’s bring this home. A very old but again ever-so-interesting site (www.liqu
 
 First some definitions:
  
-*Analog*: A mechanism in which data is represented by continuously variable physical quantities.
+**Analog**: A mechanism in which data is represented by continuously variable physical quantities.
 
-*Digital*: Of or relating to the fingers or toes. Using calculation by numerical methods or by discrete units.
+**Digital**: Of or relating to the fingers or toes. Using calculation by numerical methods or by discrete units.
 
-*Liquid*: Flowing freely like water. Having the properties of a liquid: being neither solid nor gaseous. Smooth and unconstrained in movement. 
+**Liquid**: Flowing freely like water. Having the properties of a liquid: being neither solid nor gaseous. Smooth and unconstrained in movement. 
   
 The article offers that “We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet. 
 
