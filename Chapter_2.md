@@ -629,7 +629,7 @@ Below is a table equating gigaflops with dollars. How much did the computing pow
 
 In 55 years (shorter than my already short life) the equivalent cost to execute a billion FLOPs has dropped from USD $8,300,000,000,000 to USD $0.08. If that's not stunning and breathtaking then neither is (insert your most stunning and breathtaking thing here). Computing wins. 
 
-While a bit dated, in a liquidinformation.org piece representing probably the absolute minimum achievable computing power, it is asserted that, for USD $1,000, we will be able to buy a computer with the computing power of an insect in 2018. That same $1,K will get us a mouse brain in 2030, a human brain is 2042 and *all human brains combined* by 2060. If you are a normal early 20s undergraduate student, 2060 is well within your lifetime. Think of it. Just *think.*  
+While a bit dated, in a liquidinformation.org piece representing probably the absolute minimum achievable computing power, it is asserted that, for USD $1,000, we will be able to buy a computer with the computing power of an insect in 2018. That same $1K will get us a mouse brain in 2030, a human brain is 2042 and *all human brains combined* by 2060. If you are a normal early 20s undergraduate student, 2060 is well within your lifetime. Think of it. Just *think.*  
 
 [Interested?](http://www.liquidinformation.org/information_history.html) {read just the *Computation* sub-section including the *When will it end?* piece]
 
