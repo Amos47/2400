@@ -95,11 +95,11 @@ Before we launch into examining this important question, consider that all moder
 
 [Interested?](https://www.gartner.com/doc/2688515?ref=SiteSearch&sthkw=software&fnl=search&srcId=1-3478922254)
 
-**Figure x. Outsourcing Decision Matrix (symmetrical)**
+**Figure EPT. Outsourcing Decision Matrix (symmetrical)**
 
 ![Outsourcing Decision Matrix (Symmetrical)](https://raw.githubusercontent.com/robertriordan/2400/master/Images/outsourcing_decision_equal.JPG)
 
-Figure X shows the matrix in a symmetrical configuration. The idea of this tool is to envision a process or activity undertaken or proposed by a particular organisation and decide what to do with it. We get a measurement on the two dimensions (Contribution to Performance and Strategic Importance) and then plot the process on the grid based on the values of the two dimensions. Simple. 
+Figure EPT shows the matrix in a symmetrical configuration. The idea of this tool is to envision a process or activity undertaken or proposed by a particular organisation and decide what to do with it. We get a measurement on the two dimensions (Contribution to Performance and Strategic Importance) and then plot the process on the grid based on the values of the two dimensions. Simple. 
 
 We will use as illustration here a strategic review process with which we should all be able to relate: that of a University considering the value of an existing academic programme. Universities are increasingly numbers driven (bums in seats) as government funding is increasingly tied to enrolment numbers. *Ergo* schools are required to be agile and to engage in continuous programme review. 
 
