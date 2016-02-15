@@ -29,10 +29,14 @@ Computer code designed to accept input, process the input and provide results as
 
 At the same time. Opposite of asynchronous. 
 
+## tangible
+
+Can be touched, sensed or measured. 
+
 ## turbid
 
 Stirred up; opaque; difficult to see through.
 
-## tangible
+## spurious
 
-Can be touched, sensed or measured. 
+False or fake; not being as it appears to be.
