@@ -210,7 +210,7 @@ Here are the factors:
 <a name="fail"></a>
 Large organisations spend a lot (a LOT) of their resources on systems development, training and maintenance. How much? One study published by McKinsey claimed that organisations spend around 50% ([some report](http://www.mckinsey.com/insights/business_technology/enhancing_the_efficiency_and_effectiveness_of_application_development) up to 60% in the US) of their total IT budget on application development. But even given the big bucks spent, "... the quality of execution leaves much to be desired." Furthermore, they offered that "A joint study by McKinsey and Oxford University found that large software projects on average run 66 percent over budget and 33 percent over schedule; as many as 17 percent of projects go so badly that they can threaten the very existence of the company." Yikes!
 
-[[Interested?](http://www.mckinsey.com/insights/business_technology/achieving_success_in_large_complex_software_projects?cid=other-eml-ttn-mip-mck-oth-1412)]
+[Interested?](http://www.mckinsey.com/insights/business_technology/achieving_success_in_large_complex_software_projects?cid=other-eml-ttn-mip-mck-oth-1412)
 
 ## Building a system?
 
