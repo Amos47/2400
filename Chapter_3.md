@@ -99,19 +99,19 @@ Before we launch into examining this important question, consider that all moder
 
 ![Outsourcing Decision Matrix (Symmetrical)](https://raw.githubusercontent.com/robertriordan/2400/master/Images/outsourcing_decision_equal.JPG)
 
-Figure EPT shows the matrix in a symmetrical configuration. The idea of this tool is to envision a process or activity undertaken or proposed by a particular organisation and decide what to do with it. We get a measurement on the two dimensions (Contribution to Performance and Strategic Importance) and then plot the process on the grid based on the values of the two dimensions. Simple. 
+Figure EPT shows the matrix in a symmetrical configuration. The idea of this tool is to envision a process or activity undertaken or proposed by a particular organisation and decide how to proceed with it. We get a measurement on the two dimensions (Contribution to Performance and Strategic Importance) and then plot the process on the grid based on the values of the two dimensions. Simple. 
 
-We will use as illustration here a strategic review process with which we should all be able to relate: that of a University considering the value of an existing academic programme. Universities are increasingly numbers driven (bums in seats) as government funding is increasingly tied to enrolment numbers. *Ergo* schools are required to be agile and to engage in continuous programme review. 
+We will use as illustration here a strategic review process with which we should all be able to relate: that of a University considering the value of an existing academic programme. Universities are increasingly enrolment driven (bums in seats) as government funding is increasingly tied to enrolment numbers. *Ergo* schools are required to be agile and to engage in continuous programme review. 
 
-Let’s say that the programme under consideration is a degree in Airborne Fulfillment Logistics – better understood as *delivering stuff using drones*. The school in question currently offers the programme as a joint initiative of the Aerospace Engineering department and the Supply Chain Management people in the Business faculty.  
+Let’s say that the programme under consideration by the university is a degree in Airborne Fulfillment Logistics – better understood as *delivering stuff using drones*. The school in question currently offers the programme as a joint initiative of the Aerospace Engineering department and the Supply Chain Management people in the Business faculty.  
 
-Now we need to work towards deciding if and how to proceed with the decision of what to do with this *drone degree*. This is where the tool comes in handy. 
+Now we need to work towards deciding what to do with this *drone degree*. This is where the tool comes in handy. 
 
-**Figure Z. Outsourcing Decision Matrix with proposed process**
+**Figure ETP. Outsourcing Decision Matrix with proposed process**
 
 ![Outsourcing Decision Matrix with process located](https://raw.githubusercontent.com/robertriordan/2400/master/Images/outsourcing_decision_system_box.jpg)
 
-As a high-level illustration, let's assume we've got our two metrics (we will discuss these two metrics in detail below but for now, just play along). Now we need to locate the degree programme in the decision matrix based on its measurements on the two axis variables to assist in making the decision on how to proceed. Figure Z shows the metrics on the degree (little blue box), locating it in the upper, right quadrant of the matrix based on it being assessed a score of ~75% on both variables. This locates the process squarely in the "Retain" quadrant, meaning that it's important to competitive advantage and to organisational efficiency. So the school should decide to retain the programme as is. Now, some detail. 
+As a high-level illustration, let's assume we've got our metrics for Operational Performance and Strategic Importance (we will discuss them in detail below but for now, just play along). Now we need to locate the degree programme in the decision matrix based on its measurements on the two axis variables to assist in making the decision on how to proceed. Figure ETP shows the metrics on the degree (little blue box), locating it in the upper, right quadrant of the matrix based on it being assessed a score of ~75% on both variables. This locates the process squarely in the "Retain" quadrant, meaning that it's important to competitive advantage and to organisational efficiency. So the school should decide to retain the programme as is. Now, some detail. 
 
 Upon measurement of the two dimensions, the programme under consideration here will most likely land in one of the four quadrants, (this is guaranteed if, in measuring the two dimension variables, a value of exactly 50% on both is avoided). Note the outcome (strategy) that is represented by landing in a quadrant (clockwise from top left we have: Strategic Alliance, Retain, Outsouce and finally Eliminate). Let’s look in more detail.
 
