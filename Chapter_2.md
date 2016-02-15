@@ -593,7 +593,7 @@ Moving to the right in Figure LLJJ, we encounter the work of ICT in sensing and 
 
 Moving again to the right in Figure LLJJ, we again encounter the impact of ICT on the Data and Information entities. This is **Area 8 and 9.** Here the actions and impacts are the same as in our previous discussion of data and information creating in context so we won’t belabour them again here. 
 
-We come finally to the Knowledge component of Figure LLJJ. This is **Area 10.** Here we find the culmination of the process of acquiring knowledge from measurement of data and represents the ultimate human activity – the creation of order and reason out of action. ICT assists in many of the components of this activity, beginning with analysis of the stream of information emanating from the process. ICT can analyse existing knowledge as well as synthesise new and existing knowledge into unique nuggets of new information. Then it can manage, store and report on such knowledge.  
+We come finally to the Knowledge component of Figure LLJJ. This is **Area 10.** Here we find the culmination of the process of acquiring knowledge from measurement of data. This represents the ultimate human activity – the creation of order and reason out of action. ICT assists in many of the components of this activity, beginning with analysis of the stream of information emanating from the process. ICT can analyse existing knowledge as well as synthesise new and existing knowledge into unique nuggets of new information. Then it can manage, store and report on such knowledge.  
 
 Maybe give some examples here? 
 
