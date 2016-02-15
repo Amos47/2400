@@ -635,5 +635,4 @@ While a bit dated, in a liquidinformation.org piece representing probably the ab
 
 **Go Figure #1. Random SC advert**
 
-
 <iframe width="800" height="491" src="http://www.powtoon.com/embed/fdjbos4uIyd/" frameborder="0"></iframe>
