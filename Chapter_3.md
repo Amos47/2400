@@ -214,7 +214,7 @@ Large organisations spend a lot (a LOT) of their resources on systems developmen
 
 ## Building a system?
 
-To the quality metrics introduced above must be added and separate but related dimension -- that of *timeliness of delivery*. Often, organisations face problems that demand immediate solution or are presented with opportunities the window to which is fleeting and fast closing. So solutions need to be timely.
+To the quality metrics introduced above must be added an separate but related dimension -- that of *timeliness of delivery*. Often, organisations face problems that demand immediate solution or are presented with opportunities the window to which is fleeting and fast closing. So solutions need to be timely.
 
 A McKinsey/Oxford University [study](http://www.mckinsey.com/insights/business_technology/developing_talent_for_large_it_projects?cid=other-eml-ttn-mip-mck-oth-1412) reported that "... 71 percent of large IT projects face cost overruns, and 33 percent of projects are around 50 percent over budget. On average, large IT projects deliver 56 percent less value than predicted."
 
