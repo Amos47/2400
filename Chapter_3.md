@@ -81,6 +81,8 @@ We begin by posing the question "Should we start from scratch here, rent somethi
 
 The other broad category is, obviously, the opposite -- doing everything in-house, whether building from scratch or customising a COTS system using the organisation's resources and personnel.
 
+Even NASA struggles with this important issue. In deploying systems to the International Space Station (ISS), NASA made some critical decisions to buy COTS rather than build. [Interested?](http://digital.itwc.ca/canadiancio-jan-feb-2016/15/) Click on each of the four little stars to see the story. (This isn't the best format for telling the story and neither is the contrast that great... sorry.).   
+
 A useful tool to understand the context of this choice is the Outsourcing Decision Matrix. This is a strategy tool, useful in a wide variety of situations but not necessarily in the B-or-B software systems arena. We'll use the tool to give us an appreciation for the decision process in B-or-B.
 
 The Mindtools website (see the Interested? link below) poses a series of questions much like these: "Which activities should we outsource, and which tasks should we do in-house?" For instance, imagine that you are in the health care industry and let's say you are the administrator of a small, rural primary-care hospital. Should you outsource your cleaning staff, or hire in-house cleaners? Would the decision be the same for a furniture manufacturer in a large, urban setting? If you worked for an airline, would you outsource your in-flight meal preparation, or would you hire cooks directly and maintain your own kitchens and supply chain for food and beverages? What if you managed a luxury hotel?" As I write this chapter, I have just returned from my local *Ikea* store (unpaid plug). My wife and I made a stop in the cafeteria (shopping at Ikea makes for hungry work) and I found myself wondering if the cooks and serving personnel providing the meals were Ikea employees or outsiders occupying Ikea-owned space and using their own or Ikea's kitchen tools to provide service under contract to Ikea. How do they share the revenue? The costs? You get the idea. 
@@ -157,31 +159,29 @@ What are the issues? First of all, we have chosen arbitrary cut points between d
 
 ![Outsourcing Decision Matrix Mashup](https://raw.githubusercontent.com/robertriordan/2400/master/Images/outsourcing_decision_mashup.jpg)
 
-Examining Figure ETA, we see four different organisations (or the same organisation at four different times) imbued with different realities. A particularly lean organisation would have a very small upper, right quadrant (the Retain area), preferring to outsource, partner or eliminate all but the most essential of processes. The cut points for both *strategic importance* and *contribution to efficiency* could be moved up to 75% or even 80 or 90%. Such organisations are sometimes referred to as *virtual organisations,* existing as only a core set of processes with no real physical space, having outsourced, partnered-off or cut everything not considered absolutely essential.
+Examining Figure ETA, we see four different organisations (or the same organisation at four different times) imbued with different realities. Considering first the case represented by the matrix in the top, right corner, we see a particularly lean organisation with a very small upper, right quadrant (the Retain area). Such an organisation would prefer to outsource, partner or eliminate all but the most essential of processes. The cut points for both *strategic importance* and *contribution to efficiency* could be moved up to 75% or even 80 or 90%. Such organisations are sometimes referred to as *virtual organisations,* existing as only a core set of processes with no real physical space, having outsourced, partnered-off or cut everything not considered absolutely essential.
 
-The recent and astoundingly swift rise of Web 2.0 communications and collaborative technologies, along with e-commerce, secure credit card transactions and teleworking, coupled with the rapid rise of the service sector, have led to the rise of such *virtual* (not bricks and mortar) organisations. This is how Amazon started way back when.
+The recent and astoundingly swift rise of Web 2.0 communications and collaborative technologies, along with e-commerce, secure credit card transactions and teleworking, coupled with the rapid rise of the service sector, have led to the rise of such *virtual* (not bricks and mortar) organisations. This is how Amazon started back in the day.
 
 Don't confuse this sort of virtual organisation with a *virtual corporation*, which is really a form of strategic alliance. [Some sources](http://www.allbusiness.com/glossaries/virtual-corporation/4960651-1.html) muddy the water a bit on this.
 
 [Interested?](http://www.economist.com/node/14301746)
 
-Let's then take our new-found expertise in decision making and translate it into a more difficult situation which, while sharing some similarities with the outsourcing decision challenge, has more and varied inputs to the process.
-
-To make the decision about how to commission a new system in an organisation, a series of determinations need to be made. The *consideration* column can be seen as the *characteristics* of the system or of the organisation considering the system.   
+To make the decision about how to commission a new system in an organisation, a series of determinations need to be made. The *consideration* column in Table XX (below) can be seen as the *characteristics* of the system or of the organisation considering the system. The *Build if* column gives the conditions for the consideration under which the organisation should strongly consider building the system themselves, whereas the *Buy if* column highlights the situation wherein the firm should go out and buy a COTS solution. While not exhaustive, Table XX lays a good groundwork for the discussion of whether to *Buy or Build* a system.  
 
 **Table XX. Buy-or-build considerations**
 
 | Consideration | Build if | Buy if |
 | :- | :- | :- |
 | 1. System size and complexity | The requirement is for a small, simple,*ad hoc* system | You need a big, complex system, or if an adequate COTS solution exists and is cost-effective |
-| 2. Strategic necessity | Not strategic and/or limited operational impact | Strategically important and/or significant operational impact |
-| 3. Timeline | Small with plenty of time to get it right | Medium to large with a tight delivery timeline |
+| 2. Strategic necessity | Not strategic to the firm and/or has limited operational impact | Strategically important and/or significant operational impact on the firm |
+| 3. Timeline | Small system with plenty of time to get it right | Medium to large system with a tight delivery timeline |
 | 4. Uniqueness | Unique or proprietary or might expose a trade secret or competitive advantage | Ordinary, garden-variety with no secret sauce |
-| 5. In-house talent | Have a dedicated, well-funded and persistent systems development resources | No real competence in development |
+| 5. In-house talent | Firm has a dedicated, well-funded and persistent systems development resources | No real competence, staff or history in development |
 | 6. System footprint | Small, restricted impact on a single function or process | Impacts a larger number of functions and/or needs integration with an enterprise system (such as SAP) and/or must be scalable and robust |
-| 7. Lifespan | Short | Long |
+| 7. System lifespan | Short | Long |
 | 8. Compliance | Not required to be compliant with external agencies | Requires external compliance such as SOX or Bill C198 among others |
-| 9. Stability | Industry, market, competition and business practices are stable and glacial | Industry, market, competition and business practices are volatile |
+| 9. Stability | Industry, market, competition and business practices are stable and move at a glacial pace | Industry, market, competition and business practices are volatile, change quickly or are emerging |
 
 There are plenty of compliance standards, and many agencies (especially governmental) have their own set of rules.  [Interested?](http://www.cihi.ca/CIHI-ext-portal/internet/en/Document/standards+and+data+submission/standards/MIS_FAQ)
 
