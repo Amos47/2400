@@ -161,13 +161,13 @@ The online Business Dictionary defines [Strategy](http://www.businessdictionary.
 
 A simple analogy is found in war. 
 
-At the highest level, strategy gets made in the smoky war rooms. General Highbottom declares: “In order to win this grand battle, we must take control of that hill!” Next comes the tactical level, which makes possible the strategic. Colonel Mittlestaff receives the strategic direction from Highbottom and declares that in order to take that hill, “We’ll need 100 soldiers and 10 tanks and 5 mortars and 3 APCs. Split the infantry soldiers into two groups. Send 50 to the back of the hill with the mortars. Bring 5 tanks in from each flank. Send 50 infantry up the hill in the APCs once the tanks and mortars have disbursed the enemy and weakened their resistance.” 
+At the highest level, strategy gets made in the smoky war rooms. General Highbottom declares: “In order to win this grand battle, we must take control of that hill!” Next comes the tactical level, which makes possible the strategic. Colonel Mittlestaff receives the strategic direction from Highbottom and declares that in order to take that hill, “We’ll need 100 soldiers and 10 tanks and five mortars and three Armoured Personnel Carriers (APCs). Split the infantry soldiers into two groups. Send 50 to the back of the hill with the mortars. Bring five tanks in from each flank. Send 50 infantry up the hill in the APCs once the tanks and mortars have disbursed the enemy and weakened their resistance.” 
 
 Mittlestaff then pushes the tactical plan down the line to Captain Gitterdunn, who works at the operational level, at the interface with the enemy. Gitterdunn receives the tactical directives, is given access to the human and physical resources and proceeds to organise and execute the plan, with the help of subordinates such as Sergeant Spitzumfire, according to the tactical directives. The soldiers, such as Private Gruntz, are equipped, taken into battle and expected to succeed.  
 
 Gitterdunn reports at regular intervals on how the battle is progressing. In turn, Mittlestaff (who might be coordinating several different battles), informs Highbottom, who has the highest view in our scenario. Much of the *gut work* is done by Mittlestaff. Middle management has forever been under-appreciated. As we will see, this group faces a particularly dim employment future. 
 
-Take a look at Figure PP below and note especially the directional arrows for Strategy and Information:
+Take a look at Figure PP below and note especially the directional arrows for Strategy (from top to bottom) and Outcomes (information passed up the chain of command from bottom to top):
 
 **Figure PP. Strategy, tactics and operations – the case of taking a hill** 
 
