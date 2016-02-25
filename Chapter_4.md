@@ -167,17 +167,17 @@ Mittlestaff then pushes the tactical plan down the line to Captain Gitterdunn, w
 
 Gitterdunn reports at regular intervals on how the battle is progressing. In turn, Mittlestaff (who might be coordinating several different battles), informs Highbottom, who has the highest view in our scenario. Much of the *gut work* is done by Mittlestaff. Middle management has forever been under-appreciated. As we will see, this group faces a particularly dim employment future. 
 
-Take a look at Figure PP below and note especially the directional arrows for Strategy (from top to bottom) and Outcomes (information passed up the chain of command from bottom to top):
+Take a look at Figure PP below and note especially the directional arrows for Strategy (data sent from top to bottom) and Outcomes (data passed up the chain of command from bottom to top):
 
 **Figure PP. Strategy, tactics and operations – the case of taking a hill** 
 
 ![Strategy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/strategy.png)
 
-You can see that information flows both ways in this scenario. From the top, the messages sent down are “Do this!” The messages pushed up from the field are “Here’s how it’s going.” Each player and level has a different view on the situation and each requires different information in order to fulfil their role. It’s the same in any organisation. Different roles require different information, and different information dictates different systems. 
+You can see that data flows both ways in this scenario. From the top, the messages sent down are “Do this!” The messages pushed up from the field are “Here’s how it’s going.” Each player and level has a different view on the situation and each requires different data in order to fulfil their role. It’s the same in any organisation. Different roles require different data, whic generates different information, and these differences necessitate different systems. 
 
 Et *voila*. From strategy to operation. The similarity to the situation at your own workplace is striking... 
 
-At what level of the organisation are we talking when we’re talking about knowledge and low-granularity data and unstructured decisions versus the TPS type of data and decision? Let’s start at the bottom of Figure JL in the *Decision type* column. 
+At what level of the organisation are we talking when we’re talking about knowledge, low-granularity data and unstructured decisions versus the TPS type of data and decision? Let’s start at the bottom of Figure JL in the *Decision type* column. 
 
 Measurement and data collection/storage are TPS responsibilities, and TPS deal with highly granular data; the TPS is on the beach. Such data are suited to structured decisions. There are no nuances or shades of meaning or complicated contexts to navigate. It’s black and white. This is the *shop floor* area. The showroom, the warehouse, the factory. The staff here are concerned with the very nuts and bolts of the organisation and require systems that are unambiguous, straightforward and next to fool-proof. They must be fast and efficient and they must work as advertised. This is the *operational level* of the organisation. But make no mistake; the data must be accurate and fresh since they provide the foundation for all that is to come as we move up the line. The overall health of the organisation – how well it is performing according to the tactical direction from the middle – is measured here and is pushed up the chain of command in the form of increasingly rolled-up data. Thus the upward arrow under the word *Operational.* 
 
