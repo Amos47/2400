@@ -44,9 +44,9 @@ B1. Custom-built system using code "borrowed" from the open-source community on 
 
 B2. New custom-built system using code "forked" from the open-source community and built using expertise from outside the organisation (a form of *outsourcing*)
 
-B3 New custom-built system using code "borrowed" from the open-source community and configured/built using in-house expertise of the actual future users of the system whose job is not systems development but rather in the functional area in which the system will be used (while this scenario would be relatively rare, it is a form of *self-sourcing*).
+B3 New custom-built system using code "forked" from the open-source community and configured/built using in-house expertise of the actual future users of the system whose job is not systems development but rather in the functional area in which the system will be used (while this scenario would be relatively rare, it is a form of *self-sourcing*).
 
-**C: Commercial Off-the-shelf Software (COTS)**
+**C: Commercial Off-The-Shelf software (COTS)**
 
 C1. Purchasing a COTS solution and customising it in some fashion to better match the requirements of the functional area in which the system will be used. Think Microsoft Excel with some specific functionality programmed in macros or custom VBA code. The customisation in this case is carried out by a dedicated in-house systems development function (a form of *in-sourcing*).
 
@@ -58,7 +58,7 @@ C4. Purchasing a COTS solution and implementing it with no changes whatsoever (t
 
 **D: Software as a Service (SaaS)**
 
-D1. SaaS involves essentially *renting* software from a software service provider. If the organisation wants a big enterprise system and doesn’t want the cost or responsibility of buying, installing and maintaining its own copy of the software, said software can be *rented* and provided over the internet. There is little or no customisation here. You take what is offered. If any customisation is available, it's done on a outsourced basis by the service provider.
+D1. SaaS involves essentially *renting* software from a software service provider. If the organisation wants a big enterprise system and doesn’t want the cost or responsibility of creating or buying, installing and maintaining its own copy of the software, said software can be *rented* and provided over the internet. There is little or no customisation here. You take what is offered. If any customisation is available, it's done on a outsourced basis by the service provider.
 
 As you might imagine, there are pros and cons to each approach, a summary of which appears below. The cost, time and quality assessments are made using graphical *thermometers*. The higher the green temperature (for quality), the higher the general quality of the solutions in this category. For cost and time, the higher the temperature, the more costly and time-consuming are the solutions in this category. So ideally, we're looking for the least amount of red and the most green. That's the ideal solution, but *perhaps not the optimal* in every situation. To get very high quality, for example, you might have to pay and wait... but it might be worth it.
 
