@@ -25,6 +25,10 @@ What systems are expected to accomplish. What the party requesting the system ne
 
 Computer code designed to accept input, process the input and provide results as output. 
 
+## spurious
+
+False or fake; not being as it appears to be.
+
 ## synchronous
 
 At the same time. Opposite of asynchronous. 
@@ -37,6 +41,6 @@ Can be touched, sensed or measured.
 
 Stirred up; opaque; difficult to see through.
 
-## spurious
+## TPS
 
-False or fake; not being as it appears to be.
+Transaction Processing System. Low-level data (such as sales transactions, accounts receivable and payable, etc.) is processed and stored in the TPS.
