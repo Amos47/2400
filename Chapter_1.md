@@ -11,7 +11,9 @@ In the very beginning, at the murky start of time, there was nothing. Or perhaps
 And so it began. Data began to accumulate at that very instant.  
 
 Brief
+
 Basics
+
 Backstory 
 
 ***Welcome to the study of ICT!***
@@ -53,7 +55,7 @@ So let's get started.
 
 Much of this preliminary section relies on work from a dated but still quite interesting article from *liquidinformation.org*. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.
 
-[[Interested?](http://www.liquidinformation.org/information_history.html)]
+[Interested?](http://www.liquidinformation.org/information_history.html)
 
 First of all, many of the times the author refers to *information*, I contend they are instead referring to *data*. This distinction will become more clear as we progress. Here is a quote from the piece: 
 
