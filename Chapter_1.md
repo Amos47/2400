@@ -250,8 +250,8 @@ All data can be categorised according to one of the LATCH descriptors. Note the 
 
 **Table XYZ. Comparing measurement taxonomies** 
 
-| :- | :- |
 | **LATCH** | **NOIR equivalent** |
+| :- | :- |
 | **L**ocation | **N**ominal |
 | **A**lphabetical | **N**ominal |
 | **T**ime | **O**rdinal, **I**nterval |
