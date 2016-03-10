@@ -115,15 +115,13 @@ They continue that, “A measurement system can be accurate but not precise, pre
 Furthermore, “A measurement system is considered valid if it is both accurate and precise. Related terms include bias (non-random or directed effects caused by a factor or factors unrelated to the independent variable) and error (random variability).
 
 #### Another view
-According to ISO 5725-1, Accuracy consists of Trueness (proximity of measurement results to the true value) and Precision (repeatability or reproducibility of the measurement)
-
-According to ISO 5725-1, the terms trueness and precision are both used to describe the accuracy of a measurement. Trueness refers to the closeness of the mean of the measurement results to the actual (true) value and precision refers to the closeness of agreement within individual results. Therefore, according to the ISO standard, the term "accuracy" refers to both trueness and precision.
+According to ISO 5725-1, Accuracy consists of Trueness (proximity of measurement results to the true value) and Precision (repeatability or reproducibility of the measurement). Furthermore, the terms *trueness* and *precision* are both used to describe the accuracy of a measurement. Trueness refers to the closeness of the mean of the measurement results to the actual (true) value and precision refers to the closeness of agreement within individual results. Therefore, according to the ISO standard, the term "accuracy" refers to both trueness and precision.
 
 **Figure SMC. Low accuracy: poor precision, good trueness**  
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/High_accuracy_Low_precision.svg/200px-High_accuracy_Low_precision.svg.png)
 
-Looking at the *target practice* image above, we immediately see that no one shot is exactly centre. This is to be expected and might even be considered a random (though intended) outcome. It's pretty hard to hit dead centre on any attempt. So we can't give any of them good marks for *precision* - the degree to which they hit the centre of the target. But all is not lost. We next observe that the four attempts are, in general, at about the same distance from dead centre. So none is a great shot, but considered together, they seem to have some consistency. So while not completely accurate, they are at least *true to each other*. This gives them marks for trueness. They err by the same amount in different directions. So, *on average*, a good set of results, though no one was accurate. For why this is important, see the *old joke* below.  
+Looking at the *target practice* image above, we immediately see that no one shot is exactly dead centre. This is to be expected and might even be considered a random outcome. It's pretty hard to hit dead centre on any attempt. So we can't give any of these attempts good marks for *precision* - the degree to which they hit the centre of the target. But all is not lost. We next observe that the four attempts are, in general, at about the same distance from dead centre. So none is a great shot, but considered together, they seem to have some consistency. So while not completely accurate, they are at least *true to each other*. This gives them marks for *trueness*. They err by the same amount in different directions. So, *on average*, a good set of results, though no one was accurate. For why this is important, see the *old joke* below.  
 
 **Figure BFHC. Low accuracy: good precision, poor trueness**
 
@@ -151,10 +149,11 @@ Each of these will become important at different junctures in our study. Measure
  
 [Interested?](http://en.wikipedia.org/wiki/Accuracy_and_precision)  
 
+#### An old joke
 *All this measurement talk reminds me of the great old joke about the doctor, the lawyer and the statistician on a hunting trip. While hiding in the bushes, they spot a big buck deer at a distance of 25 metres directly in front of them. The doctor sizes up the distance and wind speed, then aims and fires an arrow at the deer. His shot zooms one metre to the rear of the unsuspecting creature. The lawyer does some quick calculations, then aims and fires. His shot zips one metre in front of the deer. Our statistician friend jumps up, raises his hands in victory and shouts "GOT ‘IM!!"  (No animals were hurt in the process of creating this book.)* 
 
 ### Back to the Big Three
-With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
+With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge* means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
 
 ### Data
 
@@ -183,7 +182,7 @@ The online [Business Dictionary](http://businessdictionary.com) defines data as:
 1. "Information in raw or unorganized form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe. See also information and knowledge.", and
 2. "Computers: Symbols or signals that are input, stored, and processed by a computer, for output as usable information.”
 
-I respectfully disagree, ever so slightly, with these two definitions. Specifically, in definition #1, the word *information* should not appear. It is tautological to define data as information and information as data. Rather, both definitions should begin with the words in the second definition, specifically that data are *symbols and signals* or indeed drawings or sounds or signs or even facial expressions that carry within them the *potential* for information but not information *per se*. Data is raw and lacks context. A column of digits in a spreadsheet with no row header to indicate what the data *mean*, for example. I maintain that information occurs in the *interpretation* of data when it’s *located in context*. Read on.
+I respectfully disagree, ever so slightly, with these two definitions. Specifically, in definition #1, the word *information* should not appear. It is tautological to define data as information and information as data. Rather, both definitions should begin with the words in the second definition, specifically that data are *symbols and signals* or indeed drawings or sounds or signs or even facial expressions that carry within them the *potential* for information but not information *per se*. Data is raw and lacks context as in a column of digits in a spreadsheet with no row header to indicate what the data *mean*, for example. I maintain that information occurs in the *interpretation* of data when it’s *located in context*. Read on.
 
 Note the definition of information below, from the same source, and note that one of the necessary elements of information is that it be presented within a context that gives it meaning. 
 
