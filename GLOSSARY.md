@@ -21,10 +21,6 @@ Frugal; stingy; careful.
 
 What systems are expected to accomplish. What the party requesting the system needs the system to do. 
 
-## software
-
-Computer code designed to accept input, process the input and provide results as output. 
-
 ## spurious
 
 False or fake; not being as it appears to be.
@@ -37,10 +33,10 @@ At the same time. Opposite of asynchronous.
 
 Can be touched, sensed or measured. 
 
-## turbid
-
-Stirred up; opaque; difficult to see through.
-
 ## TPS
 
 Transaction Processing System. Low-level data (such as sales transactions, accounts receivable and payable, etc.) is processed and stored in the TPS.
+
+## turbid
+
+Stirred up; opaque; difficult to see through.
