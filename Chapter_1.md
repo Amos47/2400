@@ -236,11 +236,7 @@ Corresponds to Time and Hierarchical in LATCH
 
 ##### Ratio 
 
-Is the highest level of measuerment – affords the most opportunity to understand the underlying dimensions captured therein
-
-Age, dollar values, counts of discrete items (number of events, purchases, people, goods... expressed as a ratio to each other or to a total)
-
-Interval data are exact and have a real zero thus any and all algebraic operations are possible (addition, subtraction, multiplication, division and exponentiation)
+This is the highest level of measuerment and affords the most opportunity to understand the underlying dimensions captured therein. Examples of variables measured at the ratio level include age, dollar values, counts of discrete items (number of events, purchases, people, goods, etc. either when counting or when expressed as a ratio to each other or to a total). Interval data are exact and have a real zero, thus any and all algebraic operations are possible (addition, subtraction, multiplication, division and exponentiation).
 
 Corresponds to Hierarchical in LATCH
 
