@@ -40,3 +40,7 @@ Transaction Processing System. Low-level data (such as sales transactions, accou
 ## turbid
 
 Stirred up; opaque; difficult to see through.
+
+## entity
+
+Person, place, thing or event.
