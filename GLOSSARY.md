@@ -12,6 +12,10 @@ According to Google: "disintermediation is the removal of intermediaries [things
 
 Person, place, thing or event.
 
+## intangible
+
+Opposite of tangible. Difficult to touch, sense or measure. 
+
 ## ip
 
 1) Intellectual Property. The embodiment of value in an idea, process or creation of music, art, literature, inventions, and designs of all kinds. It's the value attached to creations of the mind.
@@ -45,6 +49,6 @@ Transaction Processing System. Low-level data (such as sales transactions, accou
 
 Stirred up; opaque; difficult to see through.
 
-## intangible
+## tautological
 
-Opposite of tangible. Difficult to touch, sense or measure. 
+Using circular logic as in defining black as not white and white as not black. NOt helpful at all. 
