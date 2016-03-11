@@ -165,7 +165,7 @@ The excellent website (or service, really) [visualthesaurus.com](http://visualth
 
 The interpretation of the visual goes as follows:
 
-* A solid line between two terms denotes a relationship between a meaning and a word. Thus the term at the distal (far) end of a solid line can be used to express the meaning of the defined word.
+* A solid line between two terms denotes a relationship between a meaning and a word. Thus the term at the distal (far) end of a solid line can be used to express the meaning of the defined word. Thus in this image, data and information can be used to describe each other (are synonomous). This will be discussed at length below. I maintain that, while they are often interchangeable in common usage, they are not equivalent terms. Stay tuned.
 * A dashed line indicates a _type of_ relationship. Thus the term at the distal end of a dashed line indicates that this construct is a type of the term at the proximal (near) end of the dashed line. So *accounting data* is a *type of* data. Self-evident, really. 
 * A dashed red line (not shown in this visual but appearing in others below) indicates an opposite. So a red line appearing between the terms *near* and *far* would indicate that they are a negation of each other. 
 
