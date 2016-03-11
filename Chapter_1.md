@@ -205,7 +205,7 @@ Name only – no intrinsic value - such as Chevrolet, Ford, Ferrari, Male, Femal
 
 Lowest information *affordance*
 
-Can only be reported or used as a category for bins (as in throwing things in bins for counting and then that counts become Ratio – for example you can say that “35,000 times more people own a Chevrolet than a Ferrari.” – but that’s a count and not an attribute of *Chevyness* or *Ferraritude*).
+Can only be reported or used as a category for bins (as in throwing things in bins for counting and then that count become Ratio – for example you can say that “35,000 times more people own a Chevrolet than a Ferrari.” – but that’s a count and not an attribute of *Chevyness* or *Ferraritude*).
 
 No algebraic operations possible - no math other than comparing frequencies between categories. 
 
