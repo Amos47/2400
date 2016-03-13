@@ -189,9 +189,11 @@ Note the definition of information below in the section on Information, from the
 [Interested?](http://www.businessdictionary.com/definition/data.html)
 
 ### Levels (types) of data
-In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year n which a person was born in order to provice an age-based discount but only collecting customer age data in 5-year age brackets. So rather than asking a customer to provdie the year of their birth, instead asking them to indicate whether they were born in the 1970-1974 or 1975-1979 period. That's a ;lot of guessing and a lot of unnecessary error in the precision of their data. So level of measurement is critical in some contexts. 
+In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year n which a person was born in order to provice an age-based discount but only collecting customer age data in 5-year age brackets. So rather than asking a customer to provdie the year of their birth, instead asking them to indicate whether they were born in the 1970-1974 or 1975-1979 period. That's a lot of guessing and a lot of unnecessary sloppiness in the precision of their data. Thus level of measurement is critical in some contexts. 
 
-The *NOIR  taxonomy* assists in categorising data. 
+In general, the closer one can get to ratio-level data, the more powerful is the measurement. But some data simply doesn't exist at the ratio level. Gender, for example, is a nominal-level measuremnt no matter what you do. Thought needs to be put into data capture schemes so that the collected data can be used to generate value for the firm. 
+
+The *NOIR  taxonomy* assists in categorising and determining what can be done with data. 
 
 #### NOIR taxonomy:
 
