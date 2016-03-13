@@ -41,6 +41,10 @@ At the same time. Opposite of asynchronous.
 
 Can be touched, sensed or measured. 
 
+## tautological
+
+Using circular logic as in defining black as not white and white as not black. NOt helpful at all. 
+
 ## TPS
 
 Transaction Processing System. Low-level data (such as sales transactions, accounts receivable and payable, etc.) is processed and stored in the TPS.
@@ -49,6 +53,6 @@ Transaction Processing System. Low-level data (such as sales transactions, accou
 
 Stirred up; opaque; difficult to see through.
 
-## tautological
+## taxonomy
 
-Using circular logic as in defining black as not white and white as not black. NOt helpful at all. 
+Classification system.
