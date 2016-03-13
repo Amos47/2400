@@ -184,11 +184,14 @@ The online [Business Dictionary](http://businessdictionary.com) defines data as:
 
 I would clarify the first definition by stting that data are *potential information* when in raw form. We cannot define data as information and information as data. In my opinion, both definitions should begin with the words in the second definition, specifically that data are *symbols and signals* or indeed drawings or sounds or signs or even facial expressions that carry within them the *potential* for information but not information *per se*. Data is raw and lacks context. A column of digits in a spreadsheet with no row header to indicate what the data *mean*, for example, is not information. It has no potential impact. I maintain that information occurs in the *interpretation* of data when it’s *located in context*. Read on.
 
-Note the definition of information below, from the same source, and note that one of the necessary elements of information is that it be presented within a context that gives it meaning. 
+Note the definition of information below in the section on Information, from the same source, and note that one of the necessary elements of information is that it be presented within a context that gives it meaning. 
 
 [Interested?](http://www.businessdictionary.com/definition/data.html)
 
 ### Levels (types) of data
+In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year n which a person was born in order to provice an age-based discount but only collecting customer age data in 5-year age brackets. So rather than asking a customer to provdie the year of their birth, instead asking them to indicate whether they were born in the 1970-1974 or 1975-1979 period. That's a ;lot of guessing and a lot of unnecessary error in the precision of their data. So level of measurement is critical in some contexts. 
+
+The *NOIR  taxonomy* assists in categorising data. 
 
 #### NOIR taxonomy:
 
