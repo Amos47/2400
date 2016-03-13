@@ -195,7 +195,9 @@ In general, the closer one can get to ratio-level data, the more powerful is the
 
 The *NOIR  taxonomy* assists in categorising and determining what can be done with data. 
 
-#### NOIR taxonomy:
+#### NOIR taxonomy
+
+The NOIR taxonomy allows data to be categorised in four broad groups. The four groups are as follows:
 
 1. Nominal
 2. Ordinal
