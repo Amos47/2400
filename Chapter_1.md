@@ -193,22 +193,22 @@ In using statistical methods, for example, the determination of level of measure
 
 In general, the closer one can get to ratio-level data, the more powerful is the measurement. But some data simply doesn't exist at the ratio level. Gender, for example, is a nominal-level measuremnt no matter what you do. Thought needs to be put into data capture schemes so that the collected data can be used to generate value for the firm. 
 
-The *NOIR  taxonomy* assists in categorising and determining what can be done with data. 
+The *NOIR  taxonomy* assists in categorising and determining what can be done with data.
 
 #### NOIR taxonomy
 
-The NOIR taxonomy allows data to be categorised in four broad groups. The four groups are as follows:
+The NOIR taxonomy allows data to be categorised in four broad groups, as follows:
 
 1. Nominal
 2. Ordinal
 3. Interval
 4. Ratio
 
-Roughly corresponds to LATCH (discussion of this taxonomy follows directly below NOIR) but affords understanding of intrinsic value of data type
+Therse four roughly correspond to LATCH (discussion of the taxonomy (discussion follows directly below NOIR) but afford understanding of the intrinsic value of the data type. Each is described in turn.
 
 ##### Nominal 
 
-Name only – no intrinsic value - such as Chevrolet, Ford, Ferrari, Male, Female
+Means *in name only*. Data measured using the mominal scale do not represent any intrinsic value. Measurement at this level sinmply names things such as Chevrolet, Ford, Ferrari or  Male and Female. One might have an opinion of the value of the named thing (such as the difference in value between a Ferrari and a Chevrolet) but there is nothing in the measurement itself that would allow one to accurately measure any value difference betweeen these brands. In some contexts, a Chevrolet might be superior to a Ferrari (on a farm for example). But there is nothing in the *naming* of them that would allow one to accurately determine whether one is better than the other. 
 
 Lowest information *affordance*
 
