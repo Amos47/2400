@@ -41,9 +41,9 @@ At the same time. Opposite of asynchronous.
 
 Can be touched, sensed or measured. 
 
-## tautological
+## taxonomy
 
-Using circular logic as in defining black as not white and white as not black. NOt helpful at all. 
+Classification system.
 
 ## TPS
 
@@ -52,7 +52,3 @@ Transaction Processing System. Low-level data (such as sales transactions, accou
 ## turbid
 
 Stirred up; opaque; difficult to see through.
-
-## taxonomy
-
-Classification system.
