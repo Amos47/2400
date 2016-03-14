@@ -271,9 +271,7 @@ Alphabetic data under the LATCH taxonomy corresponds to Nominal data in NOIR.
 
 ##### T - Time data
 
-Anything that is tracked chronologically and has either a measurable start point and/or end point can be expressed in terms of time
-
-The Vietnam Memorial in Washington DC, for example, is ordered by time, affording viewers the added information of seeing others who died at roughly the same time, and allowing context with other events in the news
+Anything that is tracked chronologically and has either a measurable start point and/or end point can be expressed in terms of time. The Vietnam Memorial in Washington DC, for example, is ordered by time, affording viewers the added information of seeing others who died at roughly the same time, and allowing context with other events in the news. Interesting to note that within time segments (days for example) US Vietnam casulaties are then listed alphabetically to assist in finding them. Thus alphabetical listing is secondary to chronological. 
 
 ##### C - Categorical data
 
@@ -284,7 +282,7 @@ That which falls into mutually-exclusive categories such as:
 - Options group on a website
 - Degree programme
 
-Works well when trying to make sense of information of similar importance without an implied order or rank
+Categorical data works well when trying to make sense of information of similar importance without an implied order or rank. Imagine choosing a paint colour without being able to start at Blue or Red, for example. 
 
 ##### H - Hierarchical Data
 
