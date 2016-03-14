@@ -241,9 +241,9 @@ This is the highest level of measuerment and affords the most opportunity to und
 
 Ratio data in NOIR corresponds to Hierarchical data in LATCH.
 
-### LATCH Taxonomy
+### LATCH taxonomy
 
-All data can be categorised according to one of the LATCH descriptors. Note the relationship to the more technical NOIR categories.
+Just as in NOIR, all data can be categorised according to one of the LATCH descriptors. Table XYZ shows the correspondance between NOIR and LATCH. NOIR is more technical that LATCH, but any data that are measurable can be expressed on one or both taxonomies. 
 
 **Table XYZ. Comparing measurement taxonomies** 
 
