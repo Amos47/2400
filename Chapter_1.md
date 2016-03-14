@@ -229,13 +229,9 @@ Researchers call these underlying states *latent dimensions*. We often look for 
 Finally, with ordinal variables, we cannot do algebraic operations on categories except to report frequencies/counts, which are then Ratio. Ordinal-level variables correspond to Hierarchical in LATCH.
 
 ##### Interval 
-Similar to Ordinal but the exact difference in increments between categories can be specified but has an arbitrary zero value
+Data measureable with the interval level are similar to Ordinal data, but the exact difference in increments between categories can be specified. Interval data have an arbitrary zero value. 
 
-For example temperature:
-
-23oC is exactly one degree warmer than 24oC but 0oC is arbitrarily simply the temperature at which fresh water freezes at sea level
-
-Can do some algebra (addition/subtraction)
+Take temperature for example: 23 degrees Celcius is exactly one degree warmer than 24C but 0C is arbitrarily simply the temperature at which fresh water freezes at sea level. Nonetheless, one can do some algebra, such as addition/subtraction with interval data, but not division, multiplication or exponentiation. 
 
 Corresponds to Time and Hierarchical in LATCH
 
