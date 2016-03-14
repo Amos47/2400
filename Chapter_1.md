@@ -208,13 +208,11 @@ Therse four roughly correspond to LATCH (discussion of the taxonomy (discussion 
 
 ##### Nominal 
 
-Means *in name only*. Data measured using the mominal scale do not represent any intrinsic value. Measurement at this level sinmply names things such as Chevrolet, Ford, Ferrari or  Male and Female. One might have an opinion of the value of the named thing (such as the difference in value between a Ferrari and a Chevrolet) but there is nothing in the measurement itself that would allow one to accurately measure any value difference betweeen these brands. In some contexts, a Chevrolet might be superior to a Ferrari (on a farm for example). But there is nothing in the *naming* of them that would allow one to accurately determine whether one is better than the other. 
+Means *in name only*. Data measured using the mominal scale do not represent any intrinsic value. Measurement at this level sinmply names things such as Chevrolet, Ford, Ferrari or  Male and Female. One might have an opinion on some characteristic of the named thing (such as the difference in value between a Ferrari and a Chevrolet) but there is nothing in the measurement itself that would allow one to accurately measure any value difference betweeen these brands. In some contexts, a Chevrolet might be superior to a Ferrari (on a farm for example). But there is nothing in the *naming* of them that would allow one to accurately determine whether one is better than the other. They simply have different names. 
 
-Lowest information *affordance*
+Nominal-level data have the lowest information *affordance*, meaning there is little hidden in the variable that is not shown by its name. There is no implicit scale or indicator of value. Just a name. 
 
-Can only be reported or used as a category for bins (as in throwing things in bins for counting and then that count become Ratio – for example you can say that “35,000 times more people own a Chevrolet than a Ferrari.” – but that’s a count and not an attribute of *Chevyness* or *Ferraritude*).
-
-No algebraic operations possible - no math other than comparing frequencies between categories. 
+Nominal data can only be reported or used as a category for bins (as in throwing things in bins for counting and then that count becomes Ratio (see below). For example you can say that “35,000 times more people own a Chevrolet than a Ferrari.” – but that’s a count of the number of things in a bin and not an attribute of *Chevyness* or *Ferraritude*. Thus there are no algebraic operations possible - no math can be done on such variables other than comparing frequencies between categories as in Chevy vs. Ferrarti ownership numbers. 
 
 Corresponds to Location (in certain instances but not strictly to GPS which would be Interval-level data) or Attribute in LATCH. 
 
