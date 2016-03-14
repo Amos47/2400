@@ -298,6 +298,10 @@ Hierarchical data is that which is measured in comparison with others and which 
 
 Any and all mathematical operation can be done using such data. It is the highest data categorisation and corresponds to Interval data in the NOIR system.
 
+#### Synopsis
+
+Data is not information, and neither is informatio, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics erfforts.
+
 ### Information
 
 **Figure LP. Definition of information from Visual Thesaurus**
