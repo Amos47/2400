@@ -292,7 +292,7 @@ Red is nominal in the NOIR taxonomy, whereas the various tints, tones and shades
 
 Hierarchical data is that which is measured in comparison with others and which can be compared in terms of quantity and/or quality, such as:
 
--Temperature
+- Temperature
 - Weight
 - Dollar value
 
