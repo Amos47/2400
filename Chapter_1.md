@@ -265,9 +265,9 @@ Location data can be either Nominal data in NOIR (as in the name of a city such 
 
 ##### A - Alphabetic data
 
-Very frequently used, often as a secondary attribute. Alpha data are gor categorising enormous datasets such as a phone directory or an employee directory or a social media *friend* list. Since virtually everyone understands alphabetical order, this method is often used when consumers of data are not familiar with the subtle nuances of other methods of categorisation - *"When all else fails, alphabetise!"*
+Alphabetisation is very frequently used, often as a secondary attribute. Alpha data are good for categorising enormous datasets such as a phone directory or an employee directory or a social media *friend* list. Since virtually everyone understands alphabetical order, this method is often used when consumers of data are not familiar with the subtle nuances of other methods of categorisation - *"When all else fails, alphabetise!"*
 
-Alphabetic data under the LATCH taxonomy corresponds to Nomina data in NOIR. 
+Alphabetic data under the LATCH taxonomy corresponds to Nominal data in NOIR. 
 
 ##### T - Time data
 
