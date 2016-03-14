@@ -231,15 +231,15 @@ Finally, with ordinal variables, we cannot do algebraic operations on categories
 ##### Interval 
 Data measureable with the interval level are similar to Ordinal data, but the exact difference in increments between categories can be specified. Interval data have an arbitrary zero value. 
 
-Take temperature for example: 23 degrees Celcius is exactly one degree warmer than 24C but 0C is arbitrarily simply the temperature at which fresh water freezes at sea level. Nonetheless, one can do some algebra, such as addition/subtraction with interval data, but not division, multiplication or exponentiation. 
+Take temperature for example: 23 degrees Celcius is exactly one degree warmer than 24C but 0C is arbitrarily simply the temperature at which fresh water freezes at sea level. We cannot say aht 12C is *twicwe as warm* as 6C for example. Nonetheless, one can do some algebra, such as addition/subtraction with interval data, but not division, multiplication or exponentiation. 
 
-Corresponds to Time and Hierarchical in LATCH
+Interval data using the NOIR taxonomy corresponds to Time and Hierarchical in LATCH.
 
 ##### Ratio 
 
-This is the highest level of measuerment and affords the most opportunity to understand the underlying dimensions captured therein. Examples of variables measured at the ratio level include age, dollar values, counts of discrete items (number of events, purchases, people, goods, etc. either when counting or when expressed as a ratio to each other or to a total). Interval data are exact and have a real zero, thus any and all algebraic operations are possible (addition, subtraction, multiplication, division and exponentiation).
+This is the highest level of measuerment and affords the most opportunity to understand the underlying dimensions captured therein. Examples of variables measured at the ratio level include age, dollar values, counts of discrete items (number of events, purchases, people, goods, etc. either when counting or when expressed as a ratio to each other or to a total). Interval data are exact and have a real zero, thus any and all algebraic operations are possible (addition, subtraction, multiplication, division and exponentiation). Finally, we can say that $2 is twice as much as $1. 
 
-Corresponds to Hierarchical in LATCH
+Ratio data in NOIR corresponds to Hierarchical data in LATCH.
 
 ### LATCH Taxonomy
 
