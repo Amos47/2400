@@ -189,11 +189,11 @@ Note the definition of information below in the section on Information, from the
 [Interested?](http://www.businessdictionary.com/definition/data.html)
 
 ### Levels (types) of data
-In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year n which a person was born in order to provice an age-based discount but only collecting customer age data in 5-year age brackets. So rather than asking a customer to provdie the year of their birth, instead asking them to indicate whether they were born in the 1970-1974 or 1975-1979 period. That's a lot of guessing and a lot of unnecessary sloppiness in the precision of their data. Thus level of measurement is critical in some contexts. 
+In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year in which a person was born in order to provide an age-based discount but only collecting customer age data in 5-year age brackets. So rather than asking a customer to provdie the year of their birth, instead asking them to indicate whether they were born in the 1970-1974 or 1975-1979 period, etc. That's a lot of guessing and a lot of unnecessary sloppiness in the precision of their data. Thus, level of measurement is critical in some contexts. 
 
-In general, the closer one can get to ratio-level data, the more powerful is the measurement. But some data simply doesn't exist at the ratio level. Gender, for example, is a nominal-level measuremnt no matter what you do. Thought needs to be put into data capture schemes so that the collected data can be used to generate value for the firm. 
+In general, the closer one can get to ratio-level / hierarchical data, the more powerful is the measurement. But some data simply doesn't exist at that level. Gender, for example, is a nominal-level measuremnt no matter how you measure it. Thought needs to be put into data capture schemes so that the collected data can be used to generate value for the firm. 
 
-The *NOIR  taxonomy* assists in categorising and determining what can be done with data.
+The *NOIR* and *LATCH* taxonomies assist in categorising and determining what can be done with data. Each is discussed and cross-referenced between taxonomies below. 
 
 #### NOIR taxonomy
 
@@ -204,25 +204,25 @@ The NOIR taxonomy allows data to be categorised in four broad groups, as follows
 3. Interval
 4. Ratio
 
-Therse four roughly correspond to LATCH (discussion of the taxonomy (discussion follows directly below NOIR) but afford understanding of the intrinsic value of the data type. Each is described in turn.
+Each is described in turn.
 
 ##### Nominal 
 
-Means *in name only*. Data measured using the mominal scale do not represent any intrinsic value. Measurement at this level sinmply names things such as Chevrolet, Ford, Ferrari or  Male and Female. One might have an opinion on some characteristic of the named thing (such as the difference in value between a Ferrari and a Chevrolet) but there is nothing in the measurement itself that would allow one to accurately measure any value difference betweeen these brands. In some contexts, a Chevrolet might be superior to a Ferrari (on a farm for example). But there is nothing in the *naming* of them that would allow one to accurately determine whether one is better than the other. They simply have different names. 
+Means *in name only*. Data measured using the mominal scale do not represent any intrinsic value. Measurement at this level sinmply names things such as Chevrolet, Ford, Ferrari or Male and Female. One might have an opinion on some characteristic of the named thing (such as the difference in value between a Ferrari and a Chevrolet) but there is nothing in the measurement itself that would allow one to accurately measure any value difference betweeen these categories of automobile. In some contexts, a Chevrolet pickup truck might be superior to a Ferrari (on a farm or a construction site for example). But there is nothing in the *naming* of them that would allow one to accurately determine whether one is better than the other. They simply have different names. 
 
-Nominal-level data have the lowest information *affordance*, meaning there is little hidden in the variable that is not shown by its name. There is no implicit scale or indicator of value. Just a name. 
+Nominal-level data have the lowest information *affordance*, meaning there is little or nothing hidden in the variable that is not shown (suggested) by its name. There is no implicit scale or indicator of value. Just a name. 
 
-Nominal data can only be reported or used as a category for bins (as in throwing things in bins for counting and then that count becomes Ratio (see below). For example you can say that “35,000 times more people own a Chevrolet than a Ferrari.” – but that’s a count of the number of things in a bin and not an attribute of *Chevyness* or *Ferraritude*. Thus there are no algebraic operations possible - no math can be done on such variables other than comparing frequencies between categories as in Chevy vs. Ferrarti ownership numbers. 
+Nominal data can only be reported or used as a category for bins (as in throwing things in bins for counting and then that count becomes Ratio (see below). For example you can say that “35,000 times more people own a Chevrolet than a Ferrari” but that’s a *count* of the number of things in a bin and not an attribute of *Chevyness* or *Ferraritude*. Thus there are no algebraic operations possible - no math can be done on such variables other than comparing frequencies between categories as in Chevy vs. Ferrarti ownership numbers. 
 
-Corresponds to Location (in certain instances but not strictly to GPS which would be Interval-level data) or Attribute in LATCH. 
+Nominal data on the NOIR scale roughly corresponds to either *Attribute* or *Location* (except if the location is expressed as GPS coordinates which would be Interval-level rather than Nominal-level data) in LATCH. 
 
 ##### Ordinal 
 
-An intrinsic (implied) ordering but cannot specify the *exact increment/decrement* implied by changes from one category to the next
-
-A *Likert* scale in a survey for example - "On a scale of 1 to 5, how happy are you?" Is someone who answers *2* only *half* as happy as someone who answers *4*? The scale is not sensitive enough, or well enough *calibrated*, to make these determinations. We can report *frequencies* along latent dimensions only - for example "Twice as many people in our survey reported being somewhat or very *happy* as opposed to those reporting being somewhat or very *unhappy*." But honestly, we haven't even *operationalised* the concept of *happy* here.   
+Ordinal data afford an intrinsic (implied) ordering but cannot specify the *exact increment/decrement* implied by changes from one category to the next. A *Likert* scale in a survey for example - "On a scale of 1 to 5, how happy are you?" Is someone who answers *2* only *half* as happy as someone who answers *4*? The scale is not sensitive enough, or well enough *calibrated*, to make these determinations. We can report *frequencies* along latent dimensions only - for example "Twice as many people in our survey reported being somewhat or very *happy* as opposed to those reporting being somewhat or very *unhappy*." But honestly, we haven't even *operationalised* the concept of *happy* here.   
 
 Another example: "How satisfied are you with this book?" There is no real objective way to measure the underlying dimension of *satisfaction*. We can ask if you are *Not at all, Somewhat, Neither satisfied nor dissatisfied,* etc. This gives us an indication and we can compare person to person at one point in time or with the same person over time. We just can't say that we've measured *satisfaction* in a truly rigorous way. 
+
+[Interested in Likert?](https://en.wikipedia.org/wiki/Likert_scale)
 
 Researchers call these underlying states *latent dimensions*. We often look for things that *act like the latent variable* and measure it, instead, as a *proxy* for the unmeasured variable. These *indicator variables* are *correlated * with our variable of interest - so they vary in a known way with our latent variable - but are not exact measures of the dimension that we are interested in measuring. (Don't leave me yet, it's just getting good.) So if we're measuring *happiness* we might measure the number of times a sample of people smiles in a day along with the number of laughs and warm embraces, etc. These things, are not *exactly* the same as happiness, but together, they can make a compelling argument for being able to tap into the underlying river of emotions that are expressed as happiness, sadness, anger, etc.     
 
