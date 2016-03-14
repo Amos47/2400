@@ -296,6 +296,8 @@ Hierarchical data is that which is measured in comparison with others and which 
 - Weight
 - Dollar value
 
+Any and all mathematical operation can be done using such data. It is the righest data categorisation and corresponds to INterval data in the NOIR system.
+
 ### Information
 
 **Figure LP. Definition of information from Visual Thesaurus**
