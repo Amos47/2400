@@ -257,17 +257,17 @@ Just as in NOIR, all data can be categorised according to one of the LATCH descr
 
 ##### L -  Location data
 
-Maps, broadly defined (from a location on the body for a surgeon to a room in a building for a delivery all the way up to quadrant in the universe)
+Maps, broadly defined (from a location on the body for a surgeon to a room in a building for a delivery all the way up to quadrant in the universe), can be neatly categorised as Location data in LATCH. GPS devices make use of data tagged with *geo-locale* information (latitude by longitude and elevation). 
 
-GPS devices make use of data tagged with *geo-locale* information (latitude by longitude)
+Location data can be either Nominal data in NOIR (as in the name of a city such as Kamloops, for example) or as Ratio data if expressed in GPS latitude/longitude coordinates such as 45.4165315, -75.65170139999998 or as Degrees, Minuters and Seconds as in N45° 24 59.513', W75° 59 6.125'. These are the coordinates of the Ottawa ViaRail station around 200 Tremblay Road. 
+
+[Interested in the GPS coordinates of some place?](http://www.gps-coordinates.net/)
 
 ##### A - Alphabetic data
 
-Very frequently used, often as a secondary attribute
+Very frequently used, often as a secondary attribute. Alpha data are gor categorising enormous datasets such as a phone directory or an employee directory or a social media *friend* list. Since virtually everyone understands alphabetical order, this method is often used when consumers of data are not familiar with the subtle nuances of other methods of categorisation - *"When all else fails, alphabetise!"*
 
-Good for categorising enormous datasets such as a phone directory or an employee directory or a social media *friend* list
-
-Since virtually everyone understands alphabetical order, this method is often used when consumers of data are not familiar with the subtle nuances of other methods of categorisation - *"When all else fails, alphabetise!"*
+Alphabetic data under the LATCH taxonomy corresponds to Nomina data in NOIR. 
 
 ##### T - Time data
 
