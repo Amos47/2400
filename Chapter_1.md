@@ -243,7 +243,7 @@ Ratio data in NOIR corresponds to Hierarchical data in LATCH.
 
 ### LATCH taxonomy
 
-Just as in NOIR, all data can be categorised according to one of the LATCH descriptors. Table XYZ shows the correspondance between NOIR and LATCH. NOIR is more technical that LATCH, but any data that are measurable can be expressed on one or both taxonomies. 
+Just as in NOIR, all data can be categorised according to one of the LATCH descriptors. Table XYZ shows the correspondance between NOIR and LATCH. NOIR is more technical that LATCH and considerably more homogeneous, but any data can be expressed using one or both taxonomies. 
 
 **Table XYZ. Comparing measurement taxonomies** 
 
