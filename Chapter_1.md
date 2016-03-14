@@ -228,7 +228,6 @@ Researchers call these underlying states *latent dimensions*. We often look for 
 
 Researchers call these underlying states *latent dimensions*. We often look for things that *act like the latent variable* and measure it, instead, as a *proxy* for the unmeasured variable. These *indicator variables* are *correlated * with our variable of interest - so they vary in a known way with our latent variable - but are not exact measures of the dimension that we are interested in measuring. (Don't leave me yet, it's just getting good.) So if we're measuring *happiness* we might measure the number of times a sample of people smiles in a day along with the number of laughs and warm embraces, etc. These things, are not *exactly* the same as happiness, but together, they can make a compelling argument for being able to tap into the underlying river of emotions that are expressed as happiness, sadness, anger, etc.    
 
-
 Finally, with ordinal variables, we cannot do algebraic operations on categories except to report frequencies/counts, which are then Ratio. Corresponds to Hierarchical in LATCH.
 
 ##### Interval 
