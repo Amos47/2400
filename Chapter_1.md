@@ -300,7 +300,9 @@ Any and all mathematical operation can be done using such data. It is the highes
 
 #### Synopsis
 
-Data is not information, and neither is informatio, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics erfforts.
+Data is not information, and neither is informatio, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics efforts.
+
+We now more on to a discussion of what information is. this is where it gets good.
 
 ### Information
 
