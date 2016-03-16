@@ -341,9 +341,9 @@ I must respectfully disagree with several of the assertions in this definition. 
 
 [Interested in Information Theory?](http://www.businessdictionary.com/definition/information-theory.html)
 
-Let’s be clear: **Data that can be measured and put into context leads to information, which facilitates decision making.** Data and information are not the same thing. We will look at the distinction in some detail in Chapter 2. 
+Let’s be clear: **Data that can be measured and put into context leads to information, which facilitates decision making.** Moreover, **data and information are not the same thing.** We will look at the distinction in some detail in Chapter 2. 
 
-Finally, it is categorically *not* necessary for information to lead to change. Information leads to decisions, which are binary by nature. One of the two possibilities when informed about something is the decision *to do nothing!* And that’s perfectly fine. Maybe that’s the right decision.
+Finally, it is categorically *not* necessary for information to lead to change. Information leads to decisions, which are binary by nature. One of the two possibilities when informed about something is the decision *to do nothing!* And that’s perfectly fine. Maybe that’s the right decision. *Ergo* information does not always result in change. But it always results in the *potential* for change, if change is the right decision. 
 
 Now we're getting somewhere.
 
