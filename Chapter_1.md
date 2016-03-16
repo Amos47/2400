@@ -315,14 +315,14 @@ The Visual Thesaurus defines *information*, in conjunction with the visual above
 1.	A message received and understood [YES]
 2.	Knowledge acquired through study or experience or instruction [YES]
 3.	A collection of facts from which conclusions may be drawn [PROBABLY]
-4.	The psychological result of perception and learning and reasoning [MAYBE]
+4.	The psychological result of perception and learning and reasoning [YES]
 5.	In communication theory, a numerical measure of the uncertainty of an outcome [MAYBE] 
 
-We need some unpacking here. In the [square brackets] at the end of each definition of information above, I have added my little editorial comment. Information can *clearly* be characterised as *received and understood* as understanding assumes that not only the content but the context of the message, it's meaning and its intent have all been synthesised. If something is *understood* then the *context* is rich enough to allow a decision to be made based on the *content*. Data alone cannot do this.
+We need some unpacking here. In the [square brackets] at the end of each definition of information above, I have added my little editorial comment. Information can *clearly* be characterised as *received and understood* as understanding assumes that not only the content but also the context of the message, it's meaning and its intent have all been synthesised. If something is *understood* then the *context* is rich enough to allow a decision to be made based on the *content*. Data alone cannot do this.
 
 The second and fourth definitions are acceptable, on the whole, especially, as we will see, as they relate to *experience and learning from experience*. More to come on this.
 
-The third definition is shading into murky territory. A collection of facts, in and of itself, cannot afford a conclusion. That is the domain of information. The facts might well form a context from which information can arise, but alone, no.
+The third definition is shading into murky territory. A collection of facts, in and of itself, cannot afford a conclusion. That is the domain of information. The facts might well form a context from which information can arise, but alone, no. Thus number three is not precise enough. 
 
 The fifth definition as it applies to *entropy* is dealt with in detail in Chapter 2.  
 
