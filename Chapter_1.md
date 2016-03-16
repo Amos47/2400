@@ -300,9 +300,9 @@ Any and all mathematical operation can be done using such data. It is the highes
 
 #### Synopsis
 
-Data is not information, and neither is informatio, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics efforts.
+Data is not information, and neither is information, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics efforts.
 
-We now more on to a discussion of what information is. this is where it gets good.
+We now more on to a discussion of what information is. This is where it gets good.
 
 ### Information
 
@@ -310,15 +310,15 @@ We now more on to a discussion of what information is. this is where it gets goo
 
 ![visualthesaurus.com Definition of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_info.PNG)
 
-The Visual Thesaurus defines information, in conjunction with the visual above and ignoring the definitions pertaining strictly to the study or administration of justice and the law (with apologies to LJ), as:
+The Visual Thesaurus defines *information*, in conjunction with the visual above and ignoring the definitions pertaining strictly to the study or administration of justice and the law (with apologies to LJ), as:
 
 1.	A message received and understood [YES]
 2.	Knowledge acquired through study or experience or instruction [YES]
-3.	A collection of facts from which conclusions may be drawn [MAYBE]
+3.	A collection of facts from which conclusions may be drawn [PROBABLY]
 4.	The psychological result of perception and learning and reasoning [MAYBE]
 5.	In communication theory, a numerical measure of the uncertainty of an outcome [MAYBE] 
 
-We need some unpacking here. In the [square brackets] at the end of each definition of information above, I have added my little editorial comment about whether or not I agree with the characterisation. Information can *clearly* be characterised as *received and understood* as understanding assumes that the context of the message, it's meaning and its intent has been synthesised. If something is *understood* then the *context* is rich enough to allow a decision to be made based on the *content*. Data alone cannot do this.
+We need some unpacking here. In the [square brackets] at the end of each definition of information above, I have added my little editorial comment. Information can *clearly* be characterised as *received and understood* as understanding assumes that not only the content but the context of the message, it's meaning and its intent have all been synthesised. If something is *understood* then the *context* is rich enough to allow a decision to be made based on the *content*. Data alone cannot do this.
 
 The second and fourth definitions are acceptable, on the whole, especially, as we will see, as they relate to *experience and learning from experience*. More to come on this.
 
