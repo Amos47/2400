@@ -349,13 +349,15 @@ Now we're getting somewhere.
 
 [Interested?](http://www.businessdictionary.com/definition/information.html) 
 
+Let's move on to knowledge. 
+
 ### Knowledge
 
 **Figure KS. Definition of knowledge (know) from Visual Thesaurus**
 
 ![visualthesaurus.com Definition of know](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_know.PNG)
 
-How about knowledge? The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") cogently defines *know* (a richer context is provided than if we asked for a definition of knowledge) as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to *know something* since it refers to a "psychological result." Pity...  
+The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") cogently defines *know* (a richer context is provided than if we asked for a definition of knowledge) as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to *know something* since it refers to a "psychological result." Pity...  
 
 But let's look at this visual for a second. Note how rich it is. Note how many nodes are of interest to us here. 
 
