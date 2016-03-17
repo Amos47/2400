@@ -398,7 +398,7 @@ We can further examine a subset of what [dictionary.com](http://dictionary.refer
 6. Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
 7. Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.
 
-Now isn't that interesting, the Biology parts? That's exactly what we are saying about *Information*. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. Indeed a website article we will examine in depth in Chapter 2 on *Liquid Information* offers on the [history of information]((http://www.liquidinformation.org/information_history.html) "History of info from liquid information") that as life appeared on earth it required “[…] storing information about how to replicate something, how to replicate itself. Information now served a purpose...”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. 
+Now isn't that interesting, the Biology parts? That's exactly what we are saying about *Information*. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. Indeed a website article we will examine in depth in Chapter 2 on *Liquid Information* offers on the [history of information]((http://www.liquidinformation.org/information_history.html) that as life appeared on earth it required “[...] storing information about how to replicate something, how to replicate itself. Information now served a purpose...”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. 
 
 Thus communication allows humans to fulfil their only real purpose on this planet: to remain on this planet. Too contentious for a business course in ICT? Expand your horizons. Read lots. Think lots. Then we can talk.  
 
@@ -415,7 +415,7 @@ An excellent introduction to the history of communication is available in Wikipe
 [Interested?](https://en.wikipedia.org/wiki/History_of_communication)
 
 **Flesh this out:**
-Here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world . Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
+Here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world. Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
 
 And here is an interactive map of the [submarine cables](http://www.submarinecablemap.com/) in the world. Why is this important? [Interested?](http://www.cbc.ca/news/technology/submarine-cables-explainer-1.3289954)
 
