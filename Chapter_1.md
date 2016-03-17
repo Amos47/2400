@@ -361,9 +361,9 @@ The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") cogen
 
 But let's look at this visual for a second. Note how rich it is. Note how many nodes are of interest to us here. 
 
-Next let's look at what our Business Dictionary source offers for the definition of *knowledge*. Their first definition is what we are looking for and here it is:
+Next let's look at what our Business Dictionary source offers for the definition of *knowledge*. Their general definition fits our needs:
 
-"General: Human faculty resulting from interpreted information; understanding that germinates from [the] combination of data, information, experience, and individual interpretation. Variously defined as, "Things that are held to be true in a given context and that drive us to action if there were no impediments" (Andre Boudreau). "Capacity to act" (Karl Sweiby). "Justified true belief that increases an entity's capacity for effective action" (Nonaka and Takeuchi). "The perception of the agreement or disagreement of two ideas" (John Locke). In an organizational context, knowledge is the sum of what is known and resides in the intelligence and the competence of people. In recent years, knowledge has come to be recognized as a factor of production (see knowledge capital) in its own right, and distinct from labor."
+"Human faculty resulting from interpreted information; understanding that germinates from [the] combination of data, information, experience, and individual interpretation. Variously defined as, "Things that are held to be true in a given context and that drive us to action if there were no impediments" (Andre Boudreau). "Capacity to act" (Karl Sweiby). "Justified true belief that increases an entity's capacity for effective action" (Nonaka and Takeuchi). "The perception of the agreement or disagreement of two ideas" (John Locke). In an organizational context, knowledge is the sum of what is known and resides in the intelligence and the competence of people. In recent years, knowledge has come to be recognized as a factor of production (see knowledge capital) in its own right, and distinct from labor."
 
 [Interested?](http://www.businessdictionary.com/definition/knowledge.html)
 
