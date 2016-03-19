@@ -334,7 +334,7 @@ Thus Weiner is our man. We care both *that* messaging is occurring and *what* is
 [Interested?]( http://www.kerryr.net/pioneers/shannon.htm)
 
 ####Takeaways
-Business requires careful planning of its data gathering efforts in order to collect clean, precise and intelligible data that covers its business intelligence needs. Data Scientists, Information and Data Architects and others are tasked with desiging data-=gathering regimes to allow for data to be turned into actionalbe information that will drive decisions and reduce error around predicted outcomes. 
+Business requires careful planning of its data gathering efforts in order to collect clean, precise and intelligible data that covers its business intelligence needs. Data Scientists, Information and Data Architects and others are tasked with desiging data-gathering regimes to allow for data to be turned into actionalbe information that will drive decisions and reduce error around predicted outcomes. Business needs clean, non-noisy data and it's not an easy task to engineer it. 
 
 ### The five faces of information
 Below is an infographic of sorts, showing the five faces of information. The faces and their characteristics are from a (highly recommended) 2012 book by Joel Katz entitled *Designing Information: Human factor and common sense in design* (2012, John Wiley & Sons).  
