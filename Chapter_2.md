@@ -271,7 +271,7 @@ This all leads to thinking about how to think about information, and for this, w
 
 Our business dictionary defines Information Theory as: "Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the 'meaning' of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception."
 
-[[Interested?](http://www.businessdictionary.com/definition/information-theory.html)]
+[Interested?](http://www.businessdictionary.com/definition/information-theory.html)
 
 To really understand Shannon and Weaver (and a guy named Weiner), we need to look a little more deeply into the theory of information.
 
@@ -289,9 +289,9 @@ The author continues. “The double notions of information as both facts and com
 
 "Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...] "The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation. [...]
 
-Thus *entropy* = *disorganisation* = *information*. How odd. How can *dis*organisation yield more *information*? It is because *disorganisation* can produce richer interpretation in that it allows for various different conclusions about the actual message or meaning of the data. BUt this disorganisation is the enemy of tactical decision making. The process of organising information reduces *dis*organisation in that superfluous elements (not related to a particular context, for example) are removed, yielding more targeted and focused data. 
+Thus *entropy* = *disorganisation* = *information*. How odd. How can *dis*organisation yield more *information*? It is because *disorganisation* can produce richer interpretation in that it allows for various different conclusions about the actual message or meaning of the data. But this disorganisation is the enemy of tactical decision making. The process of organising information reduces *dis*organisation in that superfluous elements (not related to a particular context, for example) are removed, yielding more targeted and focused data. 
 
-We can also easily imagine how this notion jives with our contention that systems only add value if they either reduce input or augment output. The more parsimonious we are in architecting our data for specific purposes, the less input will be required in any specific context. Thus thinking about data is important, and planning its collection, storage and retrieval is pivotal to efficiency. Think of this as a geologist would inasmuch as more pure ore makes it easier to produce steel - there is less to discard. Or the more pure and clean a cell transmission is, the better understanding of the conversation in context.  
+We can also easily imagine how this notion jives with our contention that systems only add value if they either reduce input or augment output. The more parsimonious we are in architecting our data for specific purposes, the less input will be required in any specific context. Thus thinking about data is important, and planning its collection, storage and retrieval is pivotal to efficiency. Think of this as a geologist would inasmuch as more pure ore makes it easier to produce steel - there is less to discard. Or the more pure and clean a cell transmission is, the better our understanding of the conversation.  
 
 "What is information and how is it measured? Wiener defines it as a probability: One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations." (article author’s bold)
 
@@ -317,7 +317,7 @@ Here comes the contradiction...
 
 “There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a 'structured piece of the world', Shannon's information is the same as (positive) entropy. This makes Shannon's ‘information’ the opposite of Wiener's ‘information’."
 
-For Shannon, the content of a message (which he calls *information* but which I call *potential* information or simply *data*) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in *that* a message was sent and not *what* message was sent. Shannon did not care *what* people were talking about on the phone but only *that* they were talking. The volume of data transmitted was more important than the actual content. 
+For Shannon, the content of a message (which he calls *information* but which I call *potential* information or simply *data*) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in *that* data was sent and not *what* data was sent. Shannon did not care *what* people were talking about on the phone but only *that* they were talking. The volume of data transmitted was more important than the actual content. 
 
 And this makes sense if you think about it, from the point of view of a telephone conversation. Imagine you are in a phone call. In the background, you have music playing loudly enough for the other party to hear. While the music is not part of the conversation, *per se*, it becomes an element of the message being sent from you to the other party. It’s background and contributes to the richness of the signal.
 
@@ -332,6 +332,9 @@ Entropy is the friend of *data volume* but the enemy of good *decision making*. 
 Thus Weiner is our man. We care both *that* messaging is occurring and *what* is being messaged. But Shannon was an inspiring academic. You’ll see reference to him in the section on ASCII. 
 
 [Interested?]( http://www.kerryr.net/pioneers/shannon.htm)
+
+####Takeaways
+Business requires careful planning of its data gathering efforts in order to collect clean, precise and intelligible data that covers its business intelligence needs. Data Scientists, Information and Data Architects and others are tasked with desiging data-=gathering regimes to allow for data to be turned into actionalbe information that will drive decisions and reduce error around predicted outcomes. 
 
 ### The five faces of information
 Below is an infographic of sorts, showing the five faces of information. The faces and their characteristics are from a (highly recommended) 2012 book by Joel Katz entitled *Designing Information: Human factor and common sense in design* (2012, John Wiley & Sons).  
