@@ -43,7 +43,7 @@ We will endeavour to hit ACM proclamations 1, 2 and 3 3 *very* hard, but 4 and 5
 With the formalities out of the way, there are four important pillars upon which we will focus in this opening chapter. They form the basis of all subsequent discussion throughout this text. They are:
 
 1. Are we talking data, information or knowledge?
-2. Is what we are examining a tangible or an intangible? REMOVE AS PILLAR. 
+2. Is what we are examining a tangible or an intangible?
 3. Does this (technology/service/data/etc.) either shrink input or grow output or both?
 4. Does this product/service/technology or strategy lead to a sustainable competitive advantage?
 
@@ -67,7 +67,7 @@ From that point on, we have, as a species, become all about communication. There
 
 So only something that is *useful* can be called information. Now that's a bold statement. Our task then becomes to discover what *useful* means. I will argue that useful has to do with either causing change or persisting the *status quo*. Decision and action cause either change or persistence (the absence of change when change *could* occur). Please stay for the show. 
 
-Right up front let's get clear on something. **Wikipedia cannot be used to do science any more than an encyclopaedia or my mother's grand Irish sayings.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof for my proposed theories; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
+Right up front let's get clear on something. **Wikipedia cannot be used to do science any more than an encyclopaedia or my mother's grand Irish sayings.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
 
 That said, Wikipedia has this to say on the topic: 
 
@@ -77,7 +77,7 @@ I have a couple of comments on these web musings. To begin, the assertion regard
 
 The Wikipedia article goes on that “If, however, the premise of 'influence' implies that information has been perceived by a conscious mind and also interpreted by it, the specific context associated with this interpretation may cause the transformation of the information into knowledge.” This is where you and I come in. We are the interpreters. The article continues that “Complex definitions of both 'information' and 'knowledge' make such semantic and logical analysis difficult, but the condition of 'transformation' is an important point in the study of information as it relates to knowledge.”
 
-NO need to fully digest of understand this just yet. We will spend some time on such transformation and why it’s important for business. 
+No need to fully digest of understand this just yet. We will spend some time on such transformation and why it’s important for business. 
 
 The article maintains that: “In this practice, tools and processes are used to assist a knowledge worker in performing research and making decisions, including steps such as [my comments in parens]:
 
@@ -96,7 +96,7 @@ Well you can't get any more impactful that that. Knowledge creation from informa
 ### The data, information and knowledge hierarchy
 To begin, when studying Information Systems (or the broader term that I prefer - *Information and Communication Technology* or *ICT*), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the **Big Three** of *data, information* and *knowledge*. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.
 
-Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and _Wisdom_ hierarchy. There are problems with this particular characterisation so instead, I describe the Data, Information and Knowledge hierarchy here. 
+Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation (see the Interested? link below] so instead, I describe here the simpler *Data, Information and Knowledge* hierarchy. 
 
 [Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
 
@@ -135,7 +135,7 @@ Now consider the second case. All are clustered in one spot AND two of the attem
 
 *Source: [Wikipedia accuracy and precision](http://en.wikipedia.org/wiki/Accuracy_and_precision). Image sources: Credit DarkEvil (public domain)*
 
-This might clear up some of the confusion: "According to ISO 5725-1, the general term *accuracy* is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same _measurand_ [see this reference to understand the term *measurand*](http://en.wiktionary.org/wiki/measurand), it involves a component of random error and a component of systematic error. In this case *trueness* is the closeness of the mean of a set of measurement results to the actual (true) value and *precision* is the closeness of agreement among a set of results." 
+This might clear up some of the confusion: "According to ISO 5725-1, the general term *accuracy* is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same *measurand* [see this reference to understand the term *measurand*](http://en.wiktionary.org/wiki/measurand), it involves a component of random error and a component of systematic error. In this case *trueness* is the closeness of the mean of a set of measurement results to the actual (true) value and *precision* is the closeness of agreement among a set of results." 
 
 **Figure SR. Precision and trueness of measurement**
 
