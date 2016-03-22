@@ -25,6 +25,10 @@ Opposite of tangible. Difficult to touch, sense or measure.
 
 Frugal; stingy; careful.
 
+## proxy
+
+Something or someone that stands in the place of the original, which is unavailable or unmeasurable for whatever reason. 
+
 ## requirements
 
 What systems are expected to accomplish. What the party requesting the system needs the system to do. 
@@ -53,6 +57,6 @@ Transaction Processing System. Low-level data (such as sales transactions, accou
 
 Stirred up; opaque; difficult to see through.
 
-## proxy
+## ubiquitous
 
-Something or someone that stands in the place of the original, which is unavailable or unmeasurable for whatever reason. 
+Being or appearing to be everywhere all the time.
