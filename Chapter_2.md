@@ -494,31 +494,31 @@ The four reds are, for certain, red. The normally-sighted would have no trouble 
 
 Imagine now, sensing the difference between an RGB value of 255, 0, 0 and 254.5460274, 0, 0. Only in the most exacting and demanding of scientific or engineering contexts would such a difference be important (you see the use of *context* here as a *situation* in which certain things, such as precision, are critical). In 99.999999999999999% of cases where the two were compared, it would make no difference. We can *model* the analog nature of nature and get a *good enough* representation on a digital scale. 
 
-let's look at this a different way. First of all, try with all your might to not scroll down more than one image at a time so that the *reveal* can be properly done. Take a look at the image in Figure AGST1 below:
+let's look at this a different way. First of all, try with all your might to not scroll down more than one image at a time below so that the *reveal* can be properly done. Take a look at the image in Figure AGST1 below:
 
 **Figure AGST1. Maximum pixilation**
 
 ![Maximum pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_25.png)
 
-Can you decipher anything about it? Other than some basic colours, it's pretty difficult to say what the image represents. Below, the image will increasingly come into focus with each subsequent graphic.
+Can you decipher anything about it? Other than some basic colours, it's pretty difficult to say what the image represents. Below, the image will increasingly come into focus with each subsequent figure.
 
 **Figure AGST2. Reduced pixilation**
 
 ![Level 4 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_20.png)
 
-Is this one any more helpful? There are some slight clues, but really, there's not enough data here to allow for a definitive choice between a potato or a camel at rest. Which is it?
+Is this one any more helpful? There are some slight clues, but really, there's not enough data here to allow for a definitive choice between a deformed potato or a camel at rest. Which is it?
 
 **Figure AGST3. Reduced pixilation**
 
 ![Level 3 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_15.png)
 
-Here you might be starting to get an idea of what the image represents. The head is becoming discernable and the eyes are clearly seen.
+Here you might be starting to get an idea of what the image represents. A head is perhaps discernable if those black patches are eyes. Could well be an animal, but which animal and in what orientation to the horizon?
 
 **Figure AGST4. Reduced pixilation**
 
 ![Level 2 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_10.png)
 
-Figure AGST4 is lilely good enough for most applications. Perhaps if you were the pet owner, you'd want a better resolution in order to be able to decide if it was actually your pet or a similarly-coloured one. But in general, this resolution is *good enough* for most purposes.
+Figure AGST4 is lilely good enough for most applications. Perhaps if you were the pet owner, you'd want a better resolution in order to be able to decide if it was actually *your* pet or a similarly-coloured one. But in general, this resolution is *good enough* for most purposes.
 
 **Figure AGST5. Reduced pixilation**
 
@@ -532,9 +532,9 @@ Sharper still, this image is almost at a resolution where it's not necessary to 
 
 Figure AGST6 above is the original image. 
 
-Photo credit: https://sites.psu.edu/siowfa15/2015/10/21/cats-and-their-magic-power/
+*Photo credit: https://sites.psu.edu/siowfa15/2015/10/21/cats-and-their-magic-power/*
 
-This little exercise is pertinent to our discussion of level of measurement in Chapter 1, to the treatment of just-noticeable difference in this chapter, and will be revisited when we discuss *granularity* in a subsequent Chapter 3. Thus the notion of *resolution* or *fidelity* or *granularity* is important in the study of information systems. It's a matter of having the right amount of data in order to make decisions. 
+This little exercise is pertinent not only to our discussion of just-noticeable difference in this chapter, but also to our treatment of level of measurement in Chapter 1. It will be revisited when we discuss *granularity* in Chapter 3. Thus the notion of *resolution* or *fidelity* or *granularity* is important in the study of information systems. It's a matter of having the right amount of data in order to make decisions. 
 
 I’m hoping that by this point you are starting to see the light. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the *real thing* and the binary/digital representation of it such that, well, it doesn’t matter at all. Witness Apple’s *retina display* which Apple claims to be so close to analog that our retinae are incapable of discerning anything finer. We can’t tell the difference. And that means it's good enough.
 
