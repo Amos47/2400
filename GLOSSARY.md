@@ -1,5 +1,9 @@
 # Glossary
 
+## asynchronous
+
+Not at the same time.
+
 ## bluetooth
 
 According to Google: "Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[4]) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994,[5] it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization"
@@ -61,6 +65,6 @@ Stirred up; opaque; difficult to see through.
 
 Being or appearing to be everywhere all the time.
 
-## asynchronous
+## viz
 
-Not at the same time.
+The abbreviation viz. (also rendered viz without a full stop) and the adverb videlicet  are used as synonyms for "namely", "that is to say", and "as follows". Viz is usually read aloud as "that is", "namely", or "to wit", but is sometimes pronounced as it is spelt, viz. (https://en.wikipedia.org/wiki/Viz.)
