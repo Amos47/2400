@@ -146,6 +146,8 @@ The final decision type is the hybrid, *Semi-structured Decision*. Such decision
 
 Note the correspondence between type of work and type of decision. Knowledge work is inherently unstructured, involving the synthesis of various sources and the exercise of judgment involving *tacit* knowledge. Tacit knowledge is differentiated from *explicit* knowledge in that the former is knowledge that comes from experience and wisdom, whereas the latter is codified, rules-based and written down. A CEO often operates on *gut instinct*. This is tacit knowledge. A transaction processing system has no gut feelings. In fact, it has no gut at all. They follow ridged rules. 
 
+**TAKE THIS ^^^ BACK TO THE KNOWLEDGE-ACQUISITION FRAMEWORK IN CHAPTER 1**
+
 #### Organisational levels - Taking the hill
 In considering organisational levels, we need to talk about how stuff gets done; about what strategy is and how a strategic direction gets set and translated into actionable directives in an organisation. 
 
