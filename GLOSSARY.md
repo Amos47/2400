@@ -60,3 +60,7 @@ Stirred up; opaque; difficult to see through.
 ## ubiquitous
 
 Being or appearing to be everywhere all the time.
+
+## asynchronous
+
+Not at the same time.
