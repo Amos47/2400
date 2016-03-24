@@ -484,7 +484,7 @@ Careful reading of this passage reveals that we are firmly and irrevocably in wh
 
 And of course by "man" the author meant "man and woman" when he (I assume) wrote this piece. Silly rabbit. 
 
-Though the paper is a little dated (published in 2000), it remains quite viable today. A clever metric is reproduced below wherein the physical weight of certain commodities is expressed in terms of their cost in USD. It’s surprising.
+Though the paper is a little dated (published in 2000), it remains valid today. A clever metric is reproduced below wherein the physical weight of certain commodities is expressed in terms of their cost in USD. It’s surprising.
 
 **Figure LAJ. Comparison of price per pound for manufactured goods in different classes**
 
@@ -498,7 +498,7 @@ What’s the point of this? It is to demonstrate the shift to what LSE professor
 
 [Interested?]( http://www.davies.com.au/ip-news/the-future-of-manufacturing-embracing-intangible-assets)
 
-In case you were thinking that this is a strictly western, developed economy phenomenon, take a look at the infographic below from *The Globe and Mail* (Saturday, August 15, 2015 citing the World Bank as the data source) which accompanied an article entitled *China's New Economic Reality."  Ignoring the image of the Chinese currency between the two lines, we clearly see that the red *services* line, separated by miles from the grey *industry* line in 1981, has recently crossed above the heavy industry contribution to China's GDP. The times they are a changing, indeed. 
+In case you were thinking that this is a strictly western, developed economy phenomenon, take a look at the infographic below from *The Globe and Mail* (Saturday, August 15, 2015 citing the World Bank as the data source) which accompanied an article entitled *China's New Economic Reality.*" Ignoring the image of the Chinese currency between the two lines, we clearly see that the red *services* line, separated by miles from the grey *industry* line in 1981, has recently crossed above the heavy industry contribution to China's GDP. The times they are a changing, indeed. 
 
 **Figure LJP. Contribution of industry vs. services to China's GDP, 1981 to 2015**
 
