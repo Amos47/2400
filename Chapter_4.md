@@ -424,10 +424,9 @@ As a final note, IMC provides type of work all the way up to Knowledge, includin
 [Interested in a slide show on IMC?](http://public.brighttalk.com/resource/core/73977/july_21_too_much_data_nrayner_109065.pdf)
 
 ### The sideways view
-Let's take the horizontal view of the big picture that is Figure JL and focus on the three numbered ovals running horizontally across all the vertical dimensions. First, let's bring back Figure JL for a refresher.
+Let's take the horizontal view of the big picture that is Figure JL and focus on the three numbered ovals running horizontally across all the vertical dimensions. First, let's bring back Figure JL for a refresher. Take note of the numbers 1, 2 and 3 at the far right, corresponding to the three large horizontal ovals in the diagram. It is to these three ovals that the discussion now turns. 
 
 **Figure JL. The big picture (redux)**
-
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/big_picture.png)
 
 Oval number 1 runs across the bottom and encompasses functions and roles and systems that deal predominantly with the measurement and collection/storage of highly granular data, using systems that are low cost and complexity. Decisions at this level of the organisation are highly structured (algorithmic) and are overwhelmingly concerned with matters operational in the firm. The dominant system at this level of the organisation is the TPS. Note finally that increasingly, these tasks are being performed by machines. This is the future of such work - increasingly automated. Stay in school. 
