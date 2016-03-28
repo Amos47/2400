@@ -648,6 +648,7 @@ The source at the Interested link above has this to say about KM (accessed March
 
 We next tackle the feedback piece and talk about the synthesis of new with existing knowledge and how it washes back over new and unique contexts to become input to the next set of decisions.
 
+This needs to be done! Get on it (TK)
 
 ### And finally, the rapidly declining cost of computing
 
