@@ -1,15 +1,22 @@
 # Chapter 2
-### In which we dig in a little deeper
+### In which we dig a little deeper
 
 ## Context
 
 The 6 Ts of Context =
+
 Time (this makes every context unique) +
+
 Terroir (Place) +
+
 ======== above are implied in context, all are mix 'n' match ========
+
 Tools +
+
 Task (formerly Trajectory but could be Target) +
+
 Trail (History) +
+
 Team (decision-making entities present - maybe Troupe?) 
 
 Consider our current situation. The fact that we are here right now makes this unique. There will never be another now with all of us at this place at our current age with our current knowledge in our current state of being. We can never relive the seconds that are passing by right now. This context is not reproducible. So time is the most basic determinant of context. 
