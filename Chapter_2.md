@@ -638,7 +638,7 @@ ICT can also execute decisions (take action) as a consequence of human intervent
 
 Moving to the right in Figure LLJJ, we encounter the work of ICT in sensing and storing the results of the actions executed by human and beast. This is **Area 7.** In this realm, ICT can both sense the results of actions and store those results for further analysis. At any juncture, as with any other activity undertaken by ICT, systems can report on their activities. To whom they report is a critical aspect of privacy. We will deal with this elsewhere in this manuscript. 
 
-Moving again to the right in Figure LLJJ, we again encounter the impact of ICT on the Data and Information entities. This is **Area 8 and 9.** Here the actions and impacts are the same as in our previous discussion of data and information creating in context so we won’t belabour them again here. 
+Moving again to the right in Figure LLJJ, we again encounter the impact of ICT on the Data and Information entities. This is **Area 8 and 9.** Here the actions and impacts are the same as in our previous discussion of data and information creating in context (Areas 2 and 3) so we won’t belabour them again here. 
 
 We come finally to the Knowledge component of Figure LLJJ. This is **Area 10.** Here we find the culmination of the process of acquiring knowledge from measurement of data. This represents the ultimate human activity – the creation of order and reason out of action. ICT assists in many of the components of this activity, beginning with analysis of the stream of information emanating from the process. ICT can analyse existing knowledge as well as synthesise new and existing knowledge into unique nuggets of new information. Then it can manage, store and report on such knowledge.  
 
