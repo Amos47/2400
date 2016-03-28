@@ -494,7 +494,7 @@ The four reds are, for certain, red. The normally-sighted would have no trouble 
 
 Imagine now, sensing the difference between an RGB value of 255, 0, 0 and 254.5460274, 0, 0. Only in the most exacting and demanding of scientific or engineering contexts would such a difference be important (you see the use of *context* here as a *situation* in which certain things, such as precision, are critical). In 99.999999999999999% of cases where the two were compared, it would make no difference. We can *model* the analog nature of nature and get a *good enough* representation on a digital scale. 
 
-Let's look at this a different way. First of all, try with all your might to not scroll down more than one image at a time below so that the *reveal* can be properly done. Take a look at the image in Figure AGST1 below:
+Let's look at this a different way. First of all, try with all your might not to scroll down more than one image at a time below so that the *reveal* can be properly done. Take a look at the image in Figure AGST1 below:
 
 **Figure AGST1. Maximum pixilation**
 
@@ -518,7 +518,7 @@ Here you might be starting to get an idea of what the image represents. A head i
 
 ![Level 2 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_10.png)
 
-Figure AGST4 is lilely good enough for most applications. Perhaps if you were the pet owner, you'd want a better resolution in order to be able to decide if it was actually *your* pet or a similarly-coloured one. But in general, this resolution is *good enough* for most purposes.
+Figure AGST4 is lilely good enough for most applications. Perhaps if you were the pet owner, you'd want a better resolution in order to be able to decide if it was actually *your* cat or a similarly-sized and -coloured one. But in general, this resolution is *good enough* for most purposes. We don't need, except in very specific contexts, to spend the resources to reporduce an exact image of this kitten. It's already *good enough*. 
 
 **Figure AGST5. Reduced pixilation**
 
