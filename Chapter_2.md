@@ -640,9 +640,11 @@ Moving to the right in Figure LLJJ, we encounter the work of ICT in sensing and 
 
 Moving again to the right in Figure LLJJ, we again encounter the impact of ICT on the Data and Information entities. This is **Area 8 and 9.** Here the actions and impacts are the same as in our previous discussion of data and information creating in context (Areas 2 and 3) so we won’t belabour them again here. 
 
-We come finally to the Knowledge component of Figure LLJJ. This is **Area 10.** Here we find the culmination of the process of acquiring knowledge from measurement of data. This represents the ultimate human activity – the creation of order and reason out of action. ICT assists in many of the components of this activity, beginning with analysis of the stream of information emanating from the process. ICT can analyse existing knowledge as well as synthesise new and existing knowledge into unique nuggets of new information. Then it can manage, store and report on such knowledge.  
+We come finally to the Knowledge component of Figure LLJJ. This is **Area 10.** Here we find the culmination of the process of acquiring knowledge from measurement of data. This represents the ultimate human activity – the creation of order and reason out of action. ICT assists in many of the components of this activity, beginning with analysis of the stream of information emanating from the process. ICT can analyse existing knowledge as well as synthesise new and existing knowledge into unique nuggets of new information. Then it can manage, store and report on such knowledge. These latter processes are accomplished by Knowledge Management Systems (KMS).
 
-Maybe give some examples here? 
+[Interested?](http://www.knowledge-management-tools.net/)
+
+The source at the Interested link above has this to say about KM (accessed March 28, 2016): *"Knowledge management is essentially about getting the right knowledge to the right person at the right time. This in itself may not seem so complex, but it implies a strong tie to corporate strategy, understanding of where and in what forms knowledge exists, creating processes that span organizational functions, and ensuring that initiatives are accepted and supported by organizational members. Knowledge management may also include new knowledge creation, or it may solely focus on knowledge sharing, storage, and refinement."*
 
 We next tackle the feedback piece and talk about the synthesis of new with existing knowledge and how it washes back over new and unique contexts to become input to the next set of decisions.
 
