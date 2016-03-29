@@ -130,7 +130,7 @@ The important concepts were **bolded** in the definitions above by me. Let’s l
 
 ##The 6 Ts of Context
 
-**Table SSHA. THe components of context**
+**Table SSHA. The components of context**
 
 | **Item name** | **Short description** | **Comments** |
 | :-: | :- | :- | 
