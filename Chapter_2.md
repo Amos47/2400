@@ -3,44 +3,6 @@
 
 ## Context
 
-The 6 Ts of Context =
-
-Time (this makes every context unique) +
-
-Terroir (Place) +
-
-======== above are implied in context, all are mix 'n' match ========
-
-Tools +
-
-Task (formerly Trajectory but could be Target) +
-
-Trail (History) +
-
-Team (decision-making entities present - maybe Troupe?) 
-
-Consider our current situation. The fact that we are here right now makes this unique. There will never be another now with all of us at this place at our current age with our current knowledge in our current state of being. We can never relive the seconds that are passing by right now. This context is not reproducible. So time is the most basic determinant of context. 
-
-Beyond the ticking of time, is there smtg unique about the periodicity of our meetings here? We (but "we" changes week to week and indeed minute to minute as ppl come and go - see Team) meet every (whatever day at whatever time for roughly 3 hours) for 13 weeks in the same place except for one week sometime in the middle then some of us (along with many others in a different venue - see Terroir) will meet later (at the exam which is a different context) and then never, ever again will we all be together in the same place (except maybe at convocation which is a different Terroir and a different Time and a different context with a different Team). Yet we intrinsically understand this fairly loose grouping to be something beyond its mere constituent parts. We understand this as a class. We know what happens here. We know how this works. If you or almost anyone else in advanced society walking by and seeing this scene would intrinsically know what was happening here. We share massive exformation about this context. But could we have a class that met on a random schedule for a variable length of time in a random location and wouldn't it still be a class? If so, then what is the essence of this thing called class? What's important is that we are in the same place at the same time. So THE place isn't important but A place is. So what's important is Team. And there must be 2 or more deciders present. And one must be the teacher or leader. This implies Tools. The leader must have the right tools. And knowledge is a tool. Also Time is critical. We must be present same time = synchronous. But now Terroir can be virtual. We can be "present" via technology so the network becomes the Terroir. We need to argue about whether this is the same context. Is a virtual context the same? 
-
-We will not consider asynchronous teaching to be the classroom context because canned, watch-at-your-leisure instruction is not the same as the classroom context where the value is at least partly derived from togetherness. 
-
-But imagine a machine trying to figure out the context of our little get-togethers. How would we quantify (digitise) this experience such that a machine could "learn" how to recognise this context? There are several approaches to this dilemma, but the resolution is to recognise when enough information (term used advisedly) has been provided such that more provides no additional ROI. We need to know when the machine has learned enuf such that it can mimic our own accuracy in creating the context. At what point is it "good enough?" How is it to contextualise the data that flows into this classroom context? 
-
-Next let's consider Terroir (or place). Terroir is the term that winemakers use to distinguish one wine from another even when a wine is made from the same grape and maybe even by the same winemaker but in a different place and time. Vintners maintain that the specifics of the soil (from where the term originates - the English word 'earth' is 'terre' in French) and rain and temperature and exact light conditions create a specific wine that could never occur at any other but this intersection of those characteristics. So in a very real sense, a particular vintage of wine is the embodiment of context. So the importance of Terroir is established. 
-
-Tools refers to the toolkit which we have available at the time of the occurrence of the context which we use to dissect and analyse the situation and interpret/create the context. A icrsoscope is a tool, as is a telescope and a thermometer. A more familiar to business students tool might be a financial or a Porter's Five Forces analysis. Tools all.     
- 
-Much later. What is interesting about the 6 Ts is that it is not necessary to consider each or all of them in determining a context. Sometimes only two or three are necessary to establish context. Sometimes all are necessary. But consider that there must be two at least? Need two to frame a context? Does terroir and tools make a context? Is Time implied? Place? Team? Team is defined as 'one or more decision-capable entities'. At least one must be present. Time and Terroir are implied. But not all are important. While time and terroir are always present, they might not be critical for context. Same with the others. 
-
-Make arguments about necessity versus sufficiency in terms of which Ts constitute a context. 
-
-Is task or target necessary? I say yes. Our life is the constant movement towards deciding whether and how to change course to reach a goal. That goal is survival and nothing else. Organisation or individual, the goal is the same. We are always on the road to determining when a decision needs to be made because the universe is in constant flux and these changes throw up barriers to survival. So the accumulation of knowledge involves making decisions and observing the outcomes in order to shrink the error around future decisions. Ppl get really good at it with time - it's called experience. That's why we write books; to use our experience to reduce error for those navigating the path behind us. And maybe to have just a little of who we are, survive. 
-
-The opposite of context is vacuum. Physical scientists use vacuum to examine the effects of one thing on another in complete isolation of other contextual influences. It's an artificial environment. 
-
---
-
 We begin this chapter by stating unequivocally that computers have historically done a lousy job with *context*. They have been unable to understand, process and make sense of the nuanced detail of our lives and our interactions with each other and with our environment. Why? Because they have struggled with *knowledge*. They have struggled to *learn* in the way that humans learn. They have not been able to generalise either from the specific to the general or from the general to the specific. They have been unable to observe a piece of art and decide if they *like* it or not or even, until very recently, to quantify its characteristics. They struggle with deciding if a painting were a Picasso, a Monet or a Da Vinci. 
 
 Those kind of tasks -- appreciating beauty, creating music, writing poetry -- have been left to humans because computers lacked the ability to create and appreciate *context*. They can’t see the *bigger picture*. All this is changing. Read on.
@@ -165,6 +127,41 @@ The important concepts were **bolded** in the definitions above by me. Let’s l
 2. *Information* – we deal with information below, and how it is derived from data and then becomes actionable through context
 3. *Experience* – comes from observation of the results of actions, which flow from decisions fuelled by actions as a result of information produced from data in a context
 4. Situation – a synonym for context
+
+##The 6 Ts of Context
+
+**Table SSHA. THe components of context**
+
+| **Item name** | **Short description** | **Comments** |
+| :-: | :- | :- | 
+| Time | When in time a context occurs. | Time is implied in every context and makes every context uneqivocally unique. |
+| Terroir | Place of occurrence, as in geographically. | Non-unique but defining in many ways. Terroir is implied in every context. It has to happen somewhere.|
+| Tools | The technology present at the time and place of occurrence. | Tools help to interpret the context but are not strictly speaking present in every context. |
+| Task | The target or trajectory of the context. | Not always necessary to have a task at hand, other than simply survival. |
+| Trail | The history or trail leading up to the context. | Not necessary as some contexts occur without any need of warning or pretext. |
+| Team | What other interpretors and decision makers, whether human, natural or mechanical, are present at this place and time. | Not necessary to have a team but it's hard to exclude nature from being present at any time. |
+
+Consider our current situation. The fact that we are here right now makes this unique. There will never be another now with all of us at this place at our current age with our current knowledge in our current state of being. We can never relive the seconds that are passing by right now. This context is not reproducible. So time is the most basic determinant of context. 
+
+Beyond the ticking of time, is there smtg unique about the periodicity of our meetings here? We (but "we" changes week to week and indeed minute to minute as ppl come and go - see Team) meet every (whatever day at whatever time for roughly 3 hours) for 13 weeks in the same place except for one week sometime in the middle then some of us (along with many others in a different venue - see Terroir) will meet later (at the exam which is a different context) and then never, ever again will we all be together in the same place (except maybe at convocation which is a different Terroir and a different Time and a different context with a different Team). Yet we intrinsically understand this fairly loose grouping to be something beyond its mere constituent parts. We understand this as a class. We know what happens here. We know how this works. If you or almost anyone else in advanced society walking by and seeing this scene would intrinsically know what was happening here. We share massive exformation about this context. But could we have a class that met on a random schedule for a variable length of time in a random location and wouldn't it still be a class? If so, then what is the essence of this thing called class? What's important is that we are in the same place at the same time. So THE place isn't important but A place is. So what's important is Team. And there must be 2 or more deciders present. And one must be the teacher or leader. This implies Tools. The leader must have the right tools. And knowledge is a tool. Also Time is critical. We must be present same time = synchronous. But now Terroir can be virtual. We can be "present" via technology so the network becomes the Terroir. We need to argue about whether this is the same context. Is a virtual context the same? 
+
+We will not consider asynchronous teaching to be the classroom context because canned, watch-at-your-leisure instruction is not the same as the classroom context where the value is at least partly derived from togetherness. 
+
+But imagine a machine trying to figure out the context of our little get-togethers. How would we quantify (digitise) this experience such that a machine could "learn" how to recognise this context? There are several approaches to this dilemma, but the resolution is to recognise when enough information (term used advisedly) has been provided such that more provides no additional ROI. We need to know when the machine has learned enuf such that it can mimic our own accuracy in creating the context. At what point is it "good enough?" How is it to contextualise the data that flows into this classroom context? 
+
+Next let's consider Terroir (or place). Terroir is the term that winemakers use to distinguish one wine from another even when a wine is made from the same grape and maybe even by the same winemaker but in a different place and time. Vintners maintain that the specifics of the soil (from where the term originates - the English word 'earth' is 'terre' in French) and rain and temperature and exact light conditions create a specific wine that could never occur at any other but this intersection of those characteristics. So in a very real sense, a particular vintage of wine is the embodiment of context. So the importance of Terroir is established. 
+
+Tools refers to the toolkit which we have available at the time of the occurrence of the context which we use to dissect and analyse the situation and interpret/create the context. A icrsoscope is a tool, as is a telescope and a thermometer. A more familiar to business students tool might be a financial or a Porter's Five Forces analysis. Tools all.     
+ 
+Much later. What is interesting about the 6 Ts is that it is not necessary to consider each or all of them in determining a context. Sometimes only two or three are necessary to establish context. Sometimes all are necessary. But consider that there must be two at least? Need two to frame a context? Does terroir and tools make a context? Is Time implied? Place? Team? Team is defined as 'one or more decision-capable entities'. At least one must be present. Time and Terroir are implied. But not all are important. While time and terroir are always present, they might not be critical for context. Same with the others. 
+
+Make arguments about necessity versus sufficiency in terms of which Ts constitute a context. 
+
+Is task or target necessary? I say yes. Our life is the constant movement towards deciding whether and how to change course to reach a goal. That goal is survival and nothing else. Organisation or individual, the goal is the same. We are always on the road to determining when a decision needs to be made because the universe is in constant flux and these changes throw up barriers to survival. So the accumulation of knowledge involves making decisions and observing the outcomes in order to shrink the error around future decisions. Ppl get really good at it with time - it's called experience. That's why we write books; to use our experience to reduce error for those navigating the path behind us. And maybe to have just a little of who we are, survive. 
+
+The opposite of context is vacuum. Physical scientists use vacuum to examine the effects of one thing on another in complete isolation of other contextual influences. It's an artificial environment. 
+
+***Finish this (TK)***
 
 This suggests a simple and general model of knowledge acquisition that applies to all creatures, great and small, that are faced with making decisions. But where does this all fit in terms of business? 
 
