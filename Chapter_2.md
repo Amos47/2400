@@ -132,11 +132,11 @@ The important concepts were **bolded** in the definitions above by me. Let’s l
 
 **Table SSHA. The components of context**
 
-| **Item name** | **Short description** | **Comments** |
+| **Component** | **Short description** | **Comments** |
 | :-: | :- | :- | 
 | Time | When in time a context occurs. | Time is implied in every context and makes every context uneqivocally unique. |
 | Terroir | Place of occurrence, as in geographically. | Non-unique but defining in many ways. Terroir is implied in every context. It has to happen somewhere.|
-| Tools | The technology present at the time and place of occurrence. | Tools help to interpret the context but are not strictly speaking present in every context. |
+| Tools | The technology present at the time and place of occurrence. | Tools help to interpret the context but are not strictly speaking present in every context nor required in order for a context to occur. |
 | Task | The target or trajectory of the context. | Not always necessary to have a task at hand, other than simply survival. |
 | Trail | The history or trail leading up to the context. | Not necessary as some contexts occur without any need of warning or pretext. |
 | Team | What other interpretors and decision makers, whether human, natural or mechanical, are present at this place and time. | Not necessary to have a team but it's hard to exclude nature from being present at any time. |
