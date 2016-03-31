@@ -141,8 +141,8 @@ The important concepts were **bolded** in the definitions above by me. Let’s l
 | **Component** | **Short description** | **Comments** |
 | :-: | :- | :- | 
 | Time | When in time a context occurs. | Time is implied in every context and makes every context uneqivocally unique. |
-| Terroir | Place of occurrence, broadly defined. | Geographic terroir is implied in every context. While context must happen somewhere, the notion of terroir also includes environmental factors attendant upon the location, such as temperature, light conditions, humidity, wind speed, etc.|
-| Team | What agent(s) (interpretors and/or decision makers), whether human, natural or mechanical, are present at this place and time. | There must obviously be at least one agent present to constitute a context. The notion of validation is important. Actors' identities must be verifiable.|
+| Terroir | Place of occurrence, broadly defined. | Geographic terroir is implied in every context. While context must happen somewhere, the notion of terroir also includes environmental factors attendant upon the location, such as temperature, light conditions, humidity, wind speed, noise, etc.|
+| Team | What agent(s) (interpretors and/or decision makers), whether human, natural or mechanical, are present at this place and time. | There must obviously be at least one agent present to constitute a context. The notion of validation is also important. Actors' identities must be verifiable.|
 | Tools | The technology present at the time and place of occurrence. | Tools help to interpret the context but are not strictly speaking present in every context nor required in order for a context to occur. |
 | Task | The target or trajectory of the context. | Not always necessary to have a task at hand, other than simply survival. |
 | Trail | The history or trail leading up to the context. | Not necessary as some contexts occur without any need of warning or pretext. |
