@@ -5,7 +5,13 @@
 
 We begin this chapter by stating unequivocally that computers have historically done a lousy job with *context*. They have been unable to understand, process and make sense of the nuanced detail of our lives and our interactions with each other and with our environment. Why? Because they have struggled with *knowledge*. They have struggled to *learn* in the way that humans learn. They have not been able to generalise either from the specific to the general or from the general to the specific. They have been unable to observe a piece of art and decide if they *like* it or not or even, until very recently, to quantify its characteristics. They struggle with deciding if a painting were a Picasso, a Monet or a Da Vinci. 
 
-Those kind of tasks -- appreciating beauty, creating music, writing poetry -- have been left to humans because computers lacked the ability to create and appreciate *context*. They can’t see the *bigger picture*. All this is changing. Read on.
+Those kind of tasks -- appreciating beauty, creating music, writing poetry -- have been left to humans because computers lacked the ability to create and appreciate *context*. They can’t see the *bigger picture*. All this is changing.
+
+The longest leap ahead came in 
+
+[TechTarget.com](http://searchmobilecomputing.techtarget.com/definition/contextual-computing) provides this definition of contextual computing: "*Contextual computing, also called context-aware computing, is the use of software and hardware to automatically collect and analyze data about a device's surroundings in order to present relevant, actionable information to the end user.*"
+
+We already know that data becomes information when it's contextualised and becomes actionable. As fastcodesign.com has written, *"The future of Technology isn't Mobile, It's Contextual."* Read about it [here](http://www.fastcodesign.com/1672531/the-future-of-technology-isnt-mobile-its-contextual).
 
 **Figure DC. The definition of context from Visual Thesaurus**
 
@@ -135,11 +141,11 @@ The important concepts were **bolded** in the definitions above by me. Let’s l
 | **Component** | **Short description** | **Comments** |
 | :-: | :- | :- | 
 | Time | When in time a context occurs. | Time is implied in every context and makes every context uneqivocally unique. |
-| Terroir | Place of occurrence, as in geographically. | Non-unique but defining in many ways. Terroir is implied in every context. It has to happen somewhere.|
+| Terroir | Place of occurrence, broadly defined. | Geographic terroir is implied in every context. While context must happen somewhere, the notion of terroir also includes environmental factors attendant upon the location, such as temperature, light conditions, humidity, wind speed, etc.|
+| Team | What agent(s) (interpretors and/or decision makers), whether human, natural or mechanical, are present at this place and time. | There must obviously be at least one agent present to constitute a context. The notion of validation is important. Actors' identities must be verifiable.|
 | Tools | The technology present at the time and place of occurrence. | Tools help to interpret the context but are not strictly speaking present in every context nor required in order for a context to occur. |
 | Task | The target or trajectory of the context. | Not always necessary to have a task at hand, other than simply survival. |
 | Trail | The history or trail leading up to the context. | Not necessary as some contexts occur without any need of warning or pretext. |
-| Team | What other interpretors and decision makers, whether human, natural or mechanical, are present at this place and time. | Not necessary to have a team but it's hard to exclude nature from being present at any time. |
 
 Consider our current situation. The fact that we are here right now makes this unique. There will never be another now with all of us at this place at our current age with our current knowledge in our current state of being. We can never relive the seconds that are passing by right now. This context is not reproducible. So time is the most basic determinant of context. 
 
