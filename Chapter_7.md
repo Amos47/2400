@@ -3,6 +3,9 @@
 
 ## How computers work
 
+
+Source: http://dilbert.com/strip/2016-04-04
+
 It’s time to dive into the *guts* of computers and talk just a little about how they actually work. **Everyone**, interested or not, is expected to follow [this link](http://www.explainthatstuff.com/howcomputerswork.html) and read up on how computers work, which will illustrate the fact that computers are systems in the exact same sense that we described in Chapter 1. As you read the material in that link, note especially the difference between *hardware and software*. Also important is the distinction between *system software* (operating systems such as Widows, Android and Apple OS, etc.) and *application software* (things that you actually use on the computer such as Excel, Word or a browser). 
 
 We humans are most familiar with the Base 10 number system because we have 10 fingers and 10 toes. We refer to this as the *decimal system*. In this system, the columns of numbers correspond to ones, tens, hundreds, thousands, and so on. And it’s also *digital* because it’s based on our digits (fingers). Fun eh?
