@@ -426,10 +426,9 @@ Next note that there are sometimes other *ghosted* images clustered around a dar
 
 The same can be said for the clusters of televisions and radios. A brodacaster sends a signal that many can receive, but the signal, and therefore the message, is the same in each case. What is slightly different is that, while the medium is easily replicated (many tvs and radios), so can there be many people weatching and listening to the message simultaneously. So that's why the dudes are all solid. Many people looking at the same TV or streming event or movie is different from many people, each looking at their own book. We have moved from one source (a newspaper) producing many copies, to one source (a radio station) producing one copy of a program that many listen to simultaneously. There are no *ghosts* here in #4. Each person who receives the message is listening to the same copy of it. 
 
-NB: All are looking at ONE COPY of the material as in a website electronically replicated on many devces. 
+YOu might want to argue tha a cave dude might be talking to one among the cohort, but others might well be passively listening or even in a rudimentary *audience* as it were. But I consider such other listeners to be incidental to the basic communication here. Likely the first couple of millions of years of communication were one-on-one affairs. 
 
-A cave dude might be talking to one among the cohort, but others might well be passively listening or even in a rudimentary *audience* as it were. But I consider such other listeners to be incidental to the basic communication here. Likely the first couple of millions of years of communication were one-to-one affairs. Dude could be talking to one person or a crowd, but the message is the same for all.
-
+Dude could be talking to one person or to a crowd, but the message is the same for all. Much like When we get to the internet around #7 in the figure. The original internet (often called web 1.0) featured servers *serving up* the same content to all, much like TV or radio. With web 2.0, not only is much of the content crowd-sourced, but conficuration allows us to customise the messages we receive in infinite ways. 
 
 Finally, generally note that the tools we are using to communication are becoming increasingly sophisticated and layered. We increasingly need intermediary technology in order send and receinve messages.
 
