@@ -438,12 +438,15 @@ Next we consider *persistence*, or whether the communication can be preserved in
 
 Let's move on to #2, which is really a special case of #1. Same cave dude, but now the communication is being created through a physical artifact - a cave painting. First, take a look at the cartoon below:
 
-** Figure ZDHL. Thog and friend.**
+** Figure ZDHL. 'Twas ever thus.**
 
-![Thog and friend](https://raw.githubusercontent.com/robertriordan/2400/master/Images/golden_age.jpg)
+![I've been framed!](https://raw.githubusercontent.com/robertriordan/2400/master/Images/golden_age.jpg)
 
-Source: https://www.cartoonstock.com/cartoonview.asp?catref=gra060704
+*Source: http://www.toonpool.com/user/99530/files/cave_painting_2094475.jpg*
 
+And we're back to consider Mode #2. The tool is a paintbrush (I know it's a house painting brush - the figure is small and I wanted you to get the idea). Note what has changed from #1. First, there are several dudes looking at the painting. Each is seeing the same original. IN addition, the *latency* has changed from Nil to High. There can be considerable time elasped between the artist's cnception and the viewer's viewing. IN addition, *Synch* is now asynchronous, owing to the fact that the viewer (recipient of the message) likely isn't in the same place at the same time as the sender (artist) is creating the message. Next, we have persistence. Cave paintings are still being viewed today. And finally, cave pintings solved two things: More (from 1;1 to 1:m) and persistence. A message could now be preserved in its original form.
+
+The advent of the printing press solved the problem of distribution. A cave painting stays where it was created. To view it, you must travel to where it is. Books and magazines (and works of art on canvas for that matter) solved this portability problem. Now the message could be delivered to where the recipient was and was perfectly portable. 
 
 Speaking of the importance of communication, here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world. Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
 
