@@ -436,7 +436,14 @@ Let's now disect Figure DVTP in detail. Starting at Form #1, with the cave dudes
 
 Next we consider *persistence*, or whether the communication can be preserved insome useable format. Face-to-face conversation cannot be so perserved, except in the leaky and subject-to-bias memory of those who hear the message. Thus f2f does not persist. Finally we move to the *solves* column where, for f2f conversation we deem that this breakthrough (and the first time we communicated was an incredible breakthrouh) solves the very fundamental problem of communication itself. There was (and is) plenty of *natural* communication (DNA for example) through hormones and touch and likely posture and physical intervention (shoving someone away has been and still is a form of communication) but when language developed, allowing us to *abstract* the physical from the mental, this is where the breakthrough happened. 
 
-Let's move on to #2, which is really a special case of #1. Same cave dude, but now the communication is being created through a physical artifact -- a cave painting. 
+Let's move on to #2, which is really a special case of #1. Same cave dude, but now the communication is being created through a physical artifact - a cave painting. First, take a look at the cartoon below:
+
+** Figure ZDHL. Thog and friend.**
+
+![Thog and friend](https://raw.githubusercontent.com/robertriordan/2400/master/Images/golden_age.jpg)
+
+Source: https://www.cartoonstock.com/cartoonview.asp?catref=gra060704
+
 
 Speaking of the importance of communication, here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world. Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
 
