@@ -337,13 +337,13 @@ Our business dictionary source offers that *information* (not data but informati
 
 They go on to offer that “Information is valuable because it can affect behaviour, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory."
 
-I must respectfully disagree with several of the assertions in this definition. Specifically, they again define *data* as *information*. The two are clearly not synonymous. To begin the definition of information with the assertion that it is *data* is clearly not helpful for us. Furthermore, data doesn't have the potential to change things (or to lead to change). Only information can lead to change through informing our decisions. But what is bang on about this definition is in its assertion that information can affect behaviour, decision making and outcomes. This is to where we are going here. 
+I must respectfully disagree with several of the assertions in this definition. Specifically, they again define *data* as *information*. The two are clearly not synonymous. To begin the definition of information with the assertion that it is *data* is clearly not helpful for us. Furthermore, data doesn't have the potential to change things (or to lead to change). Only information can lead to change through informing our decisions. But what is bang on about this definition is its assertion that information *can affect behaviour, decision making and outcomes*. This is to where we are going here. 
 
 [Interested in Information Theory?](http://www.businessdictionary.com/definition/information-theory.html)
 
 Let’s be clear: **Data that can be measured and put into context leads to information, which facilitates decision making.** Moreover, **data and information are not the same thing.** We will look at the distinction in some detail in Chapter 2. 
 
-Finally, it is categorically *not* necessary for information to lead to change. Information leads to decisions, which are binary by nature. One of the two possibilities when informed about something is the decision *to do nothing!* And that’s perfectly fine. Maybe that’s the right decision. *Ergo* information does not always result in change. But it always results in the *potential* for change, if change is the right decision. 
+Finally, it is categorically *not* necessary for information to lead to change. Information leads to decisions, which are binary by nature. One of the two possibilities when informed about something is the decision *to do nothing!* And that’s perfectly fine. Maybe that’s the right decision. *Ergo* information does not always result in change. But it always results in the *potential* for change. 
 
 Now we're getting somewhere.
 
