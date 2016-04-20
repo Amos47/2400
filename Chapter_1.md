@@ -1,6 +1,6 @@
 
 
-[Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
+
 
 ### Measurement
 <a name="measurement"></a>
