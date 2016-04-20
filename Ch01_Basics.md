@@ -197,8 +197,6 @@ Wikipedia offers that Technology is "...the collection of tools, including machi
 
 The online [Business Dictionary](http://businessdictionary.com) also takes a broad view, and delineates categories and taxonomies. They write that technology is "The purposeful application of *information* in the design, production, and utilization of goods and services, and in the organization of human activities." (emphasis added)
 
-<a name="tangible"></a>
-#### Tangible versus intangible
 Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical -- as in the sense of services) (see also the more extensive treatment of this topic in the major Theme 2 section below). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: "Technology is generally divided into five categories [my explanations/examples in brackets]." The list begins with the distinction between tangible and intangible:
 
 1. Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]
