@@ -48,3 +48,157 @@ To begin, when studying Information Systems (or the broader term that I prefer -
 Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation (see the Interested? link below] so instead, I describe here the simpler *Data, Information and Knowledge* hierarchy. 
 
 [Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
+
+### Back to the Big Three
+With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge* means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
+
+### Data
+
+**Figure STT. Definition of data from Visual Thesaurus**
+
+![visualthesaurus.com Definition of data](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_data.PNG)
+
+The excellent website (or service, really) [visualthesaurus.com](http://visualthesaurus.com) shows the visualisation, above, of the look-up term *data* once expanded by clicking on the red node.  
+
+The interpretation of the visual goes as follows:
+
+* A solid line between two terms denotes a relationship between a meaning and a word. Thus the term at the distal (far) end of a solid line can be used to express the meaning of the defined word. Thus in this image, data and information can be used to describe each other (are synonomous). This will be discussed at length below. I maintain that, while they are often interchangeable in common usage, they are not equivalent terms. Stay tuned.
+* A dashed line indicates a *type of* relationship. Thus the term at the distal end of a dashed line indicates that this construct is a type of the term at the proximal (near) end of the dashed line. So *accounting data* is a *type of* data. Self-evident, really. 
+* A dashed red line (not shown in this visual but appearing in others below) indicates an opposite. So a red line appearing between the terms *distal* and *proximal* would indicate that they are a negation of each other. 
+
+The Visual Thesaurus defines data as: "A collection of facts from which conclusions may be drawn." Hold onto this definition as we further analyse the complex relationship between data and information.
+
+The visual on *data* above implies (states, really) that data and information are synonymous; that they can be used to describe each other, and thus that they are equal. My definition, which clears up some of the ambiguity in the terms *data* and *information*, is: 
+
+*Data is pre-information*. It is potential information; a collection of one or more facts, figures or measurements of some entity whether tangible or not. *Information*, on the other hand, is *actionable data*; data embedded in a *context* that allows us to make a decision on a course of action. 
+
+We have already considered *measurement* in some depth [(take me there)](#measurement) and we will spend some time unpacking the concepts of *entities* and *tangible/intangible* in due course. 
+
+The online [Business Dictionary](http://businessdictionary.com) defines data as:
+
+1. "Information in raw or unorganized form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe. See also information and knowledge.", and
+2. "Computers: Symbols or signals that are input, stored, and processed by a computer, for output as usable information.”
+
+I would clarify the first definition by stating that data are *potential information* when in raw form. We cannot define data as information and information as data. In my opinion, both definitions should begin with the words in the second definition, specifically that data are *symbols and signals* or indeed drawings or sounds or signs or even facial expressions that carry within them the *potential* for information but not information *per se*. Data is raw and lacks context. A column of digits in a spreadsheet with no row header to indicate what the data *mean*, for example, is not information. It has no potential impact. I maintain that information occurs in the *interpretation* of data when it’s *located in context*. Read on.
+
+Note the definition of information below in the section on Information, from the same source, and note that one of the necessary elements of information is that it be presented within a context that gives it meaning. Thus the dictionary contradicts itself in this case. Good thing we're watching carefully... ;)  
+
+[Interested?](http://www.businessdictionary.com/definition/data.html)
+
+
+
+#### Synopsis
+
+Data is not information, and neither is information, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics efforts.
+
+We now more on to a discussion of what information is. This is where it gets good.
+
+### Information
+
+**Figure LP. Definition of information from Visual Thesaurus**
+
+![visualthesaurus.com Definition of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_info.PNG)
+
+The Visual Thesaurus defines *information*, in conjunction with the visual above and ignoring the definitions pertaining strictly to the study or administration of justice and the law (with apologies to LJ), as:
+
+1.	A message received and understood [YES]
+2.	Knowledge acquired through study or experience or instruction [YES]
+3.	A collection of facts from which conclusions may be drawn [PROBABLY]
+4.	The psychological result of perception and learning and reasoning [YES]
+5.	In communication theory, a numerical measure of the uncertainty of an outcome [MAYBE] 
+
+We need some unpacking here. In the [square brackets] at the end of each definition of information above, I have added my little editorial comment. Information can *clearly* be characterised as *received and understood* as understanding assumes that not only the content but also the context of the message, it's meaning and its intent have all been synthesised. If something is *understood* then the *context* is rich enough to allow a decision to be made based on the *content*. Data alone cannot do this. It should be noted that it is entirely possible that the *wrong* decision can still be made. Inadequate or poorly measured data might result in an incomplete context. A faulty message receiver (as in any of us if we've had one too many) can equally result in a bad decision being made. The distinction here is not between good and bad decisions, *per se*, but rather between whether a decision can be made at all. 
+
+The second and fourth definitions are acceptable, on the whole, especially, as we will see, as they relate to *experience and learning from experience*. More to come on this.
+
+The third definition is shading into murky territory. A collection of facts, in and of itself, cannot afford a conclusion. That is the domain of information. The facts might well form a context from which information can arise, but alone, no. Thus number three is not precise enough. 
+
+The fifth definition, as it applies to *entropy*, is dealt with in detail in Chapter 2.  
+
+Our business dictionary source offers that *information* (not data but information) is:
+
+"Data that is:  
+
+1. accurate and timely, 
+2. specific and organized for a purpose, 
+3. presented within a context that gives it meaning and relevance, and 
+4. can lead to an increase in understanding and decrease in uncertainty."
+
+They go on to offer that “Information is valuable because it can affect behaviour, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory."
+
+I must respectfully disagree with several of the assertions in this definition. Specifically, they again define *data* as *information*. The two are clearly not synonymous. To begin the definition of information with the assertion that it is *data* is clearly not helpful for us. Furthermore, data doesn't have the potential to change things (or to lead to change). Only information can lead to change through informing our decisions. But what is bang on about this definition is its assertion that information *can affect behaviour, decision making and outcomes*. This is to where we are going here. 
+
+[Interested in Information Theory?](http://www.businessdictionary.com/definition/information-theory.html)
+
+Let’s be clear: **Data that can be measured and put into context leads to information, which facilitates decision making.** Moreover, **data and information are not the same thing.** We will look at the distinction in some detail in Chapter 2. 
+
+Finally, it is categorically *not* necessary for information to lead to change. Information leads to decisions, which are binary by nature. One of the two possibilities when informed about something is the decision *to do nothing!* And that’s perfectly fine. Maybe that’s the right decision. *Ergo* information does not always result in change. But it always results in the *potential* for change. 
+
+Now we're getting somewhere.
+
+[Interested?](http://www.businessdictionary.com/definition/information.html) 
+
+Let's move on to knowledge. 
+
+### Knowledge
+
+**Figure KS. Definition of knowledge (know) from Visual Thesaurus**
+
+![visualthesaurus.com Definition of know](https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_know.PNG)
+
+The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") cogently defines *know* (a richer context is provided than if we asked for a definition of knowledge) as: "The psychological result of perception and learning and reasoning." So this definition explicitly excludes machines from having the capacity to *know something* since it refers to a "psychological result." Pity...  
+
+But let's look at this visual for a second. Note how rich it is. Note how many nodes are of interest to us here. 
+
+Next let's look at what our Business Dictionary source offers for the definition of *knowledge*. Their general definition fits our needs:
+
+"Human faculty resulting from interpreted information; understanding that germinates from [the] combination of data, information, experience, and individual interpretation. Variously defined as, "Things that are held to be true in a given context and that drive us to action if there were no impediments" (Andre Boudreau). "Capacity to act" (Karl Sweiby). "Justified true belief that increases an entity's capacity for effective action" (Nonaka and Takeuchi). "The perception of the agreement or disagreement of two ideas" (John Locke). In an organizational context, knowledge is the sum of what is known and resides in the intelligence and the competence of people. In recent years, knowledge has come to be recognized as a factor of production (see knowledge capital) in its own right, and distinct from labor."
+
+[Interested?](http://www.businessdictionary.com/definition/knowledge.html)
+
+Some very rich definition and context here. From this we can glean that *data is useless unless in a context*, which allows it to become information. Information drives decisions and decisions drive action or inaction, in the rich context of previous information. Collected information from this action, previous actions and from all other sources of knowledge becomes new or evolving knowledge and confers the ability to pass judgment on the previous three. 
+
+Again, we consider these important concepts in detail in Chapter 2. 
+
+#### Important takeaways
+
+- Measurement is complex, critical and has several quality metrics associated with it
+- Data and information are not synonymous 
+- Information is created in the presence of data in context
+- Decisions arise from information and a decision to *not* act is as valid as one *to act*
+- Knowledge arises from accumulated experience with the outcomes of decisions 
+
+### Communication
+
+Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say about that: "Communication (from Latin commūnicāre, meaning 'to share') is the activity of conveying meaning through a shared system of signs and semiotic rules." 
+
+[Interested?](http://en.wikipedia.org/wiki/Communication)
+
+Semiotics is the study of signs and symbols in communication. 
+
+[Interested?](http://www.amazon.ca/This-Means-That-Users-Semiotics/dp/1856697355/ref=sr_1_4?ie=UTF8&qid=1427474025&sr=8-4&keywords=semiotics)
+
+We can further examine a subset of what [dictionary.com](http://dictionary.reference.com/browse/communication) offers:
+
+1. The act or process of communicating; fact of being communicated. 
+2. The imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. 
+3. Something imparted, interchanged, or transmitted. 
+4. A document or message imparting news, views, information, etc. 
+6. Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
+7. Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.
+
+Now isn't that interesting, the Biology part? That's exactly what we are saying about *Information*. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. Indeed a website article we will examine in depth in Chapter 2 on *Liquid Information* offers on the [history of information]((http://www.liquidinformation.org/information_history.html) that as life appeared on earth it required “[...] storing information about how to replicate something, how to replicate itself. Information now served a purpose...”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. 
+
+Thus communication allows humans to fulfil their only real purpose on this planet: to remain on this planet. Too contentious for a business course in ICT? Expand your horizons. Read lots. Think lots. Then we can talk.  
+
+How pervasive is information communication? What's the *coverage* in Canada? Take a look at this simple interactive map:
+
+**Figure FMAP. Cellular coverage in Canada**
+
+<iframe src="https://www.google.com/maps/d/embed?mid=ziiXzGEk59_I.kvJPNhGl3KKk" width="640" height="480"></iframe>
+
+*Source: http://www.itbusiness.ca/news/interactive-map-inside-canadas-wireless-landscape/56833*
+
+An excellent introduction to the history of communication is available in Wikipedia. 
+
+[Interested?](https://en.wikipedia.org/wiki/History_of_communication)
