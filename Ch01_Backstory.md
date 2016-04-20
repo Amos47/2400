@@ -265,3 +265,24 @@ Netflix has impacted network TV to the point of near extinction.
 
 [Interested?](http://www.dailyinfographic.com/wp-content/uploads/2015/09/watta.jpg)
 
+### Systems and process
+**Figure SG. A simple system**
+
+![Process](https://raw.githubusercontent.com/robertriordan/2400/master/Images/simple_system.png)
+
+A simple system or a complex system, any system, has only three pieces. First, input is required. Once input is present, work (a process) then transforms that input into output. That's it. Input --> Process --> Output. All three are necessary. No work process without input, no output without work, no input and work without something coming out the other side. Make sure to understand that a system also requires a trigger: something to set it in motion. Systems don't just start of their own volition (if they had any) or momentum. Something must spur them into action. Furthermore, and equally important, a system must have a *goal*; a reason for its existence; a purpose. We don't just do things because we can.
+
+Our simple graphic above depicts a system, the goal of which is to make dairy products -- something my family did 100 years ago when their telephone number in Oshawa, Ontario was *7*. Yup, that’s it. Seven. Talk about getting in on the ground floor! 
+
+![Riordan’s Dairy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/riordans_dairy_cap.jpg)
+
+To make dairy products, plenty of inputs are required, including hay, corn and grass to feed the cows, milk from those cows, scientific know-how, elbow grease and muscle, expertise, time, land and, of all things, data, information and accumulated knowledge. And lots more such as a farm to nurture the cows and a dairy with machinery to bring it all together and a supply chain to move stuff in and out. The message is that in order to produce dairy, plenty of input is required.
+
+These inputs are fed to the dairy process, and this work process yields the output: cheese and milk and yogurt and ice cream. It’s pretty clear that our little graphic represents a very high-level view of the dairy system. There are literally hundreds of other systems, linked in chains, that actually account for the production here. But each is the same; a simple process, flanked by inputs and outputs. How then, and where, is value added and profit realised? 
+
+Let’s look at our system again, this time in light of value add. 
+
+**Figure Z. Value creation**
+
+![Process](https://raw.githubusercontent.com/robertriordan/2400/master/Images/value_creation.png)
+
