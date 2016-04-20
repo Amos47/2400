@@ -6,9 +6,7 @@
 
 
 
-Speaking of the importance of communication, here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world. Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
 
-And here is an interactive map of the [submarine cables](http://www.submarinecablemap.com/) in the world. Why is this important? [Interested?](http://www.cbc.ca/news/technology/submarine-cables-explainer-1.3289954)
 
 ### What is technology?
 
