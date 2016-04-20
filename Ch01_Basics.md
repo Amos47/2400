@@ -46,3 +46,5 @@ Well you can't get any more impactful that that. Knowledge creation from informa
 To begin, when studying Information Systems (or the broader term that I prefer - *Information and Communication Technology* or *ICT*), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the **Big Three** of *data, information* and *knowledge*. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.
 
 Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation (see the Interested? link below] so instead, I describe here the simpler *Data, Information and Knowledge* hierarchy. 
+
+[Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
