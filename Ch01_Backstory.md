@@ -161,6 +161,24 @@ Hierarchical data is that which is measured in comparison with others and which 
 Any and all mathematical operation can be done using such data. It is the highest data categorisation and corresponds to Interval data in the NOIR system.
 
 ### Communication
+
+How pervasive is information communication? What's the *coverage* in Canada? Take a look at this simple interactive map:
+
+**Figure FMAP. Cellular coverage in Canada**
+
+<iframe src="https://www.google.com/maps/d/embed?mid=ziiXzGEk59_I.kvJPNhGl3KKk" width="640" height="480"></iframe>
+
+*Source: http://www.itbusiness.ca/news/interactive-map-inside-canadas-wireless-landscape/56833*
+
+An excellent introduction to the history of communication is available in Wikipedia. 
+
+[Interested?](https://en.wikipedia.org/wiki/History_of_communication)
+
+Speaking of the importance of communication, here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world. Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
+
+And here is an interactive map of the [submarine cables](http://www.submarinecablemap.com/) in the world. Why is this important? [Interested?](http://www.cbc.ca/news/technology/submarine-cables-explainer-1.3289954)
+
+
 Take a look at Figure DVTP below.
 
 **Figure DVTP. A brief history of communication**
@@ -197,6 +215,3 @@ The advent of the printing press (Form #3) solved the problems of location and r
 
 On to breakthrough #4 and #5, the *broadcast era.* Latency was defeated with live feeds and synchronicity could be either live or taped for later broadcast. The best of both worlds. 
 
-Speaking of the importance of communication, here is an interesting depiction of the [Internet Exchange Points](http://www.internetexchangemap.com/) in the world. Find the one closest to you. What is an internet exchange you ask? [Interested?](https://en.wikipedia.org/wiki/Internet_exchange_point)
-
-And here is an interactive map of the [submarine cables](http://www.submarinecablemap.com/) in the world. Why is this important? [Interested?](http://www.cbc.ca/news/technology/submarine-cables-explainer-1.3289954)
