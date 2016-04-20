@@ -85,8 +85,6 @@ Note the definition of information below in the section on Information, from the
 
 [Interested?](http://www.businessdictionary.com/definition/data.html)
 
-
-
 #### Synopsis
 
 Data is not information, and neither is information, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics efforts.
