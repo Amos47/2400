@@ -189,14 +189,3 @@ Now isn't that interesting, the Biology part? That's exactly what we are saying 
 
 Thus communication allows humans to fulfil their only real purpose on this planet: to remain on this planet. Too contentious for a business course in ICT? Expand your horizons. Read lots. Think lots. Then we can talk.  
 
-How pervasive is information communication? What's the *coverage* in Canada? Take a look at this simple interactive map:
-
-**Figure FMAP. Cellular coverage in Canada**
-
-<iframe src="https://www.google.com/maps/d/embed?mid=ziiXzGEk59_I.kvJPNhGl3KKk" width="640" height="480"></iframe>
-
-*Source: http://www.itbusiness.ca/news/interactive-map-inside-canadas-wireless-landscape/56833*
-
-An excellent introduction to the history of communication is available in Wikipedia. 
-
-[Interested?](https://en.wikipedia.org/wiki/History_of_communication)
