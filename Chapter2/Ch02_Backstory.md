@@ -306,3 +306,38 @@ We might also want to consider the concept of *resolution*. The resolution of a 
 [Interested?](http://en.wikipedia.org/wiki/Sensor)
 
 Why matters all of this? It matters because as systems and sensors proliferate and their ability to communicate improves, so improves their ability to measure with more and more precision in more and more places at lower and lower resolutions at increasing rates of speed providing a richer and richer stream of input data to flow into and to generate our contexts. And that’s how decisions get made. As ICT is increasingly able to provide more and more context, machines are more and more able to work at a resolution level that is not only *good enough* for most situations, but maybe better than we humans can do... And with such great context, better and better information is generated and more and more decisions can be made for us by machines far below our level of consciousness. We'll be the spinning wheels. So fast, we can't see it happen. 
+
+
+### And finally, the rapidly declining cost of computing
+
+We end this chapter with an astonishing table from our friends at Wikipedia on the cost of computing. A *gigaflop* is described as *the power to execute one billion floating point calculations per second*. A floating point operation (or a FLOP) is any algebraic manipulation (+ - * /) involving two numbers which have decimal places. So 2 (two) is an *integer* but 2.0 (two point zero) is a *floating point number*. *Ergo* a FLOP might be the mathematical operation to multiply 1.0 by 1.0. Floating point arithmetic takes longer than integer arithmetic. A computer processor's power is often measured in *gigaflops*, providing a universal standard for speed of execution (the *s* at the end stands for *per second*), which is a proxy for computing power. The more flops a system can do in a second, the more powerful the system.
+
+Below is a table equating gigaflops with dollars. How much did the computing power to effect one gigaflop cost, down through the annals of computer history? Here's what Wikipedia has to say (it will astonish you):
+
+**Table GFP. Hardware cost to get a gig going**
+
+| **Date** | **Approximate cost per GFLOPS** | **Approximate cost per GFLOPS** [adjusted to 2013 USD] | **Platform providing the lowest cost per GFLOPS** | **Comments** |
+| :-: | :-: | :-: | :-: | :- |
+| 1961 | US $1,100,000,000,000 ($1.1 trillion) | US $8.3 trillion | About 17 million IBM 1620 units costing $64,000 each | The 1620's multiplication operation takes 17.7 ms. |
+| 1984 |$18,750,000 | $42,780,000 |Cray X-MP/48 | $15,000,000 / 0.8 GFLOPS |
+| 1997 | $30,000 | $42,000 | Two 16-processor Beowulf clusters withPentium Pro microprocessors |---|
+| April 2000 | $1,000 | $1,300 | Bunyip Beowulf cluster | Bunyip was the first sub-US-$1/MFLOPS computing technology. It won the Gordon Bell Prize in 2000.|
+| May 2000 | $640 | $836 | KLAT2 |KLAT2 was the first computing technology which scaled to large applications while staying under US-$1/MFLOPS. |
+| August 2003 | $82 | $100 | KASY0 |KASY0 was the first sub-US-$100/GFLOPS computing technology. |
+| August 2007 | $48 | $52 | Microwulf | As of August 2007, this 26.25 GFLOPS "personal" Beowulf cluster can be built for $1256. |
+| March 2011 | $1.80 | $1.80 | HPU4Science | This $30,000 cluster was built using only commercially available "gamer" grade hardware. |
+| June 2013 | $0.22 | $0.22 | Sony Playstation 4 | The Sony PlayStation 4 is listed as having a peak performance of 1.84 TFLOPS, at a price of $400 |
+| November 2013 | $0.16 | $0.16 | AMD Sempron 145 GeForce GTX 760 System | Built using commercially available parts, a system using one AMD Sempron 145 and three GeForce GTX 760 reaches a total of 6.771 TFLOPS for a total cost of $1090.66. |
+| December 2013 | $0.12 | $0.12 | Pentium G550 R9 290 System | Built using commercially available parts. Pentium G550 & AMD R9 290 tops out at 4.848 TFLOPS grand total of $681.84 USD. |
+| January 2015 | $0.08 | $0.08 | Celeron G1830 R9 295x2 System | Built using commercially available parts. Intel Celeron G1830 & AMD Radeon R9 295x2 tops out at over 11.5 TFLOPS at a grand total of $902.57 USD. |
+
+[See the source for important notes and additional information.]
+
+*Source: http://en.wikipedia.org/wiki/FLOPS*
+
+In 55 years (shorter than my already short life) the equivalent cost to execute a billion FLOPs has dropped from USD $8,300,000,000,000 to USD $0.08. If that's not stunning and breathtaking then neither is (insert your most stunning and breathtaking thing here). Computing wins. 
+
+While a bit dated, in a liquidinformation.org piece representing probably the absolute minimum achievable computing power, it is asserted that, for USD $1,000, we will be able to buy a computer with the computing power of an insect in 2018. That same $1K will get us a mouse brain in 2030, a human brain is 2042 and *all human brains combined* by 2060. If you are a normal early 20s undergraduate student, 2060 is well within your lifetime. Think of it. Just *think.*  
+
+[Interested?](http://www.liquidinformation.org/information_history.html) {read just the *Computation* sub-section including the *When will it end?* piece]
+
