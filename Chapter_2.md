@@ -134,29 +134,6 @@ We might also be inclined to characterise the feedback loop as *experience*. Exp
 
 Thus experience is important in interpreting context, which is how information is created.   
 
-### Schemata and knowledge acquisition
-The model of knowledge acquisition elucidated here is not inconsistent with, and may be seen as an extension of, the work done in the fields of Psychology and Cognitive Science in the area of *schemata*. Pioneering work by Bartlett, extended by Jean Piaget, (see the Interested? links below) suggests that people learn about and make sense of their work by building, modifying, extending and discarding mental models of how things work. A quick (and brutally naïve) explanation and example follows.
-
-The first premise necessary to accept if one subscribes to the *schema notion* of knowledge acquisition is that of *tabula rasa*, loosely translated and understood to mean *blank slate*, as in a blank chalk board in a classroom. As far back as Aristotle, the notion that humans are born with a blank slate mind has been popular. [Interested?]( http://en.wikipedia.org/wiki/Tabula_rasa) This *blank slate* is written on, erased, altered and generally enhanced as humans grow and learn and acquire knowledge. So at the first encounter of a child with a dog, for example, the rudimentary schema of *dog* is created that inscribes the observed characteristics of the dog (a creature with four legs, fur, a tail and a long snout of a nose, etc.) to the dog schema. A parent labels the creature *dog* and our kid is off to the races, able to recognise all manner of four-legged creatures forever more. 
-
-But trouble looms...
-
-Next, our intrepid young dog expert encounters a cow. Slightly bigger, but hey, it’s got four legs, fur, a snout and a tail. Must be a dog. So our schema builder spots the cow and happily announces the results of their interpretation to a parent: “Dog!” Nope, the parent corrects, that’s a cow (and probably makes a mooing sound to reinforce the difference). New schema in order here. At the same time, it’s possible that a *super schema* is also developed, this one encompassing the characteristics we know as *animal* and containing the attributes “four legs, fur, tail, long snout” of which *dog* and *cow* are specific examples. *Dog* might now have an encoded attribute for *size* that would differentiate the dog from the cow based on bulk. But *calf* and *pony* and *puppy* and *kitten* present problems, necessitating further refinements of the existing schemata. Isn't a small calf about the same size a a big dog? We won’t even get into the difference between a house cat (and the colour variation) and the myriad of *jungle casts*. Learning can be frustrating. 
-
-A [McKinsey report on Machine Learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning "Machine Learning") had the following to say about how machines are *taught* to recognise simple things like cows and cats:
-
-"In 2007 Fei-Fei Li, the head of Stanford’s [University] Artificial Intelligence Lab, gave up trying to program computers to recognize objects and began labeling the millions of raw images that a child might encounter by age three and feeding them to computers. By being shown thousands and thousands of labeled data sets with instances of, say, a cat, the machine could shape its own rules for deciding whether a particular set of digital pixels was, in fact, a cat. Last November, Li’s team unveiled a program that identifies the visual elements of any picture with a high degree of accuracy. IBM’s Watson machine relied on a similar self-generated scoring system among hundreds of potential answers to crush the world’s best Jeopardy! players in 2011." 
-
-We return to *Jeopardy!* and *Watson* later in this chapter.
-
-It is through continual exposure to new data and continual feedback based on made decisions emanating from such exposure that specific and actionable knowledge is created and stored. You can see that the notion of context fits nicely here (well maybe you can’t see yet, but I can and I hope you will come to an understanding of these principles as we progress). It is also very interesting to note the similarities between the schemas of cognitive psychology and the software development technique known as *Object-Oriented Programming* (or OOP). I’ll try to remember to revisit that connection in the chapter on Systems Development... :)   
-
-Knowledge acquisition (also referred to as the process of *Knowledge Engineering*) is also the biggest obstacle to creating *Artificial Intelligence* (AI). If we have time to fit that in somewhere, it will likely be in the chapter on *Future Trends*. While we’re here, I also strongly recommend a course (or even picking up a book on the topic) in *Cognitive Psychology* for anyone interested in ICT, Marketing, Finance or Management. It’s so cool you might just fall in love.  
-
-[Interested in schemas?](http://en.wikipedia.org/wiki/Schema_(psychology)
-[Interested in knowledge acquisition?]( http://www.wisegeek.com/what-is-knowledge-acquisition.htm)
-
-Knowledge acquisition can be seen as a system, with the four main entities identified by coloured background ovals in Figure LAJ. On the left is *Input*, flowing into *Process*, which produces *Output* which is fed back into the system as *Input* to the continuous process of knowledge production and acquisition. And don't overlook the important tenet that much of the data that enters a decision process as input, and equally previous knowledge that is fed back to the decision-making process, functions as *context*. It is the soup made from the situation and the previous experience that allows us to decide how to move forward. All the ingredients of the soup together allow us to decide if we like the taste. 
 
 ## Important takeaways
 * 
