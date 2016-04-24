@@ -135,6 +135,8 @@ We might also be inclined to characterise the feedback loop as *experience*. Exp
 Thus experience is important in interpreting context, which is how information is created.   
 
 
+
+
 ## Important takeaways
 * 
 A *context* is a new, unique and non-reoccurring circumstance created out of the intersection of existing and new data and existing knowledge gained from previous contexts. It can only occur once and it's gone. Time marches on. No two contexts are alike.
