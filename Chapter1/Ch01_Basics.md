@@ -342,7 +342,7 @@ Let's do some very simple math here. If you dialed *7* in 1915 and asked my gran
 ![ICT value add](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ict_value_creation.png)
 
 ### A working definition of progress
-We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic (Figure ZX below) shows this clearly.
+We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic (Figure JD above) shows this clearly.
 
 Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. On the other end of the system, progress will also have been achieved if tomorrow those 100 units of input produce 101 units of output. Either of these might represent an increase in *effectiveness*, where we are making more *effective* use of our input resources, or an increase in *efficiency* wherein we are doing more with what we have. Message: technology effects are measured at the boundaries of the system, where we count inputs and outputs.  
 
