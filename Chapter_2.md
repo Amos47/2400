@@ -134,6 +134,29 @@ We might also be inclined to characterise the feedback loop as *experience*. Exp
 
 Thus experience is important in interpreting context, which is how information is created.   
 
+### Schemata and knowledge acquisition
+The model of knowledge acquisition elucidated here is not inconsistent with, and may be seen as an extension of, the work done in the fields of Psychology and Cognitive Science in the area of *schemata*. Pioneering work by Bartlett, extended by Jean Piaget, (see the Interested? links below) suggests that people learn about and make sense of their work by building, modifying, extending and discarding mental models of how things work. A quick (and brutally naïve) explanation and example follows.
+
+The first premise necessary to accept if one subscribes to the *schema notion* of knowledge acquisition is that of *tabula rasa*, loosely translated and understood to mean *blank slate*, as in a blank chalk board in a classroom. As far back as Aristotle, the notion that humans are born with a blank slate mind has been popular. [Interested?]( http://en.wikipedia.org/wiki/Tabula_rasa) This *blank slate* is written on, erased, altered and generally enhanced as humans grow and learn and acquire knowledge. So at the first encounter of a child with a dog, for example, the rudimentary schema of *dog* is created that inscribes the observed characteristics of the dog (a creature with four legs, fur, a tail and a long snout of a nose, etc.) to the dog schema. A parent labels the creature *dog* and our kid is off to the races, able to recognise all manner of four-legged creatures forever more. 
+
+But trouble looms...
+
+Next, our intrepid young dog expert encounters a cow. Slightly bigger, but hey, it’s got four legs, fur, a snout and a tail. Must be a dog. So our schema builder spots the cow and happily announces the results of their interpretation to a parent: “Dog!” Nope, the parent corrects, that’s a cow (and probably makes a mooing sound to reinforce the difference). New schema in order here. At the same time, it’s possible that a *super schema* is also developed, this one encompassing the characteristics we know as *animal* and containing the attributes “four legs, fur, tail, long snout” of which *dog* and *cow* are specific examples. *Dog* might now have an encoded attribute for *size* that would differentiate the dog from the cow based on bulk. But *calf* and *pony* and *puppy* and *kitten* present problems, necessitating further refinements of the existing schemata. Isn't a small calf about the same size a a big dog? We won’t even get into the difference between a house cat (and the colour variation) and the myriad of *jungle casts*. Learning can be frustrating. 
+
+A [McKinsey report on Machine Learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning "Machine Learning") had the following to say about how machines are *taught* to recognise simple things like cows and cats:
+
+"In 2007 Fei-Fei Li, the head of Stanford’s [University] Artificial Intelligence Lab, gave up trying to program computers to recognize objects and began labeling the millions of raw images that a child might encounter by age three and feeding them to computers. By being shown thousands and thousands of labeled data sets with instances of, say, a cat, the machine could shape its own rules for deciding whether a particular set of digital pixels was, in fact, a cat. Last November, Li’s team unveiled a program that identifies the visual elements of any picture with a high degree of accuracy. IBM’s Watson machine relied on a similar self-generated scoring system among hundreds of potential answers to crush the world’s best Jeopardy! players in 2011." 
+
+We return to *Jeopardy!* and *Watson* later in this chapter.
+
+It is through continual exposure to new data and continual feedback based on made decisions emanating from such exposure that specific and actionable knowledge is created and stored. You can see that the notion of context fits nicely here (well maybe you can’t see yet, but I can and I hope you will come to an understanding of these principles as we progress). It is also very interesting to note the similarities between the schemas of cognitive psychology and the software development technique known as *Object-Oriented Programming* (or OOP). I’ll try to remember to revisit that connection in the chapter on Systems Development... :)   
+
+Knowledge acquisition (also referred to as the process of *Knowledge Engineering*) is also the biggest obstacle to creating *Artificial Intelligence* (AI). If we have time to fit that in somewhere, it will likely be in the chapter on *Future Trends*. While we’re here, I also strongly recommend a course (or even picking up a book on the topic) in *Cognitive Psychology* for anyone interested in ICT, Marketing, Finance or Management. It’s so cool you might just fall in love.  
+
+[Interested in schemas?](http://en.wikipedia.org/wiki/Schema_(psychology)
+[Interested in knowledge acquisition?]( http://www.wisegeek.com/what-is-knowledge-acquisition.htm)
+
+Knowledge acquisition can be seen as a system, with the four main entities identified by coloured background ovals in Figure LAJ. On the left is *Input*, flowing into *Process*, which produces *Output* which is fed back into the system as *Input* to the continuous process of knowledge production and acquisition. And don't overlook the important tenet that much of the data that enters a decision process as input, and equally previous knowledge that is fed back to the decision-making process, functions as *context*. It is the soup made from the situation and the previous experience that allows us to decide how to move forward. All the ingredients of the soup together allow us to decide if we like the taste. 
 
 
 
@@ -156,41 +179,6 @@ Wisdom is knowing how and when to use it...
 (tk - relate this to input/output ratio)
 
 
-### The five faces of information
-Below is an infographic of sorts, showing the five faces of information. The faces and their characteristics are from a (highly recommended) 2012 book by Joel Katz entitled *Designing Information: Human factor and common sense in design* (2012, John Wiley & Sons).  
-
-**Figure FFI. The five faces of information**
-
-![Nature of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/nature_of_info.png)
-
-I have arranged Katz’s five types into three groups, then ranked them in terms of their importance to us as students of business. Moreover, I have added a column delineating the approach taken by ICT to the challenge of how to deal with each group. Let’s begin at the bottom, and explain each in turn. 
-
-As we walk our way up the scale, consider the context to be that our organisation is examining the results of an online poll asking visitors to a third-party website to rate the various products in our industry (let’s say it’s the toothpaste segment of the dental hygiene industry just to put some teeth in it and we're Sparkl and our competitor is nuGrill). The results have been summarised by the polling firm and released at a press conference sponsored by nuGrill. This could be damaging to us at Sparkl. The opinions of visitors to the website have been measured in the online survey and the raw data have been contextualised by the polling firm and, worst of all, our competitor, nuGrill, has provided its own spin. 
-
-Though the data has been transformed into information in the context of our competitor’s survey and the analysis by the polling firm, for us, it’s still raw data. In order to make a decision whether to act on the release of the data, we need to put it in our own unique context. The data are inbound per Figure LJLJ. 
-
-We need to contextualise the input data in order to create information sufficient to decide on an action. Here we go, starting from the bottom of the taxonomy. 
-
-#### Non-information
-Non-information is described by Katz as being possibly true (thus perhaps untrue), probably unimportant (perhaps we can ignore it) and/or possibly confusing (not well enough explained or contextualised to allow for understanding). The ICT approach is likely to monitor and filter. If the information is deemed to be of no impact, the ICT response could be to filter it out and remove it from consideration by our company. If deemed potentially relevant, we might conclude that the survey information passes the non-information test, thus we retain it and move up the ladder. Our organisation might have a simple system in place to monitor electronic news services and social media flows looking for keywords (the name *Sparkl Tootpaste* for example, and perhaps negative and positive words in the context). Such monitoring might allow the system to decide whether to move the status of the news item up the scale to alert. News items that fail to meet a minimum criteria would likely be filtered out and not subject to further scrutiny. Thus we are removing potentially *entropic* elements from our data stream. Taking the static off the line. (See under *Disinformation* below for an example of such content monitoring and filtering.)
-
-#### Un-information
-Next up is un-information as we move into the orange zone of importance. This is a curious category indeed, but information here is more important (potentially more impactful) than is non-information. It’s slightly up the *fudge scale* in terms of perceived truth, going from only ‘possibly true’ to ‘probably not untrue’ - talk about a fine distinction! It remains probably unimportant, but has moved up the scale from confusing to possibly interesting. We have then, in this situation, some input data that is at least potentially interesting to us at Sparkl. The ICT response might be to alert the firm to the existence and location of the information, and wait for a knowledge worker (who might be you) to decide whether the information warrants escalation or disposal. This is akin to The Toronto Star's shunting potentially dangerous comments to a siding to wait for a real person to take a look at them. 
-
-Assuming the knowledge worker decided on escalation, a further determination is necessary in order to decide on a response. We need to go up another rung on the ladder into the critical red zone. This is where context and information become critical. 
-
-#### Disinformation
-The first category in the red zone is ‘disinformation’, which Katz characterised as *deliberately not true* and very likely used tactically to intentionally mislead those consuming it. This information might well have been fabricated by our competitor to cast us in a bad light. Imagine the following news release from nuGrill: "nuGrill commissioned independant research agency TellItAll SurveyWorks to survey an accidental sample of toothpaste lovers, asking them to comment on nuGrill and our competitors. The results show that Sparkl tootpaste causes tooth yellowing and bleeding gums!" This activity might even be illegal (libelous), and could be quite damaging to our reputation. In this context, we will want to take some action to protect ourselves. An ICT response could be to provide data to counter the disinformation and disseminate it to our stakeholders in order to protect ourselves from damage. Such information might be in the form of research indicating the whitening properties of our products. 
-
-Indeed, news organisations are continuously on the lookout for potentially damaging posts in the *Comments* section following many news stories (in fact, many online news publications have abandoned comments altogether owing to the near impossibility of monitoring and moderating them). The *Toronto Star*, for example, wrote the following in an editorial piece appearing on their online site on July 23, 2015, regarding such comment sections:
-
-"Our moderation team spends the bulk of its time working on limiting the worst of the worst: racism, threats and personal attacks. This is done with help from readers who flag comments they deem out of line with our community guidelines and *software that scans for keywords we have identified as sensitive, and moves those comments to a ‘disabled’ queue until an editor can read them.*" [*emphasis* added]
-
-#### Misinformation
-If analysis determines that the information released by our competitor nuGrill is not deliberately untrue, it might well be ‘misinformation’, described as definitely not true and important to avoid, in the sense that if the information were considered to be true (even though it is, in fact, *untrue*) any actions taken under the erroneous belief that it *is* true would be inappropriate at least and damaging at worst. This information is toxic and needs to be corrected before inappropriate action is taken by some party believing it to be true. Some party such as Sparkl's customers! The ICT response could be to provide true information to counter the false assertions, which could be automatically provided to our customers through various actions (email, Twitter, Facebook, etc.) made possible by stored electronic customer service records with contact information. 
-
-#### Information
-If the information is deemed to be not untrue (*ergo*, it’s true) then we move to the last level in the scale: information. If we make it up to this level, we know that the information released at the press conference is deemed to contain a true representation of our customers’ opinions of Sparkl and, if released by our competitor nuGrill, the results must be saying either something bad about us or something good about them. Whichever, the information is true and action must be taken to deal with the fallout. Several ICT strategies are possible, including targeted information campaigns designed to bolster our reputation and/or discredit the competition. 
 
 ## Contextualisation and the role of ICT
 We can now provide a little more depth in terms of contextualisation and the role of ICT in the process. Examine Figure LLJJ below. It’s the same figure as LJLJ above, but with the ICT contributions overlaid on each element. 
