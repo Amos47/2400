@@ -5,7 +5,7 @@
    * [Brief](Chapter1/Ch01_Brief.md)
    * [Basics](Chapter1/Ch01_Basics.md)
    * [Backstory](Chapter1/Ch01_Backstory.md)
- * [Chapter 2](Chapter2/README.md)
+* [Chapter 2](Chapter2/README.md)
    * [Brief](Chapter2/Ch02_Brief.md)
    * [Basics](Chapter2/Ch02_Basics.md)
    * [Backstory](Chapter2/Ch02_Backstory.md)
