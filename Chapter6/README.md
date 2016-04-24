@@ -1,0 +1,1 @@
+OMG here's the Ch 6 README.md just like out of nowhere. Enjoy :) 
