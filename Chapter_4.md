@@ -20,24 +20,12 @@ Challengers execute well today or may dominate a large segment, but do not demon
 
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/porter_books.png)
 
-Michael Porter is perhaps the best known of all the business strategy gurus
-You will see and hear reference to him throughout your academic and professional career
-He is perhaps most famous for his work on determining and interpreting what he calls the Five Forces which operate in every for-profit industry
-The 5 Forces (P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of the industry
+Michael Porter is perhaps the best known of all the business strategy gurus you will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he calls the *Five Forces* which operate in every for-profit industry. The 5 Forces (P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of the industry.
 
-Recall that sustainable competitive advantage occurs when an organisation uses organisation-specific resources to accomplish something its rivals cannot 
-It’s having or doing something that your rivals do not have in the way that you have it, or doing something in a way that your rivals cannot match
-But it’s also possible to hedge your competitive bets by buying into the value chain of your competition…
-This is referred to as either forward (on the customer side) or backward (on the supplier side) integration
+Sustainable competitive advantage occurs when an organisation uses organisation-specific resources to accomplish something its rivals cannot. It’s having or doing something that your rivals do not have in the way that you have it, or doing something in a way that your rivals cannot match. But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) or backward (on the supplier side) integration.
 
-There are few substitutes for petGRO’s (or other pet industry) products…
-Remember that a competing product or service in the same industry is not the same thing as a substitute
-So Purina is not a substitute for petGRO – Purina is a competitor
-A substitute for a car is a bicycle or public transit or teleworking or agoraphobia…  
-Owning the rubber company that produces shoe soles and tires for cars, cycles, buses, airplanes and subways is an example; no matter what the substitute, the firm benefits – a strategic involvement in this way is a great hedge against substitutes
-Don’t forget that buying or doing nothing is a substitute
-For example you don’t have to go to a movie. You can decide to just sit around... but a pet, once owned, must be fed. There are laws.
-But what of substitutes? A rope could sub for a leash. A bucket for a water bowl or a cereal bowl for a feed dish and you could feed your pet table scraps or make your own feed or breed cats to feed your dogs and mice to feed the cats and maybe grow peanuts to feed the mice... but really... pet products are fairly unsubstitutable… 
+A competing product or service in the same industry is not the same thing as a substitute. So Purina is not a substitute for Iams – Purina is a competitor. A substitute for a car is a bicycle or public transit or teleworking or agoraphobia. Owning the rubber company that produces shoe soles and tires for cars, cycles, buses, airplanes and subways is an example of hedging in substitutions; no matter what the substitute, the firm benefits – a strategic involvement in this way is a great hedge against substitutes. Don’t forget that buying or doing nothing is a substitute! For example you don’t have to go to a movie. You can decide to just sit around... but a pet, once owned, must be fed. There are laws.
+But what of substitutes? A rope could sub for a leash. A bucket for a water bowl or a cereal bowl for a feed dish and you could feed your pet table scraps or make your own feed or breed cats to feed your dogs and mice to feed the cats and maybe grow peanuts to feed the mice. We are limited only by our inginuity.  
 
 
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/p5f.png)
