@@ -17,7 +17,6 @@
    * [Brief](Chapter4/Ch04_Brief.md)
    * [Basics](Chapter4/Ch04_Basics.md)
    * [Backstory](Chapter4/Ch04_Backstory.md)
-* Chapter 4
 * [Chapter 5](Chapter_5.md)
 * [Chapter 6](Chapter_6.md)
 * [Chapter 7](Chapter_7.md)
