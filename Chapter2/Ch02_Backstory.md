@@ -80,3 +80,98 @@ The important concepts were **bolded** in the definitions above by me. Let’s l
 3. *Experience* – comes from observation of the results of actions, which flow from decisions fuelled by actions as a result of information produced from data in a context
 4. Situation – a synonym for context
 
+### Data architecture
+
+How do we go about ensuring that optimal contexts are built, within which we generate the most valuable information? The answer is *data architecture* and perhaps in the broader field of *information architecture*. Our online Business Dictionary defines *data architecture* as:
+
+"Models, policies, rules, or standards that govern which data is collected, and how it is stored, arranged, and put to use in a database system, and/or in an organization."
+
+[If you are interested, make sure to follow each link for the related definitions!](http://www.businessdictionary.com/definition/data-architecture.html)
+
+What does all this mean for us? It means that we need to carefully think about *which* data to collect, *how* we will collect it, how we will *store* it and how we will *retrieve* it in order that it will contribute to our decision-making context. We will return to this general topic when we discuss databases and related technology in a subsequent chapter. 
+
+For now, imagine a survey with only one question: "So, what do you think?" Administering this survey to a sample of your cohort would lead to all kinds of rich data, wild imaginings and likely some quite pointed suggestions about what we can do with our *survey*. The data we get in response might well be interesting, but not at all targeted to anything. People would be looking for a context. "What do I think about WHAT?" In fact, I went to the trouble of creating such a survey on a public survey service site but thought better of it... I can imagine the results. It is this principle which guides us in architecting our data collection, storage and retrieval plans for an organisation. We must specify what questions we will need to answer:
+
+- about our organisation when it comes time to account for our activities
+- to determine how we are performing
+- to understand our place in the market
+- to determine how to move forward
+- in reply to our employees, customers, stakeholders, regulators, partners and even competitors
+  
+In this regard, organisations must carefully consider their data strategy. But we must also be aware that simply saving everything in every possible format *just in case* is not a wise strategy either. The burden would be onerous, the data would be monstrous, the information generated from it redundant and perhaps even contradictory. The cost would soon far outweigh the benefits. Rather, an intelligent strategy to specify what data will be required in what volume at what frequency and in which format(s) is the best way forward. 
+
+[Interested?](http://www.itworldcanada.com/article/canada-has-a-dark-data-problem-and-its-getting-worse-veritas/381631)
+
+[McKinsey](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning "Machine Learning") had this to say on the subject of whom should be responsible for *marshalling data* in the organisation:
+
+"Access to troves of useful and reliable data is required for effective machine learning, such as [IBM *Jeopardy!*-winning supercomputing cluster] Watson’s ability, in tests, to predict oncological [cancer] outcomes better than physicians or Facebook’s recent success teaching computers to identify specific human faces nearly as accurately as humans do. A true data strategy starts with identifying gaps in the data, determining the time and money required to fill those gaps, and breaking down silos [see our discussion of the ERP organisation [(take me there)](#erp_org). Too often, departments hoard information and politicize access to it—one reason some companies have created the new role of chief data officer [CDO as opposed to Chief Information Officer (CIO)] to pull together what’s required. Other elements include putting responsibility for generating data in the hands of frontline managers."
+
+### Information Theory 
+This all leads to thinking about how to think about information, and for this, we need to dig a bit deeper. Here we go. 
+
+Our business dictionary defines Information Theory as: "Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the 'meaning' of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception."
+
+[Interested?](http://www.businessdictionary.com/definition/information-theory.html)
+
+To really understand Shannon and Weaver (and a guy named Weiner), we need to look a little more deeply into the theory of information.
+
+<a name="entropy"></a>
+### Entropy and organisation and *potential* information
+From another relatively old (1998) but still [excellent piece](http://www.sveiby.com/articles/Information.html), we find an introduction to the concept of *entropy*. 
+
+“In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals [a] high level of chaos.”  
+
+Thus for decision making, entropy is the enemy. Entropy is *junk on the signal or static on the line.* It thwarts our efforts to make sense of a data transmission and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the **volume** of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question and to guide action.
+
+Though this article is too dense to make it an [Interested?] link, it raises some crucial points. Specifically that “The word information is derived from Latin *informare* which means "give form to". [...] Most people tend to think of information as disjointed little bundles of 'facts'. In the Oxford definition of the word it is connected both to knowledge and communication. [...] The way the word information is used can refer to both 'facts' in themselves and the transmission of the facts.”
+
+The author continues. “The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: 'Cybernetics or Control and Communication in the Animal and the Machine'. Cybernetics was thus attached to biology from the beginning.
+
+"Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...] "The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation. [...]
+
+Thus *entropy* = *disorganisation* = *information*. How odd. How can *dis*organisation yield more *information*? It is because *disorganisation* can produce richer interpretation in that it allows for various different conclusions about the actual message or meaning of the data. But this disorganisation is the enemy of tactical decision making. The process of organising information reduces *dis*organisation in that superfluous elements (not related to a particular context, for example) are removed, yielding more targeted and focused data. 
+
+We can also easily imagine how this notion jives with our contention that systems only add value if they either reduce input or augment output. The more parsimonious we are in architecting our data for specific purposes, the less input will be required in any specific context. Thus thinking about data is important, and planning its collection, storage and retrieval is pivotal to efficiency. Think of this as a geologist would inasmuch as more pure ore makes it easier to produce steel - there is less to discard. Or the more pure and clean a cell transmission is, the better our understanding of the conversation.  
+
+"What is information and how is it measured? Wiener defines it as a probability: One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the **negative** of the quantity usually defined as entropy in similar situations." (article author’s bold)
+
+The author continues: "Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a 'black box', for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc."
+
+I will now muddy the already turbid water by introducing an opposing viewpoint, that of Claude Shannon, an eminent information scientist working at AT&T (the US telephone people) in the 1950s. The author writes:
+
+"The other scientist connected with information theory is Claude Shannon. He was a contemporary of Wiener and as an AT&T mathematician he was primarily interested in the limitations of a channel in transferring signals and the cost of information transfer via a telephone line. He developed a mathematical theory for such communication in *The Mathematical Theory of Communication*, (Shannon & Weaver 1959). Shannon defines information as a purely quantitative measure of communicative exchanges."
+
+So Shannon wasn't interested in *what* was communicated as much as he was in the *occurrence* or *volume* of communication. It's not *what* for him, but *that*. The author continues:
+
+"[...] based on Shannon it does not matter whether we are communicating a fact, a judgment or just nonsense. Everything we transmit over a telephone line is 'information'. The message 'I feel fine' is information, but 'ff eeI efni' is an equal amount of information."
+
+Note that the message (we cannot say the 'intended message' as we do not know the intention of the sender when sending it) 'I feel fine' is *almost* an anagram of the gibberish 'ff eeI efni' (one extra 'f' and no 'l'), but there may be other possible combinations of letters and spaces that would yield other equally viable messages *in this context*. For Shannon there is information richness in this disorganisation. The potential for many messages means there is more raw information in the message. As we will see, for business, this isn't a good thing. 
+
+In Shannon's defence, the author goes on to write that "Shannon is said to have been unhappy with the word 'information' in his theory. He was advised to use the word 'entropy' instead, but entropy was a concept too difficult to communicate so he remained with the word. Since his theory concerns only transmission of signals, Langefors (1968) suggested that a better term for Shannon’s information theory would therefore perhaps be 'signal transmission theory'."
+
+But we have a problem here. How can one theorist describe information as *organisation* and another describe it as *disorganisation*? The article continues with:
+
+“Weaver, explaining Shannon’s theory in the same book: Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty, greater information go hand in hand.”
+
+Here comes the contradiction...
+
+“There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a 'structured piece of the world', Shannon's information is the same as (positive) entropy. This makes Shannon's ‘information’ the opposite of Wiener's ‘information’."
+
+For Shannon, the content of a message (which he calls *information* but which I call *potential* information or simply *data*) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in *that* data was sent and not *what* data was sent. Shannon did not care *what* people were talking about on the phone but only *that* they were talking. The volume of data transmitted was more important than the actual content. 
+
+And this makes sense if you think about it, from the point of view of a telephone conversation. Imagine you are in a phone call. In the background, you have music playing loudly enough for the other party to hear. While the music is not part of the conversation, *per se*, it becomes an element of the message being sent from you to the other party. It’s background and contributes to the richness of the signal.
+
+But that music does *not* contribute to the clarity of the conversation. Music is competition for understanding the spoken word. 
+
+Thus for Shannon, the more *entropy* (disorder – as in background music), the more disorganisation (lack of focus) and therefore the more *potential* interpretations could be made as a result of the message. If the background music was too loud, for example, the *intended message* might become garbled or unintelligible. This is not helpful for us in business, where we rely on *targeted* almost *surgical* messaging in order to make decisions that result in positive outcomes. This is especially true in information systems, where *interpretation* is not a particularly strong suit of software. Systems are rule based for the most part. They don't interpret well. Yet. 
+
+Weiner, on the other hand, saw information as *negative entropy*, or positive organisation with structure, interpretability, less equivocation and noise and more certainty. This is the kind of message that business communication requires. Straightforward and to the point. No guessing about the information content of a data stream. *Less input for a given output.*
+
+Entropy is the friend of *data volume* but the enemy of good *decision making*. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. Understanding is critical.
+
+Thus Weiner is our man. We care both *that* messaging is occurring and *what* is being messaged. But Shannon was an inspiring academic. You’ll see reference to him in the section on ASCII. 
+
+[Interested?]( http://www.kerryr.net/pioneers/shannon.htm)
+
+####Takeaways
+Business requires careful planning of its data gathering efforts in order to collect clean, precise and intelligible data that covers its business intelligence needs. Data Scientists, Information and Data Architects and others are tasked with desiging data-gathering regimes to allow for data to be turned into actionalbe information that will drive decisions and reduce error around predicted outcomes. Business needs clean, non-noisy data and it's not an easy task to engineer it. 
