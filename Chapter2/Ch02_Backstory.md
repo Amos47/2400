@@ -175,3 +175,80 @@ Thus Weiner is our man. We care both *that* messaging is occurring and *what* is
 
 ####Takeaways
 Business requires careful planning of its data gathering efforts in order to collect clean, precise and intelligible data that covers its business intelligence needs. Data Scientists, Information and Data Architects and others are tasked with desiging data-gathering regimes to allow for data to be turned into actionalbe information that will drive decisions and reduce error around predicted outcomes. Business needs clean, non-noisy data and it's not an easy task to engineer it. 
+
+###Digital vs. Analog
+The distinction between the concepts of *analog* and *digital* is important here. The difference between them is akin to the difference between an integer (whole) number and a real number (with decimal precision of varying degrees). Analog is the *real numbers* of nature. Analog is the subtle curve and continuous and apparently seamless change we witness all around us; so subtle that sometimes it’s impossible to tell where one thing ends and another begins. We all know what a leaf is and what a branch is, but at which exact point does a branch become a leaf? This is analog. 
+
+Consider colour. In Figure ECC below, we see colour represented in two different ways, as discrete swatches representing the ROYGBIV colours of the rainbow and then, below that, as a continuum of those visible colours. 
+
+**Figure ECC. Illustrating the difference between analog and digital**
+
+![Analog and digital](https://raw.githubusercontent.com/robertriordan/2400/master/Images/analog_digital.png)
+
+We can (most of us – some people suffer with some form of colour blindness [Interested?]( http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/)) easily discern the difference between red and orange, or orange and yellow from among the boxes in the top row of Figure ECC. And we could equally easily point to a green region or a blue region in the continuous strip of colour beneath. The challenge becomes specifying the point at which yellow becomes green, or exactly where indigo becomes violet. Try and pinpoint the exact location where yellow disappears and becomes green as we move left to right. The continuous nature of the colour strip makes it difficult to nail anything down, in fact. 
+
+The colours in the upper box are represented using a specific method of reproducing colour called the RGB method, standing for Red, Green, Blue, two of the three primary colours. All colours, using this method, are produced as a function of mixing more or less of each of these three on a scale from 0 to 255. So the RGB for the colour red is 255, 0, 0. The maximum red (255) and no green or blue. Green is 0, 255, 0 and blue, 0, 0, 255. Of course there are plenty of shades and hues between these values, and indigo and violet off the right end of the spectrum are entities unto themselves. 
+
+It doesn’t matter to us how this or other colour representation methods (such as CMYK, Pantone, etc.) actually work. What matters is that the continuous colour scale represented by the visible spectrum of the rainbow can be *sampled* and *digitised* such that we can work with it in a discrete way. The RGB scale itself produces tints and shades between which the naked eye could not discern. I challenge you to distinguish an RGB of 255, 0, 0 from 254, 0, 0. It would take an expensive display device to even produce and display an image capable of allowing us to discern that difference – but our eyes must be able to work at that level of precision. The message being, at some point or at some resolution, a digital representation becomes just as good as an analog one. It’s just as good because *we can’t tell the difference*. I’m not saying *better* or more *natural* but rather *just as good* for certain purposes. Take a look at Figure JP below. 
+
+**Figure JP. Subtle differences in RGB**
+
+![Can you tell the difference?](https://raw.githubusercontent.com/robertriordan/2400/master/Images/rgb.png)
+
+The four reds are, for certain, red. The normally-sighted would have no trouble identifying each and all as being of the colour red from among the other colours of the visible spectrum. But the differences within the range of red are more difficult to detect. The leftmost (labeled 255) is the same red as in Figure ECC. I have altered the amount of red first from the max to 254, then to 245 and then to 225. The difference between 255 and 254 is so slight that it is nearly impossible to detect at the resolution of that figure on any of my devices or monitors with my eyes (such as they are). *Perhaps a slightly darker tint?* We begin to see a subtle but discernible difference at 245 (a clearly darker tint) while the difference at 225 is quite noticeable. For some purposes, a specific red of a specific hue might be required. For the vast majority of others, any of these reds will do. We would all stop at a traffic light if it showed any of these reds. And that’s the point. In some contexts, *any red* is good enough.
+
+Imagine now, sensing the difference between an RGB value of 255, 0, 0 and 254.5460274, 0, 0. Only in the most exacting and demanding of scientific or engineering contexts would such a difference be important (you see the use of *context* here as a *situation* in which certain things, such as precision, are critical). In 99.999999999999999% of cases where the two were compared, it would make no difference. We can *model* the analog nature of nature and get a *good enough* representation on a digital scale. 
+
+Let's look at this a different way. First of all, try with all your might not to scroll down more than one image at a time below so that the *reveal* can be properly done. Take a look at the image in Figure AGST1 below:
+
+**Figure AGST1. Maximum pixilation**
+
+![Maximum pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_25.png)
+
+Can you decipher anything about it? Other than some basic colours, it's pretty difficult to say what the image represents. Below, the image will increasingly come into focus with each subsequent figure.
+
+**Figure AGST2. Reduced pixilation**
+
+![Level 4 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_20.png)
+
+Is this one any more helpful? There are some slight clues, but really, there's not enough data here to allow for a definitive choice between a deformed potato or a camel at rest. Which is it?
+
+**Figure AGST3. Reduced pixilation**
+
+![Level 3 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_15.png)
+
+Here you might be starting to get an idea of what the image represents. A head is perhaps discernable if those black patches are eyes. Could well be an animal, but which animal and in what orientation to the horizon?
+
+**Figure AGST4. Reduced pixilation**
+
+![Level 2 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_10.png)
+
+Figure AGST4 is lilely good enough for most applications. Perhaps if you were the pet owner, you'd want a better resolution in order to be able to decide if it was actually *your* cat or a similarly-sized and -coloured one. But in general, this resolution is *good enough* for most purposes. We don't need, except in very specific contexts, to spend the resources to reporduce an exact image of this kitten. It's already *good enough*. 
+
+**Figure AGST5. Reduced pixilation**
+
+![Level 1 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_5.png)
+
+Sharper still, this image is almost at a resolution where it's not necessary to go beyond. But we shall.
+
+**Figure AGST6. Original - No pixilation**
+
+![Level 0 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_0.png)
+
+Figure AGST6 above is the original image. 
+
+*Photo credit: https://sites.psu.edu/siowfa15/2015/10/21/cats-and-their-magic-power/*
+
+This little exercise is pertinent not only to our discussion of just-noticeable difference in this chapter, but also to our treatment of level of measurement in Chapter 1. It will be revisited when we discuss *granularity* in Chapter 3. Thus the notion of *resolution* or *fidelity* or *granularity* is important in the study of information systems. It's a matter of having the right amount of data, measured with the right precision and located in the correct context in order to make decisions. 
+
+I’m hoping that by this point you are starting to see the light. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the *real thing* and the binary/digital representation of it such that, well, it doesn’t matter at all. Witness Apple’s *retina display* which Apple claims to be so close to analog that our retinae are incapable of discerning anything finer. We can’t tell the difference. And that means it's good enough.
+
+And what self-respecting chapter on this topic would be complete without a reference to the Keanu Reeves / Lawrence Fishburne epic movie series *The Matrix*, first released in 1999, written and directed by The Wachowski Brothers? 
+
+[Wikipedia Interested?]( http://en.wikipedia.org/wiki/The*Matrix) and/or [IMDB Interested?](http://www.imdb.com/title/tt0133093/?ref*=nv*sr*1)
+
+And just to throw a wrench into the works, the notion of human *spirit* and a *soul* play large in this debate. If everything analog can ultimately be represented by a series of bits to the point where we can’t tell the difference, then are people simply hugely complex binary machines, as are computers, made up of such minute and many binary objects that we simply can’t *yet* detect and measure them? Is the analog nature of nature just digital at such a fine level of precision that we simply haven’t seen it yet?  Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) 
+
+**Time for an [XKCD](http://xkcd.com/1519/ "XKCD Venus").**
+
+![XKCD Screaming bird of truth](http://imgs.xkcd.com/comics/venus.png)
