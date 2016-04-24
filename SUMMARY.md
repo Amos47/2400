@@ -21,5 +21,11 @@
    * [Brief](Chapter5/Ch05_Brief.md)
    * [Basics](Chapter5/Ch05_Basics.md)
    * [Backstory](Chapter5/Ch05_Backstory.md)
-* [Chapter 7](Chapter_7.md)
-
+* [Chapter 6](Chapter6/README.md)
+   * [Brief](Chapter6/Ch06_Brief.md)
+   * [Basics](Chapter6/Ch06_Basics.md)
+   * [Backstory](Chapter6/Ch06_Backstory.md)
+* [Chapter 7](Chapter7/README.md)
+   * [Brief](Chapter7/Ch07_Brief.md)
+   * [Basics](Chapter7/Ch07_Basics.md)
+   * [Backstory](Chapter7/Ch07_Backstory.md)
