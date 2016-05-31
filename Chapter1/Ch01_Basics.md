@@ -26,7 +26,7 @@ I have a couple of comments on these web musings. To begin, the assertion regard
 
 The Wikipedia article goes on that “If, however, the premise of 'influence' implies that information has been perceived by a conscious mind and also interpreted by it, the specific context associated with this interpretation may cause the transformation of the information into knowledge.” This is where you and I come in. We are the interpreters. The article continues that “Complex definitions of both 'information' and 'knowledge' make such semantic and logical analysis difficult, but the condition of 'transformation' is an important point in the study of information as it relates to knowledge.”
 
-No need to fully digest of understand this just yet. We will spend some time on such transformation and why it’s important for business. 
+No need to fully digest or understand this just yet. We will spend some time on such transformation and why it’s important for business. 
 
 The article maintains that: “In this practice, tools and processes are used to assist a knowledge worker in performing research and making decisions, including steps such as [my comments in parens]:
 
