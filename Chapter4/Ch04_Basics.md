@@ -33,7 +33,7 @@ Before talking about Porter's Five, we need to first dig a bit into what is comp
 **Figure KTSB. COmpetitive advantage - the circle approach
 
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/comp_strat.png)
-Let's unpack the circles. There are circles for your firm (You), the customers in your market (Customers) and your competitors in the market (Competitors). Prett straight forward. Each circle represents the interests (customers) and capabilities (you and your competitors) of the players in this marketplace.  
+Let's unpack the circles. There are circles for your firm (You), the customers in your market (Customers) and your competitors in the market (Competitors). Pretty straight forward. Each circle represents the interests (of customers) or capabilities (of you and your competitors) of the players in this marketplace. 
 
 But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) or backward (on the supplier side) integration.
 
