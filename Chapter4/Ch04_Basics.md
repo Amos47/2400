@@ -28,14 +28,12 @@ Michael Porter is perhaps the best known of all the business strategy gurus. You
 ###Competitive advantage
 
 Before talking about Porter's Five, we need to first dig a bit into what is competitive advantage. 
-*Sustainable* (and the sustainable part is important) competitive advantage occurs when an organisation uses organisation-specific resources to accomplish something its rivals cannot. It’s having or doing something that your rivals do not have in the way that you have it, or it's doing something in a way that your rivals cannot match. It's what you are best at. It's why your customers buy from you and not from the others in the market. Some examples of competitive advantage:
+*Sustainable* (and the sustainable part is important) competitive advantage occurs when an organisation uses organisation-specific resources to accomplish something its rivals cannot. It’s having or doing something that your rivals do not have in the way that you have it, or it's doing something in a way that your rivals cannot match. It's what you are best at. It's why your customers buy from you and not from the others in the market. As an example of competitive strategy, let's say you own a steel mill and you located it in close proximity to deposits of both coal (as an input to coke to heat your blast furnaces) and iron ore, a big part of steel production. Your costs will be lower, all other things being equal, than your competitors who must pay transportation and storage costs for their inputs. They can't compete with you on price because ypour cost structure is lower. They either have to take a lower margin or find some other way to  demonstrate value to the market. In this case, you are the low cost/price provider. Take a look at Figure KTSB.
 
-1. Cost competitive advantage - Let's say you own a steel mill and you happen to be located in close proximity to deposits of both coal (as an input to coke to heat your blast furnaces) and iron ore, a big part of steel production. YOur costs will be lower, all other things being equal, than your competitors who must pay transportation and storage costs for their inputs. Your competitors can't compete with you on price because ypour cost structure is lower. They either have to take a lower margin or find some other way to  demonstrate value to the market. IN this case, you are the low cost/price provider. 
-2. Pricing power (sometimes called Market power) - A company that can increase their selling price with little regard for what others in the market are charging is said to have pricing power. Such firms usually operate in markets with a low threat of new entrants (for a variety of reasons) and ahve a secure following of devotees. Apple might be said to have such an advantage.  
-3. 
+**Figure KTSB. COmpetitive advantage - the circle approach
 
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/comp_strat.png)
-
+Let's unpack the circles. There are circles for your firm (You), the customers in your market (Customers) and your competitors in the market (Competitors). Prett straight forward. Each circle represents the interests (customers) and capabilities (you and your competitors) of the players in this marketplace.  
 
 But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) or backward (on the supplier side) integration.
 
