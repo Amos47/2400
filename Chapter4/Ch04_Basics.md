@@ -1,43 +1,28 @@
 # Chapter 4 - The corporate side #
 
-### In which we discuss strategy, Porter, value chain, IT decision making models and corporate governance (and it'll be fun... sort of...)
+#### In which we discuss competitive advantage, Porter, strategy, the value chain, IT decision making models, corporate governance and how and where ICT fits into the organisation (and it'll be fun... sort of...)
 
-http://www.gartner.com/technology/research/methodologies/research_mq.jsp
-
-How does a Gartner Magic Quadrant Work?
-
-A Magic Quadrant provides a graphical competitive positioning of four types of technology providers, in markets where growth is high and provider differentiation is distinct:
-
-Leaders execute well against their current vision and are well positioned for tomorrow.
-
-Visionaries understand where the market is going or have a vision for changing market rules, but do not yet execute well.
-
-Niche Players focus successfully on a small segment, or are unfocused and do not out-innovate or outperform others.
-
-Challengers execute well today or may dominate a large segment, but do not demonstrate an understanding of market direction. 
-
-
-
-![Porter](https://raw.githubusercontent.com/robertriordan/2400/master/Images/porter_books.png)
-
-Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he calls the *Five Forces* which operate in every for-profit industry. The 5 Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry. See Figure KYSA below.
-
-**Figure KYSA: Porter's Five Forces (P5F)**
-
-![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/p5f.png)
 ###Competitive advantage
 
 Before talking about Porter's Five, we need to first dig a bit into what is competitive advantage. 
-*Sustainable* (and the sustainable part is important) competitive advantage occurs when an organisation uses organisation-specific resources to accomplish something its rivals cannot. It’s having or doing something that your rivals do not have in the way that you have it, or it's doing something in a way that your rivals cannot match. It's what you are best at. It's why your customers buy from you and not from the others in the market. As an example of competitive strategy, let's say you own a steel mill and you located it in close proximity to deposits of both coal (as an input to coke to heat your blast furnaces) and iron ore, a big part of steel production. Your costs will be lower, all other things being equal, than your competitors who must pay transportation and storage costs for their inputs. They can't compete with you on price because ypour cost structure is lower. They either have to take a lower margin or find some other way to  demonstrate value to the market. In this case, you are the low cost/price provider. Take a look at Figure KTSB.
+*Sustainable* (and the sustainable part is important) competitive advantage occurs when an organisation uses organisation-specific resources to accomplish something its rivals cannot. It’s having or doing something that your rivals do not have in the way that you have it, or it's doing something in a way that your rivals cannot match. It's what you are best at. It's why your customers buy from you and not from the others in the market. 
+
+As an example of competitive advantage, let's say you have located your steel mill (everybody owns a steel mill, right?) in close proximity to deposits of both coal (as an input to coke which provides fuel for your blast furnaces) and iron ore, an important raw ingredient for steel production. Your costs will be lower, all other things being equal, than your competitors because they must pay transportation and storage costs for their inputs. They can't compete with you on price because your cost structure is lower. They either have to take a lower margin or find some other way to demonstrate value to the customer. In this case, you are the low cost/price provider. Take a look at Figure KTSB.
 
 **Figure KTSB. Competitive advantage - the circles of life**
-
 ![Competitive advantage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/comp_strat.png)
-Let's unpack the circles. There is one for your firm (You), for the customers in your market (Customers) and for your competitors in the market (Competitors). Pretty straight forward. Each circle represents either the interests (customers) or the capabilities (of you and your competitors) in this marketplace. So the things that matter to your custmers are within their circle. The things that you are good at are within your circle, and the things that your competition is/are good at are in their circle. This is a fairly uncomplicated marketplace. But what's important is where the circles overlap, not unlike Venn Diagrams and set theory in mathematics. The *sweet spot* for your firm is area A. Your capabilities overlap with your customers' needs, but are out of reach for your competitors. Similarly, the sweet spot  for your competitors is area C. Here, you have nothing in common with your customers and they have no reason to buy from you. The only other potential area to be in is area C, but here, you are competing head-to-head with your competitors. Both you and your competitor are good at the same thing that your customer is interested in. This leads to competition on price, and Porter will tell you this is the death knell of an industry. When every little efficiency has been wrung out of an industry and every firm does the same thing in the same way in order to save a nickel, well, all that's left is to try and undercut your competition by taking lower margins. They do the same, and you respond and, before long, you're both broke or your workforce has been driven to leave. But competition is the onrm in the real world. You might have a little edge here, a bit of an advantage there, but so do your competitors. It's then all about convincing your customers that your value proposition is the best one. 
+Let's unpack the circles. There is one for your firm, for the customers in your market and for your competitors in the market. Pretty straight forward. The circles represent either the interests (customers) or the capabilities (of you and your competitors) in this marketplace. So the things that matter to your custmers are within their circle. The things that you are good at are within your circle, and the things that your competition is/are good at are in their circle. This is a fairly uncomplicated marketplace. But not unlike Venn Diagrams and set theory in mathematics, what's important is where the circles *overlap*. The *sweet spot* for your firm is area A. Your capabilities overlap with your customers' needs, but are out of reach for your competitors. Similarly, the sweet spot for your competitors is area C. Here, you have nothing your customers want and they have no reason to buy from you. The only other potential area to be in is area C, but here, you are competing head-to-head with your competitors. Both you and your competitors are good at the same thing that your customer is interested in. This leads to competition on price, and Porter will tell you this is the death knell of an industry. When every little efficiency has been wrung out of an industry and every firm does the same thing in the same way in order to save a nickel, well, all that's left is to try and undercut your competition by taking lower margins. They do the same, and you respond and, before long, you're both broke or your workforce has been driven to leave. But competition is the norm in the real world. You might have a little edge here, a bit of an advantage there, but so do your competitors. It's then all about convincing your customers that your value proposition is the best one. 
 
-Your challenge, however, is to move your firm into area A and to *stay there*.
+Our interest is in how to leverage technology to in order to move your firm into area A and to *keep it there*.  
 
 [Interested?](https://sopinion8ed.wordpress.com/2012/11/23/the-coca-cola-business-model-and-their-competitive-advantage/)
+
+###Porter's Five Forces (P5F)
+![Porter](https://raw.githubusercontent.com/robertriordan/2400/master/Images/porter_books.png)
+
+**Figure KYSA: Porter's Five Forces (P5F)**
+![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/p5f.png)
+
 
 But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) 
 
@@ -50,6 +35,9 @@ But what of substitutes? A rope could sub for a leash. A bucket for a water bowl
 
 
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/frontier.png)
+##Strategy
+
+Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he calls the *Five Forces* which operate in every for-profit industry. The 5 Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry. See Figure KYSA below.
 
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
