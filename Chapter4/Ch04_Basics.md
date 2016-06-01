@@ -270,31 +270,31 @@ You are probably already guessing what the ultimate fix might be, and that is th
 
 ![An ERP organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/erp.png)
 
-While this is a *massive* oversimplification of all the benefits or ERP, it serves to illustrate its most basic principle: that a transaction should be *atomic*, that is, there should only ever be one instance of a thing such as a *sale*. The sale, as an *entity*, should make its way through the organisational value chain but should never exist anywhere other than in the value area in which it resides. So there should not be an instance of the sale in Accounting, and in Finance, and in Sales and in Shipping. There is only ever *one* sale. We can track its position but never copy it. Because a sale, like any other object in an organisation, has a lifetime. We can watch it and interact with it and query it to ask what it's up to through its lifetime but we must never clone it to fulfil the siloed needs of functional areas. And enterprise database *backends* help to fulfil this very basic requirement. We will discuss *backends* in Chapter [system development].
+While this is a *massive* oversimplification of all the benefits or ERP, it serves to illustrate its most basic principle: that a transaction should be *atomic*, that is, there should only ever be one instance of a thing such as a *sale*. The sale, as an *entity*, should make its way through the organisational value chain but should never exist anywhere other than in the value area in which it resides. So there should not be an instance of the sale in Accounting, and in Finance, and in Sales and in Shipping. There is only ever *one* sale. We can track its position but never copy it. Because a sale, like any other object in an organisation, has a lifetime. We can watch it and interact with it and query it to ask what it's up to through its lifetime but we must never clone it to fulfil the siloed needs of functional areas. And enterprise database *backends* help to fulfil this very basic requirement. We will discuss *backends* in Chapter 7.
 
 What are the benefits of Enterprise Systems (such as ERP)? According to Rick Mullin, *ERP Users Say Payback is Passé*, (Chemical Week, Feb. 24, 1999) as quoted in CGA stuff waiting for permission, they are plenty: 
 
-- inventory reduction 
-- personnel reduction 
-- productivity improvement 
-- order management improvement 
-- financial close cycle reduction 
-- procurement cost reductions 
-- cash management improvements 
-- revenue increases 
-- transportation/logistics cost reduction 
-- maintenance reduction 
-- on-time delivery improvements 
-- information visibility 
-- improved processes 
-- customer responsiveness 
-- cost reduction 
-- integration 
-- standardization 
-- flexibility 
-- globalization 
-- improved business performance 
-- supply chain management
+- Inventory reduction 
+- Personnel reduction 
+- Productivity improvement 
+- Order management improvement 
+- Financial close cycle reduction 
+- Procurement cost reductions 
+- Cash management improvements 
+- Revenue increases 
+- Transportation/logistics cost reduction 
+- Maintenance reduction 
+- On-time delivery improvements 
+- Information visibility 
+- Improved processes 
+- Customer responsiveness 
+- Cost reduction 
+- Integration 
+- Standardization 
+- Flexibility 
+- Globalization 
+- Improved business performance 
+- Supply chain management
 
 What's not to love? 
 
