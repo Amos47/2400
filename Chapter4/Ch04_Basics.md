@@ -248,9 +248,6 @@ In siloed organisations, even the sharing of information *between* functional ar
 
 The fix for this dilemma is described in the Backstory for Chapter 4. Take a read.
 
-
-xxx
-
 ##### ERP vendors
 
 There are several large vendors of these enormously complex systems, and some of the names of the players in this market will be familiar to you. You may or may not know that the world’s largest provider of enterprise application software is not Microsoft or Apple of even IBM. It’s *SAP*, a large German software house, started by former employees of IBM. 
