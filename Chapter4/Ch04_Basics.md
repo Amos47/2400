@@ -37,6 +37,8 @@ Let's unpack the circles. There is one for your firm (You), for the customers in
 
 [Interested?](https://sopinion8ed.wordpress.com/2012/11/23/the-coca-cola-business-model-and-their-competitive-advantage/)
 
+But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) 
+
 But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) or backward (on the supplier side) integration.
 
 A competing product or service in the same industry is not the same thing as a substitute. So Purina is not a substitute for Iams – Purina is a competitor. A substitute for a car is a bicycle or public transit or teleworking or agoraphobia. Owning the rubber company that produces shoe soles and tires for cars, cycles, buses, airplanes and subways is an example of hedging in substitutions; no matter what the substitute, the firm benefits – a strategic involvement in this way is a great hedge against substitutes. Don’t forget that buying or doing nothing is a substitute! For example you don’t have to go to a movie. You can decide to just sit around... but a pet, once owned, must be fed. There are laws.
