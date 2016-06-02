@@ -49,8 +49,7 @@ Let's first deal with a potential controversy. You might have heard (more likely
 
 [Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
 
-### Back to the Big Three
-With all the measurement issues behind us, we now need to carefully define what each of *data*, *information* and *knowledge* means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
+We need to carefully define what each of *data*, *information* and *knowledge* means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
 
 ### Data
 
@@ -222,7 +221,7 @@ What then of the overlap between information and technology? What exactly is it?
 
 [Interested?](http://openbookproject.net/courses/intro2ict/history/history.html)
 
-## Pillar 2: Is what we are examining a tangible or an intangible?
+## Pillar 2: Is it tangible or intangible?
 
 This distinction is larger and more important than the traditional one made in most introductory information system classes. We were wont to say that tangible things are those with a physical presence that we can touch, such as a computer or a smartphone. Intangible was something that, while it exists, cannot be weighed, measured or directly detected, such as software or a computer service such as email. You can weigh a smartphone, but how much does email weigh? What are its dimensions? If measurable at all, its measurement is in terms of counts, such as email sent and received, or a measure of quality such as delivery speed. 
 
@@ -369,41 +368,6 @@ If you are interested in *Supply Chain Management* you might find BPM to be of i
 
 ### What *real problems* can technology solve? 
 A real problem is one that either has input or output challenges – and we know by now that those are the *only* challenges. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). Thus in this book and this course we will examine at each juncture in discussing a piece of technology (whether it is personal productivity software or social media or an enormous enterprise system) whether the technology can be demonstrated to either reduce the cost of inputs or increase the value of outputs. If not, it simply is a waste of time and effort.
-
-## Pillar 4: Does this product/service/technology lead to a sustainable competitive advantage?
-
-This is developed in the context of both PERSONAL Competitive Advantage (such as FB or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE Competitive Advantage (easier to define but must also encompass not-for-profit and government services). TK
-
-### What is competitive advantage?
-All of us, every minute of every day, are in competition for scarce resources. Though not particularly *culturally inclusive*, Wikipedia (accessed June 12, 2015) has this to say on the subject [emphasis added]:
-
-"Competition in biology and sociology, is a contest between organisms, animals, individuals, groups, etc., for territory, a niche, or a location of resources, for resources and goods, mates, for prestige, recognition, awards, or group or social status, for leadership. Competition is the opposite of cooperation. It arises whenever at least two parties strive for a goal which cannot be shared or which is desired individually but not in sharing and cooperation. Competition occurs naturally between living organisms which co-exist in the same environment. For example, animals compete over water supplies, food, mates, and other biological resources. Humans compete usually for food and mates, though when these needs are met deep rivalries often arise over the pursuit of wealth, prestige, and fame. **Competition is also a major tenet of market economies and business is often associated with competition as most companies are in competition with at least one other firm over the same group of customers**, and also competition inside a company is usually stimulated for meeting and reaching higher quality of services or products that the company produce or develop."
-
-[Interested?](https://en.wikipedia.org/wiki/Competition)
-
-The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") website offers a word picture on the term:
-
-**Figure TTT. Definition of competition from Visual Thesaurus**
-
-![Competition](https://raw.githubusercontent.com/robertriordan/2400/master/Images/competition.png)
-
-In discussing competition in the business context, we usually consider the struggle for *competitive advantage*. The online Business Dictionary offers the following definition:
-
-"A superiority gained by an organization when it can provide the same value as its competitors but at a lower price, or can charge higher prices by providing greater value through differentiation. Competitive advantage results from matching core competencies to the opportunities."
-
-[Interested?](http://www.businessdictionary.com/definition/competitive-advantage.html)
-
-Broadly scoped, competition can be understood as anything that could otherwise occupy customers' time or money, *including doing nothing.* In order to sustain long-term profitability, a firm must respond strategically to competition and that’s just as much about creating value as it is about being efficient and effective. But just looking at your direct competitors is completely inadequate. Buyers can play you against your rivals to drive prices down. Suppliers can constrain profits with high prices. New entrants can bring new technology and synergies to bear, ratcheting up the investment required to remain competitive. Substitute offerings (even from outside your own industry) can lure customers away. These are Porter’s Five Forces. [Source: BUSI 3800 course notes, Fall, 2013, Robert Riordan]
-
-Once competitive advantage is understood in terms of one firm's ability to provide superior price, quality or service over another, the discussion normally turns to *sustainable* competitive advantage. The ability to persist in this position of superiority over your competitors. To stay ahead, different and desirable. 
-
-The question then becomes, in our context, *How can ICT contribute to sustainable competitive advantage?*
-
-The answer is complex and not at all pretty for proponents of ICT. The back story is that ICT has become, in the words of Nicholas Carr, a *commodity*, not unlike electricity (*DOES IT MATTER?: Information Technology and the Corrosion of Competitive Advantage*, Harvard Business Review Press, 2004). It's all the same for every firm in every market. No firm can *sustain* a competitive advantage from ICT since it's freely available to all and is not at all *differentiated*. We will see in Chapter 2 how more and more firms are installing ERP systems (mammoth enterprise systems that manage all important processes in a firm) and that, when deciding to implement an ERP, the most cost-efficient way to do so is to accept the defaults in the system rather than customise. So firms alter their business processes to conform with the way the ERP works *rather than the other way around*. So a firm doesn't customise (in any meaningful way) the ERP. Rather, the ERP standardises the firm. And with more and more forms implementing ERPs as a *competitive necessity*, there is little of no competitive advantage left in ICT *because every firm has ICT and it operates in the same way for everyone, thus there cannot be any advantage in it*.
-
-In addition, what Carr refers to as the *technology replication cycle* is continually being shortened. If a firm were to create their own ICT system and gain some kind of advantage from it, the entire industry will know about it very soon through the free flow of information and the fact that large tech consultancies (such as Accenture and McKinsey and Bain and Deloitte and others) hire out their ICT consultants to a wide range of companies in a market and those consultants act to diffuse the insights of particular firms to the broader community. So everyone knows fairly quickly the mechanics of the advantage. Coupled with robust and efficient technology tools to build systems quickly, a competitive advantage conferred on a firm for creating their own value-add system will soon be replicated across the industry. So *sustainable* competitive advantage is difficult.
-
-This is not to say that there have never been cases of ICT conferring sustained advantage. For example, American Airlines automated reservations (the beginning of the end for travel agencies), pricing, and seat assignments (using yield management technology) in the 1960s and continue to enjoy some advantage to this day. And Walmart created logistics applications in the 1980s and invested heavily in *Radio Frequency Identification* (RFID) applications (though this initiative eventually lost steam) and continue to dominate rivals such as Target, Sears and Kmart. But the examples are few and far between. The value gained by standardising - the cost advantage for a firm to be like their competitors - trumps the advantages of being different.
 
 ###The two contributions of ICT to value creation
 
