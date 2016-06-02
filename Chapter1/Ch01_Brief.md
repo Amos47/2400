@@ -1,9 +1,7 @@
 # Chapter 1 
 ### In which we introduce some critical context
 
-
-
-With the formalities out of the way, there are four important pillars upon which we will focus in this opening chapter. They form the basis of all subsequent discussion throughout this text. They are:
+There are four important pillars upon which we will build the foundation of our study in this opening chapter. They form the basis of all subsequent discussion throughout this text. They are:
 
 1. Are we talking data, information or knowledge?
 2. Is what we are examining a tangible or an intangible?
