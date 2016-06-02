@@ -1,1 +1,3 @@
-This is the README.md for Chapter 4. For what it's worth.
+This is the README.md for Chapter 4.
+
+This file will contain a synopsis of the chapter as a basic review. The logic and flow are represented here. 
