@@ -6,7 +6,6 @@ There are four important pillars upon which we will build the foundation of our 
 1. Are we talking data, information or knowledge?
 2. Is what we are examining a tangible or an intangible?
 3. Does this (technology/service/data/etc.) either shrink input or grow output or both?
-4. Does this product/service/technology or strategy lead to a positive and sustainable competitive advantage?
 
 So let's get started.
 
