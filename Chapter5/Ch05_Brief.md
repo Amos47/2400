@@ -1,3 +1,3 @@
-This is the Readme.md file for Chapter 5. 
+### Sustainable competitive advantage
 
-This file will contain a synopsis of the chapter as a basic review. The logic and flow are represented here. 
+This is developed in the context of both PERSONAL Competitive Advantage (such as FB or Twitter, etc. - needs to be carefully defined but this definition will allow us to understand the corporate part) and CORPORATE Competitive Advantage (easier to define but must also encompass not-for-profit and government services). TK
