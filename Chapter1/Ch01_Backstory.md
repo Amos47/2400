@@ -249,7 +249,9 @@ Alas, just two days after my writing the above paragraph, The NHL itself officia
 
 [Interested?](http://yhoo.it/1dkOJFp)
 
-All of this represents a wrinkle in the space-time continuum of synchronicity and location. But what’s the bottom line here? Why does this matter other than being really cool and other than actually making it considerably less likely that we will enjoy an in-person, synchronous event? (Next time you either attend or watch a major event such as the opening or closing of the Olympic Games, note how many people are recording it, watching the pageantry through a tiny camera screen, to be played back... never?). Recently (
+All of this represents a wrinkle in the space-time continuum of synchronicity and location. But what’s the bottom line here? Why does this matter other than being really cool and other than actually making it considerably less likely that we will enjoy an in-person, synchronous event? (Next time you either attend or watch a major event such as the opening or closing of the Olympic Games, note how many people are recording it, watching the pageantry through a tiny camera screen, to be played back... never?). Recently (May 2016), pop star Adele (only needs one name), called out a fan for recording her concert. Or perhaps the fan was live-streaming? Hard to tell, but Adele shut her down anyway. Check out the video:
+
+{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
 
 There is no denying that the majority of the *weightless* or the *digital* or the *intangible economy* is if not driven by, at least facilitated by, information and communication technology. So to fully participate, it’s necessary to be well versed in the technology – not necessarily to be able to *create* new technology but clearly to be able to *leverage* it. To understand it well enough to be able to see how it can solve problems or create opportunities for competitive advantage. 
 
