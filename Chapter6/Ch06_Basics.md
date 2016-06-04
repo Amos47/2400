@@ -11,7 +11,7 @@ Before you decry the above cartoon as being in bad taste, please consider that s
 
 ###The Singularity
 
-Way back in 20912, Dilbert predicted the day would come when machines would be intelligent enough (some call this *sentience*) to *create* themselves. Here's what that looked like:
+Way back in 2012, Dilbert predicted the day would come when machines would be intelligent enough (some call this *sentience*) to *create* themselves. Here's what that looked like:
 
 **Figure LJST. Dilbert and the Singularity**
 ![Dilbert teaches robots to code](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_singularity.png)
@@ -121,9 +121,9 @@ These high-value skills create tremendous competitive advantage—more devoted c
 • the U.S. Army, which has revolutionized its training to focus on human interaction, leading to stronger teams and greater success in real-world missions;
 • Stanford Business School, which has overhauled its curriculum to teach interpersonal skills through human-to-human experiences.
 
-As technology advances, we shouldn’t focus on beating computers at what they do—we’ll lose that contest. Instead, we must develop our most essential human abilities and teach our kids to value not just technology but also the richness of interpersonal experience. They will be the most valuable people in our world because of it. Colvin proves that to a far greater degree than most of us ever imagined, we already have what it takes to be great.
+As technology advances, we shouldn't focus on beating computers at what they do—we’ll lose that contest. Instead, we must develop our most essential human abilities and teach our kids to value not just technology but also the richness of interpersonal experience. They will be the most valuable people in our world because of it. Colvin proves that to a far greater degree than most of us ever imagined, we already have what it takes to be great.
 
 ##Automation
 
-![Automation potential, US jobs](https://public.tableau.com/profile/mckinsey.analytics#!/vizhome/AutomationandUSjobs/Technicalpotentialforautomation?cid=other-eml-alt-mgi-mck-oth-1512)
+![Automation potential, US jobs](https://public.tableau.com/views/AutomationandUSjobs/Technicalpotentialforautomation?:embed=y&:display_count=yes&:showTabs=y)
 
