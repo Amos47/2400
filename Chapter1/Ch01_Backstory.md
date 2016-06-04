@@ -253,6 +253,10 @@ All of this represents a wrinkle in the space-time continuum of synchronicity an
 
 {% youtube %}https://www.youtube.com/watch?v=Gg0pSgrtQJo{% endyoutube %}
 
+But in an odd twist, and back to the future for sure, take a look at this *[Economist Espresso](https://espresso.economist.com/30d454f09b771b9f65e3eaf6e00fa7bd)* story from June 4, 2016. Seems that live broadcasting of events isn't quite dead yet, and may in fact enjoy a resurgence. 
+
+####Some final thoughts
+
 There is no denying that the majority of the *weightless* or the *digital* or the *intangible economy* is if not driven by, at least facilitated by, information and communication technology. So to fully participate, it’s necessary to be well versed in the technology – not necessarily to be able to *create* new technology but clearly to be able to *leverage* it. To understand it well enough to be able to see how it can solve problems or create opportunities for competitive advantage. 
 
 And it’s also important because of ownership. And ownership is all about business because business sells access to events such as hockey games. This is why it’s a revolution. The ownership model is completely upside-down now. The ability to participate in (consume) an event is now available to any and all with a support mechanism (technology) and an internet connection (technology). So ownership of that event is now widely dispersed. Who, for example, owns the rights to a Tweet or a FB post or indeed to a live stream via *periscope* of a hockey game? And the pricing for consumption is now multi-tiered. In fact, one could argue that the price to consume many events (or movies or broadcasts of any kind – indeed at the time of writing there have been numerous reports of live-streaming feature films) has been reduced to the hit you take on your data plan. So how to generate revenue from events? How do you pay your hockey players or your screen actors? 
