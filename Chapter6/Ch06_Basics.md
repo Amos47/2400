@@ -113,17 +113,35 @@ What hope will there be for us when computers can drive cars better than humans,
 
 It’s easy to imagine a nightmare scenario in which computers simply take over most of the tasks that people now get paid to do. While we’ll still need high-level decision makers and computer developers, those tasks won’t keep most working-age people employed or allow their living standard to rise. The unavoidable question—will millions of people lose out, unable to best the machine?—is increasingly dominating business, education, economics, and policy.
 
-The bestselling author of Talent Is Overrated explains how the skills the economy values are changing in historic ways. The abilities that will prove most essential to our success are no longer the technical, classroom-taught left-brain skills that economic advances have demanded from workers in the past. Instead, our greatest advantage lies in what we humans are most powerfully driven to do for and with one another, arising from our deepest, most essentially human abilities—empathy, creativity, social sensitivity, storytelling, humor, building relationships, and expressing ourselves with greater power than logic can ever achieve. This is how we create durable value that is not easily replicated by technology—because we’re hardwired to want it from humans.
+The bestselling author of Talent Is Overrated explains how the skills the economy values are changing in historic ways. The abilities that will prove most essential to our success are no longer the technical, classroom-taught left-brain skills that economic advances have demanded from workers in the past. Instead, our greatest advantage lies in what we humans are most powerfully driven to do for and with one another, arising from our deepest, most essentially human abilities—empathy, creativity, social sensitivity, storytelling, humor, building relationships, and expressing ourselves with greater power than logic can ever achieve. This is how we create durable value that is not easily replicated by technology — because we’re hardwired to want it from humans.
 
-These high-value skills create tremendous competitive advantage—more devoted customers, stronger cultures, breakthrough ideas, and more effective teams. And while many of us regard these abilities as innate traits—“he’s a real people person,” “she’s naturally creative”—it turns out they can all be developed. They’re already being developed in a range of far-sighted organizations, such as:
+These high-value skills create tremendous competitive advantage — more devoted customers, stronger cultures, breakthrough ideas, and more effective teams. And while many of us regard these abilities as innate traits — “he’s a real people person,” “she’s naturally creative” — it turns out they can all be developed. They're already being developed in a range of far-sighted organizations, such as:
 
 • the Cleveland Clinic, which emphasizes empathy training of doctors and all employees to improve patient outcomes and lower medical costs; 
 • the U.S. Army, which has revolutionized its training to focus on human interaction, leading to stronger teams and greater success in real-world missions;
 • Stanford Business School, which has overhauled its curriculum to teach interpersonal skills through human-to-human experiences.
 
-As technology advances, we shouldn't focus on beating computers at what they do—we’ll lose that contest. Instead, we must develop our most essential human abilities and teach our kids to value not just technology but also the richness of interpersonal experience. They will be the most valuable people in our world because of it. Colvin proves that to a far greater degree than most of us ever imagined, we already have what it takes to be great.
+As technology advances, we shouldn't focus on beating computers at what they do — we’ll lose that contest. Instead, we must develop our most essential human abilities and teach our kids to value not just technology but also the richness of interpersonal experience. They will be the most valuable people in our world because of it. Colvin proves that to a far greater degree than most of us ever imagined, we already have what it takes to be great.
 
 ##Automation
 
 ![Automation potential, US jobs](https://public.tableau.com/views/AutomationandUSjobs/Technicalpotentialforautomation?:embed=y&:display_count=yes&:showTabs=y)
+
+##Blockchains
+
+Probably the single biggest impact technology over he next decade will be *Blockchains*. This technology, which is behind such popular initiatives as Bitcoin, is poised to revolutionise the way we interect with each other, with public institutions and with platform enterprises such as Uber, Facebook and Twitter.
+
+What is a Blockchain? Blockchains are, simply speaking, distributed databases. Databases exactly as we have described at length in Chapter 7 and have worked with in labs and assignments in our course. Blockchain databases hold only one thing though: a *hash* of a series of transactions. A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
+
+But more importantly, Blockchain hashes are *cryptographic*. A cryptographic hash has certain characteristics, the most inmportant of which is that it can't be reverse-engineered to recreate the input data without having to try endeavour to use possible combinations to see which one produced the same output. Such hashes are one-way. You can't figure out the input by looking at the output. And this is critical. But there are other critical things as well. Here are the three big ones according to Wikipedia:
+
+1. Pre-image resistance - Given a hash value h it should be difficult to find any message m such that h = hash(m). This concept is related to that of one-way function. Functions that lack this property are vulnerable to preimage attacks.
+2. Second pre-image resistance - Given an input m1 it should be difficult to find different input m2 such that hash(m1) = hash(m2). Functions that lack this property are vulnerable to second-preimage attacks.
+3. Collision resistance - It should be difficult to find two different messages m1 and m2 such that hash(m1) = hash(m2). Such a pair is called a cryptographic hash collision. This property is sometimes referred to as strong collision resistance. It requires a hash value at least twice as long as that required for preimage-resistance; otherwise collisions may be found by a birthday attack.
+
+The article continues that "These properties imply that a malicious adversary cannot replace or modify the input data without changing its digest. Thus, if two strings have the same digest, one can be very confident that they are identical."
+
+We know what transactions are from our discussions of Transaction Processing Systems (TPS); simply a record of the exchange of something for something else: money for a product or service, for example. So transactions are simple. And transactions are the very basis of our financial and banking systems. It's simple accounting. 
+
+
 
