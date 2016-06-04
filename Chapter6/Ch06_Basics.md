@@ -141,7 +141,9 @@ But more importantly, Blockchain hashes are *cryptographic*. A cryptographic has
 
 The article continues that "These properties imply that a malicious adversary cannot replace or modify the input data without changing its digest. Thus, if two strings have the same digest, one can be very confident that they are identical."
 
-We know what transactions are from our discussions of Transaction Processing Systems (TPS); simply a record of the exchange of something for something else: money for a product or service, for example. So transactions are simple. And transactions are the very basis of our financial and banking systems. It's simple accounting. 
+[Interested?](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+
+We know what transactions are from our discussions of Transaction Processing Systems (TPS); a transaction is simply a record of the exchange of something for something else: money for a product or service, for example. So transactions are simple. And transactions are the very basis of our financial and banking systems. It's simple accounting. 
 
 
 
