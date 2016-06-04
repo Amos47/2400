@@ -145,5 +145,7 @@ The article continues that "These properties imply that a malicious adversary ca
 
 We know what transactions are from our discussions of Transaction Processing Systems (TPS); a transaction is simply a record of the exchange of something for something else: money for a product or service, for example. So transactions are simple. And transactions are the very basis of our financial and banking systems. It's simple accounting. 
 
+NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a hash function built in. Distribute it. 
+
 
 
