@@ -2,6 +2,7 @@
     "plugins": [
         "quizzes",
         "exercises",
+        "youtube",
         "atoc"
     ],
     "pluginsConfig": {}
