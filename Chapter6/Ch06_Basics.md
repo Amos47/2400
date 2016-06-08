@@ -129,9 +129,11 @@ As technology advances, we shouldn't focus on beating computers at what they do 
 
 ##Blockchains
 
-Probably the single biggest impact technology over he next decade will be *Blockchains*. This technology, which is behind such popular initiatives as Bitcoin, is poised to revolutionise the way we interect with each other, with public institutions and with platform enterprises such as Uber, Facebook and Twitter.
+Probably the single biggest impact technology over the next decade will be *Blockchains*. This technology (a set of rules on how to use technology), which is behind such popular initiatives as Bitcoin, is poised to revolutionise the way we interect with each other, with public institutions and with platform enterprises such as Uber, Facebook and Twitter.
 
-What is a Blockchain? Blockchains are, simply speaking, distributed databases. Databases exactly as we have described at length in Chapter 7 and have worked with in labs and assignments in our course. Blockchain databases hold only one thing though: a *hash* of a series of transactions. A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
+What is a Blockchain? A blockchains is, simply speaking, a distributed ledger. Ledgers exactly as we have described at length in Chapter 7 and have worked with in labs and assignments in our course. Blockchain databases hold only one thing though: a collection of transactions. 
+
+A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
 
 But more importantly, Blockchain hashes are *cryptographic*. A cryptographic hash has certain characteristics, the most important of which is that it can't be reverse-engineered to recreate the input data without having to endeavour to use all possible combinations to see which one produced the same output. Such hashes are called *one-way*. You can't figure out the input by looking at the output. And this is critical. But there are other critical things as well. Here are the three big ones according to Wikipedia:
 
