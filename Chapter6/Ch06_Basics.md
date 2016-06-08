@@ -125,13 +125,27 @@ As technology advances, we shouldn't focus on beating computers at what they do 
 
 ##Automation
 
-![Automation potential, US jobs](https://public.tableau.com/views/AutomationandUSjobs/Technicalpotentialforautomation?:embed=y&:display_count=yes&:showTabs=y)
+![Automation potential, US jobs](https://public.tableau.com/views/AutomationandUSjobs/Technicalpotentialforautomation?:embed=y&:display_count=yes&:showTabs=y) Change this to a static link to the page. 
 
 ##Blockchains
 
 Probably the single biggest impact technology over the next decade will be *Blockchains*. This technology (a set of rules on how to use technology), which is behind such popular initiatives as Bitcoin, is poised to revolutionise the way we interect with each other, with public institutions and with platform enterprises such as Uber, Facebook and Twitter.
 
-What is a Blockchain? A blockchains is, simply speaking, a distributed ledger. Ledgers exactly as we have described at length in Chapter 7 and have worked with in labs and assignments in our course. Blockchain databases hold only one thing though: a collection of transactions. 
+What is a Blockchain? A blockchains is, simply speaking, a distributed ledger. Ledgers exactly as you ahve studied in your introductory accounting classes. Everyone who participates in the blockchain has their own copy of the ledger - this can mean that there can be millions of copies of the ledger spread across what can be a vast network of participants. And the ledger grows with each transaction. Using Bitcoin as an example, two participants in the network can exchange services for funds simply by the purchaser broadcasting a message to the network that their account should be decremented by x amount, and the receiver's account should be incremented by the same amount. This *proposed transaction* (we'll get back to why it's only *proposed* below) is then recorded in each copy of the ledger across the network of participants. So every participant has a copy of every transaction that has ever or will ever occur in the network.
+
+If you agreed to participate in Bitcoin, for example, the entire collection of every transaction that ever occured in the Bitcoin network is downloaded onto your computer and is processed back through the chain from that moment to the very first creation of the very first Bitcoin. This can take over 24 hours. Note the two figures below. This reconcilliation occured on my own desktop computer. 
+
+**Figure KJTA. Bitcoin reconcilliation (start)**
+
+![Bitcoin process begin](https://raw.githubusercontent.com/robertriordan/2400/master/Images/bitcoin_synchro_install.png)
+
+Note the highlighted sections at the bottom, indicating where we are at in the process. Seems I joined the Bitcon game about 7 years and some weeks late. As my old maching chunked away at reconcilliation, we see the status some 28 hours later, below.
+
+**Figure KJPT. Bitcoin reconcilliation (nearing completion)**
+
+![Bitcoin process nearing completion](https://raw.githubusercontent.com/robertriordan/2400/master/Images/bitcoin_synchro_install_2.png)
+
+
 
 A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
 
