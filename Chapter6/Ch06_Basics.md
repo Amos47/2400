@@ -146,6 +146,9 @@ Note the highlighted sections at the bottom, indicating where we are at in the p
 ![Bitcoin process nearing completion](https://raw.githubusercontent.com/robertriordan/2400/master/Images/bitcoin_synchro_install_2.png)
 
 
+What's unuque and groundbreaking about such a system is that, unlike the way we are accustomed to doing business, through large financial organisations such as banks, where unless a transaction were the subject of an investigation, details are hidden from all but the bank itself and the participants, with blockchain networks such as Bitcoin, everyone sees every transaction. It's the ultimate hippy commune. What we don't know, however, is the *identitiy* of the participants. We see that a transaction has occurred between a and b and we see the amount that was transferred, we do not and should not know who a and b are. 
+
+In doing transactions on the network, the identities of participants are protected by a digital signature. Such signatures are made possible by using a well-worn technology known as PKI or Public Key Infraxtructure. 
 
 A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
 
