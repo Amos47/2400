@@ -148,7 +148,13 @@ Note the highlighted sections at the bottom, indicating where we are at in the p
 
 What's unuque and groundbreaking about such a system is that, unlike the way we are accustomed to doing business, through large financial organisations such as banks, where unless a transaction were the subject of an investigation, details are hidden from all but the bank itself and the participants, with blockchain networks such as Bitcoin, everyone sees every transaction. It's the ultimate hippy commune. What we don't know, however, is the *identitiy* of the participants. We see that a transaction has occurred between a and b and we see the amount that was transferred, we do not and should not know who a and b are. 
 
-In doing transactions on the network, the identities of participants are protected by a digital signature. Such signatures are made possible by using a well-worn technology known as PKI or Public Key Infraxtructure. 
+###Public Key Infrastructure (PKI)###
+
+In doing transactions on the network, the sender and recipient of a transaction don't use their real identities. Rather whey use digital signatures which allow both parties to verify their authenticity without revealing their true identities. Such signatures are made possible through a tried-and-true technology known as *PKI* or *Public Key Infraxtructure*. Participants in blockchain networks use PKI to generate a unique signature each time they initiate a transaction. PKI works by genertating two keys (digital hashes - see below): a private key that only the owner knows and a public key that anyone can use and which proves that the public key belongs to the true owner of the private key. 
+
+THe first step is to install a digital wallet (or equivalent - email clients will do the same thing for you). You then ask the wallet to generate a private key for you. This private key never changes and must be safeguarded. If you lose your private key, you also lose all claim to anything based on your public key as they depend on each other. Once you have a private key, the wallet will allow you to generate any number of public keys. Only the holder of the private key can unlock the contents of a message encrypted with a particular public key. The sender of the transaction must initiate and send the message to move something from their possession to the possession of another. It must always be the *payor* who initiates as it would be improper for the *payee* to send a message saying "Give me x from person b." 
+
+###Hash (no not *that* kind)###
 
 A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
 
