@@ -158,7 +158,7 @@ The first step is to install a digital wallet (or equivalent - email clients can
 
 ###Using blockchains for transactions
 
-Here's how it works. To transfer ownership of something you own to someone else (in BItcoin this is bitcoin money), both parties must have an account on the system you are using. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer whatever is being traded to B. 
+Here's how it works. To transfer ownership of something you own to someone else (in BItcoin this is bitcoin money), both parties must have an account on the system you are using. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. 
 
 ###Hash (no not *that* kind)###
 
