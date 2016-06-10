@@ -150,7 +150,7 @@ What's unuque and groundbreaking about such a system is that, unlike the way we 
 
 ###Public Key Infrastructure (PKI)###
 
-In doing transactions on the network, the sender and recipient of a transaction don't use their real identities. Rather they use *digital signatures* which allow both parties to verify their authenticity without revealing their true identities. Such signatures are made possible through a tried-and-true technology known as *PKI* or *Public Key Infraxtructure*. Participants in blockchain networks use PKI to generate a unique signature each time they initiate a transaction. PKI works by genertating two keys (digital hashes - see below): a private key that only the owner knows and a public key that anyone can use and which proves that the public key belongs to the owner of the private key. 
+In doing transactions on the network, the sender and recipient of a transaction don't use their real identities. Rather they use *digital signatures* (see below) which allow both parties to verify their authenticity without revealing their true identities. Such signatures are made possible through a tried-and-true technology known as *PKI* or *Public Key Infraxtructure*. Participants in blockchain networks use PKI to generate a unique signature each time they initiate a transaction. PKI works by genertating two keys (digital hashes - see below): a private key that only the owner knows and a public key that anyone can use and which proves that the public key belongs to the owner of the private key. 
 
 [Interested in PKI?](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 
@@ -158,15 +158,14 @@ The first step is to install a digital wallet (or equivalent - email clients can
 
 ####Digital signatures
 
+As we learned above, digital signatures are based on PKI (which is also also known as *asymmetric cryptography*). PKI algorithms such as RSA can be used to generate two keys that are mathematically linked: one private and one public. To create a digital signature, signing software (such as an email program) creates a one-way *hash* (see below) of the electronic data to be signed. In a blockchain transaction such as Bitcoin, this electronic data consists of your signature (I know this sounds circular - just hang on), the signature of the party to whom you are sending Bitcoins, the hash of the previous block in the chain, and finally a random digit t the end. We will come back to this in some detail later. We take all this electronic data and then use the private key to encrypt the hash. All this together is the digital signature. 
+
+??? The reason for encrypting the hash instead of the entire message or document is that a hash function can convert an arbitrary input into a fixed length value, which is usually much shorter. This saves time since hashing is much faster than signing. ???
 
 
 ###Using blockchains for transactions
 
 Here's how it works. To transfer ownership of something you own to someone else (in Bitcoin this is bitcoin funds but it could be anything as we will later explain), both parties must have an account on the system used for the exchange. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. Each recipient of the message updates their local copy of the blockchain to reflect the change, and passes the message on to the next node. This message contains the *digital signature* of both the sender and the recipient. Thus the message is to send *x* from the account of the owner of digital signature *A* to the account of the owner of digital signature *B*. Since the identities of both parties to the transaction are *protected by* PKI, the exchange is completely private, even though all participants in the network can see the transaction. So what's a digital signature?
-
-####Digital signatures
-
-xxxxxxxxxxxxxxxxxxxxxx
 
 ###Hash (no not *that* kind)###
 
