@@ -1,8 +1,6 @@
 ## Pillar 1: Are we talking data, information or knowledge?
 
 ![visualthesaurus.com Definition of data](https://raw.githubusercontent.com/robertriordan/2400/master/Images/info_know.png)
-
-
 Source: [Gaping Void June 10, 2016](http://bit.ly/1VRz4kh)
 
 ### What are data, information and knowledge?
