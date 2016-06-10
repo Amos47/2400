@@ -154,11 +154,19 @@ In doing transactions on the network, the sender and recipient of a transaction 
 
 [Interested in PKI?](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 
-The first step is to install a digital wallet (or equivalent - email clients can do the same thing for you). You then ask the wallet to generate a private key for you. This private key never changes and must be safeguarded. If you lose your private key, you also lose all claim to anything based on your public key as they depend on each other. Once you have a private key, the wallet will allow you to generate any number of public keys. Only the holder of the private key can unlock the contents of a message encrypted with a particular public key. The sender of the transaction must initiate and send the message to move something from their possession to the possession of another. A payee can also request a payment by sending their address to the payer's address and sepcifying the amount.  
+The first step is to install a digital wallet (or equivalent - email clients can do the same thing for you). You then ask the wallet to generate a private key for you. This private key never changes and must be safeguarded. If you lose your private key, you also lose all claim to anything based on your public key as they depend on each other. Once you have a private key, the wallet will allow you to generate any number of public keys. Only the holder of the private key can unlock the contents of a message encrypted with a particular public key. The sender of the transaction must initiate and send the message to move something from their possession to the possession of another. A payee can also request a payment by sending their address to the payer's address and sepcifying the amount. This private/public key technology is an inmportant component of a *digital signature*, as we will see below. 
+
+####Digital signatures
+
+
 
 ###Using blockchains for transactions
 
-Here's how it works. To transfer ownership of something you own to someone else (in Bitcoin this is bitcoin funds but it could be anything as we will later explain), both parties must have an account on the system you are using. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. 
+Here's how it works. To transfer ownership of something you own to someone else (in Bitcoin this is bitcoin funds but it could be anything as we will later explain), both parties must have an account on the system used for the exchange. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. Each recipient of the message updates their local copy of the blockchain to reflect the change, and passes the message on to the next node. This message contains the *digital signature* of both the sender and the recipient. Thus the message is to send *x* from the account of the owner of digital signature *A* to the account of the owner of digital signature *B*. Since the identities of both parties to the transaction are *protected by* PKI, the exchange is completely private, even though all participants in the network can see the transaction. So what's a digital signature?
+
+####Digital signatures
+
+xxxxxxxxxxxxxxxxxxxxxx
 
 ###Hash (no not *that* kind)###
 
