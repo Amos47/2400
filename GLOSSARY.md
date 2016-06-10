@@ -68,3 +68,7 @@ Being or appearing to be everywhere all the time.
 ## viz
 
 The abbreviation viz. (also rendered viz without a full stop) and the adverb videlicet  are used as synonyms for "namely", "that is to say", and "as follows". Viz is usually read aloud as "that is", "namely", or "to wit", but is sometimes pronounced as it is spelt, viz. (https://en.wikipedia.org/wiki/Viz.)
+
+## failover
+
+A method of protecting computer systems from failure, in which standby equipment automatically takes over when the main system fails.
