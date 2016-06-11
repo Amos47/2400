@@ -294,16 +294,6 @@ There are several large vendors of these enormously complex systems, and some of
 
 Other big players in this market are the database giant *Oracle*, who have over the past few years gobbled up other equally large players such as PeopleSoft and Siebel, whose offerings included Financial Management Solutions (FMS), Human Resource Management Systems (HRMS), Supply Chain Management (SCM), Customer Relationship Management (CRM - from their acquisition of Siebel), and Enterprise Performance Management (EPM) software, as well as systems for manufacturing and student administration. Microsoft is also a player in this general ERP marketplace (with special focus on small to medium-sized firms), but the biggest by far is SAP. Walk through any airport and you can’t help but notice the big ads for SAP. 
 
-#### When ERP fails
-
-**MOVE ^^^ THIS TO BACKSTORY?** 
-
-What happens when organisations can't make the necessary adjustments to their business processes to allow the ERP to run their business? There are several high profile cases. In the Canadian context, the biggest splash was made in 2001 when grocery giant Sobey's has a very public spat with SAP over a database failure (Sobey's was using IBM's DB2 software as their enterprise database system) [Interested?](http://www.computerdealernews.com/news/sobeys-fires-sap-over-erp-debacle/22906) and [Interested in a slightly different perspective?](http://www.itworldcanada.com/article/sobeys-says-goodbye-sap/29540). But they apparently kissed and made up, as Sobey's implemented an SAP system a few years later. [Interested?](http://www.itbusiness.ca/news/sobeys-gives-sap-a-second-chance/10471)
-
-In 2008, Mountain States Entertainment made the news for a big ERP flop [Interested?](http://www.erpsoftwareblog.com/2011/01/erp-implementation-failure-you-be-the-jury-part-1/), and in 2004 Marin County California's failed implementation led to a lawsuit against Deloitte [Interested?](http://www.computerworlduk.com/news/it-business/20575/deloitte-sued-over-failed-erp-project/).  A more academic treatment is found in a Harvard business case written by A. McAfee, entitled *Rich-Con Steel*, (Harvard Business School Case 9-699-133, HBS Press, January 27, 1999).
-
-But the knife cuts both ways. ERP business process is based on best practices (extensive research, testing and proof from the field that the ERP-recommended way to do business is the most efficient and effective way). The opportunity for an organisation to actually stop and look at its processes – which may have grown up over years in a patchwork quilt of expediency and become inefficient and redundant – is an amazing opportunity. 
-
 Key features of ERP include dealing with key business functions such as:
 
 - Financials, including:
