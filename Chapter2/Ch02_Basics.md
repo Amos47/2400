@@ -3,11 +3,9 @@
 
 ## Context
 
-We begin this chapter by stating unequivocally that computers have historically done a lousy job with *context*. They have been unable to understand, process and make sense of the nuanced detail of our lives and our interactions with each other and with our environment. Why? Because they have struggled with *knowledge*. They have struggled to *learn* in the way that humans learn. They have not been able to generalise either from the specific to the general or from the general to the specific. They have been unable to observe a piece of art and decide if they *like* it or not or even, until very recently, to quantify its characteristics. They struggle with deciding if a painting were a Picasso, a Monet or a Da Vinci. 
+We begin this chapter by stating unequivocally that computers have historically done a lousy job with *context*. They have been unable to understand, process and make sense of the nuanced detail of our lives and our interactions with each other and with our environment. Why? Because they have they have struggled with *knowledge*. They have struggled to *learn* in the way that humans learn. They have not been able to generalise either from the specific to the general or from the general to the specific. They have been unable to observe a piece of art and decide if they *like* it or not or even, until very recently, to quantify its characteristics. They struggle with deciding if a painting were a Picasso, a Monet or a Da Vinci. And this is where context and knowledge intersect. Read on.
 
-Those kind of tasks -- appreciating beauty, creating music, writing poetry -- have been left to humans because computers lacked the ability to create and appreciate *context*. They can’t see the *bigger picture*. All this is changing.
-
-The longest leap ahead came in 
+Those kind of tasks -- appreciating beauty, creating music, writing poetry -- have been left to humans because computers lacked the ability to create and appreciate *context*. They can’t see the *bigger picture*. All this is changing. Much of this chapter will focus on context.
 
 [TechTarget.com](http://searchmobilecomputing.techtarget.com/definition/contextual-computing) provides this definition of contextual computing: "*Contextual computing, also called context-aware computing, is the use of software and hardware to automatically collect and analyze data about a device's surroundings in order to present relevant, actionable information to the end user.*"
 
