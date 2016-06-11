@@ -50,7 +50,7 @@ And now, just to really make this a challenge, consider the final bowl of contex
 
 Often, when someone reminds me of a particularly silly or ill-conceived decision I have made in the past, I glibly justify by stating "Oh, **that** was during my pastel phase." It's meaningless banter meant to deflect criticism in a lighthearted way but... what if it were true? What if I did have a *pastel phase*, whatever that might mean. Indeed, how could we ever expect a machine to decode and enforce the rules around such a thing whether in the present ("I'm only wearing chalk tones these days!") or when examining the past ("Oh, well, I must be excused for that behaviour -- I was under the influence at the time")?
 
-Fashion is a tall order for people, let alone machines. And people often get fashion wrong. Take a stroll through a Tim Horton's. Worse still, fashion is *opinion* driven by the huge influence machine we call *marketing*. We can't win.   
+Fashion is a tall order for people, let alone machines. And people often get fashion wrong - take a stroll through Tim Horton's. Worse still, fashion is *opinion* driven by the huge influence machine we call *marketing*. We can't win.   
 
 ##The 6 Ts of Context
 
