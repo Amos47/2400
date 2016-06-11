@@ -154,8 +154,6 @@ Knowledge acquisition (also referred to as the process of *Knowledge Engineering
 
 Knowledge acquisition can be seen as a system, with the four main entities identified by coloured background ovals in Figure LAJ. On the left is *Input*, flowing into *Process*, which produces *Output* which is fed back into the system as *Input* to the continuous process of knowledge production and acquisition. And don't overlook the important tenet that much of the data that enters a decision process as input, and equally previous knowledge that is fed back to the decision-making process, functions as *context*. It is the soup made from the situation and the previous experience that allows us to decide how to move forward. All the ingredients of the soup together allow us to decide if we like the taste. 
 
-
-
 ## Important takeaways
 * 
 A *context* is a new, unique and non-reoccurring circumstance created out of the intersection of existing and new data and existing knowledge gained from previous contexts. It can only occur once and it's gone. Time marches on. No two contexts are alike.
@@ -172,9 +170,7 @@ Knowledge is accumulated by observing results of action/inaction in context.
 * 
 Wisdom is knowing how and when to use it...
 
-(tk - relate this to input/output ratio)
-
-
+Let's put this into the context of the input/output ratio we discussed in Chapter 1. In order to get better at the process of making decisions, we need to imporve at the margins. We either need less or less expensive measurement and data acquisition on the input side, or we need better quality output from the process. Knowledge gained from previous experience of observing outcomes from decisions provide much richer and much more targetted inputs to suqsequent decisions. The feedback loop over the top of the process provides us with much better quality inputs (less noise so less expensive and more targetted) which in turn enrich our ability to make subsequent decisions in similar contexts. Experience matters. And ICT can help at every stage of the knowledge acauisition process. This is how we get better at making decisions. 
 
 ## Contextualisation and the role of ICT
 We can now provide a little more depth in terms of contextualisation and the role of ICT in the process. Examine Figure LLJJ below. It’s the same figure as LJLJ above, but with the ICT contributions overlaid on each element. 
