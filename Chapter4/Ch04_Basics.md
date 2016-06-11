@@ -159,7 +159,7 @@ Moving to the next column to the right, we see an infographic indicating relativ
 
 Moving to the next column to the right in Figure JL, we find the title Granularity. Granularity refers to the amount of data embedded or encapsulated in the information being generated at each level. At the bottom of the spectrum, we find all the transaction data that each organisation must collect. The granular (small, tiny) detail represented on a bill of sale, for example, might include the exact product number, product model, version or revision, the exact quantity and the price charged for each. The date and time of the transaction and the ship-to and bill-to addresses and the salesperson responsible might also be included at this level of detail. This is a very fine level of data, much like the grains of sand on the beach to which we are alluding. This is the type of data that is measured in the bowels of the organisation. The data that the firm must collect in order to be able to account for itself. 
 
-This is the level of data where measurement occurs, where raw data are collected and stored and marshalled to provide insight and context to the higher levels of the organisation. You can't give the CEO a total sales figure for last year without a summation of the totals on all the individual sales invoices from last year. So as we move from bottom to top in an organisation, we move from very granular (grains of sand) up through small stones, through boulders to the mountains required by senior management. 
+This is the level where measurement occurs, where raw data are collected and stored and marshalled to provide insight and context to the higher levels of the organisation. You can't give the CEO a total sales figure for last year without a summation of the totals found on each individual sales invoice from last year. So as we move from bottom to top in an organisation, we move from very granular (grains of sand) up through small stones, through boulders to the mountains required by senior management. 
 
 There is a relationship between the Type of work done and the granularity of data required. But we mustn’t lose sight of the fact that often, once taking a look at the mountain, senior managers and executives will want to take a walk on the beach and feel the sand between their toes. Thus data must roll up to big-picture numbers, but must also persist and be available for *drill-down* exercises so that sense (read *context*) can be made of the big pictures. Data are rolled up and down with great regularity and must be available when required at the level of detail appropriate for the task at hand. And the task at hand involves problem solving at each level.
 
@@ -178,6 +178,9 @@ Note the correspondence between type of work and type of decision. Knowledge wor
 **TAKE THIS ^^^ BACK TO THE KNOWLEDGE-ACQUISITION FRAMEWORK IN CHAPTER 1**
 
 #### Organisational levels - Taking the hill
+
+** MOVE ^^^ THIS TO STRATEGY AREA IN CHAPTER 4??**
+
 In considering organisational levels, we need to talk about how stuff gets done; about what strategy is and how a strategic direction gets set and translated into actionable directives in an organisation. 
 
 The online Business Dictionary defines [Strategy](http://www.businessdictionary.com/definition/strategy.html) as: 
