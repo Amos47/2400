@@ -9,7 +9,9 @@ Those kind of tasks -- appreciating beauty, creating music, writing poetry - hav
 
 [TechTarget.com](http://searchmobilecomputing.techtarget.com/definition/contextual-computing) provides this definition of contextual computing: "*Contextual computing, also called context-aware computing, is the use of software and hardware to automatically collect and analyze data about a device's surroundings in order to present relevant, actionable information to the end user.*"
 
-We already know that data becomes information when it's contextualised and becomes actionable. As fastcodesign.com has written, *"The future of Technology isn't Mobile, It's Contextual."* Read about it [here](http://www.fastcodesign.com/1672531/the-future-of-technology-isnt-mobile-its-contextual).
+We already know that data becomes information when it's contextualised and becomes actionable. As fastcodesign.com has written, *"The future of Technology isn't Mobile, It's Contextual."* 
+
+[Interested?](http://www.fastcodesign.com/1672531/the-future-of-technology-isnt-mobile-its-contextual).
 
 **Figure DC. The definition of context from Visual Thesaurus**
 
@@ -20,7 +22,7 @@ The Visual Thesaurus definition for context reads, in part:
 1. Language that helps to determine its interpretation 
 2. The set of facts or circumstances that surround a situation or event
 
-Of the two definitions, the second is most important for us. I have written elsewhere that data are *facts*. Just pieces of unencumbered specifics, providing measurement of some phenomenon. *Circumstance*, on the other hand, is a collection of facts which together frame the *situation* or *condition*. It’s the *fact bath* in which we continuously find ourselves. It’s all the stuff that happens *around* an event at a place and time that give us the ability to weave a rich fabric of meaning related to the event and allows us reduce the error around what’s happening in a particular setting. Here's what the online Oxford Reference has to say about context:
+Of the two definitions, the second is most important for us. I have written elsewhere that data are *facts*. Just pieces of unencumbered specifics, the result of the measurement of some phenomenon. *Circumstance*, on the other hand, is a collection of facts which together frame the *situation* or *condition*. It’s the *fact bath* in which we continuously find ourselves. It’s all the stuff that happens *around* an event at a place and time that give us the ability to weave a rich fabric of meaning related to the event and allows us to reduce the error around what’s happening in a particular setting. Here's what the online Oxford Reference has to say about context:
 
 "Most broadly, any frame of reference or framework within which something is perceived, produced, consumed, communicated, interpreted, or otherwise experienced, or which is seen as relevant to the description or analysis of any phenomenon."
 
