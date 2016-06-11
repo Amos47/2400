@@ -279,7 +279,9 @@ We next tackle the feedback piece and talk about the synthesis of new with exist
 ![visualthesaurus.com Definition of data](https://raw.githubusercontent.com/robertriordan/2400/master/Images/info_know.png)
 Source: [Gaping Void June 10, 2016](http://bit.ly/1VRz4kh)
 
-New knowledge (the big blue cloud in Figure LLJJ), once created as output from the system, comes to rest with other isolated instances of knowledge in the space at the end of the long journey from meausrement.  Here, in the company of other nuggets of knowledge, is where humans excel. We are currently (though fleetingly) better than machines at making connections between disparate pieces of knowledge to create new realities and new value. This new and continuously-evolving knowledge, in a synthesis with existing information soup washes back over 
+New knowledge (the big blue cloud in Figure LLJJ), once created as output from the system, comes to rest with other isolated instances of knowledge in the space at the end of the long journey from meausrement.  Here, in the company of other nuggets of knowledge, is where humans excel. We are currently (though fleetingly) better than machines at making connections between disparate pieces of knowledge to create new realities and new value. This new and continuously-evolving knowledge, in a synthesis with existing information (which might be unrelated to each other or to the knowledge synthesised previously) washes back over the process in a continual loop of measurement, data, information, action and knowledge creation. This is how we learn and how we move forward and learn from our successes and our failures, our actions and our inactions. This is how we create. This is **Area 11.** 
+
+The process of knowledge creation and continuous improvement is a complex example of a simple system as described in Chapter 1. We note here the importance of ICT. When properly sourced, configured, deployed, managed and leveraged, ICT has an impact (and often a crucial one) on information creation, strategy and tactics and finally knowledge creation in an organisation. We would be lost without it. 
 
 **Go Figure #1. Random SC advert**
 <div>
