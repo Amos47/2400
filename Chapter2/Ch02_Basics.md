@@ -50,7 +50,7 @@ And now, just to really make this a challenge, consider the final bowl of contex
 
 Often, when someone reminds me of a particularly silly or ill-conceived decision I have made in the past, I glibly justify by stating "Oh, **that** was during my pastel phase." It's meaningless banter meant to deflect criticism in a lighthearted way but... what if it were true? What if I did have a *pastel phase*, whatever that might mean. Indeed, how could we ever expect a machine to decode and enforce the rules around such a thing whether in the present ("I'm only wearing chalk tones these days!") or when examining the past ("Oh, well, I must be excused for that behaviour -- I was under the influence at the time")?
 
-Fashion is a tall order for people, let alone machines. And people often get fashion wrong - take a stroll through Tim Horton's. Worse still, fashion is *opinion* driven by the huge influence machine we call *marketing*. We can't win.   
+Fashion is a tall order for people, let alone machines. And people often get fashion wrong - take a stroll through Tim Horton's. Worse still, fashion is *opinion* driven by the huge influence machine we call *marketing*. How is a machine to keep up?  
 
 ##The 6 Ts of Context
 
@@ -58,16 +58,16 @@ Fashion is a tall order for people, let alone machines. And people often get fas
 
 | **Component** | **Short description** | **Comments** |
 | :-: | :- | :- | 
-| Time | When in time a context occurs. | Time is implied in every context and makes every context uneqivocally unique. |
+| Time | When in time a context occurs. | Time is implied in every context and makes every context unique. |
 | Terroir | Place of occurrence, broadly defined. | Geographic terroir is implied in every context. While context must happen somewhere, the notion of terroir also includes environmental factors attendant upon the location, such as temperature, light conditions, humidity, wind speed, noise, etc.|
 | Team | What agent(s) (interpretors and/or decision makers), whether human, natural or mechanical, are present at this place and time. | There must obviously be at least one agent present to constitute a context. The notion of validation is also important. Actors' identities must be verifiable.|
 | Tools | The technology present at the time and place of occurrence. | Tools help to interpret the context but are not strictly speaking present in every context nor required in order for a context to occur. |
 | Task | The target or trajectory of the context. | Not always necessary to have a task at hand, other than simply survival. |
-| Trail | The history or trail leading up to the context. | Not necessary as some contexts occur without any need of warning or pretext. |
+| Trail | The historical trail leading up to the context. | Not necessary as some contexts occur without any warning or pretext. |
 
 An excellent paper on context can be found [here](ftp://ftp.cc.gatech.edu/pub/gvu/tr/1999/99-22.pdf). While much too complex to be considered for an Interested? link, it's a great first place to start if you want deep understanding of context, in the context (!!) of application design. Here is a pertinent quote from that piece: *"If a piece of information can be used to characterize the situation of a participant in an interaction, then that information is context."*
 
-In understanding context, consider for a moment that we are in the classroom. The fact that we are there at this moment makes this unique. There will never be another now with all of us at this place at our current age with our current knowledge in our current state of being. We can never relive the seconds that are passing by right now. This context is not reproducible. So time is the most basic determinant of context. 
+In understanding context, consider for a moment that we might be in the classroom. The fact that we are present at that location at that moment makes this unique. There will never be another now with all of us at this place at our current age with our current knowledge in our current state of being. We can never relive the seconds that are passing by right now. This context is not reproducible. So time is the most basic determinant of context. 
 
 Beyond the ticking of time, is there somthing unique about the periodicity of our meetings here? We (but "we" changes week to week and indeed minute to minute as ppl come and go - see Team) meet every (whatever day at whatever time for roughly three hours) for 13 weeks in the same place except for one week sometime in the middle. Eventually some of us (along with many others in a different venue - see Terroir) will meet later (at the exam which is a different context) and then never, ever again will we all be together in the same place (except maybe at convocation which is a different Terroir and a different Time and a different context with a different Team). 
 
