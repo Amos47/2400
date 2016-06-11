@@ -275,7 +275,11 @@ The source at the Interested link above has this to say about KM (accessed March
 
 We next tackle the feedback piece and talk about the synthesis of new with existing knowledge and how it washes back over new and unique contexts to become input to the next set of decisions.
 
-New knowledge (the big blue cloud in Figure LLJJ), once created as output from the system, comes to rest with other isolated instances of knowledge in the space at the end of the journey from meausrement.  
+
+![visualthesaurus.com Definition of data](https://raw.githubusercontent.com/robertriordan/2400/master/Images/info_know.png)
+Source: [Gaping Void June 10, 2016](http://bit.ly/1VRz4kh)
+
+New knowledge (the big blue cloud in Figure LLJJ), once created as output from the system, comes to rest with other isolated instances of knowledge in the space at the end of the long journey from meausrement.  Here, in the company of other nuggets of knowledge, is where humans excel. We are currently (though fleetingly) better than machines at making connections between disparate pieces of knowledge to create new realities and new value. This new and continuously-evolving knowledge, in a synthesis with existing information soup washes back over 
 
 **Go Figure #1. Random SC advert**
 <div>
