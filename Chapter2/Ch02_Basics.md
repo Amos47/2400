@@ -267,7 +267,7 @@ Moving to the right in Figure LLJJ, we encounter the work of ICT in sensing and 
 
 Moving again to the right in Figure LLJJ, we again encounter the impact of ICT on the Data and Information entities. This is **Area 8 and 9.** Here the actions and impacts are the same as in our previous discussion of data and information creating in context (Areas 2 and 3) so we won’t belabour them here. 
 
-We come finally to the Knowledge component of Figure LLJJ. This is **Area 10.** Here we find the culmination of the process of acquiring knowledge from measurement of data. This represents the ultimate human activity – the creation of order and reason out of action. ICT assists in many of the components of this activity, beginning with analysis of the stream of information emanating from the process. ICT can analyse existing knowledge as well as synthesise new and existing knowledge into unique nuggets of new information. Then it can manage, store and report on such knowledge. These latter processes are accomplished by Knowledge Management Systems (KMS).
+We come finally to the Knowledge component of Figure LLJJ. This is **Area 10.** Here we find the culmination of the process of acquiring knowledge from measurement of data. This represents the ultimate human activity – the creation of order and reason out of action. ICT assists in many of the components of this activity, beginning with analysis of the stream of information emanating from the process. ICT can analyse existing knowledge as well as synthesise new and existing knowledge into unique nuggets of new information. Then it can manage, store and report on such knowledge. These latter processes are accomplished by *Knowledge Management Systems* (KMS).
 
 [Interested?](http://www.knowledge-management-tools.net/)
 
@@ -275,7 +275,7 @@ The source at the Interested link above has this to say about KM (accessed March
 
 We next tackle the feedback piece and talk about the synthesis of new with existing knowledge and how it washes back over new and unique contexts to become input to the next set of decisions.
 
-This needs to be done! Get on it (TK)!!
+New knowledge (the big blue cloud in Figure LLJJ), once created as output from the system, comes to rest with other isolated instances of knowledge in the space at the end of the journey from meausrement.  
 
 **Go Figure #1. Random SC advert**
 <div>
