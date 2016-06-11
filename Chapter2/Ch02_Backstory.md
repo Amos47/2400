@@ -257,7 +257,7 @@ And just to throw a wrench into the works, the notion of human *spirit* and a *s
 <a name="sens_beac"></a>
 #### Sensors and beacons 
 
-Let's first step back and look at two pivotal pieces of technology which we have discussed briefly previously, but need to really *contextualise* in order to fully appreciate their impact. We're talking about *sensors* and their *less-capable* cousins, the *beacons*. Take a look at Figure SB.
+Let's step back and look at two pivotal pieces of technology which we have discussed briefly previously, but need to really *contextualise* in order to fully appreciate their impact. We're talking about *sensors* and their *less-capable* cousins, the *beacons*. Take a look at Figure SB.
 
 **Figure SB. Sensors and beacons**
 
