@@ -296,6 +296,8 @@ Other big players in this market are the database giant *Oracle*, who have over 
 
 #### When ERP fails
 
+**MOVE ^^^ THIS TO BACKSTORY?** 
+
 What happens when organisations can't make the necessary adjustments to their business processes to allow the ERP to run their business? There are several high profile cases. In the Canadian context, the biggest splash was made in 2001 when grocery giant Sobey's has a very public spat with SAP over a database failure (Sobey's was using IBM's DB2 software as their enterprise database system) [Interested?](http://www.computerdealernews.com/news/sobeys-fires-sap-over-erp-debacle/22906) and [Interested in a slightly different perspective?](http://www.itworldcanada.com/article/sobeys-says-goodbye-sap/29540). But they apparently kissed and made up, as Sobey's implemented an SAP system a few years later. [Interested?](http://www.itbusiness.ca/news/sobeys-gives-sap-a-second-chance/10471)
 
 In 2008, Mountain States Entertainment made the news for a big ERP flop [Interested?](http://www.erpsoftwareblog.com/2011/01/erp-implementation-failure-you-be-the-jury-part-1/), and in 2004 Marin County California's failed implementation led to a lawsuit against Deloitte [Interested?](http://www.computerworlduk.com/news/it-business/20575/deloitte-sued-over-failed-erp-project/).  A more academic treatment is found in a Harvard business case written by A. McAfee, entitled *Rich-Con Steel*, (Harvard Business School Case 9-699-133, HBS Press, January 27, 1999).
