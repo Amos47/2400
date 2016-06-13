@@ -426,7 +426,7 @@ The WHERE clause implicitly makes use of the *PRIMARY KEY* in the table. Recall 
 
 The same *WHERE* clause is an integral part of selecting *subsets* of data for viewing or analysis. This is implicitly a *filter*, a function with which you might be familiar from your experience with spreadsheets. The WHERE clause can become quite complex using *boolean* logic (remember boolean? [(take me there)](#boolean)). Let's start simple. Suppose we have a table full of students (hundreds or even more) and we are looking for one particular student in our database table. We *could* simply open the table view in Access, sort the students by sCUID and scroll down to find the target sCUID. While this is an effective way to search, it's certainly not efficient (way too much input effort for a little bit of output - so if this were how searches had to be done in a database, no one would use them and databases wouldn't exist as a tool). Imagine that we're looking for 10 different students from among 8,500. An arduous task you would agree. Thankfully, the SQL WHERE clause comes to the rescue. All we need to do in Access is to open up the Query Design window, click the SQL View option in the View menu and write our SQL statement. Let's say we're looking for our friend sCUID = '100666999'. The statement to pull (filter) the data to show only that student in table view (or *datasheet view* as Access calls it) would be:
 
-*SELECT *\* FROM tStudent WHERE sCUID = '100666999'*
+*SELECT *\* *FROM tStudent WHERE sCUID = '100666999'*
 
 When we execute (run) this query, only the record for the student with that sCUID would be returned to us. The asterisk (*) in the SELECT statement is a shorthand way to say to the database that you want to see *all fields* in the record. You could instead simply list, in any order and including duplicates (asking for the same field to show twice of more times - for what reason I don't know but I'm just saying you *could*) by simply listing them, comma-delimited, following the SELECT clause. An example:
 
@@ -434,15 +434,15 @@ When we execute (run) this query, only the record for the student with that sCUI
 
 But let's get a little more complex, shall we? Let's go wild and ask for the data for *two* students! Shocking, I know, but easily doable. Just like this:
 
-*SELECT *\* FROM tStudent WHERE sCUID = '100666999' OR sCUID = '100999666'*
+*SELECT *\* *FROM tStudent WHERE sCUID = '100666999' OR sCUID = '100999666'*
 
 Or how about this?
 
-*SELECT *\* FROM tStudent WHERE sTerm = 'W' AND (sSection = 'D' OR sSection = 'E')*
+*SELECT *\* *FROM tStudent WHERE sTerm = 'W' AND (sSection = 'D' OR sSection = 'E')*
 
 Think back to your high school algebra for order of execution and the use of parentheses. We've now combined *AND* and *OR* in our statement. The last remaining refinement in this simple SQL statement is the *NOT* conjunction. Decipher this example:
 
-*SELECT *\* FROM tStudent WHERE sTerm = 'F' AND NOT sSection = 'B'*
+*SELECT *\* *FROM tStudent WHERE sTerm = 'F' AND NOT sSection = 'B'*
 
 This would give us all students from tStudent table from the Fall term (of ANY year in the database because we have not set a filter for Year in our statement) *except* for those enrolled in Section 'B'. Sneaky. Nobody likes those Bs anyway...   
 
@@ -450,7 +450,7 @@ Ok now we get into the weeds again. Imagine we're looking not just for the infor
 
 First the *SELECT* part: 
 
-*SELECT tBids.*\*, tStudent.sCUID*
+*SELECT tBids.*\**, tStudent.sCUID*
 
 So the logic here is "show me the data in all the fields in tBids, but only the sCUID from tStudent. Ok, simple enough. Now we'll skip over the fun part in the middle and show the WHERE part:
 
@@ -462,7 +462,7 @@ That we've seen before. But the complex part is in-between these clauses, where 
 
 Let's unpack that. We want data from both the tStudent and the tBids tables, so we JOIN them using the *INNER JOIN* clause. But what's the criteria? The criteria specifies to show me the bid data where the bCUID in tBids is equal to sCUID that we selected from tStudent with the WHERE clause. Her is is in all its glory:  
 
-*SELECT tBids.*\* tStudent.sCUID FROM tStudent INNER JOIN tBids ON tStudent.sCUID = tBids.bCUID WHERE tStudent.sCUID = '100666999'*
+*SELECT tBids.*\* *tStudent.sCUID FROM tStudent INNER JOIN tBids ON tStudent.sCUID = tBids.bCUID WHERE tStudent.sCUID = '100666999'*
 
 The result might look like this Figure RR below:
 
