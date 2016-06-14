@@ -3,9 +3,9 @@
         "quizzes",
         "exercises",
         "youtube",
+        "atoc",
         "styles-less",
           "styles": {"pdf": "./styles/pdf.less"}
-        "atoc"
     ],
     "pluginsConfig": {}
 }
