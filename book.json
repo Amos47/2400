@@ -4,8 +4,7 @@
         "exercises",
         "youtube",
         "atoc",
-        "styles-less",
-          "styles": {"pdf": "./styles/pdf.less"}
+        "styleguide"
     ],
     "pluginsConfig": {}
 }
