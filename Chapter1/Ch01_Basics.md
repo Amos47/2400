@@ -77,7 +77,7 @@ The visual on *data* above implies (states, really) that data and information ar
 
 *Data is pre-information*. It is *potential* information; a collection of one or more facts, figures or measurements of some entity whether tangible or not. *Information*, on the other hand, is *actionable data*; data embedded in a *context* that allows us to make a decision on a course of action. 
 
-The critical topic of *measurement* is considered in some depth in the Backstory section of this chapter <a class="underlined-link" href="Ch01_BAckstory.md\#">(take me there)</a> and we will spend some time unpacking the concepts of *entities* and *tangible/intangible* in due course. 
+The critical topic of *measurement* is considered in some depth in the Backstory section of this chapter <a class="underlined-link" href="Ch01_Backstory.md\#">(take me there)</a> and we will spend some time unpacking the concepts of *entities* and *tangible/intangible* in due course. 
 
 Here is some example text. <a class="muted-link" href="http://carleton.ca" target="_blank">A muted link. </a>
 
