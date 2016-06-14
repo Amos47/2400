@@ -22,3 +22,11 @@ This file will contain a synopsis of the chapter as a basic review. The logic an
 <button class="btn btn-danger" type="button">Danger button</button>
 
 Colored Text
+
+<i class="octicon octicon-database"></i>
+
+<div class="alert alert-danger">
+    This is an alert!
+
+    <a href="#" class="alert-btn">Details <i class="octicon octicon-chevron-right"></i></a>
+</div>
