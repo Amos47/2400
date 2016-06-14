@@ -4,7 +4,7 @@
 
 Much of this preliminary section relies on work from a dated but still quite interesting article from *liquidinformation.org*. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.
 
-[Interested?](http://www.liquidinformation.org/information_history.html)
+<a class="underlined-link" href="http://www.liquidinformation.org/information_history.html" target="_blank">Interested?</a>
 
 First of all, many of the times the author refers to *information*, I contend they are instead referring to *data*. This distinction will become more clear as we progress. Here is a quote from the piece: 
 
