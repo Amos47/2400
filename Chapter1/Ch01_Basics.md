@@ -18,13 +18,15 @@ So only something that is *useful* can be called information. Now that's a bold 
 
 Right up front let's get clear on something. **Wikipedia is no more a scientfic tool that are my mother's grand Irish musings. Leprechauns may or may not be real, but Wikipedia won't solve the mystery.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
 
-That said, [Wikipedia](https://en.wikipedia.org/wiki/Information) has this to say on the topic: 
+With that out of the way, [Wikipedia](https://en.wikipedia.org/wiki/Information) provides a definition most pertinent and useful for us: 
 
-To begin, the definition that is most pertinent and useful for us is: "Information resolves uncertainty. The uncertainty of an event is measured by its probability of occurrence and is inversely proportional to that. The more uncertain an event, the more information is required to resolve uncertainty of that event."
+>"Information resolves uncertainty. The uncertainty of an event is measured by its probability of occurrence and is inversely proportional to that. The more uncertain an event, the more information is required to resolve uncertainty of that event."
 
 In business, we use information overwhelmingly to inform decision-making. We look out over the horizon and hope to reach some strategic goals. Im order to get there, we need to make decisions about our trajectory.   
 
-In the context of information as: ”...an influence which leads to a transformation.” It can be seen as “... any type of pattern that influences the formation or transformation of other patterns. In this sense, there is no need for a conscious mind to perceive, much less appreciate, the pattern. Consider, for example, DNA. The sequence of nucleotides is a pattern that influences the formation and development of an organism without any need for a conscious mind.”
+In the context of information as: ”...an influence which leads to a transformation.” It can be seen as 
+
+>“... any type of pattern that influences the formation or transformation of other patterns. In this sense, there is no need for a conscious mind to perceive, much less appreciate, the pattern. Consider, for example, DNA. The sequence of nucleotides is a pattern that influences the formation and development of an organism without any need for a conscious mind.”
 
 I have a couple of comments on these web musings. To begin, the assertion regarding *influence* is closest to what I will show is most important in the context of business. Information leads to decisions which have consequences. It is the consequences of decisions that produce knowledge and inform the future. I would, however, maintain that the DNA example is flawed in that DNA is *deterministic*. There is no *interpretation* necessary in order for DNA to have an impact. It requires no *context* in which information is created. It expresses what it is destined to express with no need for any understanding or translation. It cannot do other than it was destined to do. DNA's actions are determined *a priori* (before the fact) and in this sense DNA is *data*, as I will show later, and not *information.*
 
@@ -34,17 +36,17 @@ No need to fully digest or understand this just yet. We will spend some time on 
 
 The article maintains that: “In this practice, tools and processes are used to assist a knowledge worker in performing research and making decisions, including steps such as [my comments in parens]:
 
-- Reviewing information in order to effectively derive value and meaning [assessing the outcomes of decisions]
+>- Reviewing information in order to effectively derive value and meaning [assessing the outcomes of decisions]
 - Referencing metadata if any is available [metadata is literally *data about data* - the list of numbers you've called on your cell is metadata]
 - Establishing a relevant context, often selecting from many possible contexts [this will be important for us]
 - Deriving new knowledge from the information [critical in the business context]
 - Making decisions or recommendations from the resulting knowledge [the feedback from previous knowledge acquisition – this is how knowledge grows]
 
-“Stewart (2001) argues that the transformation of information into knowledge is a critical one, lying at the core of value creation and competitive advantage for the modern enterprise.”
+“Stewart (2001) argues that the transformation of information into knowledge is a critical one, lying at the core of value creation and competitive advantage for the modern enterprise.” *(Stewart, Thomas, (2001). Wealth of Knowledge. Doubleday, New York, NY, 379 p.)*
 
 Well you can't get any more impactful that that. Knowledge creation from information is at the very core of what makes business successful.
 
-[Interested?](http://en.wikipedia.org/wiki/Information)
+The full Wikipedia article is here: [Interested?](http://en.wikipedia.org/wiki/Information)
 
 ### The data, information and knowledge hierarchy
 To begin, when studying Information Systems (or the broader term that I prefer - *Information and Communication Technology* or *ICT*), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the **Big Three** of *data, information* and *knowledge*. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.
@@ -73,9 +75,11 @@ The Visual Thesaurus defines data as: "A collection of facts from which conclusi
 
 The visual on *data* above implies (states, really) that data and information are synonymous; that they can be used to describe each other, and thus that they are equal. My definition, which clears up some of the ambiguity in the terms *data* and *information*, is: 
 
-*Data is pre-information*. It is potential information; a collection of one or more facts, figures or measurements of some entity whether tangible or not. *Information*, on the other hand, is *actionable data*; data embedded in a *context* that allows us to make a decision on a course of action. 
+*Data is pre-information*. It is *potential* information; a collection of one or more facts, figures or measurements of some entity whether tangible or not. *Information*, on the other hand, is *actionable data*; data embedded in a *context* that allows us to make a decision on a course of action. 
 
-We have already considered *measurement* in some depth [(take me there)](#measurement) and we will spend some time unpacking the concepts of *entities* and *tangible/intangible* in due course. 
+The critical topic of *measurement* is considered in some depth in the Backstory section of this chapter take me there and we will spend some time unpacking the concepts of *entities* and *tangible/intangible* in due course. 
+
+Here is some example text. <a class="muted-link" href="carleton.ca" target="_blank">A muted link. </a><a class="underlined-link" href="#">And an underlined link.</a>
 
 The online [Business Dictionary](http://businessdictionary.com) defines data as:
 
