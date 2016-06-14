@@ -15,3 +15,5 @@ The next pillar, tangibility, leads to a discussion of services, of the move in 
 
 In the final pillar, we'll discuss how value is created, how progress is measured and what contribution ICT can make to solving problems and creating value.
 
+
+
