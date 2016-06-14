@@ -4,7 +4,7 @@ This file will contain a synopsis of the chapter as a basic review. The logic an
 
 <button class="btn" type="button">Button button</button>
 
-<a class="btn" href="#" role="button">Link button</a>
+<a class="btn" href="http://carleton.ca" _target="blank" role="button">Link button</a>
 
 <button class="btn btn-lg" type="button">Large Button</button>
 
