@@ -3,6 +3,8 @@
         "quizzes",
         "exercises",
         "youtube",
+        "styles-less",
+          "styles": {"pdf": "./styles/pdf.less"}
         "atoc"
     ],
     "pluginsConfig": {}
