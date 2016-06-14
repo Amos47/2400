@@ -16,7 +16,7 @@ From that point on, we have, as a species, become all about communication. There
 
 So only something that is *useful* can be called information. Now that's a bold statement. Our task then becomes to discover what *useful* means. I will argue that useful has to do with either causing change or persisting the *status quo*. Decision and action cause either change or persistence (the absence of change when change *could* occur). Please stay for the show. 
 
-Right up front let's get clear on something. **One cannot use Wikipedia to do science any more than my mother's grand Irish sayings prove the existence of leprechauns.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
+Right up front let's get clear on something. **Wikipedia is no more a scientfic tool that are my mother's grand Irish musings. Leprechauns may or may not be real, but Wikipedia won't solve the mystery.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
 
 That said, [Wikipedia](https://en.wikipedia.org/wiki/Information) has this to say on the topic: 
 
