@@ -77,8 +77,6 @@ The visual on *data* above implies (states, really) that data and information ar
 
 The critical topic of *measurement* is considered in some depth in the Backstory section of this chapter <a class="underlined-link" href="Ch01_Backstory.md\#">(take me there)</a> and we will spend some time unpacking the concepts of *entities* and *tangible/intangible* in due course. 
 
-Here is some example text. <a class="muted-link" href="http://carleton.ca" target="_blank">A muted link. </a>
-
 The online [Business Dictionary](http://businessdictionary.com) defines data as:
 
 1. "Information in raw or unorganized form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe. See also information and knowledge.", and
