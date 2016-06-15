@@ -287,15 +287,15 @@ This at least partly explains the consolidation among entertainment providers an
 
 [Interested in media consolidation?](http://www.dailyinfographic.com/wp-content/uploads/2015/04/IllusionofChoice.jpg)
 
-BUt if they don’t follow this model, they risk being shoved aside by the content producers. They’ve become the creators rather than the purveyors. *Shomi* is a Rogers – Telus joint response to *Netflix* (isn’t it fun when competitors get in bed with each other – this is the definition of a strategic partnership). Bell’s *CraveTV* is the same. As of the writing of this paragraph, Rogers/Telus has announced that, just like Netflix, Shomi will be available to all as a streaming service to anyone (not just their customers). It’s the only way to compete in this world of intangible products. And it’s due in large part to the *digital revolution*. Netflix is a *disruptor*. We will return to disruptors later in this text.
+But if they don’t follow this model, they risk being shoved aside by the content producers. They’ve become the creators rather than the purveyors. *Shomi* is a Rogers – Telus joint response to *Netflix* (isn’t it fun when competitors get in bed with each other – this is the definition of a strategic partnership). Bell’s *CraveTV* is the same. As of the writing of this paragraph, Rogers/Telus has announced that, just like Netflix, Shomi will be available to all as a streaming service to anyone (not just their customers). It’s the only way to compete in this world of intangible products. And it’s due in large part to the *digital revolution*. Netflix is a *disruptor*. We will return to disruptors later in this text.
  
 Netflix has impacted network TV to the point of near extinction.
+
+[Interested?](http://www.dailyinfographic.com/wp-content/uploads/2015/09/watta.jpg)
 
 Back to Figure DVTT where we left off at item 6 and 7. This was a huge step forward for communications: the telephone. Whether, as Canadians contend, it was invented, produced and first tested in Canada (at Brantford Ontario where AG Bell lived and worked for a time) on in Boston Massacheutsetts, where a better infrastrcture existed, is moot. What the telephone did was to allow synchronous communication over great distance, thus defeating *distance*. The sender and receiver of a communication could now be half a planet away yet still communicate in near perfect synchronicity. The cell phone then defeated the challenge of *location*. Early land lines tethered (tied) to the wall and a system of physical wires in order the make the curcuit. We had to go where the phones were. Cell phones allowed us to *cut the cord* and roam anywhere with an available the cell infrastructure. 
 
 Hand-in-hand with the telephone revolution was the phenomenon we know as the internet. A *network of networks* allowed near real-time, distributed, person and group communication in any combination. Person-to-person, grouo-to-group, person-to-group, etc. All possibilities were attainable. THe internet revolution phase I defeated dialogicity (allowing many people to communicate synchronously with many people) and the wireless revolution allowed the efeat of location, just as the cell phone did for verbal communication. 
-
-[Interested?](http://www.dailyinfographic.com/wp-content/uploads/2015/09/watta.jpg)
 
 ## Systems and process
 <a name="systems">
