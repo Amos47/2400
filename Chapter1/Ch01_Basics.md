@@ -16,7 +16,7 @@ From that point on, we have, as a species, become all about communication. There
 
 So only something that is *useful* can be called information. Now that's a bold statement. Our task then becomes to discover what *useful* means. I will argue that useful has to do with either causing change or persisting the *status quo*. Decision and action cause either change or persistence (the absence of change when change *could* occur). Please stay for the show. 
 
-Right up front let's get clear on something. **Wikipedia is no more a scientfic tool that are my mother's grand Irish musings. Leprechauns may or may not be real, but Wikipedia won't solve the mystery.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
+Right up front let's get clear on something. **Wikipedia is no more a scientfic tool that are my mother's grand Irish musings. Leprechauns may or may not exist, but Wikipedia won't solve the mystery.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
 
 With that out of the way, [Wikipedia](https://en.wikipedia.org/wiki/Information) provides a definition most pertinent and useful for us: 
 
@@ -51,9 +51,7 @@ The full Wikipedia article is here: [Interested?](http://en.wikipedia.org/wiki/I
 ### The data, information and knowledge hierarchy
 To begin, when studying Information Systems (or the broader term that I prefer - *Information and Communication Technology* or *ICT*), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the **Big Three** of *data, information* and *knowledge*. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.
 
-Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation (see the Interested? link below] so instead, I describe here the simpler *Data, Information and Knowledge* hierarchy. 
-
-[Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
+Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation ([Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)) so instead, I describe here the simpler *Data, Information and Knowledge* hierarchy. 
 
 We need to carefully define what each of *data*, *information* and *knowledge* means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
 
