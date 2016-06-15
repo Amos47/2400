@@ -35,5 +35,5 @@ Let's get the dry, most academic stuff possible out of the way early, with a quo
 
 >*[5] concepts and processes of organizational management."*
 
-We will endeavour to hit ACM proclamations 1, 2 and 3 *very* hard, and 4 and 5 slightly less so, in this book. If you are in an ICT concentration or degree program, other courses of study will backfill your knowledge of the remaining requirements.
+We will endeavour to hit ACM proclamations 1, 2 and 3 *very* hard, and 4 and 5 slightly less so, in this book. If you are in an ICT concentration or degree program, other courses of study will back fill your knowledge of the remaining items.
 
