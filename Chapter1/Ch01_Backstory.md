@@ -201,16 +201,18 @@ Dude could be talking to one person or to a crowd, but the message is the same f
 
 Finally, generally note that the tools we are using to communication are becoming increasingly sophisticated and layered. We increasingly need intermediary technology in order send and receive messages.
 
-Below is a table explaining each column in Figure DVTP.
+Table IMPT explains each column in Figure DVTP.
+
+**Table IMPT. Description of the elements in Figure DVTP.** 
 
 | Column | Description |
 | :-: | :- | 
 | Form |The pictographs show the type or form of communication that is under consideration. There are always prople (cave dudes) on each end of the communication. The channel or medium is depicted with images. BOth people and media are *actors*. The direction of communication is represented by red or blue arrows. Red arrows indicate one-way (monologic) communication whereas blue arrows represent two-way (dialogic) communication. Ghosted images indicate the potential for multiple occurences of the actor. |
 | Mode | Represents the multiplicity of the communication. There are three possible types: 1:1 = one-to-one messaging where one actor is communication with one actor as in a private conversation; 1:m = one-to-many where on actor is communication with many other actors as in a person giving a speach or a radio broadcast; finally, m:m = many-to-many where many actors are communications with many other actors.  |
-| Latency | 1:4 |
-| 0:5 | 1:5 |
-| 0:6 | 1:6 |
-| 0:7 | 1:7 |
+| Latency | Refers to the lag between the sending and the receipt of the message. Latency is *potentially* high where the message persists (as in cave art, photography, cinema, etc.) or is sent over long distances with multiple actors intervening, and low where actors are present in the same time and place. |
+| Synch | Synchronicity of the communication refers to whether the sender and receiver are present in the same time an place. This is related to Latency but whereas latency can be m,easured on an analogue scale from zero to infinitiny, Synchnonicity is binary; either the actors are same place and time or not. There can still be latency where there is synchronicity. The two state of Synchronicity are A (asynchronous = not same time and palce) or S (synchronous = same time ans place). |
+| Persists | Persistence of the message. How long it lasts. A spoken word dissapears nearly immediately upon uttering unless recorded in some way. A sculpture persists intil it erodes or is destroyed by some immediate force. |
+| Solves | This column suggests which of the barriers faced by communicators in getting their message out and received is removed by the media actors in the scenario.   |
 
 
 
