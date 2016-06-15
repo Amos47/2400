@@ -1,3 +1,5 @@
+##Chapter 1 Backstory
+
 ### Measurement
 <a name="measure"></a>
 We first need to carefully consider what is meant by the term *measurement* as measurement is necessary in order for data to be useful. Measurement makes data tangible and gives it value. Under the topic of *Accuracy and precision*, Wikipedia (accessed June 17, 2015) offers the following discussion seedlings:
@@ -50,7 +52,8 @@ Each of these will become important at different junctures in our study. Measure
 #### An old joke
 *All this measurement talk reminds me of the great old joke about a doctor, a lawyer and a statistician who are obviously starving or else they wouldn't be on a hunting trip. While hiding in the bushes, they spot a big buck deer at a distance of 25 metres directly in front of them. The doctor sizes up the distance and wind speed, then aims and fires an arrow at the deer. His shot zooms one metre to the rear of the unsuspecting creature. The lawyer notes the doctor's outcome, does some quick calculations, then aims and fires. His shot zips one metre in front of the deer. Our statistician friend jumps up, raises his hands in victory and shouts "GOT ‘IM!!"  (No animals were hurt in the process of creating this book.)* 
 
-### Levels (types) of data
+<a name="types">
+## Levels (types) of data
 In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year in which a person was born in order to provide an age-based discount but having only collected customer age data in 5-year age brackets. So rather than asking a customer to provide the year of their birth, instead asking them to indicate whether they were born in the 1970-1974 or 1975-1979 period, etc. That's a lot of guessing and a lot of unnecessary sloppiness in the precision of their data. Thus, level of measurement is critical in some contexts. 
 
 In general, the closer one can get to ratio / hierarchical data level, the more powerful is the measurement. But some data simply doesn't exist at that level. Gender, for example, is a nominal-level measurement no matter how you slice it. Thought needs to be put into data capture schemes so that the collected data can be used to generate value for the firm. We will return to this later.
@@ -160,7 +163,8 @@ Hierarchical data is that which is measured in comparison with others and which 
 
 Any and all mathematical operation can be done using such data. It is the highest data categorisation and corresponds to Interval data in the NOIR system.
 
-### Communication
+<a name="communication">
+## Communication
 
 How pervasive is information communication? What's the *coverage* in Canada? Take a look at this simple interactive map:
 
@@ -215,8 +219,8 @@ The advent of the printing press (Form #3) solved the problems of location and r
 
 On to breakthrough #4 and #5, the *broadcast era.* Latency was defeated with live feeds and synchronicity could be either live or taped for later broadcast. The best of both worlds. 
 
-####Disassociation of content, time and support
-
+##Disassociation of content, time and support
+<a name="disassociation">
 We live in an increasingly digitised world. Consider a simple example: a hockey game. Time was, the only one way to enjoy the event was in person. Consider the myriad ways such an event can be enjoyed today, both *synchronously* (in real time both in person and offsite) and *asynchronously* (not in real time – stored for later consumption).  See Figure TT below.
 
 **Figure TT. Disassociation of content, time and support**
@@ -255,7 +259,7 @@ All of this represents a wrinkle in the space-time continuum of synchronicity an
 
 But in an odd twist, and back to the future for sure, take a look at this *[Economist Espresso](https://espresso.economist.com/30d454f09b771b9f65e3eaf6e00fa7bd)* story from June 4, 2016. Seems that live broadcasting of events isn't quite dead yet, and may in fact enjoy a resurgence. 
 
-####Some final thoughts
+####Some thoughts on the media
 
 There is no denying that the majority of the *weightless* or the *digital* or the *intangible economy* is if not driven by, at least facilitated by, information and communication technology. So to fully participate, it’s necessary to be well versed in the technology – not necessarily to be able to *create* new technology but clearly to be able to *leverage* it. To understand it well enough to be able to see how it can solve problems or create opportunities for competitive advantage. 
 
@@ -271,7 +275,8 @@ Netflix has impacted network TV to the point of near extinction.
 
 [Interested?](http://www.dailyinfographic.com/wp-content/uploads/2015/09/watta.jpg)
 
-### Systems and process
+## Systems and process
+<a name="systems">
 **Figure SG. A simple system**
 
 ![Process](https://raw.githubusercontent.com/robertriordan/2400/master/Images/simple_system.png)
