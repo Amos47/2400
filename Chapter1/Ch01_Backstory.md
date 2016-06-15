@@ -1,5 +1,5 @@
 ### Measurement
-<a name="measurement"></a>
+<a name="measure"></a>
 We first need to carefully consider what is meant by the term *measurement* as measurement is necessary in order for data to be useful. Measurement makes data tangible and gives it value. Under the topic of *Accuracy and precision*, Wikipedia (accessed June 17, 2015) offers the following discussion seedlings:
 
 #### Accuracy
@@ -25,7 +25,6 @@ Looking at the *target practice* image above, we immediately see that no one sho
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
 
-<a name="measure">
 Here we have a different situation. While again not even one attempt was dead centre, all four were clustered closely to the left and below the *pay dirt* area. Still a situation of *low accuracy* but not for the same reason as above. In this case, the *precision* is excellent. The attempts are very closely clustered together and are thus very precise. But they are *consistently* wrong. As if some technical difficulty is introducing bias into the process (a crooked site perhaps?) causing an otherwise great set of attempts to be consistently wrong. But unlike the first low accuracy situation we looked at above, the attempts are not considered to be *true* on the whole. This is because their *average* distance from dead centre is considered to be large. 
 
 Note in the first case above if you were to calculate an average difference from the centre, you would note that they are all at least touching the first outer ring of the target (though it is enticing to note, it doesn't matter that they are nearly at the 12, 3, 6 and 9 o'clock positions). Calculating an average distance for all four would yield a mean very close to 1 (one) if we were calibrating the rings as 1, 2, 3, etc.  
