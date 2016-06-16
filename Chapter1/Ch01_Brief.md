@@ -3,9 +3,9 @@
 
 There are three important pillars that form the basis of studying ICT. They are:
 
-1. Data, information or knowledge
+1. Data, information and knowledge
 2. Tangible vs. intangible
-3. Affecting the input/output ratio
+3. Impact on the input/output ratio
 
 So let's get started.
 
