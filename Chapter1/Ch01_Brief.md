@@ -19,7 +19,7 @@ Let's begin with a quote from Kevin Kelly's 2016 book entitled *The Inevitable: 
 
 "At the center of every significant change in our lives today is a technology of some sort. Technology is humanity's accelerant. Because of technology everything we make is always in the process of becoming. Every kind of thing is becoming something else, while it churns from "might" to "is." All is flux. Nothing is finished. Nothing is done. This ever-ending change is the pivotal axis of the modern world."
 
-Kevin is the founding executive editor of Wired magazine, and a former editor/publisher of the Whole Earth Review. The book (which I *strongly* recommend you read) is published by Viking (Penguin Random House, June 7 2016, ISBN 9780525428084).
+Kevin Kelly is the founding executive editor of Wired magazine, and a former editor/publisher of the Whole Earth Review. His book (which I *strongly* recommend you read) was published by Viking (Penguin Random House) on June 7 2016. ISBN 9780525428084.
 
 
 
