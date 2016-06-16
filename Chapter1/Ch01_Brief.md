@@ -1,11 +1,11 @@
 # Chapter 1 
 ### In which we introduce some critical context
 
-There are three important pillars upon which we will build the foundation of our study in this opening chapter. They form the basis of all subsequent discussion throughout this text. They are:
+There are three important pillars that form the basis of studying ICT. They are:
 
-1. Are we talking data, information or knowledge?
-2. Is what we are examining a tangible or an intangible?
-3. Does this (technology/service/data/etc.) either shrink input or grow output or both?
+1. Data, information or knowledge
+2. Tangible vs. intangible
+3. Affecting the input/output ratio
 
 So let's get started.
 
