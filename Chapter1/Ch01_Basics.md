@@ -1,4 +1,4 @@
-## Pillar 1: Are we talking data, information or knowledge?
+## Pillar 1: Data, information and knowledge
 
 ### What are data, information and knowledge?
 
@@ -225,7 +225,7 @@ What then of the overlap between information and technology? What exactly is it?
 
 [Interested?](http://openbookproject.net/courses/intro2ict/history/history.html)
 
-## Pillar 2: Is it tangible or intangible?
+## Pillar 2: Tangible vs. intangible
 
 This distinction is larger and more important than the traditional one made in most introductory information system classes. We were wont to say that tangible things are those with a physical presence that we can touch, such as a computer or a smartphone. Intangible was something that, while it exists, cannot be weighed, measured or directly detected, such as software or a computer service such as email. You can weigh a smartphone, but how much does email weigh? What are its dimensions? If measurable at all, its measurement is in terms of counts, such as email sent and received, or a measure of quality such as delivery speed. 
 
@@ -297,9 +297,9 @@ Indeed that is exactly what you are doing as you train and study – creating in
 #### Takeaways
 To bring it home, we live in and are likely to remain living in an increasingly a service-based economy. Services are weightless. Weightless artifacts are intimately tied to ICT whether by services or by manufacturing. And the contribution of services to GDP is consistently outpacing all other sectors. It appears that services, and ICT-leveraging services among them, is a good place to be. Let's get trained up. 
 
-## Pillar 3: Does this (technology/service/data/etc.) either shrink input or grow output or both?
+## Pillar 3: Impact on the input/output ratio
 
-If neither, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
+If a piece of technology has no impact on either the inputs or the outputs of the target, whether organisation, firm or person, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
 There are primarily four ways that a business can derive benefit by applying ICT to support the organisation and its processes:
 
