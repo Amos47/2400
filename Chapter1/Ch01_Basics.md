@@ -299,7 +299,7 @@ To bring it home, we live in and are likely to remain living in an increasingly 
 
 ## Pillar 3: Impact on the input/output ratio
 
-If a piece of technology has no impact on either the inputs or the outputs of the target, whether organisation, firm or person, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
+If a piece of technology has no impact on either the inputs or the outputs of the target, whether that target is an organisation, firm or person, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
 There are primarily four ways that a business can derive benefit by applying ICT to support the organisation and its processes:
 
