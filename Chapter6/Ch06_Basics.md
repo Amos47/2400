@@ -187,7 +187,8 @@ NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a h
 
 ###Artificial Intelligence and Machine Learning
 
-![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach_2.png)
+![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
+
 
 
 
