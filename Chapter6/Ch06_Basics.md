@@ -192,7 +192,7 @@ NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a h
 ![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
 ###Artificial Intelligence
 
-Mnay jokes have been made over the years about just which group best represnets *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A frontrunner has been academics. We won't settle it here.  Better to concentrate on the frowing prowess of machines towards becoming sentient (thinking, aware entities). 
+Mnay jokes have been made over the years about just which group best represnets *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A frontrunner has been academics. We won't settle it here.  Better to concentrate on the growing prowess of machines towards becoming sentient (thinking, aware entities). 
 
 ####Artificial Intelligence
 (tk) Definition
