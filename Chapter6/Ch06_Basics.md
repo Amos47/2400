@@ -194,6 +194,8 @@ NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a h
 
 Mnay jokes have been made over the years about just which group best represnets *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A frontrunner has been academics. We won't settle it here.  Better to concentrate on the growing prowess of machines towards becoming sentient (thinking, aware, concious entities). 
 
+THe blue oval with the cogs and hand indicates that either a machine or a human could take the action. 
+
 ####Artificial Intelligence
 (tk) Definition
 
