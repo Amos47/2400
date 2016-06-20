@@ -198,8 +198,11 @@ THe blue oval with the cogs and hand indicates that either a machine or a human 
 
 ####Artificial Intelligence
 (tk) Definition
+Wikipedia offers this about AI: 
 
-###Maching Learning
+>"In computer science, an ideal *intelligent machine* is a flexible rational agent that perceives its environment and takes actions that maximize its chance of success at an arbitrary goal."
+
+###Machine Learning
 (tk) Definition
 
 Link all to fluid information. 
