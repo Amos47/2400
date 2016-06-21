@@ -210,8 +210,16 @@ Wikipedia offers this about AI:
 
 >"In computer science, an ideal *intelligent machine* is a flexible rational agent that perceives its environment and takes actions that maximize its chance of success at an arbitrary goal."
 
+(References in original [here](https://en.wikipedia.org/wiki/Artificial_intelligence#CITEREFRussellNorvig2003).)
+
 ###Machine Learning
 (tk) Definition
+
+Wikipedia (yes, again) offers this nugget:
+
+>"Tom M. Mitchell provided a widely quoted, more formal definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E." This definition is notable for its defining machine learning in fundamentally operational rather than cognitive terms, thus following Alan Turing's proposal in his paper "Computing Machinery and Intelligence" that the question "Can machines think?" be replaced with the question "Can machines do what we (as thinking entities) can do?""
+
+(References in original [here](https://en.wikipedia.org/wiki/Machine_learning).)
 
 Link all to fluid information. 
 
