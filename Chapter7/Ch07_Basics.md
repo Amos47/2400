@@ -172,7 +172,7 @@ Time for an [XKCD](http://xkcd.com/1513/ "XKCD Code Quality").
 
 ![](http://imgs.xkcd.com/comics/code_quality.png)
 
-A slightly nastier XKCD on coding [here](http://xkcd.com/1695/).
+A slightly edgier XKCD on coding [here](http://xkcd.com/1695/).
 
 And that's the thousand kilometre high view of interface design, objects, programming and systems. There's an incredible world of exciting work out there in design and programming. Don't discount it until you consider how satisfying it can be to create systems that make people feel smart. I still love getting my hands dirty in low-level design and coding. I can get lost for days in it. 
 
