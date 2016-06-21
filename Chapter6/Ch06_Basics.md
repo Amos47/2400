@@ -200,7 +200,7 @@ There are a couple of interesting things going on in the Dilbert strip above. Fi
 ![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
 ###Artificial Intelligence
 
-Mnay jokes have been made over the years about just which group best represnets *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A frontrunner has been academics. We won't settle it here.  Better to concentrate on the growing prowess of machines towards becoming sentient (thinking, aware, concious entities). 
+Many jokes have been made over the years about just which group best exhibits the characteristics of *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A frontrunner has been academics. We won't settle it here.  Better to concentrate on the growing prowess of machines towards becoming sentient (thinking, aware, concious entities). 
 
 THe blue oval with the cogs and hand indicates that either a machine or a human could take the action. 
 
