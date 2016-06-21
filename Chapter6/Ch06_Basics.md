@@ -125,7 +125,9 @@ As technology advances, we shouldn't focus on beating computers at what they do 
 
 ##Automation
 
-![Automation potential, US jobs](https://public.tableau.com/views/AutomationandUSjobs/Technicalpotentialforautomation?:embed=y&:display_count=yes&:showTabs=y) Change this to a static link to the page. 
+![Automation potential, US jobs](https://public.tableau.com/views/AutomationandUSjobs/Technicalpotentialforautomation?:embed=y&:display_count=yes&:showTabs=y) Change this to a static link to the page. (It already is... :( )
+
+
 
 ##Blockchains
 
