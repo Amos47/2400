@@ -195,9 +195,6 @@ Source: The Dilbert cartoon above is available [here](http://bit.ly/28JMLOk).
 
 There are a couple of interesting things going on in the Dilbert strip above. First, the notion of a *minimum viable product*. This perversion os several design standards is hilarious to anyone in the design industry, whether software, hardware or just everyday product design. The goals of simplicity and elegeance in design, recyclability and multi-purposing are all nicely met by a block of wood. Trouble is, the block has severely limited capacity to do anything. That never stopped a good engineer though ;)  Next, the notion of AI or *artificial intelligence*, is a really hot topic these days. We will consider it in some depth below. Finally, the the strip plays on our fears that machines are becoming too human or worse still, *better than human*. Many fear the inevitability of *the singularity*. We will touch on that as well in this chapter. 
 
-**Figure MJGT. Aritiicial Intelligence and Machine Learning showing IoT Sensor Input**
-
-![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
 ###Artificial Intelligence
 
 Many jokes have been made over the years about just which group best exhibits the characteristics of *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A frontrunner has been academics. We won't settle it here.  Better to concentrate on the growing prowess of machines towards becoming sentient (thinking, aware, concious entities). 
@@ -223,6 +220,9 @@ Wikipedia (yes, again) offers this nugget:
 
 Link all to fluid information. 
 
+**Figure MJGT. Aritiicial Intelligence and Machine Learning showing IoT Sensor Input**
+
+![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
 
 
 
