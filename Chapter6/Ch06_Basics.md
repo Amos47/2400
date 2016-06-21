@@ -191,6 +191,9 @@ NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a h
 
 ![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_dilbert.png)
 
+Source: The Dilbert cartoon above is available [here](http://bit.ly/28JMLOk).
+
+There are a couple of interesting things going on in the Dilbert strip above. First, the notion of a *minimum viable product*. This perversion os several design standards is hilarious to anyone in the design industry, whether software, hardware or just everyday product design. The goals of simplicity and elegeance in design, recyclability and multi-purposing are all nicely met by a block of wood. Trouble is, the block has severely limited capacity to do anything. That never stopped a good engineer though ;)  Next, the notion of AI or *artificial intelligence*, is a really hot topic these days. We will consider it in some depth below. 
 
 **Figure MJGT. Aritiicial Intelligence and Machine Learning showing IoT Sensor Input**
 
