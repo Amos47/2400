@@ -193,7 +193,7 @@ NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a h
 
 Source: The Dilbert cartoon above is available [here](http://bit.ly/28JMLOk).
 
-There are a couple of interesting things going on in the Dilbert strip above. First, the notion of a *minimum viable product*. This perversion os several design standards is hilarious to anyone in the design industry, whether software, hardware or just everyday product design. The goals of simplicity and elegeance in design, recyclability and multi-purposing are all nicely met by a block of wood. Trouble is, the block has severely limited capacity to do anything. That never stopped a good engineer though ;)  Next, the notion of AI or *artificial intelligence*, is a really hot topic these days. We will consider it in some depth below. 
+There are a couple of interesting things going on in the Dilbert strip above. First, the notion of a *minimum viable product*. This perversion os several design standards is hilarious to anyone in the design industry, whether software, hardware or just everyday product design. The goals of simplicity and elegeance in design, recyclability and multi-purposing are all nicely met by a block of wood. Trouble is, the block has severely limited capacity to do anything. That never stopped a good engineer though ;)  Next, the notion of AI or *artificial intelligence*, is a really hot topic these days. We will consider it in some depth below. Finally, the the strip plays on our fears that machines are becoming too human or worse still, *better than human*. Many fear the inevitability of *the singularity*. We will touch on that as well in this chapter. 
 
 **Figure MJGT. Aritiicial Intelligence and Machine Learning showing IoT Sensor Input**
 
