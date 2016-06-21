@@ -223,7 +223,7 @@ Here you might be starting to get an idea of what the image represents. A head i
 
 ![Level 2 pixilation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_10.png)
 
-Figure AGST4 is lilely good enough for most applications. Perhaps if you were the pet owner, you'd want a better resolution in order to be able to decide if it was actually *your* cat or a similarly-sized and -coloured one. But in general, this resolution is *good enough* for most purposes. We don't need, except in very specific contexts, to spend the resources to reporduce an exact image of this kitten. It's already *good enough*. 
+Figure AGST4 is likely good enough for most applications. Perhaps if you were the pet owner, you'd want a better resolution in order to be able to decide if it was actually *your* cat or a similarly-sized and -coloured one. But in general, this resolution is *good enough* for most purposes. We don't need, except in very specific contexts, to spend the resources to reporduce an exact image of this kitten. It's already *good enough*. 
 
 **Figure AGST5. Reduced pixilation**
 
