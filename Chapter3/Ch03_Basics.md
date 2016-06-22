@@ -358,8 +358,9 @@ Prototyping has several benefits:
 2. *Requirements can be more easily verified*, tweaked, added or dropped
 3. Metrics around *cost and time are brought into focus* iteratively
 4. Users are *much more likely to buy into the system* and support its use when it goes into production as they had a stake and a voice in its development – they feel ownership of the system because they helped craft it and accepted it at each stage
-5. *Training requirements for users are significantly reduced* they have been exposed to the system often and have trained themselves on its use and indeed directed the development in part
+5. *Training requirements for users are significantly reduced* as they have been exposed to the system often and have trained themselves on its use and indeed directed the development in part
 6. Prototyping is especially useful when systems involve *extensive interaction between computer and user* (have extensive Human-Computer Interaction or HCI)
+
 
 Prototyping also has some drawbacks. These include, but are not limited to:
 
