@@ -327,11 +327,11 @@ Prototyping, as an *iterative* (built in smaller pieces and shown to the users f
 
 Furthermore, prototyping is also often used to *try out* improvements to a system that were not part of the original specification but which *occurred to* the developers (or users) in the process of building. In this sense, it is much closer to the Agile methods we will discuss later. So the prototyping method is a hybrid, thus the *half method* label. For now, back to prototyping. 
 
-**Figure LJ. The prototyping process**
+**Figure LHAJ. The prototyping process**
 
 ![Prototyping](https://raw.githubusercontent.com/robertriordan/2400/master/Images/proto.png)
 
-Figure LJ provides a pictorial overview of the prototyping process as it relates to software development. First, note that there are no more bunnies, cats or dogs as a cost of finding errors. Prototyping replaces them with mice because there's not as much at stake at each iteration. The exposed and under-scrutiny part of the system is smaller, the changes more easily made and the investment in development much smaller. This is an improvement over the SDLC. 
+Figure LHAJ provides a pictorial overview of the prototyping process as it relates to software development. First, note that there are no more bunnies, cats or dogs as a cost of finding errors. Prototyping replaces them with mice because there's not as much at stake at each iteration. The exposed and under-scrutiny part of the system is smaller, the changes more easily made and the investment in development much smaller. This is an improvement over the SDLC. 
 
 Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or iterated) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for implementation. The obviously pivotal step is #6, where in addition to branching to step #7, the outcome of the prototype evaluation can branch to either a refinement of the current design (step #3) or to a revisit of the system requirements if the prototype is introducing a refinement (step #2). So it’s really all about the user feedback. This is an important advantage for prototyping.
 
