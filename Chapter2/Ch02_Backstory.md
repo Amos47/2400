@@ -303,8 +303,6 @@ Note that a considerable part of the data that is brought to bear on a context h
 
 But we are on the verge of a change. Context is *the single biggest thing happening in ICT today*. The proliferation of sensors, so tiny and innocuous, is facilitating measurement at such a fine scale and with such sensitivity that soon we’ll have what one author referred to as *liquid information* (see below). Context is so compelling, be sure to read the Backstory piece on Digital vs. Analog. 
 
-
-
 ### Liquidity...
 
 Let’s bring this home. A very old but again ever-so-interesting site (www.liquidinformation.org) has [this](http://www.liquidinformation.org/ana_digi_liqui.html) much to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. 
@@ -317,11 +315,13 @@ First some definitions:
 
 **Liquid**: Flowing freely like water. Having the properties of a liquid: being neither solid nor gaseous. Smooth and unconstrained in movement. 
   
-The article offers that “We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet." 
+The article offers that:
+>“We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black & white separate units; they are digital. And the twain shall never meet." 
 
-The author writes: “Well you know, it just ain't so. Imagine a couple of small grains of sand. Digital, separate, discrete. Now add a couple more. And a couple more. Millions more. Billions. And you have a beach. An analog, a smooth continuous environment. [sic] 
+The author writes: 
+>“Well you know, it just ain't so. Imagine a couple of small grains of sand. Digital, separate, discrete. Now add a couple more. And a couple more. Millions more. Billions. And you have a beach. An analog, a smooth continuous environment. [sic] 
   
-“Everyday home and office computers, with capacities to manipulate literally billions of bits literally billions of times a second [...] have gone the way of the grains of sand and are definitively not just digital anymore. And they have the potential to become more than analog. They have the potential to become, and make us, liquid.”
+>“Everyday home and office computers, with capacities to manipulate literally billions of bits literally billions of times a second [...] have gone the way of the grains of sand and are definitively not just digital anymore. And they have the potential to become more than analog. They have the potential to become, and make us, liquid.”
  
 So the question for us is: At what point does digital become analog? At what point (threshold) does it matter to us? At what point can we detect the difference? What resolution is important for us? This is akin to decimal place precision. How many decimals is it necessary to report in a table of financial ratios, for example, before the additional digit becomes meaningless? Think about this. Especially the Accountants and Finance people among you. How may decimal places, how much precision, is necessary? When is it *good enough*? 
 
@@ -335,9 +335,14 @@ This introduces the notion of *Just-noticeable Difference* or JND. And of course
 
 [Interested in the Weber-Fechner Law of JND?](http://en.wikipedia.org/wiki/Just-noticeable_difference)
 
-I’m reading a few books as I am writing this text. One that is particularly interesting to me is entitled *This is Your Brain on Music: The Science of a Human Obsession* by McGill neuroscientist and musician Daniel Levitin (2006, Penguin). He writes: “Less well known are the extraordinary advances we have been able to make in modeling how our neurons work, thanks to the continuing revolution in computer technology. We are coming to understand computational systems in our head like never before.” He continues that “Even consciousness itself is no longer shrouded in a mystical fog, but rather is something that emerges from observable physical systems.”
+I’m reading a few books as I am writing this text. One that is particularly interesting to me is entitled *This is Your Brain on Music: The Science of a Human Obsession* by McGill neuroscientist and musician Daniel Levitin (2006, Penguin). He writes: 
+>“Less well known are the extraordinary advances we have been able to make in modeling how our neurons work, thanks to the continuing revolution in computer technology. We are coming to understand computational systems in our head like never before.” 
 
-But what’s more interesting for us is the parallel he draws between sound and sight. Consider a motion picture. In case you didn’t know, a movie is made up of a series of still photos interspersed with black screens. When shown at the right speed, however, our visual system can’t tell that it’s a series of stills. Here’s what Levitin writes: “The lowest note on a standard piano vibrates with a frequency of 27.5 Hz. Interestingly, this is about the same rate of motion that constitutes an important threshold in visual perception. [...] ‘Motion pictures’ are a sequence of still images alternating with pieces of black film presented at a rate (one forty-eighth of a second) that exceeds the temporal receiving property of the human visual system. We perceive smooth, continuous motion when in fact there is no such thing actually being shown to us.”  
+He continues that 
+>“Even consciousness itself is no longer shrouded in a mystical fog, but rather is something that emerges from observable physical systems.”
+
+But what’s more interesting for us is the parallel he draws between sound and sight. Consider a motion picture. In case you didn’t know, a movie is made up of a series of still photos interspersed with black screens. When shown at the right speed, however, our visual system can’t tell that it’s a series of stills. Here’s what Levitin writes: 
+>“The lowest note on a standard piano vibrates with a frequency of 27.5 Hz. Interestingly, this is about the same rate of motion that constitutes an important threshold in visual perception. [...] ‘Motion pictures’ are a sequence of still images alternating with pieces of black film presented at a rate (one forty-eighth of a second) that exceeds the temporal receiving property of the human visual system. We perceive smooth, continuous motion when in fact there is no such thing actually being shown to us.”  
 
 So motion pictures are *just as good* as the real thing for us. Next time you're out on the road, take a look at the wheels of vehicles as they pass on the street. Note that for many, it appears as if you can see the disk brakes behind the wheels as if there were almost no spokes in the rims at all. Our eyes can't keep up with the spinning speed and our brain can't paint the picture fast enough for us, rather just showing us that there's nothing there. But we know different. 
 
@@ -347,7 +352,7 @@ Finally, just for fun...
 
 ![ICT context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/WagonWheelEffect.gif)
 
-The *Wagon wheel effect* is often seen in old Western movies where the wheels of a horse-drawn carriage sometimes appear to either be frozen or to be rotating counter to the direction in which the wagon is moving. The animated GIF in Figure WWE illustrates the phenomenon. The speed of the "camera", moving towards the right, constantly increases at the same rate with the objects sliding to the left. Halfway through the 24-second loop, the objects appear to suddenly shift and head backwards.
+The *Wagon wheel effect* is often seen in old Western movies where the wheels of a horse-drawn carriage sometimes appear to either be frozen or to be rotating counter to the direction in which the wagon is moving. The animated GIF in Figure WWE illustrates the phenomenon. The speed of the *camera*, moving towards the right, constantly increases at the same rate with the objects sliding to the left. Halfway through the 24-second loop, the objects appear to suddenly shift and head backwards.
 
 *Credit: "WagonWheelEffect" by Ulillillia at the English language Wikipedia. Licensed under CC BY-SA 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:WagonWheelEffect.gif#/media/File:WagonWheelEffect.gif*
 
@@ -359,10 +364,9 @@ We might also want to consider the concept of *resolution*. The resolution of a 
 
 Why matters all of this? It matters because as systems and sensors proliferate and their ability to communicate improves, so improves their ability to measure with more and more precision in more and more places at lower and lower resolutions at increasing rates of speed providing a richer and richer stream of input data to flow into and to generate our contexts. And that’s how decisions get made. As ICT is increasingly able to provide more and more context, machines are more and more able to work at a resolution level that is not only *good enough* for most situations, but maybe better than we humans can do... And with such great context, better and better information is generated and more and more decisions can be made for us by machines far below our level of consciousness. We'll be the spinning wheels. So fast, we can't see it happen. 
 
-
 ### And finally, the rapidly declining cost of computing
 
-We end this chapter with an astonishing table from our friends at Wikipedia on the cost of computing. A *gigaflop* is described as *the power to execute one billion floating point calculations per second*. A floating point operation (or a FLOP) is any algebraic manipulation (+ - * /) involving two numbers which have decimal places. So 2 (two) is an *integer* but 2.0 (two point zero) is a *floating point number*. *Ergo* a FLOP might be the mathematical operation to multiply 1.0 by 1.0. Floating point arithmetic takes longer than integer arithmetic. A computer processor's power is often measured in *gigaflops*, providing a universal standard for speed of execution (the *s* at the end stands for *per second*), which is a proxy for computing power. The more flops a system can do in a second, the more powerful the system.
+We end this section with an astonishing table from our friends at Wikipedia on the cost of computing. A *gigaflop* is described as *the power to execute one billion floating point calculations per second*. A floating point operation (or a FLOP) is any algebraic manipulation (+ - * /) involving two numbers which have decimal places. So 2 (two) is an *integer* but 2.0 (two point zero) is a *floating point number*. *Ergo* a FLOP might be the mathematical operation to multiply 1.0 by 1.0. Floating point arithmetic takes longer than integer arithmetic. A computer processor's power is often measured in *gigaflops*, providing a universal standard for speed of execution (the *s* at the end stands for *per second*), which is a proxy for computing power. The more flops a system can do in a second, the more powerful the system.
 
 Below is a table equating gigaflops with dollars. How much did the computing power to effect one gigaflop cost, down through the annals of computer history? Here's what Wikipedia has to say (it will astonish you):
 
@@ -383,9 +387,7 @@ Below is a table equating gigaflops with dollars. How much did the computing pow
 | December 2013 | $0.12 | $0.12 | Pentium G550 R9 290 System | Built using commercially available parts. Pentium G550 & AMD R9 290 tops out at 4.848 TFLOPS grand total of $681.84 USD. |
 | January 2015 | $0.08 | $0.08 | Celeron G1830 R9 295x2 System | Built using commercially available parts. Intel Celeron G1830 & AMD Radeon R9 295x2 tops out at over 11.5 TFLOPS at a grand total of $902.57 USD. |
 
-[See the source for important notes and additional information.]
-
-*Source: http://en.wikipedia.org/wiki/FLOPS*
+See [the source](http://en.wikipedia.org/wiki/FLOPS) for important notes and additional information.
 
 In 55 years (shorter than my already short life) the equivalent cost to execute a billion FLOPs has dropped from USD $8,300,000,000,000 to USD $0.08. If that's not stunning and breathtaking then neither is (insert your most stunning and breathtaking thing here). Computing wins. 
 
