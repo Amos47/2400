@@ -364,13 +364,13 @@ Prototyping has several benefits:
 
 Prototyping also has some drawbacks. These include, but are not limited to:
 
-1. *Insufficient analysis*: The focus on a limited prototype can distract developers from properly analyzing the complete project.
-2. *User confusion of prototype and finished system*: Users can begin to think that a prototype, intended to be thrown away, is actually a final system that merely needs to be finished or polished. 
-3. *Developer attachment to prototype*: Developers can also become attached to prototypes they have spent a great deal of effort producing; this can lead to problems like attempting to convert a limited prototype into a final system when it does not have an appropriate underlying architecture. 
-4. *User attachment to the features of a prototype:* Users might become accustomed or attracted to features that were included in a prototype for consideration and then removed from the specification for a final system. This can lead to misunderstanding and conflict.
-5. *Excessive development time of the prototype*: A key property to prototyping is the fact that it is supposed to be done quickly. If the developers lose sight of this fact, they very well may try to develop a prototype that is too complex. 
-6. *Expense of implementing prototyping*: the startup costs for building a development team focused on prototyping may be high. Many companies tend to just jump into the prototyping without bothering to retrain their workers as much as they should.
-7. Prototyping can lead to both *scope creep* and *feature creep*. 
+1. *Insufficient analysis*: The focus on a limited prototype can distract developers from properly analyzing the complete project
+2. *User confusion of prototype and finished system*: Users can begin to think that a prototype, intended to be thrown away, is actually a final system that merely needs to be finished or polished
+3. *Developer attachment to prototype*: Developers can also become attached to prototypes they have spent a great deal of effort producing; this can lead to problems like attempting to convert a limited prototype into a final system when it does not have an appropriate underlying architecture
+4. *User attachment to the features of a prototype:* Users might become accustomed or attracted to features that were included in a prototype for consideration and then removed from the specification for a final system, potentially leading to misunderstanding and conflict
+5. *Excessive development time of the prototype*: A key property to prototyping is the fact that it is supposed to be done quickly - if the developers lose sight of this fact, they very well may try to develop a prototype that is too complex
+6. *Expense of implementing prototyping*: The startup costs for building a development team focused on prototyping may be high - many companies tend to jump into the prototyping without spending the time to retrain their workers as much as they should
+7. Prototyping can lead to both *scope creep* and *feature creep* (see below)
 
 [Interested?]( http://en.wikipedia.org/wiki/Software_prototyping#Disadvantages_of_prototyping)
 
@@ -392,22 +392,22 @@ Table RMA provides a comparison between SDLC and prototyping on some important d
 | Where scope creep or feature creep need to be carefully managed | Excellent | Poor |
 
 ##### Feature Creep and Scope Creep
-Any time clients/users ask developers to increase the amount of work a system will do, or to include features that were not specified in the original system requirements, * creep* is at work. Project managers and developers must be continuously on the lookout for such creeps, as they are everywhere. Each tiny little addition, without a commensurate increase of time allotted, resources allocated or quality expected, leads the project one tiny step closer to failure. 
+Any time clients/users ask developers to increase the amount of work a system will do, or to include features that were not specified in the original system requirements, *creep* is at work. Project managers and developers must be continuously on the lookout for such creeps, as they are everywhere. Each tiny little addition, without a commensurate increase of time allotted, resources allocated or quality expected, leads the project one tiny step closer to failure. 
 
 In the broadest sense, an example of scope creep might be if users were to ask the developers of Microsoft Excel (a spreadsheet) to also provide the capability to produce manuscripts (a word processing function). The scope of work is therefore much broader than what a spreadsheet is normally expected to do. Feature creep, on the other hand, could be illustrated by users asking Microsoft to include a feature in Excel whereby every time a user entered a valid email address in a cell, that email address is added to the user’s contact list. Nice feature. Not in the original specs. Nothing to do with a spreadsheet’s core functionality. 
 
 ### Agile
 The SDLC and, to a certain extent prototyping, represent the so-called *heavyweight*, waterfall-oriented methods, which critics have called ponderous (cumbersome), sclerotic (rigid) and over-managed (too many rules to follow). Such shortfalls led to the development of lightweight agile software development methods in the mid-1990s. 
 
-Early implementations of agile methods include Unified Process in 1994 (specifically implemented as the Rational Unified Process or RUP following IBM’s purchase of Rational Software in 2003), Scrum in 1995, Extreme Programming (EP) in 1996, and others. 
+Early implementations of agile methods include *Unified Process* in 1994 (specifically implemented as the Rational Unified Process or RUP following IBM’s purchase of Rational Software in 2003), *Scrum* in 1995, *Extreme Programming* (EP) in 1996, and others. 
 
-These methods are now collectively referred to as Agile Development following the publication of the [Agile Manifesto](http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto) in 2001.
+These methods are now collectively referred to as *Agile Development* following the publication of the [Agile Manifesto](http://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto) in 2001.
 
-**Figure NA. The generalised Agile process**
+**Figure NAPT. The generalised Agile process**
 
 ![SDLC Phases](https://raw.githubusercontent.com/robertriordan/2400/master/Images/agile.png)
 
-Note from Figure NA the emphasis on delivering working software at the end of each rapid iteration (it should take no longer than a month – and often much, much less time -- to traverse from top to bottom of one iteration in agile), then moving back to the beginning after evaluation by users. This is much closer to prototyping and clearly differentiates from the SDLC where stages are begun and finished and never revisited unless a catastrophic error causes a complete reset. This is the main contrast between the two camps. The SDLC is *predictive* – all is known beforehand and the process doesn’t vary. Agile methods are more *adaptive and flexible*.
+Note from Figure NAPT the emphasis on delivering working software at the end of each rapid iteration (it should take no longer than a month – and often much, much less time - to traverse from top to bottom of one iteration in agile), then moving back to the beginning after evaluation by users. This is much closer to prototyping and clearly differentiates from the SDLC where stages are begun and finished and never revisited unless a catastrophic error causes a complete reset. This is the main contrast between the two camps. The SDLC is *predictive* – all is known beforehand and the process doesn’t vary. Agile methods are more *adaptive and flexible*. While these features sound attractive, they come with a price (as does everything). The price is a lack of structure and often a lack of a good audit trail. Not always, but it's much more likely for an Agile project to go off the rails than for an SDLC or protyping project to do the same. 
 
 Let's take a moment with the RUP flavour of Agile and dig into what a project using this development method would look like. 
 
@@ -415,9 +415,9 @@ Let's take a moment with the RUP flavour of Agile and dig into what a project us
 
 ![SDLC Phases](https://raw.githubusercontent.com/robertriordan/2400/master/Images/rup_cycle.png)
 
-Time for a little bit of unpacking here. The RUP process (this is the same as UP, don't get confused) is divided into *Disciplines*, which are akin to SDLC stages and they are listed down the left axis. Specific work is done by specialists in each stage. Business Analysts are busy in the Business Modelling phase. Systems Analysts and Designers are busy in the Analysis and Design phase. Testers are testing when the time comes. And so on. So it's no different from any other development effort - just slightly different terminology. And note they map *roughly* onto the *Activity Phases* of the generalised Agile process map in Figure NA above. So we're getting somewhere...
+Time for a little bit of unpacking here. The RUP process (this is the same as UP, don't get confused) is divided into *Disciplines*, which are akin to SDLC stages and they are listed down the left axis. Specific work is done by specialists in each stage. Business Analysts are busy in the Business Modelling phase. Systems Analysts and Designers are busy in the Analysis and Design phase. Testers are testing when the time comes. And so on. So it's no different from any other development effort - just slightly different terminology. And note they map *roughly* onto the *Activity Phases* of the generalised Agile process map in Figure NATP above. So we're getting somewhere...
 
-So that's the horizontal dimensions defined, named *Disciplines*. Let's turn our attention to the vertical dimensions, or *Phases*. Highest level, there are four phases to development in RUP with Software Development Life Cycle stages to explain: 
+So that's the horizontal dimensions defined: named *Disciplines*. Let's turn our attention to the vertical dimensions, or *Phases*. Highest level, there are four phases to development in RUP with Software Development Life Cycle stages to explain: 
 
 1. Inception - Problem definition and solution imperatives
 2. Elaboration - Solution features, software requirements and analysis/design 
