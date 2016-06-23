@@ -211,6 +211,12 @@ You can see that data flows both ways in this scenario. From the top, the messag
 
 Et *voila*. From strategy to operation. The similarity to the situation at your own workplace is striking... 
 
+But there are considerabel dearbacks to this type of organisational structure. In their book *Strategic Intent* (a tny little thing you could read in a couple of hours - and I highly recommend you do so), Hamel and Prahalad write:
+
+> "... the strategic heirarchy undermines competitiveness by fostering an elitist view of management that tends to disenfranchise [piss off] most of the organization. Employees fail to identify with corporate goals or involve themselves deeply in becoming more competitive." 
+
+So again, nothing's free...
+
 At what level of the organisation are we talking when we’re talking about knowledge, low-granularity data and unstructured decisions versus the TPS type of data and decision? Let’s start at the bottom of Figure JL in the *Decision type* column. 
 
 Measurement and data collection/storage are TPS responsibilities, and TPS deal with highly granular data; the TPS is on the beach. Such data are suited to structured decisions. There are no nuances or shades of meaning or complicated contexts to navigate. It’s black and white. This is the *shop floor* area. The showroom, the warehouse, the factory. The staff here are concerned with the very nuts and bolts of the organisation and require systems that are unambiguous, straightforward and next to fool-proof. They must be fast and efficient and they must work as advertised. This is the *operational level* of the organisation. But make no mistake; the data must be accurate and fresh since they provide the foundation for all that is to come as we move up the line. The overall health of the organisation – how well it is performing according to the tactical direction from the middle – is measured here and is pushed up the chain of command in the form of increasingly rolled-up data. Thus the upward arrow under the word *Outcomes.* 
