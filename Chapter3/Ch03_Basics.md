@@ -417,20 +417,26 @@ Let's take a moment with the RUP flavour of Agile and dig into what a project us
 
 Time for a little bit of unpacking here. The RUP process (this is the same as UP, don't get confused) is divided into *Disciplines*, which are akin to SDLC stages and they are listed down the left axis. Specific work is done by specialists in each stage. Business Analysts are busy in the Business Modelling phase. Systems Analysts and Designers are busy in the Analysis and Design phase. Testers are testing when the time comes. And so on. So it's no different from any other development effort - just slightly different terminology. And note they map *roughly* onto the *Activity Phases* of the generalised Agile process map in Figure NATP above. So we're getting somewhere...
 
-So that's the horizontal dimensions defined: named *Disciplines*. Let's turn our attention to the vertical dimensions, or *Phases*. Highest level, there are four phases to development in RUP with Software Development Life Cycle stages to explain: 
+So that's the vertical axis defined: named *Disciplines*. Let's turn our attention to the horizontal dimensions, or *Phases*. Highest level, there are four phases of development in RUP, as shown in Table ECTA below. The coresponding Software Development Life Cycle stages are also shown. 
 
-1. Inception - Problem definition and solution imperatives
-2. Elaboration - Solution features, software requirements and analysis/design 
-3. Construction - Coding, database and testing
-4. Transition - Implementation and system usage in production
+**Table ECTA: RUP Phases and Software DLC equivalents**
 
-At the next level down, below the four phases, we see the *iterations* named for the phase in which they occur. Thus we have the first (and only) iteration in the Inception phase named as *I1*. The two iterations in the Elaboration phase named as E1 and E2. Not rocket surgery at all. It's important to note that, depending on the project, iterations can be added to or subtracted from this basic model *but it's important to not stray too far from this template. If a project requires a great deal of modification from this *ideal* then perhaps it's time to rethink the scope (too big perhaps?). 
+| RUP Phase | Software DLC equivalent |
+| :-: | :- |
+| Inception| Problem definition and solution imperatives |
+| Elaboration | Solution features, software requirements and analysis/design |
+| Construction | Coding, database and testing |
+| Transition | Implementation and system usage in production |
 
-What's really interesting about this model are the coloured bars running horizontally from the disciplines labels and crossing each of the phase and iteration boundaries running vertically. Overall, it's clear that there is only one discipline that has no work to do in all 9 iterations - and that's Analysis and Design, which ends at iteration 8. Otherwise, every discipline has work in every iteration. The height of the coloured are indicates the *quantity* of work being done in each phase/iteration. Check it out. Most of the Business Modelling is done early (makes sense) and most of the Deployment is done late. Again, this stands to reason. This simply reinforces the fact that requirements and solutions can be and are discovered late in the game and pose no real threat to the development. This is the strength of agile in any of its flavours. 
+At the next level down in Figure MH, below the four phases, we see the *iterations* named for the phase in which they occur. Thus we have the first (and only) iteration in the Inception phase named as *I1*. The two iterations in the Elaboration phase are named E1 and E2. Not rocket surgery at all. It's important to note that, depending on the project, iterations can be added to or subtracted from this basic model *but it's important to not stray too far from this template*. If a project requires a great deal of modification from this *ideal* then perhaps it's time to rethink the scope (too big perhaps?). 
+
+What's really interesting about this model are the coloured bars running horizontally from the disciplines labels and crossing each of the phase and iteration boundaries, which run vertically. Overall, it's clear that there is only one discipline does not work in all 9 iterations - and that's *Analysis and Design*, which ends at iteration 8. Otherwise, every discipline has work in every iteration. The height of the coloured are indicates the *quantity* of work being done in each phase/iteration. Check it out. Most of the Business Modelling is done early (makes sense) and most of the Deployment is done late. Again, this stands to reason. This simply reinforces the fact that requirements and solutions can be *and are* discovered late in the game and pose no real threat to the development. This is the strength of agile in any of its flavours and stands in stark contrast to the SDLC. 
 
 The title of the diagram from the original work says it all. Business value can be discovered at any juncture by any discipline even during time-limited phases of development. 
 
 [Interested?](https://en.wikipedia.org/wiki/Rational_Unified_Process)
+
+###Lean
 
 Lean is a flavour of Agile, and has been extended or adopted by other movements in the business world. As Gaping Void designer/artist/guru Hugh MacLoed and business partner Jason Korman imply in the image below, it's always the destination that should drive the agenda, rather than how to get there. Going on a trip, you wouldn't say that you are "...going in a Toyota", but rather that you are "...on our way to Wonderland", for example. Here's the gapingvoid.com feature for April 10, 2015:
 
@@ -440,19 +446,19 @@ Lean is a flavour of Agile, and has been extended or adopted by other movements 
 
 Here's what MacLoed writes in the accompanying text to the daily email from gapingvoid.com regarding the graphic:
 
-"I never know from the start, what a drawing is going to look like when it’s finished. I just make it up as I go along. And that’s perfectly normal. Nobody ever asked Beethoven, “So when you get around to writing that Ninth Symphony, what notes are you going to use? How many times? In what order?” Of course not. All one has is a feeling that if you set off in a certain direction, something solidly good will happen. Maybe. And what’s true for symphonies is also true for businesses. The final project is never the same as when you first imagine it. The idea is changed the minute it comes into contact with execution. You just kinda know “what” is going to happen, without actually knowing what exactly is going to happen.
+>"I never know from the start, what a drawing is going to look like when it’s finished. I just make it up as I go along. And that’s perfectly normal. Nobody ever asked Beethoven, “So when you get around to writing that Ninth Symphony, what notes are you going to use? How many times? In what order?” Of course not. All one has is a feeling that if you set off in a certain direction, something solidly good will happen. Maybe. And what’s true for symphonies is also true for businesses. The final project is never the same as when you first imagine it. The idea is changed the minute it comes into contact with execution. You just kinda know “what” is going to happen, without actually knowing what exactly is going to happen.
  
-"This loose relationship with the word, “What” is at the core of our friend, Eric Ries’ “Lean Startup” movement. Not waiting around to know “Everything”, because that is impossible. Instead, you just start. And keep going. And stay light on your feet enough (i.e. low burn rate) in order to change directions on the dime (i.e. “pivot”) if you need to. Worry about the music, and the notes will take care of themselves."
+."This loose relationship with the word, “What” is at the core of our friend, Eric Ries’ “Lean Startup” movement. Not waiting around to know “Everything”, because that is impossible. Instead, you just start. And keep going. And stay light on your feet enough (i.e. low burn rate) in order to change directions on the dime (i.e. “pivot”) if you need to. Worry about the music, and the notes will take care of themselves."
 
 Lean is much more than about systems development. If you get interested below, you'll note striking similarities to prototyping. Agile and Lean both owe some props to prototyping as they are descended from the general principle of providing frequent and rich feedback, and changing course based on the feedback, that is the foundation of prototyping.
 
-[[Interested?](http://theleanstartup.com/principles)]
+[Interested?](http://theleanstartup.com/principles)
 
 Agile has many devotees, at least partly because the principles of the Agile movement are simple, straightforward and compelling. 
 
 [Interested?](http://agilemanifesto.org/principles.html)
 
-The contrast with SDLC are added by the author in the SDLC reflection column:
+The contrast between Agile and the SDLC are illustrated in Table TB below, where each Agile principle is paired with my reflection on its SDLC equivalent. 
 
 **Table TB. Agile principles with comparative reflections on the SDLC** 
 
@@ -465,15 +471,15 @@ The contrast with SDLC are added by the author in the SDLC reflection column:
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. | Systems developers are divorced from the business process and develop in a black box without continuous feedback from the business side. |
 | The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.  | Little communication between developers and developers and even less between developers and business analysts. |
 | Working software is the primary measure of progress.  | Adherence to milestones, cost certainty and incremental approval are measures of success. |
-Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. | Pave of development is dictated by external sign-off and resource allocation. |
+| Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. | Pave of development is dictated by external sign-off and resource allocation. |
 | Continuous attention to technical excellence and good design enhances agility. | Parameters are determined at project outset and not reviewed continuously. |
-| Simplicity -- the art of maximizing the amount of work not done- is essential. | Steps are undertaken because they must be followed in order to get sign-off and are divorced from agility and/or improvement. |
-| The best architectures, requirements, and designs emerge from self- organizing teams. | Teams are organised around resource efficiency and cost certainty and not product excellence. |
+| Simplicity - the art of maximizing the amount of work not done- is essential. | Steps are undertaken because they must be followed in order to get sign-off and are divorced from agility and/or improvement. |
+| The best architectures, requirements, and designs emerge from self-organizing teams. | Teams are organised around resource efficiency and cost certainty and not product excellence. |
 | At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly. | Little internal reflection; emphasis is on conformity and hitting milestones on time, at or under budget. |
 
 This might seem a stinging indictment of the SDLC. Indeed in many ways, the SDLC has outlived its usefulness, given modern technology and the growth of the internet as a medium for delivering applications. There are obvious differences between the monolithic applications popular in the heyday of the mainframe era. 
 
-But many organisations, especially those that are large and bureaucratic in nature (governments, for example), find comfort in the rigorous rules and milestone reviews and sign-offs. We mustn’t sell short some of virtues of the SDLC. This being said, let’s return to Agile.
+But many organisations, especially those that are large and bureaucratic in nature (governments, for example), find comfort *and necessary accountability* in the rigorous rules and milestone reviews and sign-offs. We mustn’t sell short some of virtues of the SDLC. This being said, let’s return to Agile.
 
 Here is what the [Agile Alliance](http://agilemanifesto.org/principles.html "Agile Alliance") says about its values:
 
@@ -488,24 +494,32 @@ They close with “That is, while there is value in the items on the right, we v
 
 [Interested?]( http://www.ambysoft.com/essays/agileManifesto.html)
 
-Let’s now take a brief look at Scrum, a popular agile software development method model. “Agile and SCRUM are related but distinct. Agile describes a set of guiding principles for building software through iterative development. Agile principles are best described in the Agile Manifesto. SCRUM is a specific set of rules to follow when practising agile software development.”
+###Scrum
+Let’s now take a brief look at* Scrum*, a popular agile software development method model. 
+
+>“Agile and SCRUM are related but distinct. Agile describes a set of guiding principles for building software through iterative development. Agile principles are best described in the Agile Manifesto. SCRUM is a specific set of rules to follow when practising agile software development.”
 
 [Interested?](http://stackoverflow.com/questions/1586928/how-different-is-scrum-practice-from-agile-practice)
-Following is from the book entitled *Scrum: a Breathtakingly Brief and Agile Introduction*, 2012, Dymaxicon, ISBN 10: 193796504X. This overview of roles, artifacts and the sprint cycle is adapted from *The Elements of Scrum* by Chris Sims & Hillary Louise Johnson, 2011, Dymaxicon, ISBN 10: 0982866917.
 
-The authors write that “Scrum is a lightweight framework designed to help small, close-knit teams of people develop complex products. The brainchild of a handful of software engineers working together in the late 20th Century, scrum has gained the most traction in the technology sector … A scrum team typically consists of around seven people [7 +/- 2] who work together in short, sustainable bursts of activity called sprints, with plenty of time for review and reflection built in. One of the mantras of scrum is “inspect and adapt,” and scrum teams are characterized by an intense focus on continuous improvement— improvement— of their process, but also of the product.”
+Following is from the book entitled *Scrum: a Breathtakingly Brief and Agile Introduction* (2012, Dymaxicon, ISBN 10: 193796504X). This overview of roles, artifacts and the sprint cycle is adapted from *The Elements of Scrum* by Chris Sims & Hillary Louise Johnson (2011, Dymaxicon, ISBN 10: 0982866917).
+
+The authors write that: 
+
+>“Scrum is a lightweight framework designed to help small, close-knit teams of people develop complex products. The brainchild of a handful of software engineers working together in the late 20th Century, scrum has gained the most traction in the technology sector … A scrum team typically consists of around seven people [7 +/- 2] who work together in short, sustainable bursts of activity called sprints, with plenty of time for review and reflection built in. One of the mantras of scrum is “inspect and adapt,” and scrum teams are characterized by an intense focus on continuous improvement— improvement— of their process, but also of the product.”
 
 [Interested?]( https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 
-A *sprint* is a development session (or *iteration* in standard Agile parlance), traditionally lasting anywhere from two weeks to a month (but never longer), during which time the steps in the agile iteration process (see Figure NA) are executed in one sequence from top to bottom. Scrum sprints are increasingly shorter now, many lasting only a week. The value in short sprints is that deliverable and value-creating software is output at the conclusion of each sprint, and adding value quickly is a good thing.
+A *sprint* is a development session (or *iteration* in standard Agile parlance), traditionally lasting anywhere from two weeks to a month (but never longer), during which time the steps in the agile iteration process (see Figure NAPT) are executed in one sequence from top to bottom. Scrum sprints are increasingly shorter now, many lasting only a week. The value in short sprints is that deliverable and value-creating software is output at the conclusion of each sprint, and adding value quickly is a good thing.
 
-Scrum is simple in its organisation and recognises only three what they call “roles”, *viz:* Product owner, Scrim master and Team member. What’s the responsibility of each?
+Scrum is simple in its organisation and recognises only three what they call “roles”, *viz:* Product Owner, Scrim Master and Team Member. What’s the responsibility of each?
 
-The *Product Owner* is responsible for maximising the ROI from the investment in the system. They do so by actively directing activities of the Scrum team towards ROI-enhancing activities and equally actively away from non-ROI-enhancing activities (such as much of the bureaucratic process inherent in the SDLC). They do so by controlling the *priority* of activities on the team’s *backlog* (more on this soon) and by ensuring that the team clearly understands the requirements – requirements than can and do evolve, change, morph and appear/disappear as the product matures. The owners accomplish this partly by recording the requirements in the form of what are called *user stories* in the form of “As a {role}, I want feature {a feature} so that I can {accomplish something}.”  
+The *Product Owner* is responsible for maximising the ROI from the investment in the system (And isn't ROI the very purpose of development in the first place?). They do so by actively directing efforts of the Scrum team towards ROI-enhancing activities and equally actively away from non-ROI-enhancing activities (such as much of the bureaucratic process inherent in the SDLC). They do so by controlling the *priority* of activities on the team’s *backlog* (more on this soon) and by ensuring that the team clearly understands the requirements – requirements than can and do evolve, change, morph and appear/disappear as the product matures. The owners accomplish this partly by recording the requirements in the shape of what are called *user stories* in the form of “As a {role}, I want feature {a feature} so that I can {accomplish something}.”  
 
 Such user stories are added to what is called the *product backlog* (discussed below) which might be construed as a type of requirements list in the sense of the SDLC, but are much less rigorous while at the same time much more targeted towards directly adding value to the system. 
 
-In a nutshell, the role of the Product Owner can be summarised as follows: The Product Owner:
+In a nutshell, the role of the Product Owner can be summarised as follows.
+
+The Product Owner:
 
 - Holds the vision for the product
 - Represents the interests of the business
@@ -515,28 +529,41 @@ In a nutshell, the role of the Product Owner can be summarised as follows: The P
 - Creates acceptance criteria for the backlog items
 - Is available to answer team members’ questions
 
-The next role to consider (although the authors of the book from which this brief introduction is taken actually outline the Scrum Master’s role next – I feel this is out of order and take responsibility for this shift in sequence) is the of *Team Member*.  The authors have this to say about the role:
+The next role to consider (although the authors of the book from which this brief introduction is taken actually outline the Scrum Master’s role next – I feel this is out of order and take responsibility for this shift in sequence) is that of *Team Member*.  The authors have this to say about the role:
 
-“The role of each and every team member is to help the team deliver potentially shippable product in each sprint.” The *sprint* is best understood as one complete vertical sequence in Figure NA, from Requirements to Evaluation. This “sprint (or iteration) is designed to deliver a working system to the client, albeit mostly incomplete until the project nears completion. 
+>“The role of each and every team member is to help the team deliver potentially shippable product in each sprint.” 
+
+The *sprint* is best understood as one complete vertical sequence in Figure NAPT, from Requirements to Evaluation. This “sprint (or iteration) is designed to deliver a working system to the client, albeit mostly incomplete until the project nears completion. As such, this resembles prototyping. 
 
 Microsoft, for example, has begun to use Agile to deliver its Visual Studio programming environment. 
+
 [Interested?]( http://arstechnica.com/information-technology/2014/08/how-microsoft-dragged-its-development-practices-into-the-21st-century/) Make sure to read the whole article! 
 
-The Scrum authors continue “Often, the best way for a team member to do this is by contributing work in their area of specialty. Other times, however, the team will need them to work outside their area of specialty in order to best move backlog items (aka user stories) from *in progress* to *done.*”
+The Scrum authors continue 
 
-In a nutshell, the role of Team Member can be summarised as follows. The Team Member:
+>“Often, the best way for a team member to do this is by contributing work in their area of specialty. Other times, however, the team will need them to work outside their area of specialty in order to best move backlog items (aka user stories) from *in progress* to *done.*”
 
-[Is] responsible for completing user stories to incrementally increase the value of the product 
-Self-organizes to get all of the necessary work done 
-Creates and owns the estimates 
-Owns the “ how to do the work” decisions 
-Avoids siloed “not my job” thinking
+In a nutshell, the role of Team Member can be summarised as follows. 
 
-The final Scrum role to consider is that of Scrum Master. The authors write that “While a team’s deliverable is the product, a scrum master’s deliverable is a high-performing, self-organizing team. The scrum master is the team’s good shepherd, its champion, guardian, facilitator, and scrum expert.”
+The Team Member:
 
-Further, they offer that “The scrum master is not— we repeat, not— the team’s boss. This is a peer position on the team, set apart by knowledge and responsibilities not rank.”
+* [Is] responsible for completing user stories to incrementally increase the value of the product
+* Self-organizes to get all of the necessary work done 
+* Creates and owns the estimates 
+* Owns the “ how to do the work” decisions 
+* Avoids siloed “not my job” thinking
 
-The role of the Scrum Master can be encapsulated as follows: The Scrum Master is a/an:
+The final Scrum role to consider is that of *Scrum Master*. The authors write that 
+
+>“While a team’s deliverable is the product, a scrum master’s deliverable is a high-performing, self-organizing team. The scrum master is the team’s good shepherd, its champion, guardian, facilitator, and scrum expert.”
+
+Further, they offer that 
+
+>“The scrum master is not— we repeat, not— the team’s boss. This is a peer position on the team, set apart by knowledge and responsibilities not rank.”
+
+The role of the Scrum Master can be encapsulated as follows. 
+
+The Scrum Master is a/an:
 
 - Scrum expert and adviser 
 - Coach 
@@ -545,9 +572,11 @@ The role of the Scrum Master can be encapsulated as follows: The Scrum Master is
 
 The Scrum uses various tools (called *Scrum Artifacts* by practitioners).  
 
-### Scrum Artifacts
+####Scrum Artifacts
 
-Artifacts (defined as: ”*any object made by human beings, especially with a view to subsequent use* (dictionary.com)) include the aforementioned Product Backlog, about which the authors write: “The product backlog is the cumulative list of desired deliverables for the product. This includes features, bug fixes, documentation changes, and anything else that might be meaningful and valuable to produce. Generically, they are all referred to as “backlog items.” While backlog item is technically correct, many scrum teams prefer the term “user story,” as it reminds us that we build products to satisfy our users’ needs.” 
+Artifacts (defined as: ”*any object made by human beings, especially with a view to subsequent use*" (dictionary.com)) include the aforementioned Product Backlog, about which the authors write: 
+
+>“The product backlog is the cumulative list of desired deliverables for the product. This includes features, bug fixes, documentation changes, and anything else that might be meaningful and valuable to produce. Generically, they are all referred to as “backlog items.” While backlog item is technically correct, many scrum teams prefer the term “user story,” as it reminds us that we build products to satisfy our users’ needs.” 
 
 The Scrum Master sorts the backlog in order of descending priority. The stuff at the top of the list gets done first. 
 
@@ -559,7 +588,9 @@ Furthermore, “Each item, or story, in the product backlog should include the f
 - An estimate as to how much work the story requires to implement;
 - Acceptance criteria that will help us know when it has been implemented correctly.”
 
-A second artifact is the *Sprint Backlog*. The authors write: “The sprint backlog is the team’s to do list for the sprint. Unlike the product backlog, it has a finite life-span: the length of the current sprint. It includes: all the stories that the team has committed to delivering this sprint and their associated tasks. Stories are deliverables, and can be thought of as units of value.  … Each story will normally require many tasks.”  
+A second artifact is the *Sprint Backlog*. The authors write: 
+
+>“The sprint backlog is the team’s to do list for the sprint. Unlike the product backlog, it has a finite life-span: the length of the current sprint. It includes: all the stories that the team has committed to delivering this sprint and their associated tasks. Stories are deliverables, and can be thought of as units of value.  … Each story will normally require many tasks.”  
 
 The sum of these tasks for a story can be considered the *scope* of the story – how much detail or how many processes are involved in the story.
 
@@ -567,7 +598,9 @@ A further Scrum artifact is the *Burn Chart*, which shows how much of the scope 
 
 Next comes the *Task Board*, which is visible to all team members, the simplest form having just three columns: 1) To Do; 2) Doing; and 3) Done.  Elegant. Simple. Transparent. 
 
-Finally (for our purposes) is the notion of *done*. It might seem simple to you or I. If something is done, it’s done. Not so in the world of development. There are conflicting realities and stages of *doneness*.  The authors write” “A programmer might call something done when the code has been written. The tester might think that done means that all of the tests have passed. The operations person might think that done means it’s been loaded onto the production servers. A business person may think that done means we can now sell it to customers, and it’s ready for them to use. This confusion about what “done” means can cause plenty of … trouble, when the salesperson asks why the team is still working on the same story that the programmer said was done two weeks ago! In order to avoid confusion, good scrum teams create their own definition of the word “done” when it is applied to a user story. They decide together what things will be complete before the team declares a story to be done.”
+Finally (for our purposes) is the notion of *done*. It might seem simple to you or I. If something is done, it’s done. Not so in the world of development. There are conflicting realities and stages of *doneness*.  The authors write” 
+
+>“A programmer might call something done when the code has been written. The tester might think that done means that all of the tests have passed. The operations person might think that done means it’s been loaded onto the production servers. A business person may think that done means we can now sell it to customers, and it’s ready for them to use. This confusion about what “done” means can cause plenty of trouble, when the salesperson asks why the team is still working on the same story that the programmer said was done two weeks ago! In order to avoid confusion, good scrum teams create their own definition of the word “done” when it is applied to a user story. They decide together what things will be complete before the team declares a story to be done.”
 
 Scrum includes a great deal of communication with all affected parties in the software development process. A *sprint cycle* (akin to an iteration in Agile-speak) consists of the following meetings, often called *ceremonies* in Scrum-speak:
 
@@ -577,16 +610,17 @@ Scrum includes a great deal of communication with all affected parties in the so
 4.	Sprint review 
 5.	Retrospective
 
-Ceremonies, as they are all about communication, are at the heart of Scrum. 
+Ceremonies, as they are all about *communication*, are at the heart of Scrum. 
 
 [Interested?]( http://scrummethodology.com/scrum-meetings/)
 
-To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focused on continuous improvement of not only the end product (software) but also on the actual process of making the software. 
+To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focused on continuous improvement of not only the end product (software) but also on the actual process of making the software.
+
 [Interested?]( http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm)
 
-#### Challenges with agile (in general)
+#### Challenges with Agile (in general)
 
-Increasingly, software is produced by system development shops who specialise in creating solutions for clients, using the most up-to-date technology and best practices. These software *houses* are referred to as *vendors.* The organisations requiring the system to be built are *clients.* So for the client, what this means is *outsourcing*. The client is outsourcing the creation of a system to a vendor. Increasingly, however, solution vendors (and almost everyone else) are *also* outsourcing their work to geographically-distributed software *authors*, i.e., independent or at least very small, teams of coders and specialists who live in China, India and increasingly, Latin America while the clients and solution providers are predominantly in North America and Europe. And this is a problem for agile. It's a problem because agile, according to its own manifesto, relies on real-time, face-to-face and frequent client/vendor and development team interaction. The vendor needs to be intimately immersed in the culture and business process of their client in order to fully understand the *user stories* that will drive the solution. Furthermore, agile requires (as illustrated by daily *standup meetings* in Scrum) that the development team meet in order to prioritise, knowledge share and schedule their sprints. But how do this this effectively in teams that are distributed across the planet and don't work the same hours, speak the same language and/or understand each others (let alone the client's) cultural norms? This is a new and increasingly researched area of systems development termed *agile global outsourced software development (AGOSD)*.
+Increasingly, software is produced by system development shops who specialise in creating solutions for clients, using the most up-to-date technology and best practices. These software *houses* are referred to as *vendors.* The organisations requiring the system to be built are *clients.* So for the client, what this means is *outsourcing*. The client is outsourcing the creation of a system to a vendor. Increasingly, however, solution vendors (and almost everyone else) are *also* outsourcing their work to geographically-distributed software *authors*, i.e., independent or at least very small, teams of coders and specialists who live in China, India and increasingly, Latin America while the clients and solution providers are predominantly in North America and Europe. And this is a problem for Agile. It's a problem because Agile, according to its own manifesto, relies on real-time, face-to-face and frequent client/vendor and development team interaction. The vendor needs to be intimately immersed in the culture and business process of their client in order to fully understand the *user stories* that will drive the solution. Furthermore, Agile requires (as illustrated by daily *standup meetings* in Scrum) that the development team meet in order to prioritise, knowledge share and schedule their sprints. But how do this this effectively in teams that are distributed across the planet and don't work the same hours, speak the same language and/or understand each others (let alone the client's) cultural norms? This is a new and increasingly researched area of systems development termed *agile global outsourced software development (AGOSD)*.
 
 [Interested?](https://msdn.microsoft.com/en-us/magazine/hh771057.aspx)
 
