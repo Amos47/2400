@@ -211,9 +211,9 @@ You can see that data flows both ways in this scenario. From the top, the messag
 
 Et *voila*. From strategy to operation. The similarity to the situation at your own workplace is striking... 
 
-But there are considerabel dearbacks to this type of organisational structure. In their book *Strategic Intent* (a tny little thing you could read in a couple of hours - and I highly recommend you do so), Hamel and Prahalad write:
+But there are considerable drwabacks to this type of organisational structure. In their book *Strategic Intent* (a tiny little thing you could read in a couple of hours - and I highly recommend you do so), Hamel and Prahalad (2010, Harvard Business Press) write:
 
-> "... the strategic heirarchy undermines competitiveness by fostering an elitist view of management that tends to disenfranchise [piss off] most of the organization. Employees fail to identify with corporate goals or involve themselves deeply in becoming more competitive." 
+> "... the strategic heirarchy undermines competitiveness by fostering an elitist view of management that tends to disenfranchise [marginalise; deprive of power] most of the organization. Employees fail to identify with corporate goals or involve themselves deeply in becoming more competitive." 
 
 So again, nothing's free...
 
