@@ -626,7 +626,7 @@ Increasingly, software is produced by system development shops who specialise in
 
 #### UML, Use Cases and Use Case Diagrams - a light intro
 
-Business analysis Use Cases
+Here is a funky (old school funk) introduction to business analysis Use Cases. Take a look.
 
 {% youtube %}https://www.youtube.com/watch?v=nN7lTDWKP6g{% endyoutube %}
  
