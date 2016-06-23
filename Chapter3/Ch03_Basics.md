@@ -626,8 +626,10 @@ Increasingly, software is produced by system development shops who specialise in
 
 #### UML, Use Cases and Use Case Diagrams - a light intro
 
-https://www.youtube.com/watch?v=nN7lTDWKP6g - Business analysis Use Cases
+Business analysis Use Cases
 
+{% youtube %}https://www.youtube.com/watch?v=nN7lTDWKP6g{% endyoutube %}
+ 
 The *Unified Process* (UP) or the *Rational* Unified Process (RUP) is an *object-oriented* (OO) systems development process developed by the three *godfathers* of the OO approach, the famous Booch, Rumbaugh and Jacobson. Their pioneering enterprise was named Rational Software, which was subsequently bought by IBM. UP is tailored to organisational and project needs, meaning is is less *presdictive* than SDLC and more on the *adaptive* side, *a la* Agile. It is use-case driven, using a design tool known as *Unified Modelling Language* or UML.
 
 Let's interject here in the Scrum process and backtrack to the origin of the requirements that are being coded by the Scrum teams. What are these things that are being prioritised? They are *user requirements* (UR) and are the result of an intense exercise to elicit exactly what the system is meant to accomplish. Designers, architects and programmers need at least a general idea of what the system is meant to do, even if the exact details will emerge through an agile process of discovery. Unlike an ancient explorer who just *kept heading west* to see what they could find, our modern-day explorers need a good compass heading. We need to know exactly where we are meant to end up, even if the exact route is unknown. Such is the goal of user requirement discovery. 
