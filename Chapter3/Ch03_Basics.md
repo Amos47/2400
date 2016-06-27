@@ -1,4 +1,4 @@
-# Chapter 3 
+# Chapter 3 - Public 
 
 ## What sparks the need for a new system in a typical organisation?
 
