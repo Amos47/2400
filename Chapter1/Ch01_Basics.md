@@ -1,4 +1,4 @@
-## Pillar 1: Data, information and knowledge
+## Chapter 1: Foundation
 
 ### What are data, information and knowledge?
 
