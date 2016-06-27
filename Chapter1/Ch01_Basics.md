@@ -1,6 +1,6 @@
-## Chapter 1: Foundation
+# Chapter 1: Foundation
 
-### What are data, information and knowledge?
+## Pillar 1: Data, information and knowledge
 
 Much of this preliminary section relies on work from a dated but still quite interesting article from *liquidinformation.org*. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.
 
