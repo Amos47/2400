@@ -1,7 +1,6 @@
-# Chapter 2
-### In which we dig a little deeper
+# Chapter 2 - Context
 
-## Context
+### In which we dig a little deeper
 
 We begin this chapter by stating unequivocally that computers have historically done a lousy job with *context*. They have been unable to understand, process and make sense of the nuanced detail of our lives and our interactions with each other and with our environment. Why? Because they have they have struggled with *knowledge*. They have struggled to *learn* in the way that humans learn. They have not been able to generalise either from the specific to the general or from the general to the specific. They have been unable to observe a piece of art and decide if they *like* it or not or even, until very recently, to quantify its characteristics. They struggle with deciding if a painting is a Picasso, a Monet or a Da Vinci. And this is where context and knowledge intersect. Read on.
 
