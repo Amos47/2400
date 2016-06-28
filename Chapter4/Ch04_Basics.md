@@ -1,6 +1,6 @@
 # Chapter 4 - The corporate side #
 
-#### In which we discuss competitive advantage, Porter, strategy, the value chain, IT decision making models, corporate governance and how and where ICT fits into the organisation (and it'll be fun... sort of.)
+## In which we discuss competitive advantage, Porter, strategy, the value chain, IT decision making models, corporate governance and how and where ICT fits into the organisation (and it'll be fun... sort of.)
 
 ###Competitive advantage
 
@@ -11,6 +11,8 @@ As an example of competitive advantage, let's say you have located your steel mi
 **Figure KTSB. Competitive advantage - the circles of business life**
 ![Competitive advantage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/comp_strat.png)
 Let's unpack the circles. There is one each for your firm, for the customers in your market and for your competitors. Pretty straight forward. The circles represent either the interests (customers) or the capabilities (of you and your competitors) in this marketplace. So the things that matter to your customers are within their circle. The things that you are good at are within your circle, and the things that your competition is good at are in their circle. This is a fairly uncomplicated marketplace. But not unlike Venn Diagrams and set theory in mathematics, what's important is where the circles *overlap*. The *sweet spot* for your firm is area A. Your capabilities overlap with your customers' needs, but are out of reach for your competitors. Similarly, the sweet spot for your competitors is area C. Here, you have nothing your customers want and they have no reason to buy from you. The only other potential area to be in is area C, but here, you are competing head-to-head with your competitors. Both you and your competitors are good at the same thing in which your customer is interested. This leads to competition on price, and Porter (we'll get to him in a minute) will tell you this is the death knell of an industry. When every little efficiency has been wrung out of an industry and every firm does the same thing in the same way in order to save a nickel, well, all that's left is to try and undercut your competition by taking lower margins. They do the same, and you respond and, before long, you're both broke or your workforce has been driven to leave. But competition is the norm in the real world. You might have a little edge here, a bit of an advantage there, but so do your competitors. It's then all about convincing your customers that your value proposition is the best one. 
+
+You might want to think of this in more personal terms, such as your own personal brand and your competition for scarce resources such as a degree or friends or even a soulmate. 
 
 Our interest is in how to leverage technology to in order to move your firm into area A and to *keep it there*.  
 
