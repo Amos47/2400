@@ -58,6 +58,7 @@ This is not to say that there have never been cases of ICT conferring sustained 
 
 **Figure KYSA: Porter's Five Forces (P5F)**
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/p5f.png)
+{EDIT RAW BELOW (tk)]
 
 But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) 
 
