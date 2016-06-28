@@ -58,9 +58,28 @@ This is not to say that there have never been cases of ICT conferring sustained 
 
 **Figure KYSA: Porter's Five Forces (P5F)**
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/p5f.png)
-{EDIT RAW BELOW (tk)]
+[EDIT RAW BELOW (tk)]
+
+Figure KYSA has become a staple in business classes the world over since Harvard Professor Micheal Porter first described these hitherto unarticulated Five Forces in his book entitled *Competitive Strategy: Techniques for Analyzing Industries and Competitors* published in 1980 (current edition is dated 1998, The Free Press, New York). Porter advanced the theory in response to the then-popular (but according to Porter unrigorous and *ad hoc*) SWOT analysis. Wikipedia offers:
+
+>"Porter's five forces is based on the structure–conduct–performance paradigm in industrial organizational economics. It has been applied to a diverse range of problems, from helping businesses become more profitable to helping governments stabilize industries."
+
+[Interested?](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)
 
 But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) 
+
+THe Five Forces, as shown in Figure KYSA, each act on the incumbants (participants) in an industry at the product level. One wouldn't perform an industry analysis on Proctor and Gamble, for example, but would at the level of one of their products (such as Crest tootpaste in the dental care industry for example). Let's examine each of the forces in turn staring from 12 o'clock and moving clockwise in Figure KYSA.
+
+Table KYTT: Components of POrter's Five Forces
+
+| Force | Explanation |
+| -- | -- |
+| Threat of substitutes | THe threat of substitutes is not synonomous with the threat of competition. Competitors provide roughly the same product in the sdame market whereas substitutes are products from other markets that can, in a pinch, do a roughly equivalent job to the product the firm is selling. For example in the toothpaste industry, *Crest* and *Colgate* are competitors, but a *substitute* is homemade baking soda paste. For pet food, it's homemade chow or table scraps. If the threat of substitutes is high in an industry, the industry is less appealing as a place to invest of to particpate in. |
+| Buyer power | If buyers of the products in an industry have many producs from wich to choose and can bargain for a lower price from the firms in the undustry, buyers are said to have more power than sellers. In such an instance, firms in the industry ultimately compete on price and many players will be unable to compete. An industry characterised by high buyer power is less attractive for potential firms. |
+| Threat of new entrants | If the industry has few barriers to entry, then potentially many firs could enter and become competitors with little or no know-how, capital and infrastructure. On the other hand, firms in industries characterised by high barriers to entry are more protected. Barriers to entry can include such things as infrastructure (banks require ATM networks, for example, which is a significant outlay for an aspiring bank to finance. Other examples are skilled workforces, patents on existing products or processes, access to raw materials, existing supplier contracts and many more. An industry with high barriers to entry is seen as comfortable for incumbants (existing players) and threatening for potential newcomers. |
+| Supplier power | The opposite of buyer power, supplier power is defined as the   |
+| Industry rivalry | 1:6 |
+
 
 But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. This is referred to as either forward (on the customer side) or backward (on the supplier side) integration.
 
