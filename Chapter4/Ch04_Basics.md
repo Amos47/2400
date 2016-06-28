@@ -27,7 +27,7 @@ All of us, every minute of every day, are in competition for scarce resources. T
 
 [Interested?](https://en.wikipedia.org/wiki/Competition)
 
-You might want to think of this in more personal terms, such as your own personal brand and your competition for scarce resources such as a degree or friends or even a soulmate. Much of what we do is intended to advertise our brand and to give us an advantage over our rivals. This explains much of everyting from the personal hygeine and grooming industry, fashion, footwear, eyewear all the way up to automobiles, homes, cottages, baots and even personal technology. How else to explain Apple? When firms (or even governments on an international scale) promote themselves through their values, culture, goals and aspirations they are doing exactly what each of us does evch day when we get dressed. Think about it. 
+You might want to think of this in more personal terms, such as your own personal brand and your competition for scarce resources such as a degree or friends or even a soulmate. Much of what we do is intended to advertise our brand and to give us an advantage over our rivals. This explains much of everyting from the personal hygiene and grooming industry, fashion, footwear and eyewear all the way up to automobiles, homes, cottages, boats and even personal technology. How else to explain Apple? When firms (or even governments on an international scale) promote themselves through their values, culture, goals and aspirations they are doing exactly what each of us does each day when we get dressed. Think about it. 
 
 The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") website offers a word picture on the term:
 
