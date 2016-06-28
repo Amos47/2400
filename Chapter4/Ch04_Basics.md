@@ -67,9 +67,6 @@ But it’s also possible to hedge your competitive bets by buying into the value
 A competing product or service in the same industry is not the same thing as a substitute. So Purina is not a substitute for Iams – Purina is a competitor. A substitute for a car is a bicycle or public transit or teleworking or agoraphobia. Owning the rubber company that produces shoe soles and tires for cars, cycles, buses, airplanes and subways is an example of hedging in substitutions; no matter what the substitute, the firm benefits – a strategic involvement in this way is a great hedge against substitutes. Don’t forget that buying or doing nothing is a substitute! For example you don’t have to go to a movie. You can decide to just sit around... but a pet, once owned, must be fed. There are laws.
 But what of substitutes? A rope could sub for a leash. A bucket for a water bowl or a cereal bowl for a feed dish and you could feed your pet table scraps or make your own feed or breed cats to feed your dogs and mice to feed the cats and maybe grow peanuts to feed the mice. We are limited only by our inginuity.  
 
-
-
-
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/frontier.png)
 ##Strategy
 
