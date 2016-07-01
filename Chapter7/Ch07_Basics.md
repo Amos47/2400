@@ -92,7 +92,7 @@ We end up finally with the *backend*, which not only stores the details of trans
 
 And now a little something about interfaces, including our friend the frontend. First some levity.
 
-[Now that's efficient!](https://raw.githubusercontent.com/robertriordan/2400/master/Images/chuckle_bros_efficiency.gif)
+![Now that's efficient!](https://raw.githubusercontent.com/robertriordan/2400/master/Images/chuckle_bros_efficiency.gif)
 
 [Source: <http://www.gocomics.com/chucklebros>]
 
@@ -155,6 +155,14 @@ So like any other piece of engineering, it’s not about a *tour de force* but r
 Wise words. Simple elegance is the designer's goal. 
 
 Here's something from the Nielson/Norman Group, the *de facto* experts in everything UI lately. It's a bit long for an *Interested?* but it's a really good read if you are interested in [minimalist interface design](http://bit.ly/1gzW6L0). And you should be as it translates very well to creating compelling visual images for presentations.
+
+And here's a great infographic on 2016 design trends:
+
+**Figure MJBJ: 2016 Design Trends**
+
+![Now that's efficient!](https://raw.githubusercontent.com/robertriordan/2400/master/Images/CC_Design_Trends_2016.jpg)
+
+[Infographic source](http://www.dailyinfographic.com/2016-design-trends?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+DailyInfographic+%28Daily+Infographic%29)
 
 The desktop metaphor and the idea of iconic representation of tasks and the manipulation of things in the interface (such as files and folders and removable drives such as a USB) would not be workable in the absence of another of PARC's great initiatives: *Object-oriented Programming* (OOP). OOP describes *objects* (everything is an object including command buttons, file folders, printer icons, and all the way down to a single cell in a spreadsheet application) which can have *properties* (characteristics that describe them - for example a simple OK button has a width, height, position in the window in which it appears, a caption (what it says - such as 'OK already!' or 'Print') and a background colour, font, etc.), *events* (things that can happen to it over its lifespan - for a button, the most important is the *click* event) and finally and most importantly, *methods* or things it can accomplish given the occurrence of an event. Designers design the interface, set the properties and scope the events to which the object should respond. Programmers write the code that executes when an event occurs to the object. This genre of programming is referred to as object-oriented, event-driven programming. [Interested in OOP?](http://bit.ly/1ThCJUY) 
 
