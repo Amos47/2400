@@ -7,7 +7,7 @@ This book is all things BUSI 2400, it's fresh and, for the time being, it's also
 
 ![XKCD is life itself](http://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png)
 
-Source: http://xkcd.com/1352/
+This comic is from the brilliant XKCD site. Check it out [here](Source: http://xkcd.com/1352/).
 
 In the very beginning, at the murky start of time, there was nothing. Or perhaps even less than that. Maybe *negative* nothing? But of course negative nothing is something, so maybe not. Or maybe there was already everything, but not something? In any event, at the instant of the *Big Bang* (with apologies to Sheldon *et al*), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off became on. Dark begat light. Up was different from down. In became relative to out. You get the picture. 
 
