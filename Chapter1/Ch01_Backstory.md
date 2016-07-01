@@ -5,9 +5,11 @@
 We first need to carefully consider what is meant by the term *measurement* as measurement is necessary in order for data to be useful. Measurement makes data tangible and gives it value. Under the topic of *Accuracy and precision*, Wikipedia (accessed June 17, 2015) offers the following discussion seedlings:
 
 #### Accuracy
+<a name="accuracy"></a>
 “In the fields of science, engineering, industry, and statistics, the accuracy of a measurement system is the degree of closeness of measurements of a quantity to that quantity's actual (true) value."
 
 #### Precision
+<a name="precision"></a>
 "The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results. Although the two words precision and accuracy can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method."
 
 They continue that, “A measurement system can be accurate but not precise, precise but not accurate, neither, or both. For example, if an experiment contains a systematic error, then increasing the sample size generally increases precision but does not improve accuracy. The result would be a consistent yet inaccurate string of results from the flawed experiment. Eliminating the systematic error improves accuracy but does not change precision."
