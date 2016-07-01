@@ -383,11 +383,9 @@ This part has several pieces. First, the *(* parenthesis separates the CREATE pa
 
 OK, long explanation for little value, except that it explains why this *varchar* ID field is 9 characters long (as indicated by the *(9)* following the name in the SQL statement). But why *character* data and not *numeric* data? It is, after all, a number like *100999666* isn't it? Yup, it is. So let's get back into the weeds again. 
 
-![In the weeds](https://raw.githubusercontent.com/robertriordan/2400/master/Images/in_the_weeds.png)
-
 I decided to make it a character field type because I'm old. I was trained and building systems when storage was *very* expensive. I recall paying over $700 for a 20 MB (yes *megabyte*) external hard drive for my first PC (an IBM clone made by Dynalogic and sold all over the world by Bytek Comterm of Ottawa - a gorgeous little *luggable* called the *Hyperion* and retailing for ~$5,000 USD!) back in 1985. And even $700 in 1985 was a *lot* of dough. I thought I'd died and gone to heaven. People in the neighbourhood would drop in randomly just to look at it. I still have one in my backyard shed. Maybe I'll open a computer museum one day.  
 
-Back to the rationale. Every little trick to save memory (both RAM and external storage) was important. The size of the CUID, as a number, is large, it's a hundred million and some. In order to get the capacity to store that big a number in Access, you must specify a *long integer* field - long integers are capable of storing a number in the range of -9,223,372,036,854,775,808 through 9,223,372,036,854,775,807 (that's 9.2^E+18). Big, big number. Here's the thing. Even though our CUID is only 100 million and some, specifying the field here as *long data type* when we create it causes the database to *reserve space* for a number in that huge range *even though we don't need it*. So wasteful. So I tell the database to just set me aside 9 little spaces to store a number as text, and save all the overhead. I know what you're thinking (and it has nothing to do with what we're talking about here) but maybe some day you'll say to yourself "Then why store it as a *long* integer? If there's a *long* integer there must be a *short* integer!" And you'd be right. But short integers (referred to simply as *integers*) can store numbers only in the range of -32,767 through 32,768. Snookered. Our number is too large for that. 
+Back to the rationale. Every little trick to save memory (both RAM and external storage) was important. The size of the CUID, as a number, is large; it's a hundred million and some. In order to get the capacity to store that big a number in Access, you must specify a *long integer* field - long integers are capable of storing a number in the range of -9,223,372,036,854,775,808 through 9,223,372,036,854,775,807 (that's 9.2^E+18). Big, big number. Here's the thing. Even though our CUID is only 100 million and some, specifying the field here as *long data type* when we create it causes the database to *reserve space* for a number in that huge range *even though we don't need it*. So wasteful. So I tell the database to just set me aside 9 little spaces to store a number as text, and save all the overhead. I know what you're thinking (and it has nothing to do with what we're talking about here) but maybe some day you'll say to yourself "Then why store it as a *long* integer? If there's a *long* integer there must be a *short* integer!" And you'd be right. But short integers (referred to simply as *integers*) can store numbers only in the range of -32,768 through 32,767. Snookered. Our number is too large for that. 
 
 **Figure HC. Oh yes, and here's that Hyperion computer I loved so much...**
 
@@ -405,7 +403,7 @@ This is an easy one. at my school there are three terms *F*all, *W*inter and *S*
 
 CREATE TABLE tStudent (sCUID varchar(9), sTerm varchar(1), **sYear int**, sSection varchar(1) );
 
-Here's our *integer* variable. Normally I'd store this as text too because it's year and who does math on years? But I wanted to show you how to specify an integer variable (note it's shortened to *int* and there's no *field size* because Access knows it needs a number in the -32,767 to 32,768 range so it manages that storage allocation for you. Simple.
+Here's our *integer* variable. Normally I'd store this as text too because it's year and who does math on years? But I wanted to show you how to specify an integer variable (note it's shortened to *int* and there's no *field size* because Access knows it needs a number in the -32,768 to 32,767 range so it manages that storage allocation for you. Simple.
 
 CREATE TABLE tStudent (sCUID varchar(9), sTerm varchar(1), sYear int, **sSection varchar(1)** );
 
@@ -413,9 +411,9 @@ Finally, I need a place to store which *section* of the course our players are i
 
 *Et voila!*  We end with the closing paren ")" and a semicolon ";" by convention (though strictly speaking not necessary) and we're done creating a table. 
 
-Fortunately for you, as savvy and well-trained users of database software, you don't need to actually *use* SQL in this way to do anything. In Access, there is a *WYSIWYG* (what you see is what you get) way to do everything. To create a table, you simply select *CREATE* then *Table* from the interface and then specify the fields and their properties one by one. Easy.
+Fortunately for you, as savvy and well-trained users of database software, you don't need to actually *use* SQL in this way to do anything. In Access, there is a *WYSIWYG* (what you see is what you get) way to do everything. To create a table, you simply select *CREATE* then *Table* from the interface and then specify the fields and their properties one by one (see Figure RKT below). Easy.
 
-**Figure RK. Create a table in Access**
+**Figure RKT. Create a table in Access**
 
 ![Create Table](https://raw.githubusercontent.com/robertriordan/2400/master/Images/create_table.png)
 
@@ -427,7 +425,7 @@ Given that we have created a table. we can now set about filling (*populating*) 
 
 This SQL statement puts values into the four fields in our table, and assumes that the data in the comma-separated list correspond to the order of the fields in our table. Recalling that the order of our fields from the *CREATE TABLE* statement was: sCUID, sTerm, sYear and sSection, the UPDATE INTO statement would create a *record* in the tStudent table and insert '100999666' into the sCUID field, 'F' into the sTerm field and so on. This statement would then cause the tStudent table to appear as below in *Table View* in Access:
 
-**Figure RK. INSERT INTO version 1**
+**Figure RKA. INSERT INTO version 1**
 
 ![INSERT 1](https://raw.githubusercontent.com/robertriordan/2400/master/Images/insert_1.png)
 
