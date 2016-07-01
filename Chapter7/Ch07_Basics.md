@@ -191,7 +191,8 @@ So let's take a deep breath and dive in. When the button is clicked, the code as
 
 It is interesting to note that in order to change the algorithm from sorting in an ascending order to one that will sort in a descending order, all that's necessary is to change one *relational operator*, the '>' sign. Copy the code, switch to a '<' sign *et volia*! Done. Ahhh were it that all programming was as simple... Note that appropriate code would need to be written in each of the other button's *Click* events as well in order for them to function as expected. 
 
-Time for an [XKCD](http://xkcd.com/1513/ "XKCD Code Quality").
+Time for an <a class="underlined-link" href="http://xkcd.com/1513/"target="_blank">XKCD</a>
+
 
 ![](http://imgs.xkcd.com/comics/code_quality.png)
 
