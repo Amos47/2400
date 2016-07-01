@@ -383,7 +383,7 @@ This part has several pieces. First, the *(* parenthesis separates the CREATE pa
 
 OK, long explanation for little value, except that it explains why this *varchar* ID field is 9 characters long (as indicated by the *(9)* following the name in the SQL statement). But why *character* data and not *numeric* data? It is, after all, a number like *100999666* isn't it? Yup, it is. So let's get back into the weeds again. 
 
-![Create Table](https://raw.githubusercontent.com/robertriordan/2400/master/Images/in_the_weeds.png)
+![In the weeds](https://raw.githubusercontent.com/robertriordan/2400/master/Images/in_the_weeds.png)
 
 I decided to make it a character field type because I'm old. I was trained and building systems when storage was *very* expensive. I recall paying over $700 for a 20 MB (yes *megabyte*) external hard drive for my first PC (an IBM clone made by Dynalogic and sold all over the world by Bytek Comterm of Ottawa - a gorgeous little *luggable* called the *Hyperion* and retailing for ~$5,000 USD!) back in 1985. And even $700 in 1985 was a *lot* of dough. I thought I'd died and gone to heaven. People in the neighbourhood would drop in randomly just to look at it. I still have one in my backyard shed. Maybe I'll open a computer museum one day.  
 
@@ -391,7 +391,7 @@ Back to the rationale. Every little trick to save memory (both RAM and external 
 
 **Figure HC. Oh yes, and here's that Hyperion computer I loved so much...**
 
-![Create Table](https://raw.githubusercontent.com/robertriordan/2400/master/Images/hyperion.jpg)
+![Hyperion](https://raw.githubusercontent.com/robertriordan/2400/master/Images/hyperion.jpg)
 
 *Photo credit: http://s7.computerhistory.org/is/image/CHM/102662819p-03-01?$re-zoomed$*
 
