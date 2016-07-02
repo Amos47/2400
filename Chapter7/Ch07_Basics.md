@@ -4,7 +4,10 @@
 ## How computers work
 
 ![Dilbert: How to send the file](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_could_storage.PNG)
-Source: http://dilbert.com/strip/2016-04-04
+<a class="underlined-link" href="http://dilbert.com/strip/2016-04-04" target="_blank">Source</a>
+
+
+[ONLY 1 INTERESTED? LINK THIS WHOLE CHAPTER!] 
 
 It’s time to dive into the *guts* of computers and talk just a little about how they actually work. **Everyone**, interested or not, is expected to follow [this link](http://www.explainthatstuff.com/howcomputerswork.html) and read up on how computers work, which will illustrate the fact that computers are systems in the exact same sense that we described in Chapter 1. As you read the material in that link, note especially the difference between *hardware and software*. Also important is the distinction between *system software* (operating systems such as Widows, Android and Apple OS, etc.) and *application software* (things that you actually use on the computer such as Excel, Word or a browser). 
 
