@@ -160,7 +160,7 @@ And here's a great infographic on 2016 design trends:
 
 **Figure MJBJ: 2016 Design Trends**
 
-![Now that's efficient!](https://raw.githubusercontent.com/robertriordan/2400/master/Images/CC_Design_Trends_2016.jpg)
+![Design trends 2016](https://raw.githubusercontent.com/robertriordan/2400/master/Images/CC_Design_Trends_2016.jpg)
 
 [Infographic source](http://www.dailyinfographic.com/2016-design-trends?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+DailyInfographic+%28Daily+Infographic%29)
 
