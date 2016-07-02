@@ -580,7 +580,3 @@ This wraps up our introduction to database, probably the *most* important tool i
 ## Tools
 
 https://public.tableau.com/views/Facebookatlas/FacebookAtlas?:embed=y&:loadOrderID=0&:display_count=yes
-
-
-
- 
