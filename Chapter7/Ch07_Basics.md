@@ -519,7 +519,7 @@ What makes SQL and databases so useful is that SQL/database functionality can be
 
 Let's just look at the elements in the interface and specify their relationship to the database ERD in Figure EZ.
 
-1. This field comes from the database table tStudent (an early approximation of sCUID). It simply identifies the user and allows them to determine whether they are correctly identified by the program following login. 
+1. This field comes from the database table tStudent (an early approximation of sCUID). It simply identifies the user and allows them to determine whether they are correctly identified by the program following login. IN the production version, this will show the user's CUID (Carleton University Uder Identificaton number).
 2. This is a link provided by the application to stop executing the program for this player.
 3. This is a static title provided by the programmer. This is not related to a database field but there's no reason why it could not be. If I decided to license the game to other instructors at other schools I might want to allow them to provide their own name for the simulation when they ran it in their classes. This could easily be done by creating a table in the database and naming it *tAdmin*, for example, then providing a field in that table and naming it *aGameName* maybe. We need a new table for this because we have no *entity* to represent multiple instances of the software itself. We can do multiple instances of a simulated sales event *within* the software, but we have nothing at the higher level. This is easily fixable.   
 4. Another link to allow the user to go back and select a different simulation if one is available. No database link.
