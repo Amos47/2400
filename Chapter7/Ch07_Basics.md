@@ -159,7 +159,7 @@ To go with these idioms and metaphors that allow us to instinctively understand 
 **Figure SHT. Icons**
 
 ![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons.png)
-
+<a name="Gestalt"></a>
 Combined with traditional knowledge about visual design (an enormously interesting and exciting field) such as Gestalt (for closure, similarity and proximity [Interested?](http://bit.ly/1LOES8o) and cognitive psychology (another field in which you should take at least one course during your academic career), rich and effective interfaces have evolved into use and are accepted means of communicating with machines. In this I am reminded of French aviator and author *Antoine de Saint-Exupéry* (1900-1944 – author of The Little Prince and only 44 when he died), who characterised engineering elegance by writing: 
 
 >"A designer knows when he has achieved perfection *not* when there is nothing left to add, but when there is nothing left to *take away* [Emphasis added]." 
@@ -198,7 +198,7 @@ Take a peak at Figure RSB for some design principles in action.
 
 ![application](https://raw.githubusercontent.com/robertriordan/2400/master/Images/design.png)
 
-There are some subtle things going on. Gestalt things (remember Gestalt?). Specifically, grouping through proximity, size and colour. Note first that there is a consistently-sized border around the elements. The distance between the top of the topmost object in the window and the top of the containing window is the same as the distance between the bottom of the bottommost objects and the bottom of the widow. This is illustrated as item A (in black). Also note that the distance between the right edge of the rightmost interface objects and the right edge of the window container is the same as the distance beween the corresponding left borders. This is item B, also in black. For added consistency, the distance bwtween the *Cancel* and *Close* buttons (item C) is the same as the A and B distance. 
+There are some subtle things going on. Gestalt things (remember Gestalt? <a class="underlined-link" href="Ch07_Basics.md\#Gestalt" target="_blank">(take me there)</a>). Specifically, grouping through proximity, size and colour. Note first that there is a consistently-sized border around the elements. The distance between the top of the topmost object in the window and the top of the containing window is the same as the distance between the bottom of the bottommost objects and the bottom of the widow. This is illustrated as item A (in black). Also note that the distance between the right edge of the rightmost interface objects and the right edge of the window container is the same as the distance beween the corresponding left borders. This is item B, also in black. For added consistency, the distance bwtween the *Cancel* and *Close* buttons (item C) is the same as the A and B distance. 
 
 Furthermore, the space between the two sort buttons (item E) is smaller than the space between the list box and the first command button and the distance between the two groups of command buttons. This is item D. It groups those command buttons together in our mind. Note that the D distances refer to the space between the list box and the first command button as being the same as between the bottom sort button and the top of the disposal buttons. 
 
