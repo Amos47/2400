@@ -1,5 +1,14 @@
 ##Chapter 7 - Backstory
 
+
+And here's a great infographic on 2016 design trends:
+
+**Figure MJBJ: 2016 Design Trends**
+
+![Design trends 2016](https://raw.githubusercontent.com/robertriordan/2400/master/Images/CC_Design_Trends_2016.jpg)
+
+<a class="underlined-link" href="http://www.dailyinfographic.com/2016-design-trends?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+DailyInfographic+%28Daily+Infographic%29" target="_blank">Infographic source</a>
+
 Here's some copy from the Careers page of a cutting-edge local (Ottawa) software house. The first ad is for a UX Designer. Note how many of the skills and responsibilities mesh with what we're talking about in this book:
 
 >**Roles and responsibilities:**
