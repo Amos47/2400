@@ -136,6 +136,7 @@ Among the most common decision-making structures are:
 
 Of these, CIOs rate IT leadership committees and business/IT relationship managers as the most effective means of ensuring adequate decision making. In both cases IT expertise is matched with business knowledge so that decisions are more comprehensive than departmental.
 
+Corporate governance: Week 8 Chapter 5 governance notes. 
 
 ## The big picture of the organisation ##
 
