@@ -79,3 +79,5 @@ Is this in the right place? It could go several places in the text.
 "In developing high-speed systems, digital leaders put in place the analytics and intelligence needed to provide near-real-time insights into customer needs and behaviors, which then determine the personalized messages and offers delivered to individual customers. Being digital involves establishing a cyclical dynamic in which processes and capabilities are constantly evolving in response to inputs from the customer. Supporting this give-and-take process across multiple platforms at scale requires extensive automation."
 
 http://www.mckinsey.com/business-functions/organization/our-insights/nine-questions-to-help-you-get-your-digital-transformation-right
+
+The hybrid cloud: http://searchcloudcomputing.techtarget.com/definition/hybrid-cloud
