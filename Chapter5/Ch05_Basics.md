@@ -25,3 +25,5 @@ Make sure to do the Nuclear reactor backup thing.
 
 
 Life Logging and the Quantified Self (TK) 
+
+Listen to the first 2.00 minutes of <a class="underlined-link" href="http://www.cbc.ca/radio/ideas/big-data-part-2-1.3658439" target="_blank">this podcast.</a> on big data, security and privacy. 
