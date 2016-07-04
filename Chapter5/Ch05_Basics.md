@@ -13,3 +13,7 @@ Dilbert: Move this to discussion of robots
 ![Dilbert](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_bankers.PNG)
 
 Make sure to do the Nuclear reactor backup thing. 
+
+![XKCD Phishing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/xkcd_phishing.png)
+
+<a class="underlined-link" href="http://imgs.xkcd.com/comics/phishing_license.png" target="_blank">XKCD Source</a>
