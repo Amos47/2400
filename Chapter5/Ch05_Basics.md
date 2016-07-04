@@ -23,7 +23,7 @@ Make sure to do the Nuclear reactor backup thing.
 
 <a class="underlined-link" href="http://imgs.xkcd.com/comics/phishing_license.png" target="_blank">XKCD Source</a>
 
-Life Logging and the Quantified Self (TK)  https://en.wikipedia.org/wiki/Lifelog also: http://mashable.com/2014/03/20/lifelogging-experiment/
+Life Logging and the Quantified Self (TK)  https://en.wikipedia.org/wiki/Lifelog also: http://mashable.com/2014/03/20/lifelogging-experiment/ also: http://www.computerworld.com/article/2499169/enterprise-applications/is-the--quantified-self--movement-just-a-fad-.html and for the negative, see: http://www.computerworld.com/article/3048497/personal-technology/lifelogging-is-dead-for-now.html
 
 Listen to the first 2.00 minutes of <a class="underlined-link" href="http://www.cbc.ca/radio/ideas/big-data-part-2-1.3658439" target="_blank">this podcast.</a> on big data, security and privacy. 
 
