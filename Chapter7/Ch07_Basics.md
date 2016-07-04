@@ -531,13 +531,12 @@ Durability means that once a transaction has been committed, it will remain so, 
 This wraps up our introduction to database, probably the *most* important tool in business. You will see the impact of database no matter in what stream of business you find yourself.
 
 ## Tools
-Data analysis tools are every bit as important as the data itself. Without them, most data would remain uncategorised, unanalysed and with its information potential locked away forever. So let's take a look at some analysis tools. We begin with a demonstration of analysis in the form of an interactive infographic from public.tableau.com, an important player in the cloud analytics space. Take a look at their website here, click on Gallery and be prepared to have some fun.
+Data analysis tools are every bit as important as the data itself. Without them, most data would remain uncategorised, unanalysed and with its information potential locked away forever. So let's take a look at some analysis tools. We begin with a demonstration of analysis in the form of an interactive infographic from public.tableau.com, an important player in the cloud analytics space. Take a look at their website here, click on Gallery and be prepared to have some fun. YOu can download and install the Windows (32 or 64-bit) or the Mac (OSx) version as appropriate for your desktop/laptop. You need a *real* computer (no phones or tablets) to actually *use* the analytic power of Tableau. 
 
 <a class="underlined-link" href="https://public.tableau.com/views/Facebookatlas/FacebookAtlas?:embed=y&:loadOrderID=0&:display_count=yes" target="_blank">Open Tableau and view visualisation.</a>
 
-
 Analysis - big data
-	Tableau
+
 	Gapminder
 	Hadoop
 	R
