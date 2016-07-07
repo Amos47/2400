@@ -91,6 +91,8 @@ This is a busy little figure so let's take a moment with it. On the horizontal a
 
 Let's first do a thought experiment and plot some products on the two axes. Where would you put an Apple iBook Air? Fairly high on the price scale (so closer to the left) I might say, but where on the non-price value scale? Maybe that depends on how you feel about the *prestige* or *coolness* of Apple products. Let's now plot a Dell Lattitude laptop, relative to the Apple product. Where would you put it? This exercise helps to envision the usage of this tool. But it's clearly not the real point of the exercise. 
 
+Note now the convex purple line on the right edge of the figure, labelled as the *Productivity frontier*. What's important is that, given the *best practices* of the industry (whatever industry we might be examining) it is not possible to produce a product with a Price/Value pair that is beyond the frontier. It can't be done. Either the price needs to rise or some valuable features need to be subtracted in order to make the product feasible. 
+
 ##Strategy
 
 Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he calls the *Five Forces* which operate in every for-profit industry. The 5 Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry. See Figure KYSA below.
