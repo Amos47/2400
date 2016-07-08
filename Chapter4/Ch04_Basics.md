@@ -91,7 +91,9 @@ This is a busy little figure so let's take a moment with it. On the horizontal a
 
 Let's first do a thought experiment and plot some products on the two axes. Where would you put an Apple iBook Air? Fairly high on the price scale (so closer to the left) I might say, but where on the non-price value scale? Maybe that depends on how you feel about the *prestige* or *coolness* of Apple products. Let's now plot a Dell Lattitude laptop, relative to the Apple product. Where would you put it? This exercise helps to envision the usage of this tool. But it's clearly not the real point of the exercise. 
 
-Note now the convex purple line on the right edge of the figure, labelled as the *Productivity frontier*. What's important is that, given the *best practices* of the industry (whatever industry we might be examining) it is not possible to produce a product with a Price/Value pair that is beyond the frontier. It can't be done. Either the price needs to rise or some valuable features need to be subtracted in order to make the product feasible. 
+Note now the convex purple line on the right edge of the figure, labelled as the *Productivity frontier*. What's important is that, given the *best practices* of the industry (whatever industry we might be examining) it is not possible to produce a product with a Price/Value pair that is beyond the frontier. It can't be done. Either the price needs to rise or some valuable features need to be subtracted in order to make the product feasible. So the price/value pairs marked with an X are unattainable. THose *inside* the fronteir arc, however, *are* attainable and this is where strategy and positioning come into play. The price/value pairs marked with a little <span class="octicon octicon-check"></span> are attainable. It's here where strategy plays out. 
+
+Where ICT comes in is complex. First, a large part of the best practices that push the fronteir ever outward are increasingly made up of technological and systems innovation. 
 
 ##Strategy
 
