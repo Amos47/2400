@@ -34,7 +34,7 @@ The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") websi
 
 ![Competition](https://raw.githubusercontent.com/robertriordan/2400/master/Images/competition.png)
 
-In discussing competition in the business context, we usually consider the struggle for *competitive advantage*. The online Business Dictionary offers the following definition:
+In discussing competition in the business context, we usually consider the struggle for *competitive advantage*. The online *Business Dictionary* offers the following definition:
 
 >"A superiority gained by an organization when it can provide the same value as its competitors but at a lower price, or can charge higher prices by providing greater value through differentiation. Competitive advantage results from matching core competencies to the opportunities."
 
