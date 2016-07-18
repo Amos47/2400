@@ -96,7 +96,7 @@ Note now the convex purple line on the right edge of the figure, labelled as the
 
 Where ICT comes in is complex, but let's not let that deter us. 
 
-First, a large part of the *best practices* that push the fronteir ever outward are increasingly made up of technological and systems innovation. Automation is an obvious example and we will discuss it in some detail in Chapter 6. For now, let's define automation simply as 
+First, a large part of the *best practices* that push the fronteir ever outward are increasingly made up of technological and systems innovation. Automation is an obvious example and we will discuss it in some detail in Chapter 6. For now, let's define automation simply as *machines now doing what humans previously did.*
 
 ##Strategy
 
