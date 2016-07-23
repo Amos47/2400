@@ -87,7 +87,7 @@ Let's take a quick look at what happens in an industry where competition occurs 
 
 <a name="frontier"></a>
 **Figure JDSP: Porter's productivity frontier**
-![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/frontier.png)
+![Porter's Productivity Frontier](https://raw.githubusercontent.com/robertriordan/2400/master/Images/frontier.png)
 This is a busy little figure so let's take a moment with it. On the horizontal axis, we have *relative price position*, meaning what a product costs a consumer to buy. The scale runs from high on the left to low on the right. So the farther away we are from the vertical axis, the more *in*expensive a product that we would plot on this axis becomes. The vertical axis represents all the value delivered in a product (features, colours, style, etc.) which do not have to do with how costly a product is (price is represented on the other axis).  The *value* scale runs from low at the intersection with the horizontal axis to high as we move up the scale. It's important to note that the two axes increment from low to high in different directions. 
 
 Let's first do a thought experiment and plot some products on the two axes. Where would you put an Apple iBook Air? Fairly high on the price scale (so closer to the left) I might say, but where on the non-price value scale? Maybe that depends on how you feel about the *prestige* or *coolness* of Apple products. Let's now plot a Dell Lattitude laptop, relative to the Apple product. Where would you put it? This exercise helps to envision the usage of this tool. But it's clearly not the real point of the exercise. 
@@ -117,7 +117,6 @@ KM Explicit vs Tacit knowledge... critical - somewhere
 Week 4 chapter 7 - history of retail innovation.
 e-commerce and frictionless economy
 Types of e-commerce
-
 
 
 See business dictionary definitions such as:
