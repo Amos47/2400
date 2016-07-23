@@ -103,7 +103,7 @@ First, a large part of the *best practices* that push the fronteir ever outward 
 
 ##Strategy
 
-Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he calls the *Five Forces* which operate in every for-profit industry. The 5 Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry. See Figure KYSA below.
+Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he termed the *Five Forces* which operate in every for-profit industry. The Five Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry. See Figure KYSA above.
 
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
