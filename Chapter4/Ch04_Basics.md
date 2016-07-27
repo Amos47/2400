@@ -11,7 +11,11 @@ As an example of competitive advantage, let's say you have located your steel mi
 **Figure KTSB. Competitive advantage - the circles of business life**
 ![Competitive advantage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/comp_strat.png)
 
-Some side thinking: Look at this as you might in terms of attracting a mate. Let's say that you have great hair and teeth, but the competition has nice cheekbones and great (just look at them!) hands. What's your job? Where is your sweet spot? It's exactly where the customer wants hair and teeth. Your job os to attract every singe customer who wants hair and teeth and to give them the once over. Moreover, you want to sell the customers who think that cheekbones and hands are what they might want on the virtues of hair and teeth. That's your value proposition. Not only that hair and teeth are great, but that they are better than cheeks and hands. You want all of your own *and* a piece of your competitors slice. That's the B section in the figure. You want all of A and the biggest part of B that you can get. So flash those pearlies and toss them flaxen locks. 
+Some side thinking: Look at this as you might in terms of attracting a mate. Let's say that you have great hair and teeth, but the competition has nice cheekbones and fabulous (just look at them!) hands. Your value proposition is that hair and teeth are the best attributes *and* that cheeks and hands aren't all they're cracked up to be. In terms of Figure KTSB, where is your sweet spot? It's exactly where the customer wants hair and teeth. Your job is to promote your value proposition and attract every singe customer who wants hair and teeth and to convince them that you have the best locks and choppers on the market. 
+
+Furthermore, 
+
+but moreover, you want to sell the customers who think that cheekbones and hands are what they might want on the virtues of hair and teeth. That's your value proposition. Not only that hair and teeth are great, but that they are better than cheeks and hands. You want all of your own *and* a piece of your competitors slice. That's the B section in the figure. You want all of A and the biggest part of B that you can get. So flash those pearlies and toss them flaxen locks. 
 
 In A: Gotta have hair and teeth
 In C: Can't live without cheekbones and hands
