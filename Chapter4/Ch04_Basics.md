@@ -64,7 +64,6 @@ In addition, what Carr refers to as the *technology replication cycle* is contin
 This is not to say that there have never been cases of ICT conferring sustained advantage. For example, American Airlines automated reservations (the beginning of the end for travel agencies), pricing, and seat assignments (using *yield management* technology) in the 1960s and continue to enjoy some advantage to this day. And Walmart created logistics applications in the 1980s and invested heavily in *Radio Frequency Identification* (RFID) applications (though this initiative eventually lost steam) and continue to dominate rivals such as Target, Sears and Kmart. But the examples are few and far between. The value gained by standardising - the cost advantage for a firm to be like their competitors - trumps the advantages of being different.
 
 ###Porter's Five Forces (P5F)
-![Porter](https://raw.githubusercontent.com/robertriordan/2400/master/Images/porter_books.png)
 
 **Figure KYSA: Porter's Five Forces (P5F)**
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/p5f.png)
@@ -110,7 +109,7 @@ First, a large part of the *best practices* that push the fronteir ever outward 
 
 ##Strategy
 
-Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he termed the *Five Forces* which operate in every for-profit industry. The Five Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry. See Figure KYSA above.
+
 
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
