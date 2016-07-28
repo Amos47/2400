@@ -111,7 +111,7 @@ First, a large part of the *best practices* that push the frontier ever outward 
 
 ##Strategy
 
-
+Strategy at its highest level is a set of articulated goals for a person, an organisation or a firm, along with a plan specifying how to get there. 
 
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
