@@ -114,6 +114,10 @@ So an *interface* is a *meeting place*. In the case of the above cartoon, it's *
 
 I fancy myself an interface designer. If there was anything about creating systems that I enjoyed (other than a really tight algorithm that churned out accurate results in the blink of an eye), it was the art of the beautiful interface. And beauty, in an interface, has less to do with nice fonts and complementary colour schemes (although that's important too, don't get me wrong) than to the raw simplicity that allows people to just attack and use it and feel as if they are smart because it's just so obvious how the system works. They could make music with it as if it were a *Stradivarius*... something which, in the right hands, could create beauty itself. OK that's just a bit overstated, but the feeling is genuine. It's nice to see your interface being used by people who just *knew what to do with it* simply because you designed it in such a way as to make it obvious how it works. It suggested to the user how it works and they could immediately and it made them feel smart. It's so nice watching people feel smart. It's a bit like designing a piece of clothing and seeing people wearing it in the wild. So satisfying.
 
+The ultimate goal of design is to alleviate user pain points. The most effective way to do so is by *design thinking*.
+
+[Interested?](https://www.nngroup.com/articles/design-thinking/)
+
 Interface design and algorithm design go hand in hand. From the interface perspective, people need to be able to address a system and instinctively know what to do with it. It has to be what we call *intuitive*. It must suggest to the user how it can be used. Much of this usability, which the <a class="underlined-link" href="http://www.businessdictionary.com/definition/usability.html" target="_blank">Business Dictionary</a> (accessed on June 20, 2015) defined as: 
 
 >"Ease, speed, and intuitiveness in operating or using a device, service, or facility. Usability arises from a combination of well thought-out architectural and design factors, and translates into user's ability to successfully perform tasks and solve problems with customary effort." 
