@@ -114,7 +114,17 @@ So an *interface* is a *meeting place*. In the case of the above cartoon, it's *
 
 I fancy myself an interface designer. If there was anything about creating systems that I enjoyed (other than a really tight algorithm that churned out accurate results in the blink of an eye), it was the art of the beautiful interface. And beauty, in an interface, has less to do with nice fonts and complementary colour schemes (although that's important too, don't get me wrong) than to the raw simplicity that allows people to just attack and use it and feel as if they are smart because it's just so obvious how the system works. They could make music with it as if it were a *Stradivarius*... something which, in the right hands, could create beauty itself. OK that's just a bit overstated, but the feeling is genuine. It's nice to see your interface being used by people who just *knew what to do with it* simply because you designed it in such a way as to make it obvious how it works. It suggested to the user how it works and they could immediately and it made them feel smart. It's so nice watching people feel smart. It's a bit like designing a piece of clothing and seeing people wearing it in the wild. So satisfying.
 
-The ultimate goal of design is to alleviate user pain points. The most effective way to do so is by *design thinking*. [TK]. Onboarding definition required. Basically it's socialisation to a new organisation or a new use of a tool. NNG talks about the ponboarding f new users so it's the latter. It's organisational sociology really, indoctrinating new members to a corporate culture. 
+The ultimate goal of design is to alleviate user pain points. The most effective way to do so is by *design thinking*. According to Neilson-Norman Group (see Interested? link below), there are three overarching pieces to the Design Thinking framework and within each of these, there are two phases. See Figure SPBT.
+
+**Figure SPBT. Phases of the Design Thinking process**
+
+![Design Thinking](https://raw.githubusercontent.com/robertriordan/2400/master/Images/design_thinking.png)
+
+Source: https://www.nngroup.com/articles/design-thinking/ (accessed August 2, 2016)
+
+The design thinking process takes the perspective of the user from the very start. Beginning at 12 o'clock and moving clockwise, the first overarching element in the framework is titled *Understand*. Understand the user and the user's needs. Within this element resides the process pieces of phase, namely *empathise* and *define*. Empathy, as we know, is the state of being wherein we put ourselves in the shoes of the other. Seeing life through someone else's eyes. We look at the design challenge from the perspective of those who will interact with the technology we are creating. What a radical idea ;).  Imagine a cellphone manufacturer choosing a keyboard with almost zero clearance between keys on the keyboard such that even the slimest of digits (which I do not have) have trouble with fat-fingering. And they chose this keyboard because it was cost effective. Clearly not a *user-first* attitude. 
+
+If you get interested in the link below, a litle definition is in odrder beforehand. The article uses *onbioarding* as an example. Onboarding is the process of socialising new employees (or other neophytes) to the culture of an organsiation. New user onboarding refers to the process of adapting to new technology that new users endure before they are up to speed with a new piece of gear. Imagine a new cell phone. If you're an iPhone user, then imagine trying to use an Android device or a Blackberry for the first time. This is the process referred to in the article.  
 
 [Interested?](https://www.nngroup.com/articles/design-thinking/)
 
