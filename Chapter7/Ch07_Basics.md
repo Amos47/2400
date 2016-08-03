@@ -114,6 +114,8 @@ So an *interface* is a *meeting place*. In the case of the above cartoon, it's *
 
 I fancy myself an interface designer. If there was anything about creating systems that I enjoyed (other than a really tight algorithm that churned out accurate results in the blink of an eye), it was the art of the beautiful interface. And beauty, in an interface, has less to do with nice fonts and complementary colour schemes (although that's important too, don't get me wrong) than to the raw simplicity that allows people to just attack and use it and feel as if they are smart because it's just so obvious how the system works. They could make music with it as if it were a *Stradivarius*... something which, in the right hands, could create beauty itself. OK that's just a bit overstated, but the feeling is genuine. It's nice to see your interface being used by people who just *knew what to do with it* simply because you designed it in such a way as to make it obvious how it works. It suggested to the user how it works and they could immediately and it made them feel smart. It's so nice watching people feel smart. It's a bit like designing a piece of clothing and seeing people wearing it in the wild. So satisfying.
 
+###Design thinking
+
 The ultimate goal of design is to alleviate user pain points. The most effective way to do so is by *design thinking*. According to Neilson-Norman Group (see Interested? link below), there are three overarching pieces to the Design Thinking framework and within each of these, there are two phases. See Figure SPBT.
 
 **Figure SPBT. Phases of the Design Thinking process**
@@ -130,7 +132,7 @@ Next comes the *exploration* segment of the framework wherein the definitions co
 
 We move to the final phase in the design process, that of *Materialisation*. In this phase, the two sub-processes are *testing*, wherein the prototypes and resultant final production systems are tested rigourously, and finally *implimentation*, where systems are put into production and used by real users. 
 
-The single most important element of this design process is the almost fanatical focus on the users's experience. It's user-first. 
+The single most important element of this design process is the almost fanatical focus on the users's experience. It's user-first. This is the very best possible orientation to creating systems and software. 
 
 If you get interested in the link below, a litle definition is in order beforehand. The article uses *onboarding* as an example. Onboarding is the process of socialising new employees to the culture of an organsiation. *New user onboarding* refers to the process of adapting to new technology that new users endure before they are up to speed with a new piece of gear. Imagine a new cell phone. If you're an iPhone user, then imagine trying to use an Android device or a Blackberry for the first time. This is the process referred to in the article.  
 
