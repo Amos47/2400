@@ -78,7 +78,7 @@ Figure KYSA has become a staple in business classes the world over since Porter 
 
 The Five Forces, as shown in Figure KYSA, each act on the incumbants (participants) in an industry at the product level. One wouldn't perform an industry analysis on Proctor and Gamble, for example, but would at the level of one of their products (such as Crest tootpaste in the dental care industry for example). Let's examine each of the forces in turn staring from 12 o'clock and moving clockwise in Figure KYSA.
 
-Table KYSA: Components of Porter's Five Forces
+**Table KYSA: Components of Porter's Five Forces**
 
 | Force | Explanation |
 | :-: | :- |
@@ -113,7 +113,9 @@ First, a large part of the *best practices* that push the frontier ever outward 
 
 Strategy at its highest level is a set of articulated goals for a person, an organisation or a firm, along with a plan specifying how to get there. CHECK THIS OUT.
 
-Alignment is meant to alleviate competing underlying goals. If IT has a set of goals that are in conflict with those of the firm, then effort is wasted (and resources). Alignment is key.
+Alignment is meant to alleviate competing underlying goals. If IT has a set of goals that are in conflict with those of the firm, then effort is wasted (as are resources). Alignment is key. But the alignment between the goals of the firm and those oof the ICT group can be a tricky thing to get right. 
+
+Let's imagine a scenario wherein the overriding strategy is to maximise the reach of the firm in order to expand market share. We have a product that we know will sell if only we could tap into markets which are thus far unaware of our value proposition. THe firm, therefore, needs to make use of any and all tools that would allow for our message to get out. But the good folks in the ICT group ahve been struggling of late trying to keep up with the myriad of new social media platforms, and have decided their goal is to standardise on the most important tool, and not support the others. So at an ICT strategy meeting, the leaders decide that *Facebook* is the way to go (it's the biggest, after all) and to drop support for and use of *Twitter*, *Instagram*, *Vine*, *YouTube* and *Snapchat*. What result wouyld you suspect from such a strategy? Are the goals of the firm and the ICT group aligned? Not at all. 
 
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
