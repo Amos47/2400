@@ -117,6 +117,8 @@ Alignment is meant to alleviate competing underlying goals. If IT has a set of g
 
 Let's imagine a scenario wherein the overriding strategy is to maximise the reach of the firm in order to expand market share. We have a product that we know will sell if only we could tap into markets which are thus far unaware of our value proposition. THe firm, therefore, needs to make use of any and all tools that would allow for our message to get out. But the good folks in the ICT group ahve been struggling of late trying to keep up with the myriad of new social media platforms, and have decided their goal is to standardise on the most important tool, and not support the others. So at an ICT strategy meeting, the leaders decide that *Facebook* is the way to go (it's the biggest, after all) and to drop support for and use of *Twitter*, *Instagram*, *Vine*, *YouTube* and *Snapchat*. What result wouyld you suspect from such a strategy? Are the goals of the firm and the ICT group aligned? Not at all. 
 
+Bain and Company did extensive work on ICT alignment. 
+
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
 Must discuss strategic alignment here - promised in Chapter 2.
