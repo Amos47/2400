@@ -119,6 +119,9 @@ Let's imagine a scenario wherein the overriding strategy is to maximise the reac
 
 Bain and Company did extensive work on ICT alignment. 
 
+
+![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/align_trap.png)
+
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
 Must discuss strategic alignment here - promised in Chapter 2.
@@ -149,6 +152,7 @@ IS should not be used as a cure-all for organizational problems. Even today, wit
 Also Module 2:
 
 IT is a crucial part of an organization’s assets. It must be managed like any other asset, through governance and planning. This means that the business impact of IT investments must be as measurable and compelling as any other business case. Strategically, CIOs must justify IT spending and show return the same as any other strategic investment. Competitive advantages because of information technology are no longer sustainable advantages [what does this mean and why is it important?, therefore IT is granted no special dispensation when it comes to budget, capital or other strategic investments.
+
 Using our simple test of whether or not there is less input... think here. 
 
 Ensuring alignment of IS strategy and business strategy
