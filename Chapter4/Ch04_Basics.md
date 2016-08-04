@@ -123,6 +123,8 @@ Bain and Company did extensive work on ICT alignment. Figure MWSF summarises the
 
 ![The alignment trap](https://raw.githubusercontent.com/robertriordan/2400/master/Images/align_trap.png)
 
+There is a wealth of information in Figure MWSF. Examining first the two axes, we see *alignment* on the vertical, and *effectiveness* on the horizontal. 
+
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
 Must discuss strategic alignment here - promised in Chapter 2.
