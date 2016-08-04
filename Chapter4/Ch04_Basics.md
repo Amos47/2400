@@ -125,7 +125,7 @@ Bain and Company did extensive work on ICT alignment. Figure MWSF summarises the
 
 There is a wealth of information in Figure MWSF. Examining first the two axes, we see *alignment* on the vertical, and *effectiveness* on the horizontal. The farther we move away from the bottom, left in either direction (either up or across), the more aligned and effective, respectively, a firm becomes. What we are modelling here is the extent of alignment between firm strategic goals and the goals of ICT funtion within that firm on the vertical axis, and the self-reported effectiveness of the ICT department on the horizontal. Nirvanna, according to the Bain research, is found in the top left quadrant (IT-enabled growth), where the *greenest* ball is seen. On the other hand, the least favourable position in which a firm can find itself is in the bottom, left quadrant (maintenance zone), represented by the reddest ball. THe other two quadrants represent less green (well-oiled IT) and less red (alignment trap). Let's consider why this might be.
 
-[Interested?]
+[Interested?](http://www.bain.com/publications/articles/is-your-company-caught-in-an-it-alignment-trap.aspx)
 
 My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
 
