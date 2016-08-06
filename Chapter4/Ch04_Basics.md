@@ -264,39 +264,22 @@ Weill provides the following table, detailing the extent of use of the various m
 **Table SRWP. Distribution of Decision-making Models across various Decision Domains**
 
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/decision_models.png)
+
+Source: [Weill, 2004.](https://www.semanticscholar.org/paper/Don-t-Just-Lead-Govern-How-Top-Performing-Firms-Weill/6a4358e40b8f1f9bcb7f20d272a07efdecbb8ec2/pdf) 
+
+Plenty to chew on in this table. In the left column we find the decision models as discussed above. Across the top, we find five what are called *Decision Domains* or areas of decision that cluster together in organisations. *IT Principles* decisions set the strategic role for ICT across the enterprise. ICT alignment with firm-level strategy is in this domain. Very high-level stuff. Next to the right is the IT Architecture decision type. These decisions concern the *how* things are done in the firm rather than the *what*, which is more of a *Principles* decision. Next we see *IT Infrastructure Strategies*, defined by [Technopedia](https://www.techopedia.com/definition/29199/it-infrastructure) as: "... the composite hardware, software, network resources and services required for the existence, operation and management of an enterprise IT environment.  It allows an organization to deliver IT solutions and services to its employees, partners and/or customers and is usually internal to an organization and deployed within owned facilities." This is basically everything ICT about the organisation, so it's big. Next comes *Business Application Needs*. Likely you can fuigure that one out. It's about what hardware/software/services are required by the various business units of the organisation. Finally (I know, right?) we have*IT Investment*; what kind of resources are we going to throw at the ICT function in the organisation.
+
+It's not really important for you to master these various decision types. It's good to know what they are and what roughly they cover, but in-depth, not so much. What is interesting, however, is how the decisions are made and who makes them. You will note in each domain type here are two sub-domains: *Input* and *Decision*. Input refers to who can *ask for something* in the domain. Decision refers to who says *yes or no* to the ask. Let's get to the meat here.
+
+Input columns are coded as green, and decision columns, red. THe figures in each cell represent the percentage of organisations that used each Governance Type in the respective domain. So the columns sum to 100. The amount of *greenness* or *redness* indicates where the largest numbers in the column are located. Under Input for IT Principles, for example, asking from strategic alignment uses overwhelmingly a Federal model. Federal models are overwhelmingly characterised by a cooperation between senior management and the various business units. This makes sense. ICT needs to be aligned with the business needs of the firm, which in turn drive overall strategy. So it's nice we have a democracy here. But when it comes to decisions, we see a lot of red distributed along the column. The predominant model is IT Duopoly, characterised by agreement between the ICT folks and the various business units. But Business monarchy is also popular, wherein decisions are made at the top and pushed down to the various business units. Democracy when asking but dictatorship when deciding. An interesting situation.
+
+We won't belabour all the various domain types and decision models much further than to point out that most of the colour (so most of the activity) is in the *Federal* and *Duopoly* rows, with the notable exception of decisions on *IT Architecture* and IT *Infrastructure Strategies*. This is a particularly technical domain and it's a good thing that decisions are left to the technical professionals in the ICT function in this area. It's also apparent that decisions on *IT Principles* and *IT Investment* are made at the very highest level by the *Monarchy*. 'Twas ever thus.
+
 (TK)
 
 Week 4 chapter 7 - history of retail innovation.
 e-commerce and frictionless economy
 Types of e-commerce
-
-
-Plus all the stuff from Module 1 (etc.)
-
-From Module 2:
-IS should not be used as a cure-all for organizational problems. Even today, with the knowledge of best practices, project management, and information systems, failures in the implementation of such critical systems like Enterprise Resource Planning (ERP) still occur. In many cases, we cannot blame these failures on technology. The key to developing a good strategy to achieve an organization’s goals is to buy, rent or build but at any rate, have well-designed and well-managed systems available.
-
-Also Module 2:
-
-IT is a crucial part of an organization’s assets. It must be managed like any other asset, through governance and planning. This means that the business impact of IT investments must be as measurable and compelling as any other business case. Strategically, CIOs must justify IT spending and show return the same as any other strategic investment. Competitive advantages because of information technology are no longer sustainable advantages [what does this mean and why is it important?, therefore IT is granted no special dispensation when it comes to budget, capital or other strategic investments.
-
-Using our simple test of whether or not there is less input... think here. 
-
-Ensuring alignment of IS strategy and business strategy
-Because of the pervasiveness and importance of IS in the business environment, it is imperative for businesses to ensure that their IS strategies are aligned with and adequately reflect their overall business strategy. If these strategies are misaligned, an organization’s ability to meet its goals and objectives can be severely jeopardized. For example, given the significant percentage of capital investment represented by IT assets, it is critical that these assets, and the systems they support, fit with the objectives and strategies of the business as a whole. The business/IS strategic alignment in the example (increase sales by 10% aligned with a reduction in backup/archive/recovery costs resulting in increased system availability) works because the goal of increased sales as a key business strategy is supported by backup initiative of IS. 
-
-IT Decision making structures (EDIT THIS)
-Among the most common decision-making structures are:
-· executive or senior management committees which provide ongoing business leadership and involvement in IT—often referred to as an IT steering committee
-· IT leadership committees composed of senior IT leaders from different areas of IT, such as infrastructure and development
-· process teams made up of IT members and business/IT relationship managers
-· IT councils composed of business and IT executives
-· architecture committees
-· capital approval committees
-
-Of these, CIOs rate IT leadership committees and business/IT relationship managers as the most effective means of ensuring adequate decision making. In both cases IT expertise is matched with business knowledge so that decisions are more comprehensive than departmental.
-
-Corporate governance: Week 8 Chapter 5 governance notes. 
 
 Risk Management - Week 5 Chapter 4
 
