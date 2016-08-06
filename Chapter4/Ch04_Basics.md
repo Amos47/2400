@@ -16,11 +16,9 @@ Let's unpack the circles. There is one each for your firm, for the customers in 
 
 >That's a fairly simple sell. It depends on being able to craft a good value proposition proposal and being able to reach your customer base. If you're doing this on your own, social media is the most obvious place to promote yourself. This is what the *selfie* is all about.  
 
->But more importantly, you want to attract the customers who think that some certain combinations of hair, teeth, eyes and hands are what they want. There might be a segment who think that if you've got any one of those four qualities then you'll do just fine. This is Area B, where either you or your competitors might attract a customer. Your job is to convince such potentials that hair and teeth are what they *really* want. Hands and eyes might be nice *options* but they aren't at all necessary. What you really need is a strong base of hair and teeth. So here again, it's about promoting your value proposition to potential customers. Here is where *analytics* abnd *segmentation* come in. Identifying those in Area B, determining which could be swayed by a good pitch and then targetting them. Here, you'd need to do some research. We might call this *flirting*. Just see who's interested... 
+>But more importantly, you want to attract the customers who think that some certain combinations of hair, teeth, eyes and hands are what they want. There might be a segment who think that if you've got any one of those four qualities then you'll do just fine. This is Area B, where either you or your competitors might attract a customer. Your job is to convince such potentials that hair and teeth are what they *really* want. Hands and eyes might be nice *options* but they aren't at all necessary. What you really need is a strong base of hair and teeth. So here again, it's about promoting your value proposition to potential customers. Here is where *analytics* and *segmentation* come in. Identifying those in Area B, determining which could be swayed by a good pitch and then targeting them. Here, you'd need to do some research. We might call this *flirting*. Just to see who's interested... 
 
->You might never reach those in Area C. These are hardcore hand-eye people, *but you can never give up!* Tastes change. Circumstance change. Markets mature. Supply changes and demand changes. THis is where a good data collection strategy comes in handy. YOu've got to keep your finger on the pulse of the market. Stay out there. So flash those pearly whites and toss them flaxen locks. 
-
-Competition is the norm in the real world. You might have a little edge here, a bit of an advantage there, but so do your competitors. It's then all about convincing your customers that your value proposition is the best one. 
+>You might never reach those in Area C. These are hardcore hand-eye people, *but you can never give up!* Tastes change. Circumstance change. Markets mature. Supply changes and demand changes. This is where a good data collection strategy comes in handy. You've got to keep your finger on the pulse of the market. Stay out there. Competition is the norm in the real world. You might have a little edge here, a bit of an advantage there, but so do your competitors. It's then all about convincing your customers that your value proposition is the best one. 
 
 Our interest is in how to leverage technology in order to move your firm into area A and to *keep it there*.  
 
@@ -33,7 +31,7 @@ All of us, every minute of every day, are in competition for scarce resources. T
 
 [Interested?](https://en.wikipedia.org/wiki/Competition)
 
-You might want to think of this in more personal terms, such as your own personal brand and your competition for scarce resources such as a university degree or good quality friends or even a soulmate. Much of what we do is intended to advertise our brand and to give us an advantage over our rivals. This explains much of everything from the personal hygiene and grooming industry, fashion, footwear and eyewear all the way up to automobiles, homes, cottages, boats and even personal technology. How else to explain Apple? When firms (or even governments on an international scale) promote themselves through their values, culture, goals and aspirations they are doing exactly what each of us does each day when we get dressed. Think about it. 
+You might want to think of this in more personal terms, such as your own personal brand and your competition for scarce resources such as a university degree or good quality friends or even a soul mate. Much of what we do is intended to advertise our brand and to give us an advantage over our rivals. This explains much of everything from the personal hygiene and grooming industry, fashion, footwear and eyewear all the way up to automobiles, homes, cottages, boats and even personal technology. How else to explain Apple? When firms (or even governments on an international scale) promote themselves through their values, culture, goals and aspirations they are doing exactly what each of us does each day when we get dressed. Think about it. 
 
 The [Visual Thesaurus](http://www.visualthesaurus.com/ "Visual Thesaurus") website offers a word picture on the term:
 
@@ -61,6 +59,22 @@ The answer is complex and not at all pretty for proponents of ICT. The back stor
 
 In addition, what Carr refers to as the *technology replication cycle* is continually being shortened. If a firm were to create their own ICT system and gain some kind of advantage from it, the entire industry will know about it very soon through the free flow of information and the fact that large tech consultancies (such as Accenture and McKinsey and Bain and Deloitte and others) hire out their ICT consultants to a wide range of companies in a market and those consultants act to diffuse the insights of particular firms to the broader community. So everyone knows fairly quickly the mechanics of the advantage. Coupled with robust and efficient technology tools to build systems quickly, a competitive advantage conferred on a firm for creating their own value-add system will soon be replicated across the industry. So *sustainable* competitive advantage is difficult.
 
+The challenge for ICT is heightened by the widespread availability of *xxx-as-a-service*, where xxx can be *software*, *hardware*, *platform* *infrastructure* and many others. No longer is it necessary for a firm to purchase and maintain their own information systems. Anything can be rented from *the cloud* more cost-effectively. This further reinforces that fact that systems cannot contribute to differentiation of firms (to their value proposition) because most firms are renting the same software from the same vendor. So ICT has contributed to it's own inability to be a differentiator.
+
+<a name="vrio"></a>
+####VRIO
+
+This dilemma is nicely explained by a framework called the *Resource-based View of the Firm*. This framework stipulates that resources (anything is a resource, from people to raw materials to knowledge to computer software and hardware) and/or capabilities (technologies, know-how, staffing practices and many others) contribute to sustainable competitive advantage only inasmuch as they are *VRIO*. Specifically, resources and capabilities must be:
+
+1. 	*Valuable* Does it allow the firm to exploit an opportunity or neutralize an external threat?
+1. 	*Rare*: Is it freely available or restricted to few?
+1. 	*Inimitable*: Is it difficult to imitate without incurring significant cost and/or time to obtain, develop, or duplicate it?
+1. 	*Organizationally available*: Is the firm organized, ready, and able to exploit the resource/capability?
+	
+[Interested?](http://en.wikipedia.org/wiki/VRIO)
+
+Let's examine ICT in light of VRIO. Is ICT valuable? Does it allow firms to exploit opportunities and/or to ward off the competition? The answer clearly is yes. ICT is a valuable tool and, as we will discuss below, is not simply a cost centre. Is ICT rare? The answer here is a clear no. As we have pointed out, the proliferation of cloud-based and *as-a-service* technologies mean that ICT is no longer rare and can be had at any scale, including by small firms of even one person. ICT is not rare. Strike one.  Is ICT imitable? Can its functionality be copied and diffused? Clearly yes. ICT, and especially customer-facing systems, are notoriously easy to replicate, given sufficient time and resources. Thus ICT can give competitive advantage, but it's not sustainable. Strike two. Finally, is ICT organisationally available? Can firms make use of it? This one depends. We will reserve judgment here until we talk about alignment below. We're at two strikes and the umps are conferring on the last pitch. It don't look good for ICT in terms of competitive advantage. 
+
 This is not to say that there have never been cases of ICT conferring sustained advantage. For example, American Airlines automated reservations (the beginning of the end for travel agencies), pricing, and seat assignments (using *yield management* technology) in the 1960s and continue to enjoy some advantage to this day. And Walmart created logistics applications in the 1980s and invested heavily in *Radio Frequency Identification* (RFID) applications (though this initiative eventually lost steam) and continue to dominate rivals such as Target, Sears and Kmart. But the examples are few and far between. The value gained by standardising - the cost advantage for a firm to be like their competitors - trumps the advantages of being different.
 
 ###Porter's Five Forces (P5F)
@@ -68,7 +82,7 @@ This is not to say that there have never been cases of ICT conferring sustained 
 **Figure KYSA: Porter's Five Forces (P5F)**
 ![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/p5f.png)
 
-HArvard professor Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he termed the *Five Forces* which operate in every for-profit industry. The Five Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry.
+Harvard professor Michael Porter is perhaps the best known of all the business strategy gurus. You will see and hear reference to him throughout your academic and professional career. He is perhaps most famous for his work on determining and interpreting what he termed the *Five Forces* which operate in every for-profit industry. The Five Forces (or P5F) are a strategy tool for use by a firm in an industry to assess and position itself in terms of the dynamics of that industry.
 
 Figure KYSA has become a staple in business classes the world over since Porter first described these hitherto unarticulated *Five Forces* in his book entitled *Competitive Strategy: Techniques for Analyzing Industries and Competitors* published in 1980 (current edition is dated 1998, The Free Press, New York). Porter advanced the theory in response to the then-popular (but according to Porter unrigorous and *ad hoc*) SWOT analysis. Wikipedia offers:
 
@@ -76,21 +90,21 @@ Figure KYSA has become a staple in business classes the world over since Porter 
 
 [Interested?](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)
 
-The Five Forces, as shown in Figure KYSA, each act on the incumbants (participants) in an industry at the product level. One wouldn't perform an industry analysis on Proctor and Gamble, for example, but would at the level of one of their products (such as Crest tootpaste in the dental care industry for example). Let's examine each of the forces in turn staring from 12 o'clock and moving clockwise in Figure KYSA.
+The Five Forces, as shown in Figure KYSA, each act on the incumbents (participants) in an industry at the product level. One wouldn't perform an industry analysis on Proctor and Gamble, for example, but would at the level of one of their products (such as Crest toothpaste in the dental care industry for example). Let's examine each of the forces in turn staring from 12 o'clock and moving clockwise in Figure KYSA.
 
 **Table KYSA: Components of Porter's Five Forces**
 
 | Force | Explanation |
 | :-: | :- |
-| Threat of substitutes | The threat of substitutes is not synonomous with the threat of competition. Competitors provide roughly the same product in the same market whereas substitutes are products from other markets that can, in a pinch, do a roughly equivalent job to the product the firm is selling. For example in the toothpaste industry, *Crest* and *Colgate* are competitors, but a *substitute* is homemade baking soda paste. A substitute for a car is a bicycle or public transit or teleworking or agoraphobia. Owning the rubber company that produces shoe soles and tires for cars, cycles, buses, airplanes and subways is an example of hedging in substitutions; no matter what the substitute, the firm benefits – a strategic involvement in this way is a great hedge against substitutes. Don’t forget that buying or doing *nothing* is a substitute! For example you don’t have to go to a movie - you can decide to just sit around. If the threat of substitutes is high in an industry, the industry is less appealing as a place to invest or in which particpate. |
-| Buyer power | If buyers of the products in an industry have the product of many firms from which to choose, or don't really need the product (such as a movie, for example) and can bargain for a lower price from the firms in the undustry, buyers are said to have more power than sellers. In such an instance, firms in the industry ultimately compete on price and many players will be unable to sustain such competition. An industry characterised by high buyer power is less attractive for potential firms. If the firm is the buyer (from suppliers, for example) then the firm wants high buyer power: the ability to choose from among many suppliers of the input the firm is purchasing. The opposite is true when the firm is selling to their customers. Here, high buyer power among customers is not ideal. |
-| Threat of new entrants | If the industry has few barriers to entry, then potentially many firms could enter and become competitors with little or no know-how, capital and infrastructure. On the other hand, firms in industries characterised by high barriers to entry are more protected. Barriers to entry can include such things as infrastructure (banks require ATM networks, for example, which is a significant outlay for an aspiring bank to finance). Other examples are skilled workforces, patents on existing products or processes, access to raw materials, existing supplier contracts and many more. An industry with high barriers to entry is seen as comfortable for incumbants (existing players) and threatening for potential newcomers. |
+| Threat of substitutes | The threat of substitutes is not synonymous with the threat of competition. Competitors provide roughly the same product in the same market whereas substitutes are products from other markets that can, in a pinch, do a roughly equivalent job to the product the firm is selling. For example in the toothpaste industry, *Crest* and *Colgate* are competitors, but a *substitute* is homemade baking soda paste. A substitute for a car is a bicycle or public transit or teleworking or agoraphobia. Owning the rubber company that produces shoe soles and tires for cars, cycles, buses, airplanes and subways is an example of hedging in substitutions; no matter what the substitute, the firm benefits – a strategic involvement in this way is a great hedge against substitutes. Don’t forget that buying or doing *nothing* is a substitute! For example you don’t have to go to a movie - you can decide to just sit around. If the threat of substitutes is high in an industry, the industry is less appealing as a place to invest or in which participate. |
+| Buyer power | If buyers of the products in an industry have the product of many firms from which to choose, or don't really need the product (such as a movie, for example) and can bargain for a lower price from the firms in the industry, buyers are said to have more power than sellers. In such an instance, firms in the industry ultimately compete on price and many players will be unable to sustain such competition. An industry characterised by high buyer power is less attractive for potential firms. If the firm is the buyer (from suppliers, for example) then the firm wants high buyer power: the ability to choose from among many suppliers of the input the firm is purchasing. The opposite is true when the firm is selling to their customers. Here, high buyer power among customers is not ideal. |
+| Threat of new entrants | If the industry has few barriers to entry, then potentially many firms could enter and become competitors with little or no know-how, capital and infrastructure. On the other hand, firms in industries characterised by high barriers to entry are more protected. Barriers to entry can include such things as infrastructure (banks require ATM networks, for example, which is a significant outlay for an aspiring bank to finance). Other examples are skilled workforces, patents on existing products or processes, access to raw materials, existing supplier contracts and many more. An industry with high barriers to entry is seen as comfortable for incumbents (existing players) and threatening for potential newcomers. |
 | Supplier power | The opposite of buyer power, an industry characterised by high supplier power is one in which the suppliers of the raw materials that act as inputs to the firms' products have many potential buyers to which they can peddle their wares and can demand a premium price for their products. Such suppliers include raw materials, services and labour. If there's a GM, Ford, Toyota and VW plant in the same city, skilled and experienced autoworkers can pick and choose and will go to the highest bidder. When the firm is the supplier to others, the firm wants high supplier power (this is in effect the opposite of buyer power. When the firm is the buyer, the firm wants high buyer power. When the firm is the supplier, the firm wants high supplier power. |
-| Industry rivalry | Some industries are quite cozy, with little competition and characterised by a couple or three incumbents who seen to coexist with little rivalry. Other industries seem to be in constant turmoil with competitors undercutting, adding value, and carving out chunks of their rivals territory. Such an industry is not as appealing for incumbents as is the peaceful, bucolic and tranquil competitiive landscape described above. |
+| Industry rivalry | Some industries are quite cozy, with little competition and characterised by a couple or three incumbents who seen to coexist with little rivalry. Other industries seem to be in constant turmoil with competitors undercutting, adding value, and carving out chunks of their rivals territory. Such an industry is not as appealing for incumbents as is the peaceful, bucolic and tranquil competitive landscape described above. |
 
-But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. A great little (and I'm serious about the size) book that illustrates this is Hamel and Prahalad's classic *Strategic Intent* (Harvard Business Review Classics, Harvard Press, Boston Mass, 2010). I strongly recommend that all students read this gem, but *especially* international business students. Here, the authors suggest several great strategies for both forward (on the customer side) or backward (on the supplier side) integration in order to fulfil long-term goals (strategic intentions).
+But it’s also possible to hedge your competitive bets by buying into the value chain of your competition. A great little (and I'm serious about the size) book that illustrates this is Hamel and Prahalad's classic *Strategic Intent* (Harvard Business Review Classics, Harvard Press, Boston Mass, 2010). I strongly recommend that all students read this gem, but *especially* international business students. Here, the authors suggest several compelling strategies for both forward (on the customer side) or backward (on the supplier side) integration in order to fulfill long-term goals (strategic intentions).
 
-Let's take a quick look at what happens in an industry where competition occurs at the limits of best practices. *Best practices* are defined as the state-of-the-art processes in an industry that are the most effecgtive and efficient. Enterprise Resource Planning software (discussed below) is a great exanmple of a massice coillection of best practices. Best practices epitomise the best way of doing things and become diffused between firms in mature industries.
+Let's take a quick look at what happens in an industry where competition occurs at the limits of best practices. *Best practices* are defined as the state-of-the-art processes in an industry that are the most effective and efficient. Enterprise Resource Planning software (discussed below) is a great example of a massive collection of best practices. Best practices epitomise the best way of doing things and become diffused between firms in mature industries.
 
 <a name="frontier"></a>
 **Figure JDSP: Porter's productivity frontier**
@@ -99,7 +113,7 @@ This is a busy little figure so let's take a moment with it. On the horizontal a
 
 Let's first do a thought experiment and plot some products on the two axes. Where would you put an Apple iBook Air? Fairly high on the price scale (so closer to the left) I might say, but where on the non-price value scale? Maybe that depends on how you feel about the *prestige* or *coolness* of Apple products. Let's now plot a Dell Latitude laptop Relative to the Apple product, where would you put it? This exercise helps to envision the usage of this tool. But it's clearly not the real point of the exercise. 
 
-Note now the convex purple line on the right edge of the figure, labelled as the *Productivity frontier*. What's important is that, given the *best practices* of the industry (whatever industry we might be examining) it is not possible to produce a product with a Price/Value pair that is beyond the frontier. It can't be done. Either the price needs to rise or some valuable features need to be subtracted in order to make the product feasible. So the price/value pairs marked with an X are unattainable. Those *inside* the fronteir arc, however, *are* attainable and this is where strategy and positioning come into play. The price/value pairs marked with a little <span class="octicon octicon-check"></span> are attainable. It's here where strategy plays out.
+Note now the convex purple line on the right edge of the figure, labelled as the *Productivity frontier*. What's important is that, given the *best practices* of the industry (whatever industry we might be examining) it is not possible to produce a product with a Price/Value pair that is beyond the frontier. It can't be done. Either the price needs to rise or some valuable features need to be subtracted in order to make the product feasible. So the price/value pairs marked with an X are unattainable. Those *inside* the frontier arc, however, *are* attainable and this is where strategy and positioning come into play. The price/value pairs marked with a little <span class="octicon octicon-check"></span> are attainable. It's here where strategy plays out.
 
 In a McKinsey article on the use of big data in the HR field (see Interested? below), they write that "Bill James, the factory watchman turned baseball historian and statistician, once observed, “There will always be people who are ahead of the curve, and people who are behind the curve. But knowledge moves the curve.” (from Scott Gray, The Mind of Bill James: How a Complete Outsider Changed Baseball, New York, NY: Doubleday, 2006.) 
 
@@ -107,15 +121,52 @@ In a McKinsey article on the use of big data in the HR field (see Interested? be
 
 The same applies to the Productivity Frontier. Knowledge (as defined in Chapter 2) and accumulated technology moves the purple curve outwards, allowing more and more value/price pairs to become feasible. How is this possible? Part of the answer is ICT. Its exact impact is complex, but let's not let that deter us. 
 
-First, a large part of the *best practices* that push the frontier ever outward are increasingly made up of technological and systems innovation. Automation is an obvious example and we will discuss it in some detail in Chapter 6. For now, let's define automation simply as *machines now doing what humans previously did.* The advantage (in a completely clinical interpretation) is that machines (computers are machines) work much more efficiently that do humans. This is simply because machines can do tasks much faster than can humans. They don't tire, go on strike, fall into and out of love, complain, make suggestions on improvement (unless asked) or need to be paid a regular wage. Of course there is a cost associated, but such costs can often be written off over the life of the machne, unlike human labour costs. So much more than any other factor in the advancement of productivity frontier, automation has pushed the boundaries of what's feasible to offer the market. Technology continues to push the frontier.   
+First, a large part of the *best practices* that push the frontier ever outward are increasingly made up of technological and systems innovation. Automation is an obvious example and we will discuss it in some detail in Chapter 6. For now, let's define automation simply as *machines now doing what humans previously did.* The advantage (in a completely clinical interpretation) is that machines (computers are machines) work much more efficiently that do humans. This is simply because machines can do tasks much faster than can humans. They don't tire, go on strike, fall into and out of love, complain, make suggestions on improvement (unless asked) or need to be paid a regular wage. Of course there is a cost associated, but such costs can often be written off over the life of the machine, unlike human labour costs. So much more than any other factor in the advancement of productivity frontier, automation has pushed the boundaries of what's feasible to offer the market. Technology continues to push the frontier.   
 
 ##Strategy
 
-Strategy at its highest level is a set of articulated goals for a person, an organisation or a firm, along with a plan specifying how to get there. CHECK THIS OUT.
+Strategy at its highest level is a set of articulated goals for a person, an organisation or a firm, along with a plan specifying how to get there. Strategy is a crucial element in organisational success - perhaps the moist critical element. You are executing a strategy by attending university and studying business. You have a goal, or a set of goals, and are employing the tactic of getting a degree in order to fulfil your goals. 
 
-Alignment is meant to alleviate competing underlying goals. If IT has a set of goals that are in conflict with those of the firm, then effort is wasted (as are resources). Alignment is key. But the alignment between the goals of the firm and those oof the ICT group can be a tricky thing to get right. 
+In considering organisational levels, we need to talk about how stuff gets done; about what strategy is and how a strategic direction gets set and translated into actionable directives in an organisation. 
 
-Let's imagine a scenario wherein the overriding strategy is to maximise the reach of the firm in order to expand market share. We have a product that we know will sell if only we could tap into markets which are thus far unaware of our value proposition. THe firm, therefore, needs to make use of any and all tools that would allow for our message to get out. But the good folks in the ICT group ahve been struggling of late trying to keep up with the myriad of new social media platforms, and have decided their goal is to standardise on the most important tool, and not support the others. So at an ICT strategy meeting, the leaders decide that *Facebook* is the way to go (it's the biggest, after all) and to drop support for and use of *Twitter*, *Instagram*, *Vine*, *YouTube* and *Snapchat*. What result wouyld you suspect from such a strategy? Are the goals of the firm and the ICT group aligned? Not at all. 
+The online Business Dictionary defines [Strategy](http://www.businessdictionary.com/definition/strategy.html) as: 
+
+"1.A method or plan chosen to bring about a desired future, such as achievement of a goal or solution to a problem.
+
+2.The art and science of planning and marshalling resources for their most efficient and effective use. The term is derived from the Greek word for generalship or leading an army. See also tactics."  And we shall, *viz*.
+
+[Tactics](http://www.businessdictionary.com/definition/tactics.html) are defined as: 
+
+"Means by which a strategy is carried out; planned and *ad hoc* activities meant to deal with the demands of the moment, and to move from one milestone to other in pursuit of the overall goal(s). In an organization, strategy is decided by the board of directors, and tactics by the department heads for implementation by the junior officers and employees."
+
+A simple analogy is found in war. 
+
+#### Organisational levels - Taking the hill
+
+At the highest level, strategy gets made in the smoky war rooms. General Highbottom declares: “In order to win this grand battle, we must take control of that hill!” Next comes the tactical level, which makes possible the strategic. Colonel Mittlestaff receives the strategic direction from Highbottom and declares that in order to take that hill, “We’ll need 100 soldiers and 10 tanks and five mortars and three Armoured Personnel Carriers (APCs). Split the infantry soldiers into two groups. Send 50 to the back of the hill with the mortars. Bring five tanks in from each flank. Send 50 infantry up the hill in the APCs once the tanks and mortars have disbursed the enemy and weakened their resistance.” 
+
+Mittlestaff then pushes the tactical plan down the line to Captain Gitterdunn, who works at the operational level, at the interface with the enemy. Gitterdunn receives the tactical directives, is given access to the human and physical resources and proceeds to organise and execute the plan, with the help of subordinates such as Sergeant Spitzumfire, according to the tactical directives. The soldiers, such as Private Gruntz, are equipped, taken into battle and expected to succeed.  
+
+Gitterdunn reports at regular intervals on how the battle is progressing. In turn, Mittlestaff (who might be coordinating several different battles), informs Highbottom, who has the highest view in our scenario. Much of the *gut work* is done by Mittlestaff. Middle management has forever been under-appreciated. As we will see, this group faces a particularly dim employment future. 
+
+Take a look at Figure PP below and note especially the directional arrows for Strategy (data sent from top to bottom) and Outcomes (data passed up the chain of command from bottom to top):
+
+**Figure PP. Strategy, tactics and operations – the case of taking a hill** 
+
+![Strategy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/strategy.png)
+
+You can see that data flows both ways in this scenario. From the top, the messages sent down are “Do this!” The messages pushed up from the field are “Here’s how it’s going.” Each player and level has a different view on the situation and each requires different data in order to fulfil their role. It’s the same in any organisation. Different roles require different data, which generates different information, and these differences necessitate different systems. 
+
+Et *voila*. From strategy to operation. The similarity to the situation at your own workplace is striking... 
+
+But there are considerable drawbacks to this type of organisational structure. In their book *Strategic Intent* (a tiny little thing you could read in a couple of hours - and I highly recommend you do so), Hamel and Prahalad (2010, Harvard Business Press) write that "... the strategic hierarchy undermines competitiveness by fostering an elitist view of management that tends to disenfranchise [marginalise; deprive of power] most of the organization. Employees fail to identify with corporate goals or involve themselves deeply in becoming more competitive." 
+
+So again, nothing's free...
+
+### Strategic Alignment
+Alignment is meant to alleviate competing underlying goals. If IT has a set of goals that are in conflict with those of the firm, then effort is wasted (as are resources). Alignment is key. But the alignment between the goals of the firm and those of the ICT group can be a tricky thing to get right. 
+
+Let's imagine a scenario wherein the overriding strategy is to maximise the reach of the firm in order to expand market share. We have a product that we know will sell if only we could tap into markets which are thus far unaware of our value proposition. The firm, therefore, needs to make use of any and all tools that would allow for our message to get out. But the good folks in the ICT group have been struggling of late trying to keep up with the myriad of new social media platforms, and have decided their goal is to standardise on the most important tool, and not support the others. So at an ICT strategy meeting, the leaders decide that *Facebook* is the way to go (it's the biggest, after all) and to drop support for and use of *Twitter*, *Instagram*, *Vine*, *YouTube* and *Snapchat*. What result would you suspect from such a strategy? Are the goals of the firm and the ICT group aligned? Not at all. 
 
 Bain and Company did extensive work on ICT alignment. Figure MWSF summarises their research. Take a close look.
 
@@ -123,31 +174,98 @@ Bain and Company did extensive work on ICT alignment. Figure MWSF summarises the
 
 ![The alignment trap](https://raw.githubusercontent.com/robertriordan/2400/master/Images/align_trap.png)
 
-There is a wealth of information in Figure MWSF. Examining first the two axes, we see *alignment* on the vertical, and *effectiveness* on the horizontal. The farther we move away from the bottom, left in either direction (either up or across), the more aligned and effective, respectively, a firm becomes. What we are modelling here is the extent of alignment between firm strategic goals and the goals of ICT function within that firm on the vertical axis, and the self-reported effectiveness of the ICT department on the horizontal. Nirvana, according to the Bain research, is found in the top left quadrant (IT-enabled growth), where the *greenest* ball is seen. On the other hand, the least favourable position in which a firm can find itself is in the bottom, left quadrant (maintenance zone), represented by the reddest ball. The other two quadrants represent less green (well-oiled IT) and less red (alignment trap). Let's consider why this might be.
+There is a wealth of information in Figure MWSF. Examining first the two axes, we see *alignment* (the extent to which the strategic goals of the ICT function is aligned with that of the firm) on the vertical, and *effectiveness* (the on the horizontal. The farther we move away from the bottom, left in either direction (either up or across), the more aligned and effective, respectively, a firm becomes. What we are modelling here is the extent of alignment between firm strategic goals and the goals of ICT function within that firm on the vertical axis, and the self-reported effectiveness of the ICT department on the horizontal. Nirvana, according to the Bain research, is found in the top left quadrant (IT-enabled growth), where the *greenest* ball is seen. On the other hand, the least favourable position in which a firm can find itself is in the bottom, left quadrant (maintenance zone), represented by the reddest ball. The other two quadrants represent less green (well-oiled IT) and less red (alignment trap). Let's consider why this might be.
 
-[Interested?](http://www.bain.com/publications/articles/is-your-company-caught-in-an-it-alignment-trap.aspx)
+We begin by making sense of the various numbers presented. First of all, Bain wrote "...we conducted a survey of more than 500 senior business and technology executives worldwide. We followed up the survey with in-depth interviews of 30 chief information officers and other senior leaders from a broad cross-section of companies." Of these 500+ companies, 504 respondents from 452 companies (clearly there were multiple replies from some companies representing different management roles) responded.This gives us the pie chart numbers in each circle. For example, 74% of respondents indicated that their firm was in the *maintenance zone* (the least desirable state) and only 7% reported that their firm exhibited *IT-enabled growth* (the most desirable state). This is illustrative as it indicates that the vast majority of those firms which responded were in a state of misalignment. (Beware the allure of generalising here: this isn't a random sample. There is likely quite significant response bias here inasmuch as companies in a poor state of misalignment might have a differential propensity to participate in this study - the real numbers could be either higher or lower.) That such an overwhelming majority report themselves in such a situation warrants examination. Thus we look at what the characteristics of such a firm are. Here's where the IT spend and sales growth figures can illuminate. 
 
-My notion of circularity. There's no other *service function* that also can generate revenue AND implement strategy. IT alignment infographic. 
+The little bar charts in the circles in each quadrant represent ICT spending (purple) and compound annual growth rates in sales (orange bar). Each is expressed as a deviation from the overall average of each indicator for all firms combined. So the horizontal line represents 0 (zero) difference from the average. Anything below the zero line represents less than average, and anything above indicates greater than average for the indicator. Armed with this knowledge we see that in the *maintenance zone* the ICT spend is right on average (you can't see the bar). If you think about this with your stats hat on, you'll note that it's not unexpected, as these firms represent 74% of the average figures. Nonetheless, firms in the maintenance zone spend right at the average on ICT,*and* their growth is *below average*! So they're not getting much out of their ICT spend, because their ICT is neither effective nor aligned. Contrast this with the *IT-enabled growth* firms in the top, right quadrant. Their ICT spend is below average *and* their sales are 35% above average. Talk about a sweet return! 
 
-Must discuss strategic alignment here - promised in Chapter 2.
+Now quickly examine the other two groups of firms: the *alignment trap* and the *well-oiled IT* groups. Each is sub-optimal on one dimension. The trap folks have great alignment with firm-level strategy but their IT shop isn't effective. They're on board, but unable to deliver. They spend *above average* in IT, but apparently on the wrong stuff. The oily firms have great ICT capacity (effective) and they achieve it with less than average spend, while also showing moderately above average growth. So effective IT is a good thing, in and of itself. It leads to above average sales growth, but nowhere near the ROI shown among those in the well-aligned group above them.
 
-And governance. week 8 chapter 5 pptx
+All this can be framed in the context of the Input/Output ratio we have discussed in Chapter 2. ICT gives great return on every dollar spent. And when it's aligned with firm-level strategy, when we're all pulling in the same direction, the results are impressive. ICT needs a place at the table in every modern organisation. The proof is in the positive returns. 
 
-Is ICT a cost centre or a revenue centre?
+A McKinsey study of the banking sector in the US found that spending wisely, not more, was associated with greater ROI on ICT investment. [Interested?](http://www.mckinsey.com/business-functions/business-technology/our-insights/spend-wisely-not-more-on-it) 
 
-Week 3 Chaptr 3 Pareto optimality should go somewhere... ? - decision making
+Remembering our discussion above of VRIO <a class="underlined-link" href="Ch04_Basics.md\#vrio" target="_blank">(take me there)</a> we can close the book on whether ICT can deliver sustainable competitive advantage, by saying a *qualified yes.* ICT is valuable and, if aligned with firm-level strategy, it can be available to the firm to reach its goals. It is not, however, rare (for long) or inimitable (for long). Thus it can, for a limited time, confer competitive advantage. But it must continue to evolve, continue to be invested in and remain continually aligned. Two out of four is the best we can do.  
 
-KM Explicit vs Tacit knowledge... critical - somewhere
+[Interested in if your company is caught?](http://www.bain.com/publications/articles/is-your-company-caught-in-an-it-alignment-trap.aspx)
+
+[Interested in how to avoid the trap?](http://www.bain.com/publications/articles/avoiding-the-alignment-trap-in-it.aspx)
+
+###Cost centre or profit centre?
+
+The traditional view of ICT has been that it is a *cost-centre*. Wikipedia defines a cost centre as "...a department within a company that does not produce direct profit and adds to the cost of running a company. However, all cost centres perform an important job. [They improve] the satisfaction of customers and [thereby] indirectly increases sales." Thus the ICT function in a firm is seen as a necessary evil; a place where profit and loss don't materially affect the health of the firm, but rather must simply be balanced and budgeted. Wikipedia goes on to explain that "A cost centre adds to a firm's cost whereas a profit centre adds to the firm's cost and profit. Furthermore, the main objective of a cost centre is to minimise cost whereas the main objective of a profit centre is to maximise profit."
+
+But the new reality for ICT is much more robust. ICT is not simply a cost centre and a tool to implement strategy. ICT can also be a source of *direct* growth and of revenue. ICT can be a asset in the same way that invested funds or patented technology provide ROI. The simplest example is the intrinsic value of a firm's data. Customer data, sales data, performance data, quality control data and finance data all have embedded value. Moreover, ICT can initiate strategy that improves reach, allows self-service for both employees and customers and can be a product in and of itself. Witness Uber. Uber is a technology company and not a ride sharing firm. Same with Airbnb, Twitter, Facebook and many others. Their business manifests as other than tech, yet their products and services generate revenue in different industries and markets. This is the new reality.
+
+###Governance
+
+Broadly speaking, corporate governance represents the highest level of decision making, involving basic questions of status, financial viability, strategy, and compliance within an organisation. Effective governance is a critical enabler for success in the global economy, for securing the enterprise’s information resources, and for creating competitive advantage. Governance specifies how rights and responsibilities are distributed among various stakeholder participants such as:
+
+- BoD (Board of Directors)
+- Shareholders
+- Creditors, auditors and regulators
+- Managers and other employees who make decisions affecting the corporation
+
+The governance structure of an organisation does not make decisions. Rather *it sets the rules for making decisions* that affect the corporation. Regardless of the type of organisation, it will certainly have some form of governance providing strategic rather than managerial oversight at the highest level. While the CEO and the management team are responsible for formulating and proposing the strategy of the organisation, it is ultimately the governance processes of the organisation that approve it, including the possible financial implications that accompany any strategy. Governance applies at the highest level of the organisation, as well as in each functional area. It is where governance intersects that we get strategic alignment (or not). Organisations need to remain internally compliant with their own ICT standards and practices in addition to those imposed upon it by the law or local regulations, including:
+
+- PIPEDA
+- Bill 198
+- EU Data Protection Directive
+- Sarbanes-Oxley Act, among others.
+
+A major part of good governance is understanding what ethical and appropriate governance practices need to be applied. Industry associations, professional bodies, and industry think-tanks, as well as ICT, often develop, publish, and promote codes of conduct. 
+
+A study published in MITSloan Management Review ([link](http://sloanreview.mit.edu/article/a-matrixed-approach-to-designing-it-governance/?use_credit=0cd60efb5578cd967c3c23894f305800)) on IT governance had this to report:
+
+>"While the research did not identify a single best formula for governing IT, one thing is abundantly clear: Effective IT governance doesn’t happen by accident. Top-performing enterprises carefully design governance. In those companies, managers at all levels throughout the enterprise apply that design as they make daily decisions about the use of IT. Further, 60% to 80% of senior executives in those companies have a clear understanding of and can describe their IT governance. In fact, senior management awareness of IT governance is the single best indicator of its effectiveness.
+
+>The effectiveness of an enterprise’s or business unit’s IT governance can be assessed by evaluating how well it enables IT to deliver on four objectives: cost-effectiveness, asset utilization, business growth and business flexibility. Our research, which weighed each factor according to its relative importance to each company, showed that governance performance varies significantly across enterprises in an approximately bell-shaped distribution. (See “Assessing IT Governance Performance.”) According to this measure, high IT governance performance correlated with the achievement of other desired measures of success. For example, companies that effectively govern information technology garner profits that are 20% higher than those of other companies pursuing similar strategies.1 They also achieve higher returns on equity and growth in market capitalization."
+
+The article drew on and extended the material in *P. Weill and J. Ross, IT Governance: How Top Performers Manage IT Decision Rights for Superior Results (Boston: Harvard Business School Press, 2004)*
+
+In a [white paper](http://www.sas.com/content/dam/SAS/en_ca/doc/other1/ten-mistakes-to-avoid-when-launching-data-governance-program-106649.pdf) on data governance, the SAS Institute lists 10 mistakes that firms make when launching a data governance program. Mistake #1, according to the paper, is failing to define data governance. They write, in part " We define data governance as the organizing framework for aligning strategy, defining objectives, and establishing policies for enterprise information." They continue that "The most common definitional mistake companies make is using “data governance”
+synonymously with “data management.” Data governance is the decision-rights and policy-making for corporate data, while data management is the tactical execution of those policies.  Both require executive commitment, and both require investment, but data governance is business-driven by definition, while data management is a diverse and skills-rich IT function that ideally reports to the CIO."
+
+In mistake #10, they conclude:
+
+>""Most companies do a good job of implementing governance policies within the scope of an initial business process or application release. However, the need for ongoing maintenance and auditing is frequently overlooked or underestimated. Because data is constantly being generated, new applications are added, business processes change, and users come and go, data management becomes a full-time endeavor. Anyone who has been involved in a massive, one-time data clean-up or conversion project, only to have “dirty” data reappear over time, understands this all too well. Vigilance is required to monitor compliance with existing standards, enforce new behaviors, and ensure that old habits don’t creep back into common usage.
+
+>We define data management as the tactical, day-to-day execution of data governance policies. For example, a typical data governance policy may mandate that sensitive customer data be stored in secure formats and available only to authorized users. Implementation of an appropriate storage algorithm and ongoing maintenance of user permissions are data management functions typically handled by resources in IT, security, or by a formally designated data management group. Such a group should be equipped to tackle these issues as the business continues to evolve. Data governance and data management are symbiotic by nature. The most relevant or vital data governance policy is of little merit just sitting on a desk. To be perceived as valuable, data governance must be measured, ultimately demonstrating positive outcomes and hard payback. To do that, you must be able to manage data in a structured and tactical way."
+
+The issues raised in the white paper resonate with everything we have been considering here in terms of governance and alignment. This raises the important issue of how decisions are made regarding IT. Who decides what will be built, bought, rented or commissioned, and how they (whoever *they* are) come to these decisions. 
+
+The most common decision-making structures in large organisations are:
+
+1. *IT-only committees* composed of senior IT leaders from different areas such as infrastructure and application development
+1. process teams made up of IT members and business/IT relationship managers - those with a stake in the outcome
+1. *IT councils* composed of business and IT executives
+1. executive or senior management committees which provide ongoing business leadership and involvement in IT — often referred to as a steering committee - the ICT function needs to have a seat on this committee
+1. architecture committees - to decide on what the firm's infrastructure will look like, which will determine the direction ICT takes
+1. capital approval committees - a more generic and not ICT-specific model
+
+Chief Information Officers (CIOs) rate #s 1 and 2 (*IT leadership committees and business/IT relationship managers*) as the best at ensuring good decisions are made. This is because these two match ICT expertise with general business knowledge knowledge and therefore the decisions are more likely to align with overall strategy. And this is what we want.  
+
+Inside such committees, and driven by corporate culture, we find six different decision-making models in large organisations. Peter Weill from MIT Sloan, published a paper in 2004 entitled *Don't Just Lead, Govern: How Top-Performing Firms Govern IT*. You can read it <a class="underlined-link" href="https://www.semanticscholar.org/paper/Don-t-Just-Lead-Govern-How-Top-Performing-Firms-Weill/6a4358e40b8f1f9bcb7f20d272a07efdecbb8ec2/pdf" target="_blank">here</a> if you like. It's too long to be an *Interested?* link, but it's interesting nonetheless. 
+
+In the paper, Weill enumerates the six different models of how decisions about ICT are made:
+
+1. 	Business monarchy: A group of, or individual, business executives (i.e., CxOs). May include CIO.
+2. 	IT monarchy: Individuals or groups of IT executives.
+3. 	Feudal: Business unit leaders, key process owners or their delegates.
+4. 	Federal: C-level executives and at least one other business group (CxO or business unit leaders). ICT execs may or may not be included.
+3. 	IT Duopoly: ICT execs and one other group (CxOs or business unit leaders)
+4. 	Anarchy: Each individual user.
+
+In a synopsis 
+
+
+(TK)
 
 Week 4 chapter 7 - history of retail innovation.
 e-commerce and frictionless economy
 Types of e-commerce
 
-
-See business dictionary definitions such as:
-
-http://www.businessdictionary.com/definition/governance.html
-http://www.businessdictionary.com/definition/corporate-governance.html
 
 Plus all the stuff from Module 1 (etc.)
 
@@ -218,61 +336,7 @@ Moving to the next column to the right in Figure JL, we find the title Granulari
 
 This is the level where measurement occurs, where raw data are collected and stored and marshalled to provide insight and context to the higher levels of the organisation. You can't give the CEO a total sales figure for last year without a summation of the totals found on each individual sales invoice from last year. So as we move from bottom to top in an organisation, we move from very granular (grains of sand) up through small stones, through boulders to the mountains required by senior management. 
 
-There is a relationship between the Type of work done and the granularity of data required. But we mustn’t lose sight of the fact that often, once taking a look at the mountain, senior managers and executives will want to take a walk on the beach and feel the sand between their toes. Thus data must roll up to big-picture numbers, but must also persist and be available for *drill-down* exercises so that sense (read *context*) can be made of the big pictures. Data are rolled up and down with great regularity and must be available when required at the level of detail appropriate for the task at hand. And the task at hand involves problem solving at each level.
-
-### Decisions, decisions, decisions (in the spirit of Jan Brady's *Marsha, Marsha, Marsha!*)
-
-Problems, and the decisions that accompany them, come in three flavours: *structured, unstructured* and a hybrid, middle ground called *semi-structured*, with elements of both structured and unstructured decisions.
-
-*Structured Decisions* are algorithmic (A x B / C) in nature where all quantities are measured and known. This leads to a verifiable result - there is a correct answer and we can assess our answer against that standard. An example of a structured decision is the calculation of the sales tax on a purchase. There is little or no *context* involved here. Just the facts ma'am. 
-
-An *Unstructured Decision*, on the other hand, has no standard against which to measure the decision. Decisions such as whether to open a new store or launch a new product or hire a new CIO. The quality of such decisions can only be accurately assessed after the fact. Time will tell if the new store does well. This is not to say that the decision is made blind. Context provides important parameters to guide the creation of information that will lead to the decision. The important point is that there is no correct answer going forward. We can reduce error by creating a rich context and valuable information, but we can never eliminate potential error in the way we can by testing algorithms for the calculation of sales tax, for example.
-
-The final decision type is the hybrid, *Semi-structured Decision*. Such decisions have elements of both previous types, such as would be found in an investment decision. The rate of return on an investment can be calculated in a structured fashion once the investment amount and the rate are known, but the actual rate itself is not and cannot be known in advance. Thus the decision to invest in this versus that opportunity is made without a standard against which to measure, other than the history of investments *like this one*. Again, we can reduce the error around the decision by creating a rich context (examining detailed history and doing our homework about the marketplace and anticipated trends), and the actual monetary value algorithm can easily be verified. It’s just the actual rate of return that cannot be known with precision in advance.
-
-Note the correspondence between type of work and type of decision. Knowledge work is inherently unstructured, involving the synthesis of various sources and the exercise of judgment involving *tacit* knowledge. Tacit knowledge is differentiated from *explicit* knowledge in that the former is knowledge that comes from experience and wisdom, whereas the latter is codified, rules-based and written down. A CEO often operates on *gut instinct*. This is tacit knowledge. A transaction processing system has no gut feelings. In fact, it has no gut at all. They follow ridged rules. 
-
-**TAKE THIS ^^^ BACK TO THE KNOWLEDGE-ACQUISITION FRAMEWORK IN CHAPTER 1**
-
-#### Organisational levels - Taking the hill
-
-** MOVE ^^^ THIS TO STRATEGY AREA IN CHAPTER 4??**
-
-In considering organisational levels, we need to talk about how stuff gets done; about what strategy is and how a strategic direction gets set and translated into actionable directives in an organisation. 
-
-The online Business Dictionary defines [Strategy](http://www.businessdictionary.com/definition/strategy.html) as: 
-
-"1.A method or plan chosen to bring about a desired future, such as achievement of a goal or solution to a problem.
-
-2.The art and science of planning and marshalling resources for their most efficient and effective use. The term is derived from the Greek word for generalship or leading an army. See also tactics."  And we shall, *viz*.
-
-[Tactics](http://www.businessdictionary.com/definition/tactics.html) are defined as: 
-
-"Means by which a strategy is carried out; planned and *ad hoc* activities meant to deal with the demands of the moment, and to move from one milestone to other in pursuit of the overall goal(s). In an organization, strategy is decided by the board of directors, and tactics by the department heads for implementation by the junior officers and employees."
-
-A simple analogy is found in war. 
-
-At the highest level, strategy gets made in the smoky war rooms. General Highbottom declares: “In order to win this grand battle, we must take control of that hill!” Next comes the tactical level, which makes possible the strategic. Colonel Mittlestaff receives the strategic direction from Highbottom and declares that in order to take that hill, “We’ll need 100 soldiers and 10 tanks and five mortars and three Armoured Personnel Carriers (APCs). Split the infantry soldiers into two groups. Send 50 to the back of the hill with the mortars. Bring five tanks in from each flank. Send 50 infantry up the hill in the APCs once the tanks and mortars have disbursed the enemy and weakened their resistance.” 
-
-Mittlestaff then pushes the tactical plan down the line to Captain Gitterdunn, who works at the operational level, at the interface with the enemy. Gitterdunn receives the tactical directives, is given access to the human and physical resources and proceeds to organise and execute the plan, with the help of subordinates such as Sergeant Spitzumfire, according to the tactical directives. The soldiers, such as Private Gruntz, are equipped, taken into battle and expected to succeed.  
-
-Gitterdunn reports at regular intervals on how the battle is progressing. In turn, Mittlestaff (who might be coordinating several different battles), informs Highbottom, who has the highest view in our scenario. Much of the *gut work* is done by Mittlestaff. Middle management has forever been under-appreciated. As we will see, this group faces a particularly dim employment future. 
-
-Take a look at Figure PP below and note especially the directional arrows for Strategy (data sent from top to bottom) and Outcomes (data passed up the chain of command from bottom to top):
-
-**Figure PP. Strategy, tactics and operations – the case of taking a hill** 
-
-![Strategy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/strategy.png)
-
-You can see that data flows both ways in this scenario. From the top, the messages sent down are “Do this!” The messages pushed up from the field are “Here’s how it’s going.” Each player and level has a different view on the situation and each requires different data in order to fulfil their role. It’s the same in any organisation. Different roles require different data, which generates different information, and these differences necessitate different systems. 
-
-Et *voila*. From strategy to operation. The similarity to the situation at your own workplace is striking... 
-
-But there are considerable drwabacks to this type of organisational structure. In their book *Strategic Intent* (a tiny little thing you could read in a couple of hours - and I highly recommend you do so), Hamel and Prahalad (2010, Harvard Business Press) write:
-
-> "... the strategic heirarchy undermines competitiveness by fostering an elitist view of management that tends to disenfranchise [marginalise; deprive of power] most of the organization. Employees fail to identify with corporate goals or involve themselves deeply in becoming more competitive." 
-
-So again, nothing's free...
+There is a relationship between the Type of work done and the granularity of data required. But we mustn’t lose sight of the fact that often, once taking a look at the mountain, senior managers and executives will want to take a walk on the beach and feel the sand between their toes. Thus data must roll up to big-picture numbers, but must also persist and be available for *drill-down* exercises so that sense (read *context*) can be made of the big pictures. Data are rolled up and down with great regularity and must be available when required at the level of detail appropriate for the task at hand. And the task at hand involves problem solving at each level.  We discussed problem solving and types of problems in Chapter 2. <a class="underlined-link" href="Ch02_Basics.md\#decisions" target="_blank">(take me there)</a> 
 
 At what level of the organisation are we talking when we’re talking about knowledge, low-granularity data and unstructured decisions versus the TPS type of data and decision? Let’s start at the bottom of Figure JL in the *Decision type* column. 
 
