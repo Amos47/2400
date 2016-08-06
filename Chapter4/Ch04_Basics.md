@@ -131,13 +131,15 @@ In considering organisational levels, we need to talk about how stuff gets done;
 
 The online Business Dictionary defines [Strategy](http://www.businessdictionary.com/definition/strategy.html) as: 
 
-"1.A method or plan chosen to bring about a desired future, such as achievement of a goal or solution to a problem.
+>"1.A method or plan chosen to bring about a desired future, such as achievement of a goal or solution to a problem.
 
-2.The art and science of planning and marshalling resources for their most efficient and effective use. The term is derived from the Greek word for generalship or leading an army. See also tactics."  And we shall, *viz*.
+>2.The art and science of planning and marshalling resources for their most efficient and effective use. The term is derived from the Greek word for generalship or leading an army. See also tactics."  
+
+And we shall, *viz*.
 
 [Tactics](http://www.businessdictionary.com/definition/tactics.html) are defined as: 
 
-"Means by which a strategy is carried out; planned and *ad hoc* activities meant to deal with the demands of the moment, and to move from one milestone to other in pursuit of the overall goal(s). In an organization, strategy is decided by the board of directors, and tactics by the department heads for implementation by the junior officers and employees."
+>"Means by which a strategy is carried out; planned and *ad hoc* activities meant to deal with the demands of the moment, and to move from one milestone to other in pursuit of the overall goal(s). In an organization, strategy is decided by the board of directors, and tactics by the department heads for implementation by the junior officers and employees."
 
 A simple analogy is found in war. 
 
@@ -216,7 +218,7 @@ The governance structure of an organisation does not make decisions. Rather *it 
 
 A major part of good governance is understanding what ethical and appropriate governance practices need to be applied. Industry associations, professional bodies, and industry think-tanks, as well as ICT, often develop, publish, and promote codes of conduct. 
 
-A study published in MITSloan Management Review ([link](http://sloanreview.mit.edu/article/a-matrixed-approach-to-designing-it-governance/?use_credit=0cd60efb5578cd967c3c23894f305800)) on IT governance had this to report:
+A study published in MIT Sloan Management Review ([link](http://sloanreview.mit.edu/article/a-matrixed-approach-to-designing-it-governance/?use_credit=0cd60efb5578cd967c3c23894f305800)) on IT governance had this to report:
 
 >"While the research did not identify a single best formula for governing IT, one thing is abundantly clear: Effective IT governance doesn’t happen by accident. Top-performing enterprises carefully design governance. In those companies, managers at all levels throughout the enterprise apply that design as they make daily decisions about the use of IT. Further, 60% to 80% of senior executives in those companies have a clear understanding of and can describe their IT governance. In fact, senior management awareness of IT governance is the single best indicator of its effectiveness.
 
@@ -257,9 +259,11 @@ In the paper, Weill enumerates the six different models of how decisions about I
 3. 	IT Duopoly: ICT execs and one other group (CxOs or business unit leaders)
 4. 	Anarchy: Each individual user.
 
-In a synopsis 
+Weill provides the following table, detailing the extent of use of the various models across 256 organisations, both private and public in various industries in the Americas, Asia/Pacific and Europe. Take a look at Table SRWP.
 
+**Table SRWP. Distribution of Decision-making Models across various Decision Domains**
 
+![The big picture of the organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/decision_models.png)
 (TK)
 
 Week 4 chapter 7 - history of retail innovation.
