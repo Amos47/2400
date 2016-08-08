@@ -38,4 +38,10 @@ A simple measure of risk is the *Composite Risk Index* which is calculated by mu
 But note that the probability of risk occurrence is difficult to estimate since past data on frequency of occurrence are not always readily available.
 Furthermore, the impact of the risk is not easy to assess since it is often difficult to estimate the potential financial loss in the event of a risk turns into an event. So indeed, this is a risky business. 
 
-Let's take a look at a simple risk profiler.   
+Here is a simple risk profiler.
+
+**Figure JPHB. Risk profiler**
+
+![Outsourcing Decision Matrix Mashup](https://raw.githubusercontent.com/robertriordan/2400/master/Images/risk_profiler.png)
+
+This is a picture of the risk profile of a project. The project could be anything from building a deck to architecting a complex information system. In the particular (fictional) project, there are 11 identified risk factors - count each *x*. These factors were identified by either business process (domain) experts, or systems analysts, designers or project managers - most likely *all* these players played a role in identifying the risk factors. As outlined above, each was then assigned, based on the best available information, an *impact* score (how much it would hurt if the risk were realised) and a *likelihood* score (the probability that this risk will actually happen). We then simply sum the product of the two scores for each factor. This project has a total risk profile of 65. The total score is of nothing more than passing interest unless comparing projects with the same number of risk factors. A better measure is the *average* risk score, here calculated as 65/11 (the total score / the number of factors). This will allow better comparison over time and between projects. But that's not the *whole* story. The *distribution* of risk is also important. If factors are clustered in one zone, for example, a score can be misleading. A project would have the same average score if it has 10 risk factors judged to be low probability (1) and high impact (5) as a project with 10 factors judged high probability but low impact. But these can be very different projects with very different consequences. *Ergo* the distribution is important.  
