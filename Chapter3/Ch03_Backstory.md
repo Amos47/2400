@@ -1,6 +1,6 @@
 Week 7 Chapter 6 slides for relationship between SDLC and Project Management. 
 
-###Risk and Risk Management
+##Risk and Risk Management
 
 Everything is risky. Getting out of bed in the morning is risky (you could slip and fall). But so is staying put (you wouldn't last long without food and exercise). So once again, nothing is free. There is risk attached to action and to inaction. This might remind you of our discussion n Chapter 2 regarding how decisions arise from information. Given the right information in the right context, one can decide whether to act or not.This is nicely illustrated by the notion of risk. Given the right information, we can decide to do something about risk or not. That's where we're going in this discussion. 
 
@@ -19,7 +19,7 @@ What are the sources of risk? Among others, there are:
 - Malicious attacks from a competitor/adversary
 - Others may arise and/or are specific to particular industries...
 
-####Managing Risk
+###Managing Risk
 
 To mitigate risk, the following methods are performed more or less in the following order:
 
@@ -44,6 +44,30 @@ Here is a simple risk profiler.
 
 ![Risk Profiler](https://raw.githubusercontent.com/robertriordan/2400/master/Images/risk_profiler.png)
 
-This is a picture of the risk profile of a project. The project could be anything from building a deck to architecting a complex information system. In the particular (fictional) project, there are 11 identified risk factors - count each *x*. These factors were identified by either business process (domain) experts, or systems analysts, designers or project managers - most likely *all* these players played a role in identifying the risk factors. As outlined above, each was then assigned, based on the best available information, an *impact* score (how much it would hurt if the risk were realised) and a *likelihood* score (the probability that this risk will actually happen). We then simply sum the product of the two scores for each factor. This project has a total risk profile of 65. The total score is of nothing more than passing interest unless comparing projects with the same number of risk factors. A better measure is the *average* risk score, here calculated as 65/11 (the total score / the number of factors). This will allow better comparison over time and between projects. But that's not the *whole* story. The *distribution* of risk is also important. If factors are clustered in one zone, for example, a score can be misleading. *Ergo* the distribution is important.  
+This is a picture of the risk profile of a project. The project could be anything from building a deck to architecting a complex information system. In the particular (fictional) project, there are 11 identified risk factors - count each *x*. These factors were identified by either business process (domain) experts, or systems analysts, designers or project managers - most likely *all* these players played a role in identifying the risk factors. As outlined above, each was then assigned, based on the best available information, an *impact* score (how much it would hurt if the risk were realised) and a *likelihood* score (the probability that this risk will actually happen). We then simply sum the product of the two scores for each factor. This project has a total risk profile of 65. The total score is of nothing more than passing interest unless comparing projects with the same number of risk factors. A better measure is the *average* risk score, here calculated as 65/11 (the total score / the number of factors). This will allow better comparison over time and between projects. But that's not the *whole* story. The *distribution* of risk is also important. If factors are clustered in one zone, for example, a score can be misleading. *Ergo* the distribution is important.  Whatever the distribution however, the risks in the upper, right must be addressed. These are potentially damaging and likely to happen. They can lead to disaster if not managed. 
 
-Try [this](https://raw.githubusercontent.com/robertriordan/2400/master/resources/risk_profiler.xlsx) download of a profiler in Excel. See what different projects look like in terms of risk profile. You can enter two project profiles side by side and compare the statistics derived from them. Enter values in the green areas. 
+[Interested in risk profiling?](https://raw.githubusercontent.com/robertriordan/2400/master/resources/risk_profiler.xlsx) Download this Excel spreadsheet and see what different hypothetical projects would look like in terms of risk profile. You can enter two project profiles side by side and compare the statistics derived from them. Enter values in the green areas. (You will need Excel installed on whatever device you choose to use.)
+
+**Table STTA. Risk reduction methods**
+
+| Risk response | Potential action |
+| :-| :-|
+| Risk transfer | Move the risk to a department, organisation or person who can better handle the risk |
+| Risk deferral | Postpone exposure to the risk until circumstances are more favourable or resources are available to address the risk |
+| Risk reduction | Either reduce the probability of the risk occurring or lessen the impact |
+| Risk acceptance | Realise that some risks are unavoidable and make sure that contingency plans are in place |
+| Risk avoidance | Eliminate the possibility of the risk occurring; however, that may close the doors on some business opportunities as well |
+
+You can't make risk disappear, but you can manage around it. Table STTA outlines five ways in which risk can be managed, ranging from transferring the risk to someplace else (this is what insurance does, but at a cost relative to the severity and probability of the risk), through changing the project schedule to some future time when the risk is reduced (this is deferral), through changing the context of the risk (this is a vague action as it would mean changing either the project or the circumstances of the project, which really changes everything - this is my least favourite method), down to just biting the bullet and accepting that risk occurs to finally just not doing the project because the risk is too great. 
+
+###Project Management
+
+Perhaps the best, and certainly the most popular, method to deal with risk is through Project Management. Project Management is an accredited discipline regulated by the [Project Management Institute](https://www.pmi.org/). Accreditation is akin to becoming a CPA, for example, with rigorous training, testing and regular and continuous re-training and re-certification. 
+
+Managing an ICT development (or other) project is a balancing act. A project manager simultaneously oversees three main project elements: 
+
+- The scope of the project
+- The required resources
+- The time to complete it
+
+The project scope defines what the project is intended to accomplish. Resources can include people, equipment, material, and money. Time estimates consider project activity time requirements and how they depend on each other (for example it's not wise to begin coding until there is some understanding of what the system requirements are). Management of these elements, and their intricate interplay, is a balancing act. Project Managers (PMs) often make decisions to actively set the levels of two elements, and then calculates the third accordingly while always realizing that all three are important and must be accomplished.
