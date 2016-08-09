@@ -76,4 +76,6 @@ The project scope defines what the project is intended to accomplish. Resources 
 
 ![Risk Profiler](https://raw.githubusercontent.com/robertriordan/2400/master/Images/pmt.png)
 
-Let's take a minute of two unpacking this figure. The Project Management Triangle (PMT) is most often seen as, guess what, a triangle. There is a faint tirangle in the background of the figure, with the three corners pointing at the three constraints in project management: Quality, Speed and Economy. You will likely have seen (*or will see) *economy* expressed as *cost*. The idea is the same, but calling it economy makes the *opposite* of it easier to express with arrows (as we will see). 
+Let's take a minute of two unpacking this figure. The Project Management Triangle (PMT) is most often seen as, guess what, a triangle. There is a faint triangle in the background of the figure, with the three corners pointing at the three constraints in project management: Quality, Speed and Economy. You  likely will have seen (or will see) *economy* expressed as *cost*. The idea is the same, but calling it economy makes the *opposite* of it easier to express with arrows (as we will see). Let's pick it apart.
+
+Representing the triangle rather as spheres is brilliant. I credit (though I don't know if it was they who first represented it this way) an organisation called [Contract Standards](https://kmstandards.com/wpblog/2014/10/). The spheres allow good old Venn Diagrammatic logic, where the area of intersection of spheres has a specific and additive meaning from simply...  
