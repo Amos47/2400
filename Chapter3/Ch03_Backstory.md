@@ -76,4 +76,4 @@ The project scope defines what the project is intended to accomplish. Resources 
 
 ![Risk Profiler](https://raw.githubusercontent.com/robertriordan/2400/master/Images/pmt.png)
 
-Let's take a minute of two unpacking this figure. 
+Let's take a minute of two unpacking this figure. The Project Management Triangle (PMT) is most often seen as, guess what, a triangle. There is a faint tirangle in the background of the figure, with the three corners pointing at the three constraints in project management: Quality, Speed and Economy. You will likely have seen (*or will see) *economy* expressed as *cost*. The idea is the same, but calling it economy makes the *opposite* of it easier to express with arrows (as we will see). 
