@@ -70,4 +70,10 @@ Managing an ICT development (or other) project is a balancing act. A project man
 - The required resources
 - The time to complete it
 
-The project scope defines what the project is intended to accomplish. Resources can include people, equipment, material, and money. Time estimates consider project activity time requirements and how they depend on each other (for example it's not wise to begin coding until there is some understanding of what the system requirements are). Management of these elements, and their intricate interplay, is a balancing act. Project Managers (PMs) often make decisions to actively set the levels of two elements, and then calculates the third accordingly while always realizing that all three are important and must be accomplished.
+The project scope defines what the project is intended to accomplish. Resources can include people, equipment, material, and money. Time estimates consider project activity time requirements and how they depend on each other (for example it's not wise to begin coding until there is some understanding of what the system requirements are). Management of these elements, and their intricate interplay, is a balancing act. Project Managers (PMs) often make decisions to actively set the levels of two elements, and then calculates the third accordingly while always realizing that all three are important and must be accomplished. This is often expressed (or visualised) as the *Project Management Triangle.* 
+
+**Figure YTPT. The Project Management Triangle (revisited)**
+
+![Risk Profiler](https://raw.githubusercontent.com/robertriordan/2400/master/Images/pmt.png)
+
+Let's take a minute of two unpacking this figure. 
