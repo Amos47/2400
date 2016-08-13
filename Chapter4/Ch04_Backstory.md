@@ -103,4 +103,4 @@ BYOD (Bring Your Own Device) id often credited with being the start of Shadow IT
 
 Cloud computing has allowed and supported the connection of almost any kind of device to remote resources for storage, computing and transmission of data. You are probably using a cloud email service, examples of which are Hotmail, Gmail, Outlook web access and even Cmail - which is Outlook web access from Microsoft. 
 
-![An ERP organisation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/scope.png)
+![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/512/Lighterb.png)
