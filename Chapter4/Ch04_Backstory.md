@@ -101,7 +101,7 @@ Here's how Wikipedia defines Shadow IT:
 
 BYOD (Bring Your Own Device) id often credited with being the start of Shadow IT. BYOD was and is a strategy popular in organisations both large and small whereby employees brought their own, personal computing devices and smart tech to work, and the organisation supported their use of it to access and create data on the corporate network. Most IT organisations aren't nimble enough the handle the rapid pace of change in technology - see Governance in Chapter 4 Backstory - <a class="underlined-link" href="Ch04_Basics.md\#governance" target="_blank">(take me there)</a>. Coupled with cloud computing and the wide range of *as-a-service* services available (such as *Software-as-a-Service* (SaaS) and *Platform-as-a-Service* (PaaS). 
 
-Cloud computing has allowed and supported the connection of almost any kind of device to remote resources for storage, computing and transmission of data. You are probably using a cloud email service, examples of which are Hotmail, Gmail, Outlook web access and even Cmail - which is Outlook web access from Microsoft. 
+Cloud computing has allowed and supported the connection of almost any kind of device ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/Lighterb.png) to remote resources for storage, computing and transmission of data. You are probably using a cloud email service, examples of which are Hotmail, Gmail, Outlook web access and even Cmail - which is Outlook web access from Microsoft. 
 
-![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/16/Lighterb.png)
+
 
