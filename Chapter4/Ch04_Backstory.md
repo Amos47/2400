@@ -80,4 +80,25 @@ Is this in the right place? It could go several places in the text.
 
 http://www.mckinsey.com/business-functions/organization/our-insights/nine-questions-to-help-you-get-your-digital-transformation-right
 
-The hybrid cloud: http://searchcloudcomputing.techtarget.com/definition/hybrid-cloud
+(TK) The hybrid cloud: http://searchcloudcomputing.techtarget.com/definition/hybrid-cloud
+
+###Shadow IT, BYOD and cloud computing
+
+An Information Week [article](http://www.informationweek.com/strategic-cio/it-strategy/shadow-it-8-ways-to-cope/d/d-id/1319535) on Shadow IT begins this way: 
+
+>"f your employees and business departments are bypassing internal IT resources to acquire their own systems, software, and other technologies without your explicit permission, take heart: You are not alone.
+
+>For many organizations, so-called Shadow IT grew out of pure necessity, as increasingly tech-savvy employees sought out their own solutions to specific
+line-of-business problems."
+
+Here's how Wikipedia defines Shadow IT:
+
+>"Shadow IT is a term often used to describe information-technology systems and solutions built and used inside organizations without explicit organizational approval. It is also used, along with the term "Stealth IT", to describe solutions specified and deployed by departments other than the IT department.
+
+>Shadow IT is considered by many an important source for innovation and such systems may turn out to be prototypes for future approved IT solutions. On the other hand, shadow IT solutions are not often in line with the organization's requirements for control, documentation, security, reliability, etc., although these issues can apply equally to authorized IT solutions."
+
+[Interested?](https://en.wikipedia.org/wiki/Shadow_IT)
+
+BYOD (Bring Your Own Device) id often credited with being the start of Shadow IT. BYOD was and is a strategy popular in organisations both large and small whereby employees brought their own, personal computing devices and smart tech to work, and the organisation supported their use of it to access and create data on the corporate network. Most IT organisations aren't nimble enough the handle the rapid pace of change in technology - see Governance in Chapter 4 Backstory - <a class="underlined-link" href="Ch04_Basics.md\#governance" target="_blank">(take me there)</a>. Coupled with cloud computing and the wide range of *as-a-service* services available (such as *Software-as-a-Service* (SaaS) and *Platform-as-a-Service* (PaaS). 
+
+Cloud computing has allowed and supported the connection of almost any kind of device to remote resources for storage, computing and transmission of data. You are probably using a cloud email service, examples of which are Hotmail, Gmail, Outlook web access and even Cmail - which is Outlook web access from Microsoft. 

@@ -8,6 +8,10 @@ Not at the same time.
 
 According to Google: "Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[4]) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994,[5] it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization"
 
+## BYOD
+
+Bring Your Own Device is a corporate strategy that allows employees (students, too!) to bring to choose, purchase and bring their own (primarily) mobile devices to work (or school) where they are given access, to and support to use, corporate resources for their computing needs. See also Shadow IT.
+
 ## disintermediating
 
 According to Google: "disintermediation is the removal of intermediaries [things that are between two entities] in a supply chain, or "cutting out the middlemen" in connection with a transaction or a series of transactions. Instead of going through traditional distribution channels, which had some type of intermediate (such as a distributor, wholesaler, broker, or agent), companies may now deal with every customer directly, for example via the Internet." Think of doing banking without a bank or buying a new car without having to visit a car dealer. 
@@ -36,6 +40,10 @@ Something or someone that stands in the place of the original, which is unavaila
 ## requirements
 
 What systems are expected to accomplish. What the party requesting the system needs the system to do. 
+
+##Shadow IT
+
+The 'unofficial' almost underground proliferation among employees (*and departments) to support, sanction and provide ICT devices and services that are not necessarily authorised by corporate ICT. See also BYOD.
 
 ## spurious
 
