@@ -1,6 +1,8 @@
- ##Chapter 6 - What's in store for ICT?
+ ##Chapter 6 - Brief ![Brief](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/suitcase_7.png)
  
- ###What does Mckinsey think?
+ ###What's in store for ICT?
+ 
+ ####What does Mckinsey think?
  
 Mckinsey is a very well-known full-range management consultancy. Here's what they say about themselves on their website:
  

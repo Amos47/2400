@@ -1,4 +1,5 @@
-# Chapter 1 
+##Chapter 1 - Brief ![Brief](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/suitcase_7.png)
+
 ### In which we introduce some critical context
 
 There are three important pillars that form the basis of studying ICT. They are:

@@ -1,3 +1,4 @@
+##Chapter 2 - Brief ![Brief](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/suitcase_7.png)
 
 ### The five faces of information
 Below is an infographic of sorts, showing the five faces of information. The faces and their characteristics are from a (highly recommended) 2012 book by Joel Katz entitled *Designing Information: Human factor and common sense in design* (2012, John Wiley & Sons).  
