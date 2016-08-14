@@ -1,4 +1,4 @@
-##Chapter 4 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/16/"Time Mach. 1.png")
+##Chapter 4 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png)
 
 
 ### Fixing the siloed organsiation

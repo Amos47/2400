@@ -1,4 +1,4 @@
-Week 7 Chapter 6 slides for relationship between SDLC and Project Management. 
+##Chapter 3 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png) 
 
 ##Risk and Risk Management
 

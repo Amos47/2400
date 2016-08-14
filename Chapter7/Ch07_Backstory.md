@@ -1,4 +1,4 @@
-##Chapter 7 - Backstory
+##Chapter 7 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png)
 
 
 And here's a great infographic on 2016 design trends:
