@@ -1,4 +1,4 @@
-# Chapter 1: Foundation
+#Chapter 1 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_0.png)
 
 ## Pillar 1: Data, information and knowledge
 
