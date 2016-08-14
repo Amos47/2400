@@ -1,6 +1,8 @@
-# Chapter 3 - Public 
+#Chapter 3 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png)
 
-## What sparks the need for a new system in a typical organisation?
+## Public 
+
+### What sparks the need for a new system in a typical organisation?
 
 The on-line [Merriam-Webster Dictionary](http://www.merriam-webster.com/dictionary/process) defines *process* simply as "a series of actions that produce something or that lead to a particular result." Recall our discussion of a simple process in Chapter 1. *Input* **-->** *Process* **-->** *Output **-->** Feedback*. Simple and clean. When you stop to think about it, everything that happens in any organisation (and in your life) is part of a process. Something spurs action (you feel cold in your room - this is input) so you either turn up the thermostat, or put on a sweater or close an open window (this is the process part). From this process action, some output is produced (something is changed - more warmth or less cold but in the end, you feel more comfortable). The comfort is fed back as input. Once comfortable,n no further process is required.
 
@@ -10,7 +12,7 @@ It's the same in an organisation. Something acts as an input (profits are fallin
 
 One of those possible *somethings that could be done* is a change to an existing system or the recognition that a system should be scrapped and/or that an entirely new system is required. This decision would be made using one of the decision models discussed in Chapter 4, where we also discuss strategic alignment. For now, let's just assume that a decision was made to respond to the input stimulus through the tactic of introducing (what is often called *sourcing*) a new (*to the organisation*) system.
 
-## Sourcing a new system
+### Sourcing a new system
 What are the choices when sourcing a new system? There are several different variations, leading to eleven distinct possible paths plus (just to make a long story even longer) several possibilities for combining one or more of the eleven. 
 
 We will first make the distinction of whether the system will be: A) custom build using some combination of existing components and/or brand new code - this is Custom Developed Software or CDS, or; B) if the system is sourced from the marketplace of existing software systems that any organisation could purchase or rent on the open market. Purchased commercial software is referred to as COTS (for *Commercial Off-The-Shelf*) software (such as Microsoft Excel), while rented software is referred to as *Software as a Service* or SaaS. A further wrinkle is produced in that *Open Source Software* (or OSS) can be had for literally no initial capital outlay. Furthermore, systems can be pieced together using components sourced from any or all of the possibilities, creating a *mashup* that defies categorisation. 
@@ -25,7 +27,7 @@ Here then are the eleven routes:
 
 ![Software Form Factors](https://raw.githubusercontent.com/robertriordan/2400/master/Images/soft_fact.png)
 
-### Eleven paths to a new system - the software form factor
+#### Eleven paths to a new system - the software form factor
 **A: Custom Developed Software (CDS)**
 
 A1. Custom-built system built using the in-house expertise of a dedicated systems development functional area (so called *in-sourcing*).
@@ -70,7 +72,7 @@ As you might imagine, there are pros and cons to each approach, a summary of whi
 | 2. Outsource | Frees up the organisation to focus on its core competence. There is more certain cost control (through performance metrics and contractual obligations) and external technical specialists are likely to use state-of-the-art tools and procedures along with industry best practices. Finally, systems development houses have well-trained staff since technology solutions are *their* core competence. | Less likely than in- or self-sourcing to meet user requirements as the requirements must be provided to an outside team with no particular expertise or knowledge of the organisation's business model or value chain. This route can be very costly and time consuming. The organisation has no control over the external entity in terms of its survival, potential sale or even going out of business, thus exposing the organisation to significant vendor risk. Moreover, the advantage of doing your own technology in-house is lost to the organisation. Penultimately, this development route is less likely to produce a sustainable competitive advantage as the driver is external to the organisation. Finally, unless specifically guaranteed by contract, the firm that creates the solution (that’s the outsourcer) also owns the code – so the IP is lost. | ![Outsourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_out_source.png)
 | 3. Self-source | This route is very likely to meet user requirements as the end-users – who are actually creating a solution based on their own needs - are quite familiar with their own processes. Furthermore, the organisation owns the code and the solution, thus the IP remains in house. | Very costly in terms of diverting attention and resources away from the actual work of the end-users (they aren't doing their real job if they are developing a system). Often there is no attention to organisational standards in terms of software tools, protocols, connectivity to larger, enterprise-wide systems or, especially, **security**. Systems development is not a core competence of functional specialists in, for example, the Accounting department, thus systems built by those whose training is in Accounting or Finance or Marketing will not be optimal. Finally, to reiterate, system-wide connectivity, security and privacy are often the most serious issues. And heaven help the organisation if the employee who did the work were to leave for any of the various reasons that people move on, to say nothing about sabotage perpetrated by a disgruntled employee on whose home-made system the organisation has become dependent. Documentation is almost never attempted, let alone completed, in self-created systems. Finally, as Abraham Maslow famously wrote “Give a small boy a hammer, and he will find that everything he encounters needs hammering.” [Interested?](https://en.wikipedia.org/wiki/Law_of_the_instrument) Re-written in its more familiar aphorism form, we often see or hear “If the only tool you have is a hammer, everything looks like a nail.” If the functional analyst building the system is familiar with Excel, then Excel will be her hammer and will be the solution to everything, whether or not it’s the best tool for the situation. | ![Self-sourcing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/resize_self_source.png)
 
-### Buy or Build?
+#### Buy or Build?
 We will consider *Rent* to be a subset of *Buy*. That being said, let's start with the *Buy or Build* decision. That's the distinction between commissioning a brand new system using either the in-, out- or self-sourcing option, compared to the decision to buy or rent an existing commercial product and either customise it or not. 
 
 We begin by posing the question "Should we start from scratch here, rent something or should we buy off the shelf?" There are actually two distinct ways to look at the *B-or-B* question in terms of what is described above in the pros and cons table. We can consider the broad *Buy* category to be comprised of buying or renting anything from outside the organisation, whether it's a custom, ground-up application or an OTS solution that is either customised through outsourcing or not customised at all. So this one broad category involves not using internal resources, such as a dedicated systems development department or function) in any way. 
@@ -183,7 +185,7 @@ There are plenty of compliance standards, and many agencies (especially governme
 
 There's lots to consider when deciding to B-or-B. [Interested?](http://www.techrepublic.com/article/buy-vs-build-six-steps-to-making-the-right-decision/)
 
-## What makes a quality system?
+### What makes a quality system?
 Regardless of the decision to either buy or build, there are certain imperatives in system building. Let's examine them now.
 
 Quality is an aggregate function of how well a system meets each of the following characteristics. Each is important in isolation, but the relative weight of each factor in determining overall quality is context dependent (and isn't *everything*?). Not to put too fine a point on it, but in one context at a certain point in time for a certain organisation, *efficiency* might take precedence over *security*, say. At another point in time, in another circumstance, the reverse might be true. So the relative weights of the system quality factors below can change over time, both within and between organisations and are sensitive to context.
@@ -202,7 +204,7 @@ Here are the factors:
 - **Recoverability** — A system is recoverable if it can be brought *back online quickly* and with minimal data loss following a system outage caused by any type of problem. This requirement demands that a robust *disaster recovery plan* be in place and enforced.
 - **Interoperability** — A system is considered to be interoperable if it *plays well with others.* In other words, it fits well into the existing infrastructure and is a seamless player with whatever other processes or systems of which it is a part in the organisation. A good system should be virtually transparent – just quietly goes about doing what it is tasked with doing. 
 
-### What's at stake?
+#### What's at stake?
 <a name="fail"></a>
 Large organisations spend a lot (a LOT) of their resources on systems development, training and maintenance. How much? One study published by McKinsey claimed that organisations spend around 50% ([some report](http://www.mckinsey.com/insights/business_technology/enhancing_the_efficiency_and_effectiveness_of_application_development) up to 60% in the US) of their total IT budget on application development. But even given the big bucks spent, "... the quality of execution leaves much to be desired." Furthermore, they offered that 
 >"A joint study by McKinsey and Oxford University found that large software projects on average run 66 percent over budget and 33 percent over schedule; as many as 17 percent of projects go so badly that they can threaten the very existence of the company." 
@@ -211,7 +213,7 @@ Yikes!
 
 [Interested?](http://www.mckinsey.com/insights/business_technology/achieving_success_in_large_complex_software_projects?cid=other-eml-ttn-mip-mck-oth-1412)
 
-## Building a system?
+### Building a system?
 
 To the quality metrics introduced above must be added a separate but related dimension -- that of *timeliness of delivery*. Often, organisations face problems that demand immediate solution or are presented with opportunities the window to which is fleeting and fast closing. So solutions need to be timely.
 
@@ -230,7 +232,7 @@ The Software DLC illustrates the various stages that organisations go through in
 
 Once we get the gist of the process, one of going from the very general need through a series of steps to refine and translate those needs into working code, then finally install the system and use it, we can move on the various ways in which this general model is implemented specifically.  
 
-## Systems development methods
+### Systems development methods
 As systems development evolved from an art to a science and increasingly came under the scrutiny of project management (seeking predictable structure) and cost accounting (focusing on ROI), methods were needed to ensure that systems were delivered on time, to specification, were efficient, accurate and maintainable, thus providing the longest possible period of trouble-free operation and thus a decent return on the significant investment put into them. The value of the output must cover the cost of the input. 
 
 Indeed, methods were created, rigour was added and metrics were devised. The basic steps in systems development do not vary much from method to method. Their arrangement, sequencing and whether they can be revisited once complete (or indeed if they are ever completed at all) is what creates the various flavours of systems development. It is on a tour of many such methods that we now embark. 
@@ -243,7 +245,7 @@ The second camp is the *adaptive* methods, of which there are several, under the
 
 We will look at both, but first, the progenitor. 
 
-### The Systems Development Life Cycle (SDLC)
+#### The Systems Development Life Cycle (SDLC)
 <a name="sdlc"></a>
 The first ever formalised method was the Systems Development Life Cycle, a so-called *waterfall method*.
 
@@ -288,7 +290,7 @@ And here’s Wally’s take on implementation:
 
 *Source: http://dilbert.com/strip/2015-04-22*
 
-### System Conversion - putting the new system to work
+#### System Conversion - putting the new system to work
 
 This process involves the replacement of an existing system with a new one. Think of the new system in the broadest possible terms, as a new system might also involve changes to infrastructure, processes, networks and even personnel. Such deeply technical details would not likely be specified by business analysts but rather must be discovered and specified by systems analysts in the requirements analysis phase of the SDLC. Regardless of when or whom, all requirements must come together and be satisfied in the implementation and integration phase. 
 
@@ -319,7 +321,7 @@ Proponents of the SDLC and other waterfall variants (there are fewer and fewer o
 
 But there is an old adage among developers: “Often users don’t know what they want until they see what they don’t want.” This is a compelling argument for the Prototyping Method, presented next. 
 
-### Prototyping
+#### Prototyping
 
 Prototyping is the *half method* and takes a different view from the SDLC. The principle behind prototyping is that it allows the eventual users of the software system to get early and then frequent insights into the current design of the system by allowing users to actually use it before completion, rather than having to either read about system features and processes or, in the worst case, to wait until they are tasked with acceptance testing of the finished product. By then, for all intents and purposes, it’s too late. The elephant is in the room. So it's *adaptive* in nature, meaning that the system can change based on feedback well into the development and coding stage, but it's really only superficial *features* that change. Prototypes are not scrapped and the process sent back to square one.
 
@@ -335,7 +337,7 @@ Figure LHAJ provides a pictorial overview of the prototyping process as it relat
 
 Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, can be repeated (or *iterated*) as often as necessary until the evaluation at step 6 branches to step 7, effectively exiting the prototype loop when the system is ready for implementation. The obviously pivotal step is #6, where in addition to branching to step #7, the outcome of the prototype evaluation can branch to either a refinement of the current design (step #3) or to a revisit of the system requirements if the prototype is introducing a refinement (step #2). So it’s really all about the user feedback. This is an important advantage for prototyping.
 
-#### The prototyping process for software development
+##### The prototyping process for software development
 1.	Project inception and feasibility stage is a given. We don’t just start producing a system out of nowhere. There must be demonstrated need and management approval if working in a large organisation.
 2.	Perform a basic requirements analysis, but not as in-depth as in the SDLC. Often, the riskiest bits of the system are modelled early. If you can do the hard stuff, the easy stuff will fall into place. So we get the nitty-gritty details, the make-or-break stuff, in this phase. Often, difficult but manageable details such as security are ignored in the early stages. 
 3.	A prototype is developed, often including only user interfaces in the earliest stages. This is referred to as Horizontal Prototyping (discussed below). In later stages, Vertical Prototyping is used to drill down deep into the system to model the full functionality of a feature or required process. 
@@ -344,15 +346,15 @@ Next, note that the red lines connecting steps 3, 4 and 5, unlike in the SDLC, c
 
 Usability Engineer Jakob Neilson described the various types of prototyping in his 1993 book entitled Usability Engineering (Academic Press Inc.). Two are relevant to us in this context: 
 
-##### Horizontal 
+###### Horizontal 
 A *user interface prototype* is referred to as a *horizontal prototype*. Such a prototype provides an overview of a complete system or a significant subsystem, with an emphasis on how the user uses the system rather than how the system processes user input. Such prototypes are useful to confirm the logic and flow of user interfaces and setting the broad parameters of what the system (or sub-system) is expected to do. Furthermore, they can help in developing some metrics around anticipated time and resources required to deliver the full system. Finally, such prototypes often have the benefit of securing *buy-in* from decision makers at the organisation as they can see and more tangibly grasp the overall scope, and thus value, of the proposed system. 
 
-##### Vertical 
+###### Vertical 
 A *vertical prototype* is an *in-depth elaboration of a single process, subsystem or function*. Such prototypes are useful in discovering detailed requirements, such as the *risky bits* of a system and to demonstrate that they can be accomplished.  The benefits of vertical prototyping include determining details of data modelling (database design)and in getting a handle on processing volume requirements (how many transactions, or basic units of work) a system is required to be capable of doing, 
 
 Further distinctions are made between *Throwaway* and *Evolutionary* prototypes. The former is just as its name implies, and is not as often used in software prototyping as the latter, which retains its basic structure and functionality throughout the process to become the final system.
 
-##### Prototyping Benefits
+###### Prototyping Benefits
 Prototyping has several benefits: 
 1. Valuable *user feedback* is elicited early and often
 2. *Requirements can be more easily verified*, tweaked, added or dropped
@@ -391,12 +393,12 @@ Table RMA provides a comparison between SDLC and prototyping on some important d
 | When audit trails and multi-level sign-off are critical | Excellent | Poor |
 | Where scope creep or feature creep need to be carefully managed | Excellent | Poor |
 
-##### Feature Creep and Scope Creep
+###### Feature Creep and Scope Creep
 Any time clients/users ask developers to increase the amount of work a system will do, or to include features that were not specified in the original system requirements, *creep* is at work. Project managers and developers must be continuously on the lookout for such creeps, as they are everywhere. Each tiny little addition, without a commensurate increase of time allotted, resources allocated or quality expected, leads the project one tiny step closer to failure. 
 
 In the broadest sense, an example of scope creep might be if users were to ask the developers of Microsoft Excel (a spreadsheet) to also provide the capability to produce manuscripts (a word processing function). The scope of work is therefore much broader than what a spreadsheet is normally expected to do. Feature creep, on the other hand, could be illustrated by users asking Microsoft to include a feature in Excel whereby every time a user entered a valid email address in a cell, that email address is added to the user’s contact list. Nice feature. Not in the original specs. Nothing to do with a spreadsheet’s core functionality. 
 
-### Agile
+#### Agile
 The SDLC and, to a certain extent prototyping, represent the so-called *heavyweight*, waterfall-oriented methods, which critics have called ponderous (cumbersome), sclerotic (rigid) and over-managed (too many rules to follow). Such shortfalls led to the development of lightweight agile software development methods in the mid-1990s. 
 
 Early implementations of agile methods include *Unified Process* in 1994 (specifically implemented as the Rational Unified Process or RUP following IBM’s purchase of Rational Software in 2003), *Scrum* in 1995, *Extreme Programming* (EP) in 1996, and others. 
@@ -417,7 +419,7 @@ Let's take a moment with the RUP flavour of Agile and dig into what a project us
 
 Time for a little bit of unpacking here. The RUP process (this is the same as UP, don't get confused) is divided into *Disciplines*, which are akin to SDLC stages and they are listed down the left axis. Specific work is done by specialists in each stage. Business Analysts are busy in the Business Modelling phase. Systems Analysts and Designers are busy in the Analysis and Design phase. Testers are testing when the time comes. And so on. So it's no different from any other development effort - just slightly different terminology. And note they map *roughly* onto the *Activity Phases* of the generalised Agile process map in Figure NATP above. So we're getting somewhere...
 
-So that's the vertical axis defined: named *Disciplines*. Let's turn our attention to the horizontal dimensions, or *Phases*. Highest level, there are four phases of development in RUP, as shown in Table ECTA below. The coresponding Software Development Life Cycle stages are also shown. 
+So that's the vertical axis defined: named *Disciplines*. Let's turn our attention to the horizontal dimensions, or *Phases*. Highest level, there are four phases of development in RUP, as shown in Table ECTA below. The corresponding Software Development Life Cycle stages are also shown. 
 
 **Table ECTA: RUP Phases and Software DLC equivalents**
 
@@ -436,7 +438,7 @@ The title of the diagram from the original work says it all. Business value can 
 
 [Interested?](https://en.wikipedia.org/wiki/Rational_Unified_Process)
 
-###Lean
+####Lean
 
 Lean is a flavour of Agile, and has been extended or adopted by other movements in the business world. As Gaping Void designer/artist/guru Hugh MacLoed and business partner Jason Korman imply in the image below, it's always the destination that should drive the agenda, rather than how to get there. Going on a trip, you wouldn't say that you are "...going in a Toyota", but rather that you are "...on our way to Wonderland", for example. Here's the gapingvoid.com feature for April 10, 2015:
 
@@ -494,7 +496,7 @@ They close with “That is, while there is value in the items on the right, we v
 
 [Interested?]( http://www.ambysoft.com/essays/agileManifesto.html)
 
-###Scrum
+####Scrum
 Let’s now take a brief look at* Scrum*, a popular agile software development method model. 
 
 >“Agile and SCRUM are related but distinct. Agile describes a set of guiding principles for building software through iterative development. Agile principles are best described in the Agile Manifesto. SCRUM is a specific set of rules to follow when practising agile software development.”
@@ -572,7 +574,7 @@ The Scrum Master is a/an:
 
 The Scrum uses various tools (called *Scrum Artifacts* by practitioners).  
 
-####Scrum Artifacts
+#####Scrum Artifacts
 
 Artifacts (defined as: ”*any object made by human beings, especially with a view to subsequent use*" (dictionary.com)) include the aforementioned Product Backlog, about which the authors write: 
 
@@ -618,13 +620,13 @@ To sum up, Scrum is a straightforward, lightweight method for building software 
 
 [Interested?]( http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm)
 
-#### Challenges with Agile (in general)
+##### Challenges with Agile (in general)
 
 Increasingly, software is produced by system development shops who specialise in creating solutions for clients, using the most up-to-date technology and best practices. These software *houses* are referred to as *vendors.* The organisations requiring the system to be built are *clients.* So for the client, what this means is *outsourcing*. The client is outsourcing the creation of a system to a vendor. Increasingly, however, solution vendors (and almost everyone else) are *also* outsourcing their work to geographically-distributed software *authors*, i.e., independent or at least very small, teams of coders and specialists who live in China, India and increasingly, Latin America while the clients and solution providers are predominantly in North America and Europe. And this is a problem for Agile. It's a problem because Agile, according to its own manifesto, relies on real-time, face-to-face and frequent client/vendor and development team interaction. The vendor needs to be intimately immersed in the culture and business process of their client in order to fully understand the *user stories* that will drive the solution. Furthermore, Agile requires (as illustrated by daily *standup meetings* in Scrum) that the development team meet in order to prioritise, knowledge share and schedule their sprints. But how do this this effectively in teams that are distributed across the planet and don't work the same hours, speak the same language and/or understand each others (let alone the client's) cultural norms? This is a new and increasingly researched area of systems development termed *agile global outsourced software development (AGOSD)*.
 
 [Interested?](https://msdn.microsoft.com/en-us/magazine/hh771057.aspx)
 
-#### UML, Use Cases and Use Case Diagrams - a light intro
+##### UML, Use Cases and Use Case Diagrams - a light intro
 
 Here is a funky (old school funk) introduction to business analysis Use Cases. Take a look.
 
@@ -694,13 +696,13 @@ The way to distinguish between an *includes* and an *extends* is that includes a
 
 [Interested?](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
 
-### Summary
+#### Summary
 
 Here’s a great summary of everything we’ve presented here, and more. It’s not a long read, and it’s recommended to get the broadest overview of the various development methods along with recommendations on when to use each. Highly recommended.
 
 [Interested?]( http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/SelectingDevelopmentApproach.pdf)
 
-## Which to choose?
+### Which to choose?
 When it comes down to the choice of development methods between the traditional waterfall method and the more contemporary (but not by much) agile methods, the choice is often made for you by the nature of the problem or opportunity the system will address and by how well you can scope out the requirements in advance. Specifically, there are two broad categories or types of requirements: the *shall* and the *should*. This folds nicely into our discussion of *creep*. 
 
 *Shall* requirements are *prescriptive*, as in *must be done*. These are *shall requirements*. *Should* requirements, on the other hand, are less *prescriptive* in nature and more *nice to have*. They are to be included in the system if things go well, or if they fit into the final model or if they can be afforded when all is said and done. These requirements are more likely to arise in the *process* of building the system as outcomes are discovered and contingencies are explored. These are the kind of requirements that prototyping and agile methods uncover.  
@@ -871,7 +873,7 @@ in facing choices such as throwing away bad code or standing up to a too-tight s
 
 [Interested in comparing Agile, XP and SDLC?](http://bit.ly/1Tj7gSp)
 
-## Why do systems development projects fail?
+### Why do systems development projects fail?
 
 An Oracle (originally a database vendor but now a full-service application provider including, as we have seen, in the ERP space) developer with many years of experience wrote a sponsored piece in the Harvard Business Review about information systems delivery. He began with, "Information systems projects frequently fail. Depending upon which academic study you read, the failure rate of large projects is reported as being between 50%-80%. Because of the natural human tendency to hide bad news, the real statistic may be even higher. This is a catastrophe. As an industry we are failing at our jobs." (Paul Dorsey, [*Top 10 reasons why systems development projects fail*](http://www.hks.harvard.edu/m-rcbg/ethiopia/Publications/Top%2010%20Reasons%20Why%20Systems%20Projects%20Fail.pdf) - accessed June 18, 2015). Add this to what we have already seen from McKinsey regarding failure rates [(take me there)](#fail) and ICT doesn't have the best track record for delivering systems as promised. 
 
@@ -907,7 +909,7 @@ That being said (and I feel better for having said it and defending my old frien
 9. Don't get seduced by cool, cutting-edge, shiny new technology. It could be here today and gone tomorrow. Make sure all the pieces fit together. Make sure the project can deliver on expectations. Don't do something because you *can*. Do it because it adds value.
 10. Get end-user buy-in and acceptance early and maintain as close and as good a relationship with those who will ultimately use your system as possible. Many shiny new systems have failed on the shop floor when users refused to use them, once delivered. Prototyping with end-users is a great way to earn user respect and acceptance. And it reduces the need for training as well.    
 
-### UxD - User experience design
+#### UxD - User experience design
 
 The final topic (I know!!! finally...) we need to look at is *User Experience Design*. UxD was the topic of an Interested? link in Chapter 7, but I wanted to close this chapter on development with an interesting article from the Nielson-Norman Group on the importance of the *platform* upon which you do business. A *platform* can be thought of as a *computing model* in the sense of the size of the device (a smartphone being infinitely smaller - though getting larger again of late - than a tablet, than a laptop, than a desktop) upon which business is being offered, as well as vaguely the operating system (Android presenting itself differently than Apple iOS than Apple OS than Windows, etc.). But thinking strictly of what are called *conversion rates* (as simple as simply the number of sales on an eCommerce site divided by the number of visitors multiplied by 100 or as medium complex as the number of abandoned shopping carts divided by the number of visitors or as a ratio of completed sales to abandoned sales, etc.) it is apparent that platform matters. If you're in Marketing, this will interest you. If you are in IS, this will interest you. If you are in Finance, this will interest you. If you are in Supply Chain, this will interest you. If you are in Managerial Accounting, this will interest you. It's just plain interesting. Check it out.   
 

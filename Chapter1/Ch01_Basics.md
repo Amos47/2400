@@ -1,6 +1,8 @@
-#Chapter 1 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_0.png)
+#Chapter 1 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png)
 
-## Pillar 1: Data, information and knowledge
+##Setting the stage
+
+### Pillar 1: Data, information and knowledge
 
 Much of this preliminary section relies on work from a dated but still quite interesting article from *liquidinformation.org*. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.
 
@@ -48,14 +50,14 @@ Well you can't get any more impactful that that. Knowledge creation from informa
 
 The full Wikipedia article is here: [Interested?](http://en.wikipedia.org/wiki/Information)
 
-### The data, information and knowledge hierarchy
+#### The data, information and knowledge hierarchy
 To begin, when studying Information Systems (or the broader term that I prefer - *Information and Communication Technology* or *ICT*), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the **Big Three** of *data, information* and *knowledge*. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.
 
 Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation ([Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)) so instead, I describe here the simpler *Data, Information and Knowledge* hierarchy. 
 
 We need to carefully define what each of *data*, *information* and *knowledge* means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and *context* will be critical too. We will deal with that in some detail in Chapter 2.
 
-### Data
+#### Data
 
 **Figure STT. Definition of data from Visual Thesaurus**
 
@@ -88,13 +90,13 @@ Note the definition of information below in the section on Information, from the
 
 [Interested?](http://www.businessdictionary.com/definition/data.html)
 
-#### Synopsis
+##### Synopsis
 
 Data is not information, and neither is information, data. Data represents, at best, *potential* information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics efforts.
 
 We now more on to a discussion of what information is. This is where it gets good.
 
-### Information
+#### Information
 
 **Figure LP. Definition of information from Visual Thesaurus**
 
@@ -141,7 +143,7 @@ Now we're getting somewhere.
 
 Let's move on to knowledge. 
 
-### Knowledge
+#### Knowledge
 
 **Figure KS. Definition of knowledge (know) from Visual Thesaurus**
 
@@ -161,7 +163,7 @@ Some very rich definition and context here. From this we can glean that *data is
 
 Again, we consider these important concepts in detail in Chapter 2. 
 
-#### Important takeaways
+##### Important takeaways
 
 - Measurement is complex, critical and has several quality metrics associated with it
 - Data and information are not synonymous 
@@ -169,7 +171,7 @@ Again, we consider these important concepts in detail in Chapter 2.
 - Decisions arise from information and a decision to *not* act is as valid as one *to act*
 - Knowledge arises from accumulated experience with the outcomes of decisions 
 
-### Communication
+#### Communication
 
 Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say about that: "Communication (from Latin commūnicāre, meaning 'to share') is the activity of conveying meaning through a shared system of signs and semiotic rules." 
 
@@ -192,7 +194,7 @@ Now isn't that interesting, the Biology part? That's exactly what we are saying 
 
 Thus communication allows humans to fulfil their only real purpose on this planet: to remain on this planet. Too contentious for a business course in ICT? Expand your horizons. Read lots. Think lots. Then we can talk.  
 
-### What is technology?
+#### What is technology?
 
 Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand *tools* in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language or even applied mathematics. So technology is broad indeed.
 
@@ -219,13 +221,13 @@ We will take this narrower view of technology in this book, partly because we ju
 
 [Interested?](http://bit.ly/1z0JHX3)
 
-### Information technology
+#### Information technology
 
 What then of the overlap between information and technology? What exactly is it? Turns out it's a long story, stretching all the way back to prehistory. An excellent introduction is provided by a book in the openbookproject.
 
 [Interested?](http://openbookproject.net/courses/intro2ict/history/history.html)
 
-## Pillar 2: Tangible vs. intangible
+### Pillar 2: Tangible vs. intangible
 
 This distinction is larger and more important than the traditional one made in most introductory information system classes. We were wont to say that tangible things are those with a physical presence that we can touch, such as a computer or a smartphone. Intangible was something that, while it exists, cannot be weighed, measured or directly detected, such as software or a computer service such as email. You can weigh a smartphone, but how much does email weigh? What are its dimensions? If measurable at all, its measurement is in terms of counts, such as email sent and received, or a measure of quality such as delivery speed. 
 
@@ -294,10 +296,10 @@ From this you should clearly see that a big part of your ability to both create 
 
 Indeed that is exactly what you are doing as you train and study – creating intangible and (though we do try via testing and require that you write papers for our assessment) almost immeasurable capacities for thought and synthesis and creation. The value you create in your career will not, in all likelihood, be measured on a weight scale (as in a bucket of made widgets), but rather on an ethereal scale that measures ideas, theories, mashups and disruptions. You will indeed be working in the weightless economy. Best to be prepared. 
 
-#### Takeaways
+##### Takeaways
 To bring it home, we live in and are likely to remain living in an increasingly a service-based economy. Services are weightless. Weightless artifacts are intimately tied to ICT whether by services or by manufacturing. And the contribution of services to GDP is consistently outpacing all other sectors. It appears that services, and ICT-leveraging services among them, is a good place to be. Let's get trained up. 
 
-## Pillar 3: Impact on the input/output ratio
+### Pillar 3: Impact on the input/output ratio
 
 If a piece of technology has no impact on either the inputs or the outputs of the target, whether that target is an organisation, firm or person, is there any value to it? The short answer is no. That's the medium and the long answer as well. 
 
@@ -320,13 +322,13 @@ What is also interesting from the McKinsey piece is their contention that proble
 
 Thus the pace of everything is accelerating. This puts increasing pressure on the systems that businesses use to solve problems. To understand systems in detail, see the Systems and process section in Backstory.
 
-### How is value created?
+#### How is value created?
 
 It sounds simple, but the entire premise upon which the capitalist system rests is that the realised output from a system (a business) must be worth *somewhat more*, in the long run, than the investment in inputs required to produce the output. Thus the goal of a business is that the difference between what you get when you sell your wares and what it costs to fuel the system to produce those wares is greater than what profits you might realise from *doing something else with your money*. This is *opportunity cost*. You have *an opportunity* to do lots of stuff with your money. You can put it in the bank, invest it, lend it (a form of investment if charging interest), or use it to buy inputs for a process that you wager will give you a better return than any or all of the other alternatives. Looked at another way, the value generated must be greater that what it would cost to borrow the money to run the business. If you’re paying 3% to borrow money to run your business and it’s only returning a 2% margin, well... you’ve got trouble with a capital F. 
 
 And remember that the purpose of business is to solve problems. I have added the *caveat* that those problems won’t get solved by private sector firms unless they can be solved *at a profit*. 
 
-### How does technology add value in solving problems? 
+#### How does technology add value in solving problems? 
 
 A business is a collection of systems, large and small, simple and complex. How do we measure the value creation potential of technology in a set of complex processes? 
  
@@ -344,7 +346,7 @@ Let's do some very simple math here. If you dialed *7* in 1915 and asked my gran
 
 ![ICT value add](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ict_value_creation.png)
 
-### A working definition of progress
+#### A working definition of progress
 We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic (Figure JD above) shows this clearly.
 
 Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. On the other end of the system, progress will also have been achieved if tomorrow those 100 units of input produce 101 units of output. Either of these might represent an increase in *effectiveness*, where we are making more *effective* use of our input resources, or an increase in *efficiency* wherein we are doing more with what we have. Message: technology effects are measured at the boundaries of the system, where we count inputs and outputs.  
@@ -370,10 +372,10 @@ If you are interested in *Supply Chain Management* you might find BPM to be of i
 
 [Interested?](https://en.wikipedia.org/wiki/Business_process_management)
 
-### What *real problems* can technology solve? 
+#### What *real problems* can technology solve? 
 A real problem is one that either has input or output challenges – and we know by now that those are the *only* challenges. See the [McKinsey article](http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism). Thus in this book and this course we will examine at each juncture in discussing a piece of technology (whether it is personal productivity software or social media or an enormous enterprise system) whether the technology can be demonstrated to either reduce the cost of inputs or increase the value of outputs. If not, it simply is a waste of time and effort.
 
-###The two contributions of ICT to value creation
+#### The two contributions of ICT to value creation
 
 I have argued above that there are but *two impacts* that ICT can have in our individual daily lives and in the functions of every for-profit or not-for-profit enterprise, public institution and social endeavour. The first is as *Input Reducer* and the second function is that of *Output Enhancer*.  
 

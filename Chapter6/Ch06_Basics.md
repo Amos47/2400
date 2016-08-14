@@ -1,10 +1,10 @@
-# Chapter 6 - What's coming?
+#Chapter 6 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png)
 
-## What's in store in the world of ICT
+## What's in store in the world of ICT?
 
-
-http://dilbert.com/strip/2015-08-27
 ![Dilbert replacing workers w robots](https://raw.githubusercontent.com/robertriordan/2400/master/Images/dilbert_robots.png)
+
+<a class="underlined-link" href="http://dilbert.com/strip/2015-08-27" target="_blank">Source</a>
 
 Before you decry the above cartoon as being in bad taste, please consider that such technology already exists, and is being put to good, albeit less humerous, use. 
 <iframe src="http://riordan.ca/images/hype_cycle_2014.png" height=650 width=1050 scrolling=no frameborder=0 seamless></iframe>

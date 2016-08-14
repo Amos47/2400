@@ -1,4 +1,6 @@
-# Chapter 2 - Context
+#Chapter 2 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png)
+
+## Context
 
 ### In which we dig a little deeper
 

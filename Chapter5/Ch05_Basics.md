@@ -1,6 +1,8 @@
-# Chapter 5 - The personal side of ICT
+#Chapter 5 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png)
 
-## What's in ICT for me?
+## The personal side of ICT
+
+### What's in ICT for me?
 
 Let's start with a gentle introduction to *the digital divide*. 
 

@@ -1,6 +1,8 @@
-# Chapter 4 - The corporate side #
+#Chapter 4 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png)
 
-## In which we discuss competitive advantage, Porter, strategy, the value chain, IT decision making models, corporate governance and how and where ICT fits into the organisation (and it'll be fun... sort of.)
+## The corporate side
+
+### In which we discuss competitive advantage, Porter, strategy, the value chain, IT decision making models, corporate governance and how and where ICT fits into the organisation (and it'll be fun... sort of.)
 
 ###Competitive advantage
 
