@@ -1,4 +1,4 @@
-##Chapter 1 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png)
+##Chapter 1 - Backstory ![Clock](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png)
 
 ### Measurement
 <a name="measure"></a>

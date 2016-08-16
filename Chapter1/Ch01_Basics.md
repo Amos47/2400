@@ -4,7 +4,7 @@
 
 ### Pillar 1: Data, information and knowledge
 
-Much of this preliminary section relies on work from a dated but still quite interesting article from *liquidinformation.org*. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.
+Much of this first section relies on work from a dated but still quite interesting article from *liquidinformation.org*. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.
 
 <a class="underlined-link" href="http://www.liquidinformation.org/information_history.html" target="_blank">Interested?</a>
 
@@ -18,17 +18,15 @@ From that point on, we have, as a species, become all about communication. There
 
 So only something that is *useful* can be called information. Now that's a bold statement. Our task then becomes to discover what *useful* means. I will argue that useful has to do with either causing change or persisting the *status quo*. Decision and action cause either change or persistence (the absence of change when change *could* occur). Please stay for the show. 
 
-Right up front let's get clear on something. **Wikipedia is no more a scientfic tool that are my mother's grand Irish musings. Leprechauns may or may not exist, but Wikipedia won't solve the mystery.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
+Right up front let's get clear on something. **Wikipedia is no more a scientific tool that are my mother's grand Irish musings. Leprechauns may or may not exist, but Wikipedia won't solve the mystery.** My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. 
 
 With that out of the way, [Wikipedia](https://en.wikipedia.org/wiki/Information) provides a definition most pertinent and useful for us: 
 
 >"Information resolves uncertainty. The uncertainty of an event is measured by its probability of occurrence and is inversely proportional to that. The more uncertain an event, the more information is required to resolve uncertainty of that event."
 
-In business, we use information overwhelmingly to inform decision-making. We look out over the horizon and hope to reach some strategic goals. Im order to get there, we need to make decisions about our trajectory.   
+In business, we use information overwhelmingly to inform decision-making. We look out over the horizon and hope to reach some strategic goals. In order to get there, we need to make decisions about our trajectory.   
 
-In the context of information as: ”...an influence which leads to a transformation.” It can be seen as 
-
->“... any type of pattern that influences the formation or transformation of other patterns. In this sense, there is no need for a conscious mind to perceive, much less appreciate, the pattern. Consider, for example, DNA. The sequence of nucleotides is a pattern that influences the formation and development of an organism without any need for a conscious mind.”
+In the context of information as: ”...an influence which leads to a transformation.” It can be seen as “... any type of pattern that influences the formation or transformation of other patterns. In this sense, there is no need for a conscious mind to perceive, much less appreciate, the pattern. Consider, for example, DNA. The sequence of nucleotides is a pattern that influences the formation and development of an organism without any need for a conscious mind.”
 
 I have a couple of comments on these web musings. To begin, the assertion regarding *influence* is closest to what I will show is most important in the context of business. Information leads to decisions which have consequences. It is the consequences of decisions that produce knowledge and inform the future. I would, however, maintain that the DNA example is flawed in that DNA is *deterministic*. There is no *interpretation* necessary in order for DNA to have an impact. It requires no *context* in which information is created. It expresses what it is destined to express with no need for any understanding or translation. It cannot do other than it was destined to do. DNA's actions are determined *a priori* (before the fact) and in this sense DNA is *data*, as I will show later, and not *information.*
 
@@ -51,7 +49,7 @@ Well you can't get any more impactful that that. Knowledge creation from informa
 The full Wikipedia article is here: [Interested?](http://en.wikipedia.org/wiki/Information)
 
 #### The data, information and knowledge hierarchy
-To begin, when studying Information Systems (or the broader term that I prefer - *Information and Communication Technology* or *ICT*), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the **Big Three** of *data, information* and *knowledge*. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.
+To begin, when studying Information Systems (or the broader term that we use in this book - *Information and Communication Technology* or *ICT*), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the **Big Three** of *data, information* and *knowledge*. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.
 
 Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and *Wisdom* hierarchy. There are problems with this particular characterisation ([Interested?](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)) so instead, I describe here the simpler *Data, Information and Knowledge* hierarchy. 
 

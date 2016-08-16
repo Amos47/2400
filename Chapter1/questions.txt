@@ -1,0 +1,55 @@
+Which of the following is a pillar among the three pillars of ICT?
+A. Tangible vs. etherial
+B. Data, information & knowledge
+C. Communications technology platform
+D. Return on IT investment
+E. Service-based economies
+ANSWER: B
+
+Tangible/intangible can be understood as:
+A. Seen/unseen
+B. Concrete/conceptual
+C. Objective/subjective
+D. None of the above
+E. A, B and C are correct
+ANSWER: E
+
+The author of the Liquid Information article claimed that information must be _____ in order to exist:
+A. Tangible
+B. Measured
+C. Useful
+D. Pertinent
+E. All of the above are correct
+ANSWER: C
+
+Data and information are:
+A. The same
+B. Part of a continuum
+C. Never measured
+D. All of the above
+E. B and C are correct
+ANSWER: B
+
+In business, we use information to:
+A. Reduce uncertainty around decisions
+B. Propose an informed course of action
+C. Interpret data
+D. Create metadata
+E. A and B are correct
+ANSWER: E
+
+What are the components of the hierarchy discussed in Chapter 1?
+A. Measurement, data, tangibility
+B. Metadata, data, wisdom
+C. Data, information, knowledge
+D. Measurement, data, metadata
+E. Data, wisdom, knowledge
+ANSWER: C
+
+Data is:
+A. Pre-information
+B. Post-information
+C. Unrelated to measurement
+D. The same as information
+E. Never in context
+ANSWER: A
