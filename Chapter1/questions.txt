@@ -53,3 +53,179 @@ C. Unrelated to measurement
 D. The same as information
 E. Never in context
 ANSWER: A
+
+An accepted definition of information is:
+A. A message received and understood
+B. Data that has been measured
+C. Knowledge acquired through study, experience or instruction
+D. All of the above
+E. A and C are correct
+ANSWER: E
+
+Information:
+A. Always results in change
+B. Cannot lead to change
+C. Has the potential to lead to change
+D. Must be measured before it changes
+E. None of the above are correct
+ANSWER: C
+
+Data is _____ _____ in a context:
+A. useful if
+B. useless except
+C. always located
+D. never located
+E. A and B are correct
+ANSWER: A
+
+Knowledge arises from:
+A. Accumulated experience with the outcomes of decisions
+B. Information in context
+C. Measurement
+D. Action rather than reaction
+E. Context
+ANSWER: A
+
+Acting upon information is:
+A. Not as important as reacting
+B. Always required
+C. Not necessary
+D. As valid as not acting
+E. C and D are correct
+ANSWER: E
+
+Communication is:
+A. Unrelated to information
+B. Post-information
+C. Only explained by semiotics
+D. What humans do
+E. Secondary to measurement
+ANSWER: D
+
+A broad view of technology would include:
+A. Language
+B. Software manuals and help files
+C. Blueprints
+D. Information
+E. All of the above
+ANSWER: E
+
+The narrow view of technology used in this course would include:
+A. The spoken word in various media
+B. Problem solving and advice
+C. The application of scientific knowledge for practical purposes
+D. Prototyping and modelling
+E. Consulting and explanation
+ANSWER: C
+
+Technology can be:
+A. Tangible
+B. Intangible
+C. Unmeasured
+D. A and B are correct
+E. B and C are correct
+ANSWER: D
+
+Industrialised countries have seen _____ as a proportion of all jobs since at least the 1930s:
+A. a decline in service jobs
+B. an increase in manufacturing jobs
+C. a steady rise in both manufacturing and service jobs
+D. a decline in manufacturing jobs
+E. a steady decline in both manufacturing and service jobs
+ANSWER: D
+
+The three sectors of the Canadian economy are:
+A. Primary, Services, Farming
+B. Primary, Secondary, Tertiary
+C. Services, Manufacturing, Sciences and related
+D. Mining, Farming, Manufacturing
+E. Banking, Health, Education
+ANSWER: B
+
+The service sector includes the occupations of:
+A. Education and Finance
+B. Health and Mining
+C. Transportation and Manufacturing
+D. A, B and C are all included in the service sector
+E. Neither A, B nor C are included in the service sector
+ANSWER: A
+
+The service sector in Canada represents a(n) _____ part of GDP compared with manufacturing:
+A. smaller
+B. larger
+C. shrinking
+D. equal
+E. integral
+ANSWER: B
+
+"The economic landscape of the present and future is no longer shaped by physical flows of material goods and products but by ethereal streams of data, images and symbols." This quote refers to what is called the:
+A. Knowledge Economy
+B. Digital Economy
+C. Information Society
+D. Experience Economy
+E. All of tha above are correct
+ANSWER: E
+
+Which of the products below has the highest price per pound?
+A. Mercedes Benz E-class
+B. Pentium III chip
+C. Gold
+D. Hot rolled steel
+E. Viagra
+ANSWER: C
+
+Which of the products below has the lowest price per pound?
+A. Mercedes Benz E-class
+B. Pentium III chip
+C. Gold
+D. Hot rolled steel
+E. Viagra
+ANSWER: D
+
+The so-called "weightless economy" is characterised by economic commodities that have little or no _____ .:
+A. dimensionality
+B. physical manifestation
+C. value
+D. endurance
+E. longevity
+ANSWER: B
+
+The shift from a goods economy to a knowledge economy has increased the importance of:
+A. intangibles
+B. education
+C. manufacturing
+D. tangibles
+E. financial analysis
+ANSWER: A
+
+Creative class workers include:
+A. Scientists
+B. Engineers
+C. Media workers
+D. Designers
+E. All of the above
+ANSWER: E
+
+A services-based economy has which characteristics?
+A. Economic growth increasingly linked to intangibles
+B. Employers catering to the "creative class"
+C. Services increasingly crossing borders
+D. Services influenced by an aging population
+E. All of the above
+ANSWER: E
+
+The shift to a services-based economy has been fuelled and facilitated by:
+A. A drop in manufacturing as a % of GDP
+B. ICT
+C. The rise of the "creative classes"
+D. All of the above
+E. Neither A, B nor C is correct
+ANSWER: C
+
+In an article on capitalism, McKinsey proposes that the purpose of business is to:
+A. Increase wealth for shareholders
+B. Solve problems
+C. Facilitate the "creative classes"
+D. Provide meaningful employment
+E. Contribute to social order
+ANSWER: B
