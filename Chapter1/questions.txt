@@ -229,3 +229,213 @@ C. Facilitate the "creative classes"
 D. Provide meaningful employment
 E. Contribute to social order
 ANSWER: B
+
+Which of the following is true of capitalism?:
+A. Shareholders must be paid annually
+B. Problems must be solved at an increasing rate
+C. Margins must be continually grow
+D. Profit must increase year over year
+E. B, C and D are correct
+ANSWER: E
+
+In an article on capitalism, McKinsey proposes that the purpose of business is to:
+A. Increase wealth for shareholders
+B. Solve problems
+C. Facilitate the "creative classes"
+D. Provide meaningful employment
+E. Contribute to social order
+ANSWER: B
+
+The twin metrics of a system are:
+A. Effectiveness and effort
+B. Input and output
+C. Efficiency and effectiveness
+D. Efficiency and output
+E. Output and effort
+ANSWER: C
+
+Efficiency is:
+A. doing the thing right
+B. doing the right thing
+C. the opposite of effectiveness
+D. the same as effectiveness
+E. not measured in systems
+ANSWER: A
+
+Effectiveness is:
+A. doing the thing right
+B. doing the right thing
+C. the opposite of efficiency
+D. the same as efficiency
+E. not possible to measure
+ANSWER: B
+
+Technological progress is measured:
+A. by impact on business process
+B. by impact on system output
+C. by impact on system input
+D. A and B are correct
+E. B and C are correct
+ANSWER: E
+
+For a business to be viable, the _____ __ _____ must eventually be greater than the _____ __ _____. 
+A. cost of output / value of output
+B. value of output / cost of output
+C. value of input / cost of output
+D. value of output / cost of input
+E. cost of input / value of output
+ANSWER: D
+
+The two potential impacts ICT can have on value creation are:
+A. Input reducer and output enhancer
+B. Input enhancer and value enhancer
+C. Output reducer and input enhancer
+D. Value enhancer and value reducer
+E. Input reducer and output enhancer
+ANSWER: E
+
+The degree of closeness of measurements of a quantity to that quantity's actual (true) value is:
+A. Accuracy
+B. Precision
+C. Trueness
+D. Accuracy and precision
+E. Precision and trueness
+ANSWER: A
+
+The degree to which repeated measurements under unchanged conditions show the same results is:
+A. Accuracy
+B. Precision
+C. Trueness
+D. Accuracy and precision
+E. Precision and trueness
+ANSWER: B
+
+A measurement system is considered valid if it is both _____ and _____. 
+A. true / accurate
+B. precise / true
+C. accurate / precise
+D. A and B are correct
+E. B and C are correct
+ANSWER: C
+
+Accuracy is: 
+A. the same as trueness
+B. more important than precision
+C. the closeness of a cluster of measurement attempts
+D. the nearness of a calculation to the true value
+E. B and C are correct
+ANSWER: D
+
+the resolution of the representation, 
+
+Precision is: 
+A. the same as trueness
+B. more important than resolution
+C. the closeness of a cluster of measurement attempts
+D. the average distance of measurement attempts from the true value
+E. the number of decimal or binary digits in the measurement
+ANSWER: E
+
+A doctor, a lawyer and a statistician are on a hunting trip. What does the statistician say? 
+A. Got him!
+B. Darn, we missed.
+C. Take another shot!
+D. Where did he go?
+E. I am a mean deviate.
+ANSWER: A
+
+In data measurement terminology, NOIR stands for: 
+A. Normative, Objective, Integrated, Rational
+B. Nominal, Ordinal, Interval, Ratio
+C. Nominal, Ordinal, Integrated, Rational
+D. Named, Objective, Integrated, Relational
+E. Normal, Ordinary, Interesting, Resolved
+ANSWER: B
+
+A variable that names things such as Chevrolet, Ford, Ferrari or Male and Female is at what level of measurement? 
+A. Ordinal
+B. Interval
+C. Nominal
+D. Location
+E. Alphabetic
+ANSWER: B
+
+Measurement that assumes an underlying order is referred to as: 
+A. Alphabetical
+B. Integrated
+C. Ordinal
+D. Scalar
+E. Normative
+ANSWER: C
+
+Measurement that can specify a real zero level is referred to as:
+A. Rational
+B. Zero-based
+C. Objective
+D. Ratio
+E. Normative
+ANSWER: D
+
+In measurement terminology, LATCH stands for:
+A. Localised, Active, Terminal, Captured, Harmonised
+B. Local, Archived, Traditional, Captured, Heterogeneous
+C. Labelled, Articulated, Trusted, Categorised, Homogenised
+D. Large, Autonomous, Timely, Current, Horizontal
+E. Location, Alphabetical, Time, Categorical, Hierarchical
+ANSWER: E
+
+In measurement terminology, a contact list is likely ordered primarily: 
+A. Alphabetically
+B. Chronologically
+C. Categorically
+D. Horizontally
+E. Vertically
+ANSWER: A
+
+In measurement terminology, a cell phone bill is likely ordered primarily: 
+A. Alphabetically
+B. Chronologically
+C. Spatially
+D. Horizontally
+E. Vertically
+ANSWER: B
+
+In measurement terminology, a restaurant menu is likely ordered primarily: 
+A. Alphabetically
+B. Chronologically
+C. Categorically
+D. Hierarchically
+E. Vertically
+ANSWER: C
+
+In communication, the term latency refers to: 
+A. synchronicity
+B. broadcasting
+C. narrowcasting
+D. lag
+E. none of the above
+ANSWER: D
+
+In communication, the term synchronicity refers to: 
+A. lag
+B. monoligicity
+C. narrowcasting
+D. broadcasting
+E. time
+ANSWER: E
+
+The term broadcasting refers to _____ communication: 
+A. one-to-many
+B. many-to-one
+C. one-to-one
+D. synchronous
+E. asynchronous
+ANSWER: A
+
+The app Periscope is an example of _____. 
+A. synchronicity
+B. narrowcasting
+C. broadcasting
+D. asynchronous communication
+E. none of the above
+ANSWER: B
