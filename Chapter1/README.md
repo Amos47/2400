@@ -1,6 +1,11 @@
-##Chapter 1 - Readme ![Glasses](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/64/Glasses.png)
+##Chapter 1 - Readme ![Glasses](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/Glasses2.png)
 
-This file will contain a synopsis of the chapter as a basic review. The logic and flow are represented here.
+This chapter introduces the basic concepts we will deal with in the book. We begin with the Three Pillars of ICT (as I see it):
 
-Here is another edit @ 14:16 on 16 July 2016. 
+1. Data, information an knowledge - we consider each, how it is formed and the important differences between the three concepts
+2. Tangible vs. intangible - here we carefully outline the direction of the economy or both developed and developing countries towards services and away from the primary and secondary sectors upon which we have relied up to now
+3. Finally, the input/output ratio (ROI) and how ICT impacts it
 
+Considerable time is spent considering systems, technology and communication, all aspects of ICT.
+
+This chapter forms the basis of all others. 
