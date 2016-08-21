@@ -94,6 +94,10 @@ IP Addresses
 
 Source: Based on https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm (Accessed August 21, 2016)
 
+**Figure TBRT. Internet Protocols and Communication**
+
+![Protocols](https://raw.githubusercontent.com/robertriordan/2400/master/Images/protocols.png)
+
 ## Interface design and programming
 
 Let's set the stage with a quick backgrounder.
