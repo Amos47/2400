@@ -1,13 +1,17 @@
 ##Chapter 7 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png)
 
 
-And here's a great infographic on 2016 design trends:
+### Design Trends 
+
+Here's a great infographic on 2016 design trends:
 
 **Figure MJBJ: 2016 Design Trends**
 
 ![Design trends 2016](https://raw.githubusercontent.com/robertriordan/2400/master/Images/CC_Design_Trends_2016.jpg)
 
 <a class="underlined-link" href="http://www.dailyinfographic.com/2016-design-trends?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+DailyInfographic+%28Daily+Infographic%29" target="_blank">Infographic source</a>
+
+###Designer Skills
 
 Here's some copy from the Careers page of a cutting-edge local (Ottawa) software house. The first ad is for a UX Designer. Note how many of the skills and responsibilities mesh with what we're talking about in this book:
 
@@ -64,3 +68,25 @@ And finally, here for a Software Developer:
 >*Experience in building innovative user interfaces using popular toolkits*
 
 Interesting to note that this textbook was written primarily using an open-source tool called *GitBook* which rests on the *GitHub* infrastructure mentioned in the ad. It's a small world...  
+
+### How the internet works (a very brief introduction)
+
+The internet is a *network of networks*. In any organisation, large or small, there are likely multiple devices capable of communication with each other. Think desktops, laptops, smart devices, tablets, printers, models and a wide variety of smaller devices such as sensors and beacons. But how does this communications take place? Let's start at the very beginning, with the original switched network, the telephone system.  
+
+IP Addresses
+
+
+**Table YTDS. Internet Protocols**
+
+| Protocol Layer | Description |
+| :-: | :- |
+| Applications Protocol Layer | Protocols specific to particular applications which use the Internet. For example: the World-Wide Web (WWW), email (Post Office Protocol - POP), File Transfer Protocol (FTP), Voice over IP (VOIP), etc.|
+| Transmission Control Protocol (TCP) Layer | TCP directs packets to a specific application on a computer using a port number. |
+| Internet Protocol (IP) Layer | IP directs packets to a specific computer using an IP address. |
+| Hardware Layer | Converts binary packet data to network signals and back. For example: Ethernet network card, modem for phone lines, WiFi adapter, etc.)
+
+Source: Based on https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm (Accessed August 21, 2016)
+
+**Figure TBRT. Internet Protocols and Communication**
+
+![Protocols](https://raw.githubusercontent.com/robertriordan/2400/master/Images/protocols.png)
