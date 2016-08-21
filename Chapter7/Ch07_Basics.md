@@ -76,6 +76,24 @@ It is interesting to note that font *decoration* characteristics such as **bold*
 
 All this is beyond our scope here but in general you might be [Interested in fonts?]( http://en.wikipedia.org/wiki/Font)
 
+### How the internet works (a very brief introduction)
+
+The internet is a *network of networks*. In any organisation, large or small, there are likely multiple devices capable of communication with each other. Think desktops, laptops, smart devices, tablets, printers, models and a wide variety of smaller devices such as sensors and beacons. But how does this communications take place? Let's start at the very beginning, with the original switched network, the telephone system.  
+
+IP Addresses
+
+
+**Table YTDS. Internet Protocols**
+
+| Protocol Layer | Description |
+| :-: | :- |
+| Applications Protocol Layer | Protocols specific to particular applications which use the Internet. For example: the World-Wide Web (WWW), email (Post Office Protocol - POP), File Transfer Protocol (FTP), Voice over IP (VOIP), etc.|
+| Transmission Control Protocol (TCP) Layer | TCP directs packets to a specific application on a computer using a port number. |
+| Internet Protocol (IP) Layer | IP directs packets to a specific computer using an IP address. |
+| Hardware Layer | Converts binary packet data to network signals and back. For example: Ethernet network card, modem for phone lines, WiFi adapter, etc.)
+
+Source: Based on https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm (Accessed August 21, 2016)
+
 ## Interface design and programming
 
 Let's set the stage with a quick backgrounder.

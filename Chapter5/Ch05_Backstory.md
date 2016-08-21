@@ -1,7 +1,7 @@
 ##Chapter 5 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png)
 
-
-*This section on PIPEDA was written by Lauren K. Jamieson, JD Candidate, University of Ottawa, School of Law.* 
+<a name="pipeda"></a>
+*The section on PIPEDA and privacy legislation was contributed by Lauren K. Jamieson, JD Candidate, University of Ottawa, School of Law.* 
 
 ###The Personal Information Protection and Electronic Documents Act (PIPEDA)
 
