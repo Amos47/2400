@@ -104,7 +104,6 @@ The (somewhat dated but still quite valid) Stanford University article explains 
 8. As the packets go upwards through the stack, all routing data that the sending computer's stack added (such as IP address, port number and sequence) is stripped from the packets.
 9. When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!" appears as an email in the destination computer. 
 
-
 Ports
 
 All manner of communication protocols like Bluetooth, etc. 
