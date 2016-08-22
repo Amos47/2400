@@ -109,8 +109,9 @@ Ports
 
 All manner of communication protocols like Bluetooth, etc. 
 
-<iframe width="1200" height="600" src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" frameborder="0" allowfullscreen></iframe>
-
+<div class="intrinsic-container">
+ <iframe src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
+</div>
 
 
 
