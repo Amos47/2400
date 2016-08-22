@@ -109,12 +109,12 @@ Ports
 All manner of communication protocols like Bluetooth, etc. 
 
 <div class="intrinsic-container">
- <iframe src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
+ <iframe src="//www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
 </div>
 
  
 <div>
-<iframe width="560" height="315" src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
 </div>
 
 
