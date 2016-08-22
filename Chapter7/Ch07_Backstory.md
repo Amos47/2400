@@ -74,7 +74,7 @@ Interesting to note that this textbook was written primarily using an open-sourc
 The internet is a *network of networks*. In any organisation, large or small, there are likely multiple devices capable of communication with each other. Think desktops, laptops, smart devices, tablets, printers, models and a wide variety of smaller devices such as sensors and beacons. But how does this communications take place? Let's start at the very beginning, with the original switched network, the telephone system.  
 
 IP Addresses
-
+DNS
 
 **Table YTDS. Internet Protocols**
 
@@ -90,3 +90,20 @@ Source: Based on https://web.stanford.edu/class/msande91si/www-spr04/readings/we
 **Figure TBRT. Internet Protocols and Communication**
 
 ![Protocols](https://raw.githubusercontent.com/robertriordan/2400/master/Images/protocols.png)
+
+The (somewhat dated but still quite valid) Stanford University article explains what's going on in Figure TBRT (edited for context and clarity):
+
+1. Let's imagine that you want to send an email from your computer on the left, with an IP address of 1.2.3.4, to computer 5.6.7.8 on the right. The user types the message into an email client (the application on the top layer) to start the process.  
+2. If the message to be sent is long, each stack layer that the message passes through may break the message up into smaller chunks of data. This is because data sent over the Internet (and most computer networks) are sent in manageable chunks. On the Internet, these chunks of data are known as *packets*.
+3. The packets would go through the Application Layer and continue to the TCP layer. Here, each packet is assigned a *port number*. Ports will be explained later, but suffice to say that many programs may be using the TCP/IP stack (at the same time) and sending messages. We need to know which program on the destination computer needs to receive the message because it will be listening on a specific port, thus we need to send to that port. One of the jobs of the TCP layer is to include the port number in the contents of each packet it passes to the IP layer below it. 
+4. The packets now proceed to the IP layer. This is where each packet receives it's destination address, in this case the IP number *5.6.7.8.* It is important to note also that sequencing information is also added to the packets so that they can be reassembled in the proper sequence on the destination machine. We don't want our message to come out as "8pHll7..rc" etc. (These are some of the characters in the original message, but in the wrong order.) 
+5. Now that our message packets have a port number and an IP address and a sequence number, they are ready to be sent over the Internet. The hardware layer takes care of turning our packets containing the alphabetic text of our message into electronic signals and transmitting them over the internet.
+6. On the other end of the modem in your home, your ISP has a direct connection to the Internet. The ISPs router examines the destination address in each packet and determines where to send it. Often, the packet's next stop is another router. The message zips around from router to router, following the least busy electronic pathway, until all pieces are received at the destination computer. 
+7. Eventually, the packets reach computer 5.6.7.8. Here, the packets start at the bottom of the destination computer's TCP/IP stack and work upwards.
+8. As the packets go upwards through the stack, all routing data that the sending computer's stack added (such as IP address, port number and sequence) is stripped from the packets.
+9. When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!" appears as an email in the destination computer. 
+
+
+Ports
+
+All manner of communication protocols like Bluetooth, etc. 

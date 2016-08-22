@@ -184,7 +184,7 @@ To go with these idioms and metaphors that allow us to instinctively understand 
 **Figure SHT. Icons**
 
 ![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons.png)
-<a name="Gestalt"></a>
+
 Combined with traditional knowledge about visual design (an enormously interesting and exciting field) such as Gestalt (for closure, similarity and proximity [Interested?](http://bit.ly/1LOES8o) and cognitive psychology (another field in which you should take at least one course during your academic career), rich and effective interfaces have evolved into use and are accepted means of communicating with machines. In this I am reminded of French aviator and author *Antoine de Saint-Exupéry* (1900-1944 – author of The Little Prince and only 44 when he died), who characterised engineering elegance by writing: 
 
 >"A designer knows when he has achieved perfection *not* when there is nothing left to add, but when there is nothing left to *take away* [Emphasis added]." 
@@ -211,6 +211,7 @@ There are plenty of design principles on display here. The first thing your eye 
 
 Take a peak at Figure RSB for some design principles in action.
 
+<a name="Gestalt"></a>
 **Figure RSB: Some Gestalt design principles**
 
 ![application](https://raw.githubusercontent.com/robertriordan/2400/master/Images/design.png)
