@@ -73,8 +73,21 @@ Interesting to note that this textbook was written primarily using an open-sourc
 
 The internet is a *network of networks*. In any organisation, large or small, there are likely multiple devices capable of communication with each other. Think desktops, laptops, smart devices, tablets, printers, modems and a wide variety of smaller devices such as sensors and beacons. But how does this communication take place? Let's start at the very beginning, with the original switched network, the telephone system.  
 
-IP Addresses
-DNS
+####Circuit Switching
+In the old days, every telephone was connected to every other telephone by wire. They weren't all simultaneously connected mind you. But when you wanted to make a call from phone number 5 to number 7, you requested the assistance of an operator (by either spinning an arm on the phone or clicking the receiver handle on the phone to send a request signal to the operator. The operator would connect with your line and ask you which number you wanted to each. The operator would them *physically* connect your line with the destination line by plugging a wire into a large what was called a *switchboard*. 
+
+####IP Addresses
+Everything that is connects to the internet has an *Internet Protocol address*, usually referred to simply as an IP address or just an IP. Originally, I{P addresses were made up of 4, 3-digit numbers separated by a dot. The form was xxx.xxx.xxx.xxx. Many devices still use this standard, called IPv4. The newer standard (IPv4 addresses were running out by 1995) is IPv6 (v5 is never mentioned - maybe it was that incident at the wedding reception last year?). The format of IPv^ addresses is considerably longer. Our friends at Wikipedia have this to say:
+
+>"The rapid exhaustion of IPv4 address space prompted the Internet Engineering Task Force (IETF) to explore new technologies to expand the addressing capability in the Internet. The permanent solution was deemed to be a redesign of the Internet Protocol itself. This new generation of the Internet Protocol was eventually named Internet Protocol Version 6 (IPv6) in 1995. The address size was increased from 32 to 128 bits (16 octets), thus providing up to 2128 (approximately 3.403×1038) addresses. This is deemed sufficient for the foreseeable future."
+
+[Interested?](https://en.wikipedia.org/wiki/IP_address)
+
+Just to reiterate: every device both great and small, if it's connected to the internet, has an IP address, either v4 or v6. That's how devices on the network communicate. Every communication across the net must be addressed to some other device, otherwise, why bother communicating? Devices would simply be whistling in the wind with no one to hear the tune. That's fine for humans, but we expect more from our machines. 
+
+####DNS - Domain Name Servers
+At very low levels, when machines are talking to machines, they use IP address exclusively. But if we tpe the address *www.carleton.ca* into a browser, how does it get the address of the web server at Carleton? When we type that address into the browser's address box, we're asking to contact a web server at the school and for it to send back to our machine the home page for Carleton. But we're not typing an IP address, but a name. This is where Domain Name Servers come in. DNS' hold tables of IP addresses with associated names (like *carleton.ca*) and when a request is made over the World Wide Web service, the DNS does the translation of the name we type to the machine's IP address. Simple.
+
 The internet as the telephone lines or highways
 
 **Table YTDS. Internet Protocols**
@@ -114,5 +127,8 @@ All manner of communication protocols like Bluetooth, etc.
 Stuff
 
 Internet access source: http://www.itu.int/net4/ITU-D/idi/2015/index.html?#idi2015comparison-tab
+
+Stage 1: ICT readiness – reflecting the level of networked infrastructure and access to ICTs;
+Stage 2: ICT intensity – reflecting the level of use of ICTs in the society; and
 
 For definition of CIS countries: http://www.worldatlas.com/aatlas/infopage/cis.htm
