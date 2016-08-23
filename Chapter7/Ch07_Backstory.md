@@ -82,8 +82,11 @@ In the old days, every telephone was connected to every other telephone by wire.
 
 *Image credit: https://influxis.com/app/uploads/2014/06/switchboard-operator.jpg*
 
+![Rotary](https://raw.githubusercontent.com/robertriordan/2400/master/Images/phone.jpg)
 
+Crank phone credit: http://d2ydh70d4b5xgv.cloudfront.net/images/9/3/vintage-swedish-american-oak-hand-crank-wall-telephone-early-1900s-06583d8a0509b2a8fd776a64e64679fa.jpg
 
+Rotary phone credit: 
 ####IP Addresses
 Everything that is connects to the internet has an *Internet Protocol address*, usually referred to simply as an IP address or just an IP. Originally, I{P addresses were made up of 4, 3-digit numbers separated by a dot. The form was xxx.xxx.xxx.xxx. Many devices still use this standard, called IPv4. The newer standard (IPv4 addresses were running out by 1995) is IPv6 (v5 is never mentioned - maybe it was that incident at the wedding reception last year?). The format of IPv^ addresses is considerably longer. Our friends at Wikipedia have this to say:
 
