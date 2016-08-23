@@ -112,3 +112,7 @@ All manner of communication protocols like Bluetooth, etc.
 
 
 Stuff
+
+Internet access source: http://www.itu.int/net4/ITU-D/idi/2015/index.html?#idi2015comparison-tab
+
+For definition of CIS countries: http://www.worldatlas.com/aatlas/infopage/cis.htm
