@@ -4,8 +4,7 @@
         "exercises",
         "youtube",
         "atoc",
-	"intrinsic-container",
-        "autosize-iframe"
+	    "autosize-iframe"
     ],
     "pluginsConfig": {}
 }
