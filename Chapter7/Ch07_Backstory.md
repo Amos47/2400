@@ -71,7 +71,7 @@ Interesting to note that this textbook was written primarily using an open-sourc
 
 ### How the internet works (a very brief introduction)
 
-The internet is a *network of networks*. In any organisation, large or small, there are likely multiple devices capable of communication with each other. Think desktops, laptops, smart devices, tablets, printers, models and a wide variety of smaller devices such as sensors and beacons. But how does this communications take place? Let's start at the very beginning, with the original switched network, the telephone system.  
+The internet is a *network of networks*. In any organisation, large or small, there are likely multiple devices capable of communication with each other. Think desktops, laptops, smart devices, tablets, printers, modems and a wide variety of smaller devices such as sensors and beacons. But how does this communication take place? Let's start at the very beginning, with the original switched network, the telephone system.  
 
 IP Addresses
 DNS
