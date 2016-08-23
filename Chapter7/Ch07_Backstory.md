@@ -92,7 +92,6 @@ Source: Based on https://web.stanford.edu/class/msande91si/www-spr04/readings/we
 
 ![Protocols](https://raw.githubusercontent.com/robertriordan/2400/master/Images/protocols.png)
 
-
 The (somewhat dated but still quite valid) Stanford University article explains what's going on in Figure TBRT (edited for context and clarity):
 
 1. Let's imagine that you want to send an email from your computer on the left, with an IP address of 1.2.3.4, to computer 5.6.7.8 on the right. The user types the message ("Hello computer 5.6.7.8!") into an email client (the application on the top layer) to start the process.  
@@ -107,20 +106,22 @@ The (somewhat dated but still quite valid) Stanford University article explains 
 
 Ports and more ports.
 
-LJDS
+NADS
 
 All manner of communication protocols like Bluetooth, etc. 
+<div>
+
+<iframe width="800" height="491" src="https://www.powtoon.com/embed/fdjbos4uIyd/" frameborder="0" allowfullscreen></iframe>
+
+</div>
 
 
 
+<div class="intrinsic-container">
 
+ <iframe src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
 
-
-
-
-
-
-
+</div>
 
 
 Stuff
