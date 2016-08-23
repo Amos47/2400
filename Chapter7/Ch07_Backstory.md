@@ -111,7 +111,7 @@ NADS
 All manner of communication protocols like Bluetooth, etc. 
 
 <div>
-<iframe src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
+<iframe width="900" height="315" src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
 </div>
 
 
