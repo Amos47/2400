@@ -109,17 +109,10 @@ Ports and more ports.
 NADS
 
 All manner of communication protocols like Bluetooth, etc. 
-<div>
-
-<iframe width="800" height="491" src="https://www.powtoon.com/embed/fdjbos4uIyd/" frameborder="0" allowfullscreen></iframe>
-
-</div>
-
-
 
 <div class="intrinsic-container">
 
- <iframe src="http://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
+ <iframe src="https://www.itu.int/net4/ITU-D/idi/2015/#idi2015map-tab" allowfullscreen></iframe>
 
 </div>
 
