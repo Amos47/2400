@@ -106,7 +106,9 @@ The (somewhat dated but still quite valid) Stanford University article explains 
 9. When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!" appears as an email in the destination computer. 
 
 Ports and more ports.
+
 LJDS
+
 All manner of communication protocols like Bluetooth, etc. 
 
 
