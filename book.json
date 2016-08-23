@@ -3,7 +3,8 @@
         "quizzes",
         "exercises",
         "youtube",
-        "atoc"
+        "atoc",
+		"intrinsic-container"
     ],
     "pluginsConfig": {}
 }
