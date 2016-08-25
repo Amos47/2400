@@ -90,7 +90,7 @@ The operator would connect with your line and ask you which number you wanted to
 
 *Image credit: https://influxis.com/app/uploads/2014/06/switchboard-operator.jpg*
 
- There were still *long distance* operators into the 1970s. Long distance (out of your Area Code) calls were initiated by dialing the number "0" and asking for a long distance operator. Here, different networks were connected together and you could hear the operators talking to each other. "Hello 312? This is 416 long distance operator requesting local number..." and so on. It was fun to listen. The numbers 312 and 416 were, of course, the Area Codes (AC) of Chicago and Toronto, respectively. An interesting tidbit is that, when area codes were assigned in North America in the late 1940s, states and provinces with only one AC were given numbers with a "0" in the middle, and those with more than one AC were assigned numbers with a "1" in the middle. So Illinois and Ontario had more than one AC. Furthermore, the numbers were assigned based on population, with the smallest numerical sums going to more densely populated areas. Chicago was big (and still is) thus their numbers summed to 6. Toronto summed to 11. Since "1" was never used as the first number in an area code, the lowest possible AC was 211. But all the *n11* ACs were reserved for future use (anticipating 411 - directory assistance and 911 etc.), the lowest AC was 212. Guess who got that? New York City, of course! The next lowest, 213, went to Southern California, including Los Angeles. This was to reduce wear and tear on the equipment as when a number was dialed (when direct dialing was introduced), the phone had a rotary dial. The dial had to be spun around to indicate the number (see the rotary handset below), and the actual physical clicking you heard (called *pulses*) was a signal to the network of the number you were dialing. It used the pulses to crank the mechanical switches to make the proper connection. There would obviously be more calls going to larger population areas, thus there was an effort to reduce the number of clicks required (both for wear and tear and ease of use - lower numbers required less effort to dial). If you can see it on your device, note the wear pattern on the numbers on the rotary dial phone image below.
+ There were still *long distance* operators into the 1970s. Long distance (out of your Area Code) calls were initiated by dialing the number "0" and asking for a long distance operator. Here, different networks were connected together and you could hear the operators talking to each other. "Hello 312? This is 416 long distance operator requesting local number..." and so on. It was fun to listen. The numbers 312 and 416 were, of course, the Area Codes (AC) of Chicago and Toronto, respectively. An interesting tidbit is that, when area codes were assigned in North America in the late 1940s,  according to the North American Numbering Plan (NANP) states and provinces with only one AC were given numbers with a "0" in the middle, and those with more than one AC were assigned numbers with a "1" in the middle. So Illinois and Ontario had more than one AC. Furthermore, the numbers were assigned based on population, with the smallest numerical sums going to more densely populated areas. Chicago was big (and still is) thus their numbers summed to 6. Toronto summed to 11. Since "1" was never used as the first number in an area code, the lowest possible AC was 211. But all the *n11* ACs were reserved for future use (anticipating 411 - directory assistance and 911 etc.), the lowest AC was 212. Guess who got that? New York City, of course! The next lowest, 213, went to Southern California, including Los Angeles. This was to reduce wear and tear on the equipment as when a number was dialed (when direct dialing was introduced), the phone had a rotary dial. The dial had to be spun around to indicate the number (see the rotary handset below), and the actual physical clicking you heard (called *pulses*) was a signal to the network of the number you were dialing. It used the pulses to crank the mechanical switches to make the proper connection. There would obviously be more calls going to larger population areas, thus there was an effort to reduce the number of clicks required (both for wear and tear and ease of use - lower numbers required less effort to dial). If you can see it on your device, note the wear pattern on the numbers on the rotary dial phone image below.
 
 **Image EBSS. An early rotary phone**
 
@@ -98,13 +98,15 @@ The operator would connect with your line and ask you which number you wanted to
 
 *Image credit: https://s-media-cache-ak0.pinimg.com/564x/5c/df/a0/5cdfa0cec1c3a31cd91c5f98cd0229f0.jpg*
 
-Early phone numbers were assigned on a first-come, first-served basis. So my grandfather's dairy was the 7th phone on his local exchange. Later, when phones became more popular and small phone exchanges amalgamated, they needed better addressing. There was obviously a phone number 7 in Oshawa, and Whitby and Ajax and Pickering and Scarborough and so on. I assume this began with a reassignment of numbers within amalgamated exchanges, so phone number 7 in Oshawa might have become 23 when Oshawa and Whitby amalgamated and so on according to some rule. Even this became unwieldy when numbers of phones grew, and local exchanges were assigned, in anticipation of changes to come, with alphanumeric identifiers. At my house, our identifier was *Randolph* shortened to RA. Our proper phone number was RA5-1805. Neighbouring Whitby had a prefix of GR (I don't recall what GR stood for). If you watch the old *Honeymooners* TV series from the 1950s, you will note that Ralph Cramden's phone number was *Bensonhurst* 0-7741 (they lived at 328 Chauncey Street in the Bensonhurst section of Brooklyn, New York. See:http://www.tv.com/shows/the-honeymooners/the-babysitter-104367/ for an explanation of why Ralph's phone number started with a "0" - none ever do). 
+Early phone numbers were assigned on a first-come, first-served basis. So my grandfather's dairy was the 7th phone on his local exchange. Later, when phones became more popular and small phone exchanges amalgamated, they needed better addressing. There was obviously a phone number 7 in Oshawa, and Whitby and Ajax and Pickering and Scarborough and so on. I assume this began with a reassignment of numbers within amalgamated exchanges, so phone number 7 in Oshawa might have become 23 when Oshawa and Whitby amalgamated and so on according to some rule. Even this became unwieldy when numbers of phones grew, and local exchanges were assigned, in anticipation of changes to come, with alphanumeric identifiers. At my house, our identifier was *Randolph* shortened to RA. Our proper phone number was RA 5-1805. Neighbouring Whitby had a prefix of GR (I don't recall what GR stood for). If you watch the old *Honeymooners* TV series from the 1950s, you will note that Ralph Cramden's phone number was *Bensonhurst* (or BE) 0-7741 (they lived at 328 Chauncey Street in the Bensonhurst section of Brooklyn, New York. [Interested?](http://www.tv.com/shows/the-honeymooners/the-babysitter-104367/) in an explanation of why Ralph's phone number started with a "0" - none ever do).
+
+All this to say that eventually, the Randolph RA became 72, so our phone number was 416-725-1805. Check out the very large dialpad from the iPhone below to map how the RA became 72.  Adding a country code (Canada and the US share the country code "1") gives us, finally, 1.416.725.1805. *Et voila!* Very similar to an IP address, which we talk about below. If you were to dial that number from Germany, for example, the first digit would get you North America, the next three the 416 AC, the 72 gives the local sub-exchange and the 51805 the actual phone line into the house. Note that in 1993, the 416 AC was split into the 905 (ring around Toronto) and 416 (Toronto core). So that old phone number of mine in Oshawa now belongs to someone in Toronto. 
 
 If you need a break, you can watch some old Honeymooners here: 
 
 {% youtube %}https://www.youtube.com/watch?v=Nb8ulccRP_E{% endyoutube %}
 
-More trivia. The later, animated sitcom *The Flintstones* (you may have seen the much more recent movie starring John Goodman) was based on the Honeymooners.
+More trivia. The later, animated sitcom *The Flintstones* (you may have seen the much more recent movie starring John Goodman, Rosie O'Donnell, Rick Moranis and Halle Berry, among many others) was based on the Honeymooners.
 
 **Image RDIT. Contemporary dialpad (huge!)**
 
@@ -114,10 +116,10 @@ More trivia. The later, animated sitcom *The Flintstones* (you may have seen the
 
 I know the above is totally useless information, but it might come in handy some day in a game of trivia. With an old person. 
 
- So the connected world was physically connected with wires and switchboards to connect one device with another. Like a road system, you had to follow the wire to make the connection. We can still use this metaphor to describe the internet. Just as every phone had a number
+ So the connected world was physically connected with wires and switchboards to connect one device with another. Like a road system, you had to follow the wire to make the connection. We can still use this metaphor to describe the internet. Just as every phone had a number associated with it, every device attached to the internet has an address. Read on.
  
 ####IP Addresses
-Everything that is connects to the internet has an *Internet Protocol address*, usually referred to simply as an IP address or just an IP. Originally, I{P addresses were made up of 4, 3-digit numbers separated by a dot. The form was xxx.xxx.xxx.xxx. Many devices still use this standard, called IPv4. The newer standard (IPv4 addresses were running out by 1995) is IPv6 (v5 is never mentioned - maybe it was that incident at the wedding reception last year?). The format of IPv^ addresses is considerably longer. Our friends at Wikipedia have this to say:
+Everything that is connects to the internet has an *Internet Protocol address*, usually referred to simply as an IP address or just an IP. Originally, IP addresses were made up of 4, 3-digit numbers separated by a dot. The form was xxx.xxx.xxx.xxx. Many devices still use this standard, called IPv4. The newer standard (IPv4 addresses were running out by 1995) is IPv6 (v5 is never mentioned - maybe it was that incident at the wedding reception last year?). The format of IPv6 addresses is considerably longer. Our friends at Wikipedia have this to say:
 
 >"The rapid exhaustion of IPv4 address space prompted the Internet Engineering Task Force (IETF) to explore new technologies to expand the addressing capability in the Internet. The permanent solution was deemed to be a redesign of the Internet Protocol itself. This new generation of the Internet Protocol was eventually named Internet Protocol Version 6 (IPv6) in 1995. The address size was increased from 32 to 128 bits (16 octets), thus providing up to 2128 (approximately 3.403×1038) addresses. This is deemed sufficient for the foreseeable future."
 
@@ -126,9 +128,7 @@ Everything that is connects to the internet has an *Internet Protocol address*, 
 Just to reiterate: every device both great and small, if it's connected to the internet, has an IP address, either v4 or v6. That's how devices on the network communicate. Every communication across the net must be addressed to some other device, otherwise, why bother communicating? Devices would simply be whistling in the wind with no one to hear the tune. That's fine for humans, but we expect more from our machines. 
 
 ####DNS - Domain Name Servers
-At very low levels, when machines are talking to machines, they use IP address exclusively. But if we tpe the address *www.carleton.ca* into a browser, how does it get the address of the web server at Carleton? When we type that address into the browser's address box, we're asking to contact a web server at the school and for it to send back to our machine the home page for Carleton. But we're not typing an IP address, but a name. This is where Domain Name Servers come in. DNS' hold tables of IP addresses with associated names (like *carleton.ca*) and when a request is made over the World Wide Web service, the DNS does the translation of the name we type to the machine's IP address. Simple.
-
-The internet as the telephone lines or highways
+At very low levels, when machines are talking to machines, they use IP address exclusively. But if we type the address *www.carleton.ca* into a browser, how does it get the address of the web server at Carleton? When we type that address into the browser's address box, we're asking to contact a web server at the school and for it to send back to our machine the contents of the home page for Carleton. But we're not typing an IP address, but a name. This is where *Domain Name Servers* come in. DNS' hold tables of IP addresses with associated names (like *carleton.ca*) and when a request is made over the World Wide Web service, the DNS does the translation of the name we type to the machine's IP address. Simple.
 
 **Table YTDS. Internet Protocols**
 
@@ -145,7 +145,9 @@ Source: Based on https://web.stanford.edu/class/msande91si/www-spr04/readings/we
 
 ![Protocols](https://raw.githubusercontent.com/robertriordan/2400/master/Images/protocols.png)
 
-The (somewhat dated but still quite valid) Stanford University article explains what's going on in Figure TBRT (edited for context and clarity):
+Figure TBRT depicts communication between two machines over a network (likely the internet). Each machine (left one has the IP address 1.2.3.4 and the right one has the address 5.6.7.8) has, in addition to its address, a *stack* of software/hardware consisting of four layers: *Application, TCP, IP* and *Hardware*. Below, the process of communicating a simple email between the two machines is explained in light detail. 
+
+The (somewhat dated but still quite valid) [Stanford University article](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) explains what's going on in Figure TBRT (edited for context and clarity):
 
 1. Let's imagine that you want to send an email from your computer on the left, with an IP address of 1.2.3.4, to computer 5.6.7.8 on the right. The user types the message ("Hello computer 5.6.7.8!") into an email client (the application on the top layer) to start the process.  
 2. If the message to be sent is long, each stack layer that the message passes through may break the message up into smaller chunks of data. This is because data sent over the Internet (and most computer networks) are sent in manageable chunks. On the Internet, these chunks of data are known as *packets*.
@@ -157,14 +159,24 @@ The (somewhat dated but still quite valid) Stanford University article explains 
 8. As the packets go upwards through the stack, all routing data that the sending computer's stack added (such as IP address, port number and sequence) is stripped from the packets.
 9. When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!" appears as an email in the destination computer. 
 
-Ports and more ports.
+But how do all those addresses get handled efficiently. There's a massive number of connected devices, and the number is growing exponentially. The answer is division of labour and knowing your neighbourhood. A very simple example will do here. Imagine your home. Likely you have Internet service from one of the big providers in Canada (Bell, Rogers, Telus, Cogeco, Videotron, etc.). Along with that service, comes a modem. A modem is an interface from your home to the internet. All internet traffic in your home runs through the modem. Likely you connect to it wirelessly, but it doesn't matter if you use a wireless or wired connection. This *port* to the internet *knows* the IP addresses of each device that connects to it. 
 
-NADS
+As promised, here's what [Techopedia](https://www.techopedia.com/definition/3659/computer-port) has to say about *ports:*
+
+>"A computer port is a connection point or interface between a computer and an external or internal device. Internal ports may connect such devices as hard drives and CD ROM or DVD drives; external ports may connect modems, printers, mice and other devices."
+
+Thus a port is simply a place that accepts incoming communication, just like a seaport or a door. It's the *delivery door* for machine communication. When an email is sent, it's sent from a port. WHen an email arrives, it's sent to the email port, where the machine is *listening* for email. 
+
+###Communication Types
 
 All manner of communication protocols like Bluetooth, etc. 
 
+Bluetooth
+NFC
+Client-server
+P2P
 
-Stuff
+FOr a comprehensive treatment of networks (not required reading but pretty interesting anyway) see [this Wikipedia article](https://en.wikipedia.org/wiki/Computer_network). 
 
 Internet access source: http://www.itu.int/net4/ITU-D/idi/2015/index.html?#idi2015comparison-tab
 
