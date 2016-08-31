@@ -188,13 +188,13 @@ We can further examine a subset of what [dictionary.com](http://dictionary.refer
 6. Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. 
 7. Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.
 
-Now isn't that interesting, the Biology part? That's exactly what we are saying about *Information*. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. I might argue that when we communicate, we are exchanging only data, and that information is in fact created by our interpretation of that data in context. And I will argue just that in Chapter 2. Indeed a website article we will examine in depth in Chapter 2 on *Liquid Information* offers on the [history of information]((http://www.liquidinformation.org/information_history.html) that as life appeared on earth it required “[...] storing information about how to replicate something, how to replicate itself. Information now served a purpose...”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. 
+Now isn't that interesting, the Biology part? That's exactly what we are saying about *Information*. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause *change*. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of *information*. I argue that when we communicate, we are exchanging only data, and that information is in fact created by our interpretation of that data in context. And I will argue just that in Chapter 2. Indeed a website article we will examine in depth in Chapter 2 on *Liquid Information* offers on the [history of information]((http://www.liquidinformation.org/information_history.html) that as life appeared on earth it required “[...] storing information about how to replicate something, how to replicate itself. Information now served a purpose...”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. 
 
 Thus communication allows humans to fulfil their only real purpose on this planet: to persist on this planet.  
 
 #### What is technology?
 
-Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand *tools* in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language or even applied mathematics. So technology is broad indeed.
+Wikipedia offers that Technology is "...the collection of tools, including machinery, modifications, arrangements and procedures used by humans." Note the breadth of this definition. How do we understand *tools* in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language, Ikea instructions, a cookie recipe or even applied mathematics. So technology is broad indeed.
 
 [Interested?](http://bit.ly/139Y25z)
 
@@ -205,15 +205,15 @@ Further, they provide the following detail, while splitting the taxonomy into tw
 1. Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]
 2. Intangible (consultancy, problem-solving, and training methods) [do not exist in the physical realm; do not exist until consumed...]
 
-And then continues in term of *sophistication*:
+And then continues in terms of *sophistication*:
 
 1. High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]
-2. Intermediate (semi-automated partially intelligent technology that manipulates refined matter and medium level forces) [an eCommerce algorithm to suggest stuff for you to buy] 
+2. Intermediate (semi-automated partially intelligent technology that manipulates refined matter and medium level forces) [an e-commerce algorithm to suggest stuff for you to buy] 
 3. Low (labour-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]"
 
 [Interested?](http://bit.ly/1GsH5SO)
 
-But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies." 
+But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies." Thus we can say that *technology is encoded process knowledge based on best practices from previous outcomes.*
 
 We will take this narrower view of technology in this book, partly because we just don't have the time to consider all the nuances that the broader scope suggests. So when we consider technology, and specifically *information and communication technology*, we will be constraining ourselves to the narrow realm where engineering, science (both natural and social) and business realities intersect and interact with the systems that are in use in our modern society, with an eye to whether or not they are creating value by either reducing input or enhancing output.
 
@@ -224,6 +224,12 @@ We will take this narrower view of technology in this book, partly because we ju
 What then of the overlap between information and technology? What exactly is it? Turns out it's a long story, stretching all the way back to prehistory. An excellent introduction is provided by a book in the openbookproject.
 
 [Interested?](http://openbookproject.net/courses/intro2ict/history/history.html)
+
+The [Free Online Dictionary of Computing](http://foldoc.org/) defines *information technology* as:
+
+>(IT) Applied computer systems - both hardware and software, and often including networking and telecommunications, usually in the context of a business or other enterprise. Often the name of the part of an enterprise that deals with all things electronic. 
+>
+>(Source: http://foldoc.org/information%20technology)
 
 ### Pillar 2: Tangible vs. intangible
 
