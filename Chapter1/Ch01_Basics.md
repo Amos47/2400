@@ -221,7 +221,7 @@ Thus we can say that *technology is encoded process knowledge based on best prac
 
 [Interested?](http://bit.ly/1z0JHX3)
 
-#### Information technology
+#### Information and Communication Technology (ICT)
 
 What then of the overlap between information and technology? What exactly is it? Turns out it's a long story, stretching all the way back to prehistory. An excellent introduction is provided by a book in the *openbookproject*.
 
@@ -230,9 +230,26 @@ What then of the overlap between information and technology? What exactly is it?
 The [Free Online Dictionary of Computing](http://foldoc.org/) defines *information technology* as:
 
 >(IT) Applied computer systems - both hardware and software, and often including networking and telecommunications, usually in the context of a business or other enterprise. Often the name of the part of an enterprise that deals with all things electronic. 
->
->(Source: http://foldoc.org/information%20technology)
 
+(Source: http://foldoc.org/information%20technology)
+
+Zuppo (see source below, accessed August 31, 2016) provided several definitions of ICT in his 2012 International Journal of Managing Information Technology article. Here's what he wrote:
+
+> Zhang, Aikman and Sun define ICTs as “technologies used by people and organizations for their information processing and communication purposes” (p. 628). ITIL® , “the most widely accepted approach to IT service management in the world” [15], defines ICT as: 
+
+>“The application of science to the processing of data according to programmed instructions in order to derive results. In the widest sense, ICT includes all communications, information and related technology. The term Information Technology (IT) is used in a narrower sense, typically excluding telecommunications (voice) technology while including data networks (although almost all networks today are digital), as a reference to the systems that support information processing”.
+>
+>Various professional resources such as CIO Magazine and TechTerms.com offer definitions that are equally as broad including:
+>
+ >“ICT refers to technologies that provide access to information through telecommunications. It is similar to Information Technology (IT), but focuses primarily on communication technologies. This includes the Internet, wireless networks, cell phones, and other communication mediums.
+
+>In the past few decades, information and communication technologies have provided society with a vast array of new communication capabilities. For example, people can communicate in real-time with others in different countries using technologies such as instant messaging, voice over IP (VoIP), and video-conferencing. Social networking websites like Facebook allow users from all over the world to remain in contact and communicate on a regular basis. 
+
+> Modern information and communication technologies have created a "global village," in which people can communicate with others across the world as if they were living next door. For this reason, ICT is often studied in the context of how modern communication technologies affect society”. 
+
+*Source:[International Journal of Managing Information Technology (IJMIT) Vol.4, No.3, August 2012](http://www.airccse.org/journal/ijmit/papers/4312ijmit02.pdf)*
+
+Thus Information Technology (often referred to simply as *IT*) is a type of technology, and a subset of ICT. 
 
 ### Pillar 2: Tangible vs. intangible
 
