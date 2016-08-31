@@ -213,9 +213,11 @@ And then continues in terms of *sophistication*:
 
 [Interested?](http://bit.ly/1GsH5SO)
 
-But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies." Thus we can say that *technology is encoded process knowledge based on best practices from previous outcomes.*
+But the online Oxford Dictionary takes a much narrower view, *viz*.: "The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies."
 
 We will take this narrower view of technology in this book, partly because we just don't have the time to consider all the nuances that the broader scope suggests. So when we consider technology, and specifically *information and communication technology*, we will be constraining ourselves to the narrow realm where engineering, science (both natural and social) and business realities intersect and interact with the systems that are in use in our modern society, with an eye to whether or not they are creating value by either reducing input or enhancing output.
+
+Thus we can say that *technology is encoded process knowledge based on best practices from previous outcomes.*
 
 [Interested?](http://bit.ly/1z0JHX3)
 

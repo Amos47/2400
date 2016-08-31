@@ -909,6 +909,16 @@ That being said (and I feel better for having said it and defending my old frien
 9. Don't get seduced by cool, cutting-edge, shiny new technology. It could be here today and gone tomorrow. Make sure all the pieces fit together. Make sure the project can deliver on expectations. Don't do something because you *can*. Do it because it adds value.
 10. Get end-user buy-in and acceptance early and maintain as close and as good a relationship with those who will ultimately use your system as possible. Many shiny new systems have failed on the shop floor when users refused to use them, once delivered. Prototyping with end-users is a great way to earn user respect and acceptance. And it reduces the need for training as well.    
 
+#### Why do in-place systems fail?
+
+According to a piece in Techopedia, as technology experts in an organisation trace back through a series of events that led to a system failure or error, they typically identify one of the following primary causes:
+
+>*Human error*: This is where a person took an erroneous action, or took no action when one was needed. For instance, perhaps someone forgot to schedule a data backup or chose the wrong option on a software menu.
+*Physical failure*: This describes an instance when a system component failed or malfunctioned in some way. An example might be a server going down or data being breached. In many cases, human error leads to physical failure.
+*Company-wide causes*: This describes when a flawed or nonexistent organizational process leads to a system problem. For instance, if a company doesn’t have a data backup process in place, the lack of policy could lead to irretrievable data loss.
+
+Source: [Techopedia](https://www.techopedia.com/2/31265/trends/virtualization/how-to-find-the-root-cause-of-application-issues)
+
 #### UxD - User experience design
 
 The final topic (I know!!! finally...) we need to look at is *User Experience Design*. UxD was the topic of an Interested? link in Chapter 7, but I wanted to close this chapter on development with an interesting article from the Nielson-Norman Group on the importance of the *platform* upon which you do business. A *platform* can be thought of as a *computing model* in the sense of the size of the device (a smartphone being infinitely smaller - though getting larger again of late - than a tablet, than a laptop, than a desktop) upon which business is being offered, as well as vaguely the operating system (Android presenting itself differently than Apple iOS than Apple OS than Windows, etc.). But thinking strictly of what are called *conversion rates* (as simple as simply the number of sales on an eCommerce site divided by the number of visitors multiplied by 100 or as medium complex as the number of abandoned shopping carts divided by the number of visitors or as a ratio of completed sales to abandoned sales, etc.) it is apparent that platform matters. If you're in Marketing, this will interest you. If you are in IS, this will interest you. If you are in Finance, this will interest you. If you are in Supply Chain, this will interest you. If you are in Managerial Accounting, this will interest you. It's just plain interesting. Check it out.   
