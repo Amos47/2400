@@ -221,7 +221,7 @@ We will take this narrower view of technology in this book, partly because we ju
 
 #### Information technology
 
-What then of the overlap between information and technology? What exactly is it? Turns out it's a long story, stretching all the way back to prehistory. An excellent introduction is provided by a book in the openbookproject.
+What then of the overlap between information and technology? What exactly is it? Turns out it's a long story, stretching all the way back to prehistory. An excellent introduction is provided by a book in the *openbookproject*.
 
 [Interested?](http://openbookproject.net/courses/intro2ict/history/history.html)
 
@@ -230,6 +230,7 @@ The [Free Online Dictionary of Computing](http://foldoc.org/) defines *informati
 >(IT) Applied computer systems - both hardware and software, and often including networking and telecommunications, usually in the context of a business or other enterprise. Often the name of the part of an enterprise that deals with all things electronic. 
 >
 >(Source: http://foldoc.org/information%20technology)
+
 
 ### Pillar 2: Tangible vs. intangible
 
