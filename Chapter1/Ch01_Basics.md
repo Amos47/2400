@@ -329,7 +329,7 @@ If a piece of technology has no impact on either the inputs or the outputs of th
 
 There are primarily four ways that a business can derive benefit by applying ICT to support the organisation and its processes:
 
-- Supporting the value chain – As we have discussed in previous sections, systems can be applied directly to the value chain to make it more efficient and effective.
+- Supporting the value chain – As we discuss in the Backstory to this chapter, systems can be applied directly to the value chain to make it more efficient and effective.
 - Automating – Business processes and functions can be automated, enabling cost reductions, normally through the consumption of less labour and increased efficiency and reliability.
 - Informing – ICT systems create, store, and make available data that can be used to improve the quality of business decisions, as discussed in Chapter 3.
 - Gaining a competitive advantage – Implementing a new system that creates new capabilities may give an organisation a temporary competitive advantage over their competitors. 
