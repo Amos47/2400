@@ -1,0 +1,39 @@
+Which of the following is NOT one of Katz's 5 faces of information?
+A. Re-information
+B. Information
+C. Disinformation
+D. Un-information
+E. Non-information
+ANSWER: A
+
+Data becomes information when it is:
+A. transmitted to a recipient
+B. interpreted by a recipient and mapped onto familiar concepts
+C. internalised
+D. None of the above
+E. A, B and C are correct
+ANSWER: B
+
+The ICT approach to Katz's non-information is to:
+A. Manage and act
+B. Alert
+C. Filter
+D. Reject
+E. Retransmit
+ANSWER: C
+
+Sparkl and nuGrill are:
+A. Data transmission protocols
+B. iPhone apps to assess communication frequency
+C. Researchers at the Harvard School of Public Health
+D. Fictitious competitors in the tootpaste segment of the dental hygeine industry
+E. None of the above are correct
+ANSWER: D
+
+According to Katz, non-information is:
+A. Untrue
+B. Frequently transmitted as information
+C. Rejected by nmachine recipients
+D. Potentially damaging
+E. Possibly true
+ANSWER: E

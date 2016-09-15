@@ -311,6 +311,8 @@ Thus far we have considered the important differences between data, information 
 
 But it is to where we are going that is important. Machines now support every aspect of knowledge creation, and systems are learning how to learn at an astounding pace. We will return to these basic tenets in later chapters when we consider automation, machine learning, and computing on a massive scale. We will talk about your future and indeed about our past and how we might recreate it in the very near future. 
 
+Move on now to the Backstory sub-chapter for important backfil. 
+
 **Go Figure #1. Random SC advert**
 <div>
 <iframe width="800" height="491" src="https://www.powtoon.com/embed/fdjbos4uIyd/" frameborder="0" allowfullscreen></iframe>

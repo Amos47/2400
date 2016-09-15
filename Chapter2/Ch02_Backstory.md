@@ -1,5 +1,7 @@
 ##Chapter 2 - Backstory ![Flashlight](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png)
 
+Make sure to read the Basics main-chapter before reading this.
+
 ### The five faces of information
 Below is an infographic of sorts, showing the five *faces* of information. The faces and their characteristics are from a (highly recommended) 2012 book by *Joel Katz* entitled *Designing Information: Human factor and common sense in design* (2012, John Wiley & Sons).  
 <a name="katz"></a>
@@ -7,7 +9,7 @@ Below is an infographic of sorts, showing the five *faces* of information. The f
 
 ![Nature of information](https://raw.githubusercontent.com/robertriordan/2400/master/Images/nature_of_info.png)
 
-Here in this chapter, as almost always, many authors use the term *information when they actually mean data* (if you agree with my interpretation and definition). As a rule of thumb, when experts here are talking about exchanging information, in most cases they mean data. A message, for example, such as the spoken word is simply a stream of sounds. It's only information (capable of causing change) when it's interpreted by the recipient and mapped onto concepts that are familiar to her or him. Someone yelling "Fire!" in a language that I don't understand is not information. It's sounds that I can't measure or calibrate or interpret. It's data. Please remain clear on this despite all the loose talk in this chapter.  
+Here in this chapter, as almost always, many authors use the term *information when they actually mean data* (if you agree with my interpretation and definition). As a rule of thumb, when experts here are talking about exchanging information, in most cases they mean data. A message, for example, such as the spoken word is simply a stream of sounds. It's only information (capable of causing change) when it's interpreted by a recipient and mapped onto concepts that are familiar to that recipient - be they human or machine. Someone yelling "Fire!" in a language that I don't understand is not information. It's sounds that I can't measure or calibrate or interpret. It's data. Please remain clear on this despite all the loose talk in this chapter.  
 
 I have arranged Katz’s five types into three groups, then ranked them in terms of their importance to us as students of business. Moreover, I have added a column delineating the approach taken by ICT to the challenge of how to deal with each group. Let’s begin at the bottom, and explain each in turn. 
 
@@ -19,7 +21,7 @@ We need to contextualise the input data in order to create information sufficien
 
 #### Non-information
 Non-information is described by Katz as being possibly true (thus perhaps untrue), probably unimportant (perhaps we can ignore it) and/or possibly confusing (not well enough explained or contextualised to allow for understanding). The ICT approach is likely to monitor and filter. If the information is deemed to be of no impact, the ICT response could be to filter it out and remove it from consideration by our company. If deemed potentially relevant, we might conclude that the survey information passes the non-information test, thus we retain it and move up the ladder. Our organisation might have a simple system in place to monitor electronic news services and social media flows looking for keywords (the name *Sparkl Tootpaste* for example, and perhaps negative and positive words in the context). Such monitoring might allow the system to decide whether to move the status of the news item up the scale to alert. News items that fail to meet a minimum criteria would likely be filtered out and not subject to further scrutiny. Thus we are removing potentially *entropic* elements from our data stream. Taking the static off the line. (See under *Disinformation* below for an example of such content monitoring and filtering.)
-
+ 
 #### Un-information
 Next up is un-information as we move into the orange zone of importance. This is a curious category indeed, but information here is more important (potentially more impactful) than is non-information. It’s slightly up the *fudge scale* in terms of perceived truth, going from only ‘possibly true’ to ‘probably not untrue’ - talk about a fine distinction! It remains probably unimportant, but has moved up the scale from confusing to possibly interesting. We have then, in this situation, some input data that is at least potentially interesting to us at Sparkl. The ICT response might be to alert the firm to the existence and location of the information, and wait for a knowledge worker (who might be you) to decide whether the information warrants escalation or disposal. This is akin to The Toronto Star's shunting potentially dangerous comments to a siding to wait for a real person to take a look at them. 
 
@@ -407,3 +409,5 @@ While a bit dated, in a liquidinformation.org piece representing probably the ab
 
 [Interested?](http://www.liquidinformation.org/information_history.html) {read just the *Computation* sub-section including the *When will it end?* piece]
 
+###Takeaways
+That's it for Chapter 2. We have seen how entropy ... 

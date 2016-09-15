@@ -17,7 +17,7 @@ They continue that, “A measurement system can be accurate but not precise, pre
 Furthermore, “A measurement system is considered valid if it is both accurate and precise. Related terms include bias (non-random or directed effects caused by a factor or factors unrelated to the independent variable) and error (random variability).
 
 #### Another view
-According to ISO 5725-1, Accuracy consists of Trueness (proximity of measurement results to the true value) and Precision (repeatability or reproducibility of the measurement). Furthermore, the terms *trueness* and *precision* are both used to describe the accuracy of a measurement. Trueness refers to the closeness of the mean of the measurement results to the actual (true) value and precision refers to the closeness of agreement within individual results. Therefore, according to the ISO standard, the term "accuracy" refers to both trueness and precision.
+According to ISO 5725-1, Accuracy consists of Trueness (proximity of measurement results to the true value) and Precision (repeatability or reproducibility of the measurement). Furthermore, the terms *trueness* and *precision* are both used to describe the accuracy of a measurement. Trueness refers to the closeness of the mean of the measurement results to the actual (true) value and precision refers to the closeness of agreement across individual results. Therefore, according to the ISO standard, the term "accuracy" refers to both trueness and precision.
 
 **Figure SMC. Low accuracy: poor precision, good trueness**  
 
