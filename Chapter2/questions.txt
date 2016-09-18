@@ -25,7 +25,7 @@ ANSWER: C
 Sparkl and nuGrill are:
 A. Data transmission protocols
 B. iPhone apps to assess communication frequency
-C. Researchers at the Harvard School of Public Health
+C. Researchers at the Queen's School for the Study of Communication
 D. Fictitious competitors in the tootpaste segment of the dental hygeine industry
 E. None of the above are correct
 ANSWER: D
@@ -36,4 +36,404 @@ B. Frequently transmitted as information
 C. Rejected by nmachine recipients
 D. Potentially damaging
 E. Possibly true
+ANSWER: E
+
+According to Katz, which of the following is characterised as being possibly true, probably unimportant and/or possibly confusing? 
+A. Non-information
+B. Uninformation
+C. Disinformation
+D. Misinformation
+E. Information
+ANSWER: A
+
+Un-information is potentially more _____ than non-information. 
+A. Damaging
+B. Interesting
+C. Important
+D. Misleading
+E. B and C are correct
+ANSWER: B
+
+According to Katz, dis-information is: 
+A. unintentionally misleading
+B. not potentially damaging
+C. deliberately not true
+D. the same as misinformation
+E. non-critical
+ANSWER: C
+
+Exformation is: 
+A. the opposite of information
+B. potentially damaging
+C. the same as non-information
+D. shared context
+E. A and B are correct
+ANSWER: D
+
+"Effective communication depends on a shared body of knowledge between the persons communicating." This sentence describes: 
+A. information
+B. non-information
+C. un-information
+D. disinformation
+E. exformation
+ANSWER: E
+
+Author Victor Hugo and his publisher exchanged messages concsisting of which two characters below? 
+A. ? and !
+B. ? and $
+C. $ and Y
+D. ? and N
+E. Y and N
+ANSWER: A
+
+Exformation can be described as _____: 
+A. latency
+B. common sense
+C. failed communication
+D. unintended context
+E. published data
+ANSWER: B
+
+If Sir John A. Macdonald were transported to today, he would suffer from a lack of_____? 
+A. common language
+B. common decency
+C. exformation
+D. blended whiskey
+E. culture
+ANSWER: C
+
+The plot.ly graph high school exit examination scores in Poland showed: 
+A. Heaping at the 100% level
+B. a sharp decline in the number of students as the distribution approaches 30
+C. No student scores of 29
+D. An odd distribution around the cut-off score of 30
+E. All of the above are correct
+ANSWER: D
+
+Facts are? 
+A. information
+B. measurement
+C. metrics
+D. knowledge
+E. data
+ANSWER: E
+
+The sentence "Models, policies, rules, or standards that govern which data is collected, and how it is stored, arranged, and put to use in a database system, and/or in an organization." describes: 
+A. Data architecture
+B. Systems development
+C. Information
+D. Exformation
+E. Latency
+ANSWER: A
+
+Which of the following is a goal of Information Architecture? 
+A. to determine how we are performing
+B. to understand our place in the market
+C. to determine how to move forward
+D. to reply to our employees, customers, stakeholders, regulators, partners and even competitors
+E. All of the above
+ANSWER: E
+
+In the physical sciences the _____ associated with a situation is a measure of the degree of randomness.
+A. latency
+B. entropy
+C. variation
+D. exformation
+E. acceleration
+ANSWER: B
+
+Entropy is the friend of _____ but the enemy of good _____. 
+A. interpretation/structure
+B. organisation/understanding
+C. data volume/decision making
+D. messaging/understanding
+E. None of the above are correct
+ANSWER: C
+
+Because we care both that messaging is occuring and what is being messaged: 
+A. Shannon is our man
+B. Neither Weiner nor Shannon were right about information
+C. Both Weinder and Shannon were wrong about entropy
+D. Weiner is our man
+E. Business needs a new model of information flows
+ANSWER: D
+
+Analog is the real _____ of nature. 
+A. numbers
+B. integers
+C. digits
+D. resolution 
+E. distribution
+ANSWER: A
+
+The letters R, G and B refer to what? 
+A. Primary colours
+B. Red, Green and Blue
+C. Invisible spectrum colours 
+D. X-ray wavelengths
+E. Robertson, Gregoire and Barbara (the inventors of the RGB scale)
+ANSWER: B
+
+Digital is to analog as: 
+A. wavelength is to velocity
+B. colour is to sound
+C. integers are to real numbers
+D. signal is to noise
+E. data is to information
+ANSWER: C
+
+As resolution increases, so increases _____. 
+A. information
+B. entropy
+C. dis-information
+D. data
+E. analog
+ANSWER: D
+
+If we can't tell the difference between a digital and an alalog representation of something, then it's _____. 
+A. a problem of latency
+B. exformation
+C. information
+D. not numerical
+E. good enough
+ANSWER: E
+
+Kianu Reeves and Lawrence Fishburn starreed in what iconic 1999 thriller? 
+A. The Matrix
+B. Integers Gone Wild!
+C. Latency be damned
+D. Whose bits are they anyways?
+E. Seinfeld
+ANSWER: A
+
+Sensors are _____ than beacons. 
+A. smaller
+B. more sophisticated 
+C. larger
+D. less functional
+E. more costly
+ANSWER: B
+
+Beacons are _____ than sensors. 
+A. cheaper
+B. lighter
+C. less functional
+D. more widely used
+E. more independant
+ANSWER: C
+
+Beacons send a message like _____. 
+A. Here I am!
+B. I am here!
+C. Where are you?
+D. A and B are correct
+E. A and C are correct
+ANSWER: D
+
+iBeacons allow for which activities? 
+A. location tracking
+B. application launching
+C. proximity sensing
+D. electronic payment
+E. A, B and C are correct
+ANSWER: E
+
+Beacons can _____. 
+A. allow for the calculation of secondary indicators
+B. marshal legacy data
+C. provide exformational context
+D. A and B are correct
+E. None of the above are correct
+ANSWER: A
+
+The Black Box in an airplane is an example of a(n)_____. 
+A. sensor
+B. beacon
+C. legacy data
+D. application
+E. geo-fence
+ANSWER: B
+
+THe new go-to technology to prevent unauthorised drones around airports is _____. 
+A. aircraft black box
+B. beacons
+C. geo-fencing
+D. narrowcasting
+E. broadcasting
+ANSWER: C
+
+M-commerce is facilitated by? 
+A. text messaging
+B. mobile payment systems
+C. location services
+D. B and C are correct
+E. A and B are correct
+ANSWER: D
+
+Mobile payment systems are _____ financial institutions. 
+A. thumping
+B. disenfranchising
+C. supporting
+D. facilitating
+E. disintermediating
+ANSWER: E
+
+The Wagon Wheel Effect is often seen _____. 
+A. in old western movies
+B. The Matrix
+C. marketing studies
+D. beacons and sensors
+E. geo-fencing
+ANSWER: A
+
+The resolution of a sensor is _____. 
+A. the intersection of digital and analog
+B. the smallest change it can detect in the quantity that it is measuring
+C. the number of pixels in a display
+D. demonstrated by the Wagon Wheel Effect
+E. None of the above is correct (and yes, this is proper grammar :)
+ANSWER: B
+
+Context is the same as? 
+A. circumstance
+B. setting
+C. circumstance and setting
+D. network
+E. awareness and agility
+ANSWER: C
+
+Data becomes information when located in a(n) _____. 
+A. environment
+B. legacy system
+C. exformational matrix
+D. context
+E. frame of reference
+ANSWER: D
+
+The 6 Ts of context are? 
+A. Time, Terroir, Trajectory, Terrain, Table, Tools
+B. Tables, Tradition, Territory, Terrain, Trends, Tools
+C. Time, Tags, Tools, Trial (and error), Traps, Trends
+D. Trajectory, Terrain, Trial, Trends, Tools, Teams
+E. Time, Terroir, Team, Trail, Task, Tools
+ANSWER: E
+
+Which of the 6 Ts of context is not strictly required to be present for a context to occur? 
+A. Task
+B. Time
+C. Terroir
+D. Trail
+E. Tools
+ANSWER: A
+
+"If a piece of information can be used to characterize the situation of a participant in an interaction, then that information is _____." 
+A. exformation
+B. context
+C. terroir
+D. trajectory
+E. timely
+ANSWER: B
+
+The opposite of context is? 
+A. content
+B. tool
+C. vacuum
+D. task
+E. terroir
+ANSWER: C
+
+Nescience is _____. 
+A. context
+B. content
+C. the scientific method
+D. the utter absence of knowledge
+E. the step before learning
+ANSWER: D
+
+_____ is a concept whereas _____ is tangible data. 
+A. Knowledge/learning
+B. Measurement/measuring
+C. Wisdom/knowledge
+D. Vacuum/emptiness
+E. Length/6 cm.
+ANSWER: E
+
+How many contexts are required in order to generate new knowledge?  
+A. 2
+B. 1
+C. 3
+D. None
+E. 5
+ANSWER: A
+
+The feedback loop in the knowledge creation process can also be thought of as? 
+A. exformation
+B. experience
+C. new information
+D. context
+E. wisdom
+ANSWER: B
+
+A loose translation of 'tabula rasa' is? 
+A. Context
+B. Information
+C. Blank slate
+D. Red table
+E. Rosé wine
+ANSWER: C
+
+A rudimentary _____ is created when a child first encounters a dog. 
+A. feedback loop
+B. context
+C. information matrix
+D. schema
+E. interpretation
+ANSWER: D
+
+Artificial Intelleigence researchers have given up trying to create rules for machines to teach them to recognise objects. Instead, they are now ___. 
+A. using the 'tabula rasa' approach
+B. teaching the machines through code-based algorithms
+C. allowing machines to discover objects in the wild
+D. hiding the context of discovery and allowing machines to create their own
+E. showing machines large quantities of pictures of an object with a label and allowing the machines to make their own rules
+ANSWER: E
+
+ICT impacts or is impacted by how many of the 11 discrete areas of the knowledge creation process? 
+A. all 11
+B. each of the 11 except for the contexts
+C. only the 4 between the inner contexts
+D. none - ICT cannot directly impact knowledge creation
+E. what knowledge creation process?
+ANSWER: A
+
+From the beginning of time until 2003, humanity generated about 5 exabytes of data. How long does it currently take us to generate that much data? 
+A. 2 years
+B. 2 days
+C. 10 years
+D. 2 minutes
+E. 5 days
+ANSWER: B
+
+The operating system (iOS, Windows, Android) function to assemble and package data for transport is referred to as _____. 
+A. packaging
+B. assembly
+C. marshalling
+D. concatenation
+E. email
+ANSWER: C
+
+The hardware cost (in 2013 USD) to compute at the rate of 1 GFLOP has dropped from _____ to _____ between 1961 and 2015. 
+A. $6 million / $60
+B. $8.3 billion / $83 million
+C. $83 trillion / $8 trillion
+D. $8.3 trillion / $0.08
+E. It is impossible to compute at that rate
+ANSWER: D
+
+GFLOPS stands for? 
+A. the floppy disk drives on old school computers
+B. the failure rate of integer calculations 
+C. graphical system operations
+D. the resoultion necessary for liquid information
+E. the power to execute 1 billion floating point calculations per second
 ANSWER: E
