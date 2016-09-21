@@ -26,15 +26,15 @@ Looking at the *target practice* image above, we immediately see that no one sho
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
 
-Here we have a different situation. While again not even one attempt was dead centre, all four were clustered closely to the left and below the *pay dirt* area. Still a situation of *low accuracy*. But in this case, the *precision* is excellent. The attempts are very closely clustered together and are thus very precise. But they are *consistently* wrong. As if some technical difficulty is introducing bias into the process (a crooked site perhaps?) causing an otherwise great set of attempts to be consistently wrong. 
+Here we have a different situation. While again no attempt was dead centre, all four were clustered closely to the left and below the *pay dirt* area. Still a situation of *low accuracy*. But in this case, the *precision* is excellent. The attempts are very closely clustered together and are thus very precise. But they are *consistently* wrong. As if some technical difficulty is introducing bias into the process (a crooked site perhaps?) causing an otherwise great set of attempts to be consistently wrong. 
 
 *Source: [Wikipedia accuracy and precision](http://en.wikipedia.org/wiki/Accuracy_and_precision). Image sources: Credit DarkEvil (public domain)*
 
-Finally, "According to ISO 5725-1, the general term *accuracy* is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same *measurand* [see this reference to understand the term *measurand*](http://en.wiktionary.org/wiki/measurand), it involves a component of random error and a component of systematic error. [...] *trueness* [and thus accuracy] is the closeness of the mean of a set of measurement results to the actual (true) value and *precision* is the closeness of agreement among a set of results." 
+Finally, "According to ISO 5725-1, the general term *accuracy* is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same *measurand* [see this reference to understand the term *measurand*](http://en.wiktionary.org/wiki/measurand), it involves a component of random error and a component of systematic error. [...] *trueness* [and thus accuracy] is the closeness of the mean of a set of measurement results to the actual (true) value and *precision* is the closeness of agreement among a set of results." Figure SR illustrates the terms visually. 
 
-**Figure SR. Precision and trueness of measurement**
+**Figure SR. Precision and accuracy of measurement**
 
-![Accuracy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/accuracy_new.png)
+![Accuracy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/accuracy_final.png)
 
 The Wikipedia article continues that, “The terminology is also applied to indirect measurements — that is, values obtained by a computational procedure from observed data. In addition to accuracy and precision, measurements may also have a measurement resolution, which is the smallest change in the underlying physical quantity that produces a response in the measurement. In numerical analysis, accuracy is also the nearness of a calculation to the true value; while precision is the resolution of the representation, typically defined by the number of decimal or binary digits.”
 
