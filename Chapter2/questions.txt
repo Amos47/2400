@@ -26,7 +26,7 @@ Sparkl and nuGrill are:
 A. Data transmission protocols
 B. iPhone apps to assess communication frequency
 C. Researchers at the Queen's School for the Study of Communication
-D. Fictitious competitors in the tootpaste segment of the dental hygeine industry
+D. Fictitious competitors in the toothpaste segment of the dental hygiene industry
 E. None of the above are correct
 ANSWER: D
 
@@ -78,7 +78,7 @@ D. disinformation
 E. exformation
 ANSWER: E
 
-Author Victor Hugo and his publisher exchanged messages concsisting of which two characters below? 
+Author Victor Hugo and his publisher exchanged messages consisting of which two characters below? 
 A. ? and !
 B. ? and $
 C. $ and Y
@@ -190,7 +190,7 @@ D. data
 E. analog
 ANSWER: D
 
-If we can't tell the difference between a digital and an alalog representation of something, then it's _____. 
+If we can't tell the difference between a digital and an analog representation of something, then it's _____. 
 A. a problem of latency
 B. exformation
 C. information

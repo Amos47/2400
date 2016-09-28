@@ -96,5 +96,5 @@ The Project Management Institute (PMI) promotes a five-step Project Management L
 
 [Interested in PMLC?](http://www.mpmm.com/project-management-methodology.php)
 
-
+And that's Chapter 3 all over! 
 
