@@ -172,7 +172,7 @@ To make the decision about how to commission a new system in an organisation, a 
 | Consideration | Build if | Buy if |
 | :- | :- | :- |
 | 1. System size and complexity | The requirement is for a small, simple,*ad hoc* system | You need a big, complex system, or if an adequate COTS solution exists and is cost-effective |
-| 2. Strategic necessity | Not strategic and/or limited operational impact | Strategically important and/or significant operational impact |
+| 2. Strategic necessity | Strategically important and/or significant operational impact | Not strategic and/or limited operational impact |
 | 3. Timeline | Plenty of time to get it right | A tight delivery timeline |
 | 4. Uniqueness | Unique or proprietary or might expose a trade secret or competitive advantage | Ordinary, garden-variety with no secret sauce |
 | 5. In-house talent | Have a dedicated, well-funded and persistent systems development resources | No real competence in development |
