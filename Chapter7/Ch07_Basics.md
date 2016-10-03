@@ -559,18 +559,13 @@ Data analysis tools are every bit as important as the data itself. Without them,
 
 <a class="underlined-link" href="https://public.tableau.com/views/Facebookatlas/FacebookAtlas?:embed=y&:loadOrderID=0&:display_count=yes" target="_blank">Open Tableau and view visualisation.</a>
 
-###Analysis - big data
-Below are some tools commonly used to analyse big data, a concept we introduced in a Crew Challenge in class.
+###Analysis - Big Data
+Below are some tools commonly used to analyse *Big Data*, a concept we introduced in a Crew Challenge in class.
  
-- 	Gapminder 
-- 	Hadoop
-- 	R
-- 	Data mining
-- 	Infographics
-- 	Visualisation
-- 	D3 (Data Driven Document)
+- 	<a class="underlined-link" href="https://www.gapminder.org/" target="_blank">Interested in Gapminder?</a>
+- 	<a class="underlined-link" href="http://hortonworks.com/apache/hadoop" target="_blank">Interested in Hadoop?</a>
+- 	<a class="underlined-link" href="https://www.r-project.org/about.html" target="_blank">Interested in R?</a>
+- 	<a class="underlined-link" href="http://www.anderson.ucla.edu/faculty/jason.frand/teacher/technologies/palace/datamining.htm" target="_blank">Interested in Data Mining?</a>
+- 	<a class="underlined-link" href="https://www.customermagnetism.com/infographics/what-is-an-infographic/" target="_blank">Interested in Infographics?</a>
  
-We should also consider *Unstructured data* and *sentiment analysis* if we want to cover the full spectrum of toolsavailable for making sense of data.
-
-
-VBA automation in XL and Access and other Office products
+We should also consider *sentiment analysis* if we want to cover the full spectrum of tools available for making sense of data. <a class="underlined-link" href="https://www.iprospect.com/en/ca/blog/10-sentiment-analysis-tools-track-social-marketing-success/" target="_blank">Interested in Sentiment Analysis?</a> 
