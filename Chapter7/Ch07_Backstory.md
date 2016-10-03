@@ -173,16 +173,11 @@ All manner of communication protocols like Bluetooth, etc.
 
 
 - Bluetooth - According to Wikipedia (accessed October 2, 2016) "Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[4]) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization." Bluetooth is primarily used to connect devices such as speakers, headphones and other short-range devices to smart phones. <a class="underlined-link" href="https://www.bluetooth.com/" target="_blank">Interested in where Bluetooth is going?</a>
-- RFID (Radio Frequency Identification). RFID 
+- RFID (Radio Frequency Identification). RFID provides unique identification for an object.. Much like a bar code or the magnetic strip on the back of a credit card, RFID scanners can retrieve basic information about an object from a distance of about 6 metres (20 feet) for high-frequency scanners. And unlike bar code scanners for exaple, orientation doesn't matter for RFID. Theoretically, you could put all your grocery purchases in a bag and set it on an RFID scanner and all would be scanned without the troublesome swiping and aligning that's necessary with bar code readers. <a class="underlined-link" href="http://www.technovelgy.com/ct/Technology-Article.asp?ArtNum=2" target="_blank">Interested?</a>
 - NFC (Near Field Communication) NFC descended from RFID technology and is the "magic" behind "tap-and-go" technology found in payment cards, for example. NFC does not require a "pairing handshake" as does Bluetooth and has a very low power requirement. All that is necessary to exchange data is to being an NFC device close to a reader. <a class="underlined-link" href="http://www.techradar.com/news/phone-and-communications/what-is-nfc-and-why-is-it-in-your-phone-948410" target="_blank">Interested?</a>  
-- Client-server
-- P2P
+- Client-server. The largest implementation of client-server architecture is the Internet. Clients (that's you and me) can make requests for services (data) from servers (machines that hold the data we want). We make requests of those machines, which *serve* the data back to us. Various specialised machines and architectures provide a wide range of services. There are specialised machines for database, video, voice, email and a range of others. <a class="underlined-link" href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model" target="_blank">Interested?</a>
+- P2P - Peer-to-Peer networks. According the Wikipedia "Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or work loads between peers [machines of equal standing on the network - unlike the client-server model where servers have more power and privilege]. Peers are equally privileged, equipotent [same power] participants in the application. They are said to form a peer-to-peer network of nodes." Early file-sharing networks (Napster, for example) used P2P to their advantage. <a class="underlined-link" href="https://en.wikipedia.org/wiki/Peer-to-peer" target="_blank">Interested?</a>
 
 For a comprehensive treatment of networks (not required reading but pretty interesting anyway) see [this Wikipedia article](https://en.wikipedia.org/wiki/Computer_network). 
 
-Internet access source: http://www.itu.int/net4/ITU-D/idi/2015/index.html?#idi2015comparison-tab
-
-Stage 1: ICT readiness – reflecting the level of networked infrastructure and access to ICTs;
-Stage 2: ICT intensity – reflecting the level of use of ICTs in the society; and
-
-For definition of CIS countries: http://www.worldatlas.com/aatlas/infopage/cis.htm
+That's it for Chapter 7!

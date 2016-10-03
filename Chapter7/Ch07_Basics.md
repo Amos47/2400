@@ -569,3 +569,6 @@ Below are some tools commonly used to analyse *Big Data*, a concept we introduce
 - 	<a class="underlined-link" href="https://www.customermagnetism.com/infographics/what-is-an-infographic/" target="_blank">Interested in Infographics?</a>
  
 We should also consider *sentiment analysis* if we want to cover the full spectrum of tools available for making sense of data. <a class="underlined-link" href="https://www.iprospect.com/en/ca/blog/10-sentiment-analysis-tools-track-social-marketing-success/" target="_blank">Interested in Sentiment Analysis?</a> 
+
+
+Move on to *Backstory* now. 
