@@ -1,3 +1,7 @@
 ##Chapter 7 - Brief ![Brief](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/suitcase_7.png)
 
-In this chapter we consider the process of developing systems. 
+In this chapter we consider how computers work, and take a high-level view of several important topics. But we still get into the weeds and consider some fairly low-level details.
+
+We start with how computers work. Be sure to follow the link early in the chapter to learn about the difference between *system* and *application* software, as well as about the various species of hardware. We get down with ASCII (how things are represented in machines), introduce Boolean logic and then motor right into *Design Thinking*, perhaps the hottest topic in systems design at the moment. We continue down the systems design path with a consideration of *interface design* and a high-level look at a flavour of *Object-oriented Programming* (OOP). We round it out with a fairly low-level look at *Database Design*, focusing on Microsoft Access. We introduce the fourth-generation language (4GL) *Structured Query Language* (or SQL).  We finish off with a tornado of Interested links focusing on tools for big data analysis. 
+
+Read the *Basics* sub-chapter first, then tackle the *Backstory.*

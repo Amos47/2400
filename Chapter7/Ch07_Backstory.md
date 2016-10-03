@@ -171,12 +171,14 @@ Thus a port is simply a place that accepts incoming communication, just like a s
 
 All manner of communication protocols like Bluetooth, etc. 
 
-Bluetooth
-NFC
-Client-server
-P2P
 
-FOr a comprehensive treatment of networks (not required reading but pretty interesting anyway) see [this Wikipedia article](https://en.wikipedia.org/wiki/Computer_network). 
+- Bluetooth - According to Wikipedia (accessed October 2, 2016) "Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[4]) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization." Bluetooth is primarily used to connect devices such as speakers, headphones and other short-range devices to smart phones. <a class="underlined-link" href="https://www.bluetooth.com/" target="_blank">Interested in where Bluetooth is going?</a>
+- RFID (Radio Frequency Identification). RFID 
+- NFC (Near Field Communication) NFC descended from RFID technology and is the "magic" behind "tap-and-go" technology found in payment cards, for example. NFC does not require a "pairing handshake" as does Bluetooth and has a very low power requirement. All that is necessary to exchange data is to being an NFC device close to a reader. <a class="underlined-link" href="http://www.techradar.com/news/phone-and-communications/what-is-nfc-and-why-is-it-in-your-phone-948410" target="_blank">Interested?</a>  
+- Client-server
+- P2P
+
+For a comprehensive treatment of networks (not required reading but pretty interesting anyway) see [this Wikipedia article](https://en.wikipedia.org/wiki/Computer_network). 
 
 Internet access source: http://www.itu.int/net4/ITU-D/idi/2015/index.html?#idi2015comparison-tab
 
