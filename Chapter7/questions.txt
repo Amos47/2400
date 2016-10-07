@@ -1,0 +1,407 @@
+A computer is an example of:
+A. A basic Input -> Process -> Output system
+B. An information storage device
+C. An operating system
+D. System software
+E. Application software
+ANSWER: A
+
+A computer is an electronic machine that _____. 
+A. transmits to a printer
+B. processes data (some say information)
+C. organises output
+D. None of the above
+E. A, B and C are correct
+ANSWER: B
+
+A computer differs from a classic system in that it includes _____. 
+A. no feedback loop
+B. access to new functions
+C. a memory component
+D. a spreadsheet
+E. a central processing unit (CPU)
+ANSWER: C
+
+Everything a computer does, from helping you to edit a photograph to displaying a web page, involves _____. 
+A. a database
+B. spreadsheet functions
+C. creating input streams
+D. manipulating numbers
+E. internal calculations
+ANSWER: D
+
+Software is called "soft" because it's _____. 
+A. easily offended
+B. not hard to create
+C. not easily nailed down
+D. manipulating numbers
+E. easily changed
+ANSWER: E
+
+Humans use a "base 10" numbering system modelled after _____. 
+A. our 10 fingers and toes
+B. the metric system
+C. the British system of weights and measures
+D. the number of planets
+E. no other answer is correct
+ANSWER: A
+
+Bit is an acronym from _____. 
+A. bilateral transit
+B. binary digit
+C. bit or byte
+D. big digit
+E. binary logit
+ANSWER: B
+
+An eight bit byte can store _____ numbers. 
+A. 255
+B. 8
+C. 256
+D. 64
+E. real
+ANSWER: C
+
+From where did the ASCII coding scheme used by computers descend? 
+A. Shannon's entropy
+B. RGB colour coding
+C. American English alpha codes
+D. telegraph codes
+E. George Boole's numbering system
+ANSWER: D
+
+In ASCII, uppercase 'B' and lowercase 'b' _____. 
+A. have the same numeric value
+B. are separated by exactly 256 bits
+C. are represented by the same pattern of bits
+D. cannot be represented
+E. have different numeric values
+ANSWER: E
+
+The blank space character in ASCII _____. 
+A. has its own code
+B. is not represented
+C. is exactly half the value of a binary digit
+D. cannot be changed
+E. is easily changed
+ANSWER: A
+
+Computer fonts are _____. 
+A. often shown as ASCII values only
+B. pictures of what we want to represent
+C. are only used in writing papers
+D. used for manipulating numbers
+E. not easily managed
+ANSWER: B
+
+The phrase 'The quick brown fox jumps over the lazy dog' is seen in connection with fonts because _____. 
+A. it's long enough to get a good look at the font
+B. no animals were harmed in the making of that phrase
+C. it contains all 26 letters of the alphabet
+D. it shows both UPPER and lowercase characters
+E. this is the only correct answer
+ANSWER: C
+
+Font 'decoration' such as bold and italic _____. 
+A. use the same font set
+B. are only marginally different from other fonts
+C. are mainly used in graphic design
+D. require an entirely different set of fonts
+E. are not easily designed
+ANSWER: D
+
+A system 'frontend' is? 
+A. a mirror image of a backend
+B. always connected to a database
+C. used for processing
+D. always stored in the cloud
+E. different than a backend
+ANSWER: E
+
+The 'cloud' is another way to say _____. 
+A. remote
+B. local
+C. database
+D. backend
+E. frontend
+ANSWER: A
+
+A system 'backend' provides _____. 
+A. processing power
+B. permanent storage
+C. database management
+D. RAM
+E. local storage
+ANSWER: B
+
+Processing _____. 
+A. always involves database
+B. never uses cloud storage
+C. can occur locally or remotely
+D. always involves the cloud
+E. occurs in RAM
+ANSWER: C
+
+Monospaced fonts _____. 
+A. are the mirror image of each other
+B. cannot be shown on screen
+C. cannot be stored in RAM
+D. use the same space no matter what the character
+E. are Serif fonts only
+ANSWER: D
+
+Your cell phone has _____. 
+A. the most efficient frontend possible
+B. evolved from system backend research
+C. no local processing power
+D. a variable connection to the cloud
+E. more computing power than all of NASA in 1969
+ANSWER: E
+
+Processing can be done _____. 
+A. both locally and remotely
+B. locally (in RAM) only
+C. only remotely if you are on WiFi
+D. is never done locally
+E. is always done remotely
+ANSWER: A
+
+An interface is where _____. 
+A. processing occurs
+B. systems talk to each other and exchange stuff
+C. databases manage data
+D. processing meets RAM
+E. the system backend stops
+ANSWER: B
+
+An interface is a(n) _____. 
+A. system concept
+B. processing system
+C. meeting place
+D. analog construct
+E. database entity
+ANSWER: C
+
+Design Thinking has _____.? 
+A. 2 overarching constructs
+B. 6 overarching constructs with 6 phases each 
+C. no place in the modern systems design infrastructure
+D. 6 phases
+E. this is the correct answer
+ANSWER: D
+
+Design Thinking is? 
+A. focussed on processing speed.
+B. focussed on system efficiency.
+C. not focussed on system quality.
+D. not used in system design unless the SDLC is the chosen development method.
+E. focussed on the user.
+ANSWER: E
+
+Which is the correct sequence followed in Design Thinking? 
+A. empathise, define, ideate, prototype, test, implement
+B. empathise, define, ideate, prototype, implement, test
+C. define, empathise, ideate, prototype, test, implement
+D. empathise, define, prototype, ideate, test, implement
+E. prototype, empathise, define, ideate, test, implement
+ANSWER: A
+
+An 'intuitive' interface _____. 
+A. suggests to the user how to use the system
+B. all of these answers are correct
+C. makes users feel smart
+D. is like a work of art
+E. provides visual cues to the function of the system
+ANSWER: B
+
+'Affordance' is defined as _____. 
+A. the cost of systems development
+B. a synonym of effectiveness
+C. A visual clue to the function of an object
+D. the ease of use on an interface
+E. user acceptance testing
+ANSWER: C
+
+Interface design is a form of _____, much like sign painting. 
+A. Design Thinking
+B. processing
+C. signal processing
+D. communication
+E. user interaction
+ANSWER: D
+
+Laser printing, the computer mouse, windows, Ethernet and object-oriented programming were all developed at _____. 
+A. Microsoft
+B. Apple
+C. Google
+D. Amazon
+E. Xerox PARC
+ANSWER: E
+
+A large part of the 'miniaturisation' of computing has been driven by: 
+A. icons
+B. interfaces
+C. databases
+D. frontends
+E. backends
+ANSWER: A
+
+In object-oriented programming, which of the following are considered objects? 
+A. file folders
+B. all of these answers are correct
+C. command buttons
+D. printer icons
+E. a single cell in a spreadsheet
+ANSWER: B
+
+In object-oriented programming, the characteristics of objects are referred to as: 
+A. processors
+B. entities
+C. properties
+D. objects
+E. commands
+ANSWER: C
+
+Gestalt explains grouping of objects using:
+A. proximity and size
+B. size and colour
+C. colour and proximity
+D. proximity, size and colour 
+E. none of these answers is correct
+ANSWER: D
+
+In object-oriented programming, code is executed in response to _____. 
+A. system speed
+B. affordance
+C. sequentionality
+D. user input
+E. events
+ANSWER: E
+
+Everyday examples of a database include:
+A. all of thease answers are correct
+B. dictionary
+C. building directory
+D. contact list
+E. TV schedule listing
+ANSWER: A
+
+In database terminology, CRUD stands for:
+A. Create, Refine, Update, Determine
+B. Create, Read, Update, Delete
+C. Control, Render, Undo, Determine
+D. Concatenate, Read, Undo, Delete
+E. None of the other answers is correct
+ANSWER: B
+
+Microsoft Access objects include:
+A. forms
+B. tables
+C. all of these answers is correct
+D. reports
+E. queries
+ANSWER: C
+
+In a database, tables are referred to as _____. 
+A. interfaces
+B. reports
+C. queries
+D. entities
+E. attributes
+ANSWER: D
+
+Every table in a database requires a(n) _____.
+A. foreign key (FK)
+B. one:many relationship
+C. many:many relationship
+D. CRUD
+E. primary key (PK)
+ANSWER: E
+
+In a database table, a 'field' represents a(n) _____.
+A. attribute
+B. entity
+C. relationship
+D. foreign key
+E. primary key
+ANSWER: A
+
+In a database, a 'record' represents a(n) _____. 
+A. a collection of entities
+B. collection of fields describing the entity
+C. user interface
+D. arbitrary selection of properties
+E. thing
+ANSWER: B
+
+The primary key from one table, when included in another table, becomes a(n) _____. 
+A. one:one relationship
+B. loose key
+C. foreign key
+D. native key
+E. liability
+ANSWER: C
+
+A necessary ingredient of an Entity-Relationship Diagram is a(n) _____. 
+A. report structure
+B. user interface
+C. Local Key
+D. Primary Key
+E. query language
+ANSWER: D
+
+SQL stands for? 
+A. Standard Query Language
+B. Structured Quantity Looping
+C. Storage Queue Location
+D. Symbolic Queueing Language
+E. Structure Query Language
+ANSWER: E
+
+Design Thinking is? 
+A. focussed on processing speed
+B. focussed on system efficiency
+C. not focussed on system quality
+D. not used in system design unless the SDLC is the chosen development method
+E. focussed on the user.
+ANSWER: E
+
+In database speak, ACID stands for: 
+A. Atomicity, Consistency, Isolation, Durability
+B. Attention, Creativity, Insulation, Decision
+C. Artistry, Creativity, Industry, Drama
+D. Assistance, Credibility, Information, Data
+E. Absolute, Credible, Information, Data
+ANSWER: A
+
+Every machine connected to the Internet requires a(n) _____.
+A. machine-readable interface
+B. Internet Protocol (IP) address
+C. router
+D. WiFi connection
+E. table of contents
+ANSWER: B
+
+When Area Codes (ACs) were being assigned in North America, the rule was?
+A. no area code could start with 1
+B. no area code could start with 0
+C. all of these answers are correct
+D. states/provinces with only one AC within their boundary were assigned an AC with a '0 as the middle number
+E. numbers were assigned based on population
+ANSWER: C
+
+The correct order of Network Communication Layers from top to bottom is:
+A. Hardware, Application, TCP, IP
+B. TCP, IP, Application, Hardware
+C. the order is not important
+D. Application, TCP, IP, Hardware
+E. the order depends on the application 
+ANSWER: D
+
+The 'magic' behind Tap-and-Go debit and credit cards is provided by:
+A. Bluetooth
+B. WiFi
+C. RFID
+D. P2P
+E. Near Field Communication (NFC)
+ANSWER: E
