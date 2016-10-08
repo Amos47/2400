@@ -410,7 +410,7 @@ Let's take a moment with the RUP flavour of Agile and dig into what a project us
 
 ![SDLC Phases](https://raw.githubusercontent.com/robertriordan/2400/master/Images/rup_cycle.png)
 
-Time for a little bit of unpacking here. The RUP process (this is the same as UP, don't get confused) is divided into *Disciplines*, which are akin to SDLC stages and they are listed down the left, vertical axis. Specific work is done by specialists in each stage. Business Analysts are busy in the Business Modelling phase. Systems Analysts and Designers are busy in the Analysis and Design phase. Testers are testing when the time comes. And so on. So it's no different from any other development effort - just slightly different terminology. And note they map *roughly* onto the *Activity Phases* of the generalised Agile process map in Figure NATP above. So we're getting somewhere...
+Time for a little bit of unpacking here. The RUP process (this is the same as UP, don't get confused) is divided into *Disciplines*, which are akin to SDLC stages and they are listed down the left, vertical axis. Specific work is done by specialists in each stage. Business Analysts are busy in the Business Modelling phase. Systems Analysts and Designers are busy in the Analysis and Design phase. Testers are testing when the time comes. And so on. So it's no different from any other development effort - just slightly different terminology. And note they map *roughly* onto the *Activity Phases* of the generalised Agile process map in Figure NATP above. We're getting somewhere...
 
 So that's the vertical axis defined: named *Disciplines*. Let's turn our attention to the horizontal dimensions, or *Phases*. Highest level, there are four phases of development in RUP, as shown in Table ECTA below. The corresponding Software Development Life Cycle stages are also shown. 
 
@@ -464,9 +464,9 @@ The contrast between Agile and the SDLC are illustrated in Table TB below, where
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. | SDLC delivers only as early as the testing phase, close to the end. |
 | Business people and developers must work together daily throughout the project. | Business analysts are involved only early in the process to provide requirements but then not again until testing, late in the game. |
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. | Systems developers are divorced from the business process and develop in a black box without continuous feedback from the business side. |
-| The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.  | Little communication between developers and developers and even less between developers and business analysts. |
+| The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.  | Little communication between developers and even less between developers and business analysts. |
 | Working software is the primary measure of progress.  | Adherence to milestones, cost certainty and incremental approval are measures of success. |
-| Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. | Pave of development is dictated by external sign-off and resource allocation. |
+| Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. | Pace of development is dictated by external sign-off and resource allocation. |
 | Continuous attention to technical excellence and good design enhances agility. | Parameters are determined at project outset and not reviewed continuously. |
 | Simplicity - the art of maximizing the amount of work not done is essential. | Steps are undertaken because they must be followed in order to get sign-off and are divorced from agility and/or improvement. |
 | The best architectures, requirements, and designs emerge from self-organizing teams. | Teams are organised around resource efficiency and cost certainty and not product excellence. |
@@ -500,15 +500,17 @@ Following is from the book entitled *Scrum: a Breathtakingly Brief and Agile Int
 
 The authors write that: 
 
->“Scrum is a lightweight framework designed to help small, close-knit teams of people develop complex products. The brainchild of a handful of software engineers working together in the late 20th Century, scrum has gained the most traction in the technology sector … A scrum team typically consists of around seven people [7 +/- 2] who work together in short, sustainable bursts of activity called sprints, with plenty of time for review and reflection built in. One of the mantras of scrum is “inspect and adapt,” and scrum teams are characterized by an intense focus on continuous improvement— improvement of their process, but also of the product.”
+>“Scrum is a lightweight framework designed to help small, close-knit teams of people develop complex products. The brainchild of a handful of software engineers working together in the late 20th Century, scrum has gained the most traction in the technology sector [...] A scrum team typically consists of around seven people [7 +/- 2] who work together in short, sustainable bursts of activity called sprints, with plenty of time for review and reflection built in. One of the mantras of scrum is “inspect and adapt,” and scrum teams are characterized by an intense focus on continuous improvement — improvement of their process, but also of the product.”
 
 [Interested?]( https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 
 A *sprint* is a development session (or *iteration* in standard Agile parlance), traditionally lasting anywhere from two weeks to a month (but never longer), during which time the steps in the agile iteration process (see Figure NAPT) are executed in one sequence from top to bottom. Scrum sprints are increasingly shorter now, many lasting only a week. The value in short sprints is that deliverable and value-creating software is output at the conclusion of each sprint, and adding value quickly is a good thing.
 
-Scrum is simple in its organisation and recognises only three what they call “roles”, *viz:* Product Owner, Scrim Master and Team Member. What’s the responsibility of each?
+Scrum is simple in its organisation and recognises only three what they call “roles”, *viz:* Product Owner, Scrum Master and Team Member. What’s the responsibility of each?
 
-The *Product Owner* is responsible for maximising the ROI from the investment in the system (And isn't ROI the very purpose of development in the first place?). They do so by actively directing efforts of the Scrum team towards ROI-enhancing activities and equally actively away from non-ROI-enhancing activities (such as much of the bureaucratic process inherent in the SDLC). They do so by controlling the *priority* of activities on the team’s *backlog* (more on this soon) and by ensuring that the team clearly understands the requirements – requirements than can and do evolve, change, morph and appear/disappear as the product matures. The owners accomplish this partly by recording the requirements in the shape of what are called *user stories* in the form of “As a {role}, I want feature {a feature} so that I can {accomplish something}.”  
+The *Product Owner* is responsible for maximising the ROI from the investment in the system (And isn't ROI the very purpose of development in the first place?). They do so by actively directing efforts of the Scrum team towards ROI-enhancing activities and equally actively away from non-ROI-enhancing activities (such as much of the bureaucratic process inherent in the SDLC). They do so by controlling the *priority* of activities on the team’s *backlog* (more on this soon) and by ensuring that the team clearly understands the requirements – requirements than can and do evolve, change, morph and appear/disappear as the development process matures. The owners accomplish this partly by recording the requirements in the shape of what are called *user stories* in the form of:
+
+“As a {role}, I want feature {a feature} so that I can {accomplish something}.”  
 
 Such user stories are added to what is called the *product backlog* (discussed below) which might be construed as a type of requirements list in the sense of the SDLC, but are much less rigorous while at the same time much more targeted towards directly adding value to the system. 
 
@@ -528,7 +530,7 @@ The next role to consider (although the authors of the book from which this brie
 
 >“The role of each and every team member is to help the team deliver potentially shippable product in each sprint.” 
 
-The *sprint* is best understood as one complete vertical sequence in Figure NAPT, from Requirements to Evaluation. This “sprint (or iteration) is designed to deliver a working system to the client, albeit mostly incomplete until the project nears completion. As such, this resembles prototyping. 
+The *sprint* is best understood as one complete vertical sequence in Figure NAPT, from Requirements to Evaluation. This *sprint* (or iteration) is designed to deliver a working system to the client, albeit mostly incomplete until the project nears completion. As such, this resembles prototyping. 
 
 Microsoft, for example, has begun to use Agile to deliver its Visual Studio programming environment. 
 
@@ -583,6 +585,30 @@ Furthermore, “Each item, or story, in the product backlog should include the f
 - An estimate as to how much work the story requires to implement;
 - Acceptance criteria that will help us know when it has been implemented correctly.”
 
+Let's interject here in the Scrum process and backtrack to the origin of the requirements that are being coded by the Scrum teams. What are these things that are being prioritised? They are *user requirements* (UR) and are the result of an intense exercise to elicit exactly what the system is meant to accomplish. Designers, architects and programmers need at least a general idea of what the system is meant to do, even if the exact details will emerge through an Agile process of discovery. Unlike an ancient explorer who just *kept heading west* to see what they could find, our modern-day explorers need a good compass heading. We need to know exactly where we are meant to end up, even if the exact route is unknown. Such is the goal of user requirement discovery. 
+
+The process is not exactly set in stone and can itself proceed along a path of discovery, but in the end, certain things must have been documented and agreed upon. They are the *Business Requirements* often shortened to BR# where # refers to a sequential number that can later be referenced when particular *Functional Requirements* (FR) are listed. Each FR must map back to a BR. The FR are the top-level things that the system must allow and accomplish. In our auction system, there are certain things that absolutely need to be accomplished. Examples are:
+
+- BR1: Professors must be able to log into the system
+- BR2: Students must be able to log into the system
+- BR3: Students must be able to buy products
+- BR4: Sales of products must be recorded along with other contextual variables
+- BR5: The system must be able to decide who gets bonus marks and who doesn't
+- BRn ...
+
+There are many others.
+
+There needs to be a comprehensive list of such requirements. Note that *how* those things would be accomplished or *what* the interface would look like are not a priority at this stage. These are simply the highest level requirements possible. After assumptions such as "students must have a wi-fi enabled device", and "the classroom must allow wi-fi authentication" and "the internet must be available." Such things are often assumed, but can be stated in an even higher-level document, or as the very highest level precursors to a successful system in the requirements document. Sometimes, such high-level requirements are labelled *System Assumptions* (SA) and are listed and numbered in the same way as BRs. We are talking about *solution features* here. 
+
+Once all RAs and BRs are listed, the Scrum team *Product Owner* has the responsibility to prioritise the requirements. Let's refresh some of the PO's responsibilities. The Product Owner:
+
+- Represents the customers
+- Owns the product backlog
+- **Orders (prioritizes) the items in the product backlog**
+- **Creates acceptance criteria for the backlog items**
+
+I've added the **bold** where the requirements document directly affects the roles of the Scrum teams. So what does that look like? Figure TM shows a mock-up of a *Use Case* in a *Requirements Document* that a Scrum team might use to help prioritise, create the system and remain accountable. There could be literally hundreds (or even thousands depending on the size of the system) or these to prioritise in the Scrum:
+
 A second artifact is the *Sprint Backlog*. The authors write: 
 
 >“The sprint backlog is the team’s to-do list for the sprint. Unlike the product backlog, it has a finite life-span: the length of the current sprint. It includes: all the stories that the team has committed to delivering this sprint and their associated tasks. Stories are deliverables, and can be thought of as units of value.  [...] Each story will normally require many tasks.”  
@@ -609,7 +635,7 @@ Ceremonies, as they are all about *communication*, are at the heart of Scrum.
 
 [Interested?]( http://scrummethodology.com/scrum-meetings/)
 
-To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focused on continuous improvement of not only the end product (software) but also on the actual process of making the software.
+To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change, and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focused on continuous improvement of not only the end product (software) but also on the actual process of making the software.
 
 [Interested?]( http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm)
 
@@ -621,35 +647,11 @@ Increasingly, software is produced by system development shops who specialise in
 
 ##### UML, Use Cases and Use Case Diagrams - a light intro
 
-Here is a funky (old school funk) introduction to business analysis Use Cases. Take a look.
+Here is a funky (old school funk) introduction to business analysis *Use Cases*. Take a look.
 
 {% youtube %}https://www.youtube.com/watch?v=nN7lTDWKP6g{% endyoutube %}
  
 The *Unified Process* (UP) or the *Rational* Unified Process (RUP) is an *object-oriented* (OO) systems development process developed by the three *godfathers* of the OO approach, the famous Booch, Rumbaugh and Jacobson. Their pioneering enterprise was named Rational Software, which was subsequently bought by IBM. UP is tailored to organisational and project needs, meaning is is less *predictive* than SDLC and more on the *adaptive* side, *a la* Agile. It is use-case driven, using a design tool known as *Unified Modelling Language* or UML.
-
-Let's interject here in the Scrum process and backtrack to the origin of the requirements that are being coded by the Scrum teams. What are these things that are being prioritised? They are *user requirements* (UR) and are the result of an intense exercise to elicit exactly what the system is meant to accomplish. Designers, architects and programmers need at least a general idea of what the system is meant to do, even if the exact details will emerge through an Agile process of discovery. Unlike an ancient explorer who just *kept heading west* to see what they could find, our modern-day explorers need a good compass heading. We need to know exactly where we are meant to end up, even if the exact route is unknown. Such is the goal of user requirement discovery. 
-
-The process is not exactly set in stone and can itself proceed along a path of discovery, but in the end, certain things must have been documented and agreed upon. They are the *Business Requirements* often shortened to BR# where # refers to a sequential number that can later be referenced when particular *Functional Requirements* (FR) are listed. Each FR must map back to a BR. The FR are the top-level things that the system must allow and accomplish. In our auction system, there are certain things that absolutely need to be accomplished. Examples are:
-
-- BR1: Professors must be able to log into the system
-- BR2: Students must be able to log into the system
-- BR3: Students must be able to buy products
-- BR4: Sales of products must be recorded along with other contextual variables
-- BR5: The system must be able to decide who gets bonus marks and who doesn't
-- BRn ...
-
-There are many others.
-
-There needs to be a comprehensive list of such requirements. Note that *how* those things would be accomplished or *what* the interface would look like are not a priority at this stage. These are simply the highest level requirements possible. After assumptions such as "students must have a wi-fi enabled device", and "the classroom must allow wi-fi authentication" and "the internet must be available." Such things are often assumed, but can be stated in an even higher-level document, or as the very highest level precursors to a successful system in the requirements document. Sometimes, such high-level requirements are labelled *System Assumptions* (SA) and are listed and numbered in the same way as BRs. We are talking about *solution features* here. 
-
-Once all RAs and BRs are listed, the Scrum team *Product Owner* has the responsibility to prioritise the requirements. Let's refresh some of the PO's responsibilities. The Product Owner:
-
-- Represents the customers
-- Owns the product backlog
-- **Orders (prioritizes) the items in the product backlog**
-- **Creates acceptance criteria for the backlog items**
-
-I've added the **bold** where the requirements document directly affects the roles of the Scrum teams. So what does that look like? Figure TM shows a mock-up of a *Use Case* in a *Requirements Document* that a Scrum team might use to help prioritise, create the system and remain accountable. There could be literally hundreds (or even thousands depending on the size of the system) or these to prioritise in the Scrum:
 
 **Figure TM. Use Case sample**
 
@@ -659,7 +661,7 @@ So what exactly is a Use Case? The nice folks at *TechTarget* offer this:
 
 >"A use case is a methodology used in system analysis to identify, clarify, and organize system requirements. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal. [...] The [sum of all] use case[s] should contain all system activities that have significance to the users. A use case can be thought of as a collection of possible scenarios related to a particular goal, indeed, the use case and goal are sometimes considered to be synonymous."
 
-So a Use Case is simply a story. A story about how actors (anything external to the system being built) interact with the system in order to get something done (a goal). These *things* are in fact *requirements* and are what Scrum POs prioritise. Some things must logically be done before others can be attempted. A user must be able to log into the system before they can print a document, for example. But each thing is important in its own right and each has a story to tell. Use Cases are those stories and must relate back to a requirement either directly or indirectly. And such stories can be told in pictures as well, as we see below in UML (Use Case) diagrams. 
+So a Use Case is simply a story. A story about how actors (anything external to the system being built) interact with the system in order to get something done (a goal). These *things* are in fact *requirements* and are what Scrum Product Owners prioritise. Some things must logically be done before others can be attempted. A user must be able to log into the system before they can print a document, for example. But each thing is important in its own right and each has a story to tell. Use Cases are those stories and must relate back to a requirement either directly or indirectly. And such stories can be told in pictures as well, as we see below in UML (Use Case) diagrams. 
 
 [Interested?](http://searchsoftwarequality.techtarget.com/definition/use-case)
 
@@ -861,14 +863,13 @@ JAD features a workshop-like methodology emphasising continuous feedback and ite
 RAD is an incremental method that makes good use of prototyping, with regularly-scheduled delivery of components for user feedback. [Interested?](http://bit.ly/1HKkQMy)   
 
 - *Extreme programming (XP)*
-XP is extension of earlier work in Prototyping and RAD. The core values of XP are: Communication (open, frequent verbal discussions between the business and the tech side and among developers on the tech side); Simplicity (in designing and implementing solutions - deliver only what is required in the most straightforward fashion); Feedback (frequent stocktaking on functionality, requirements, designs and code; Courage (I love this one - courage 
-in facing choices such as throwing away bad code or standing up to a too-tight schedule), and finally Pair Programming where two programmers work intensely together side-by-side on particular elements of the code and test cycles of development. 
+XP is extension of earlier work in Prototyping and RAD. The core values of XP are: *Communication* (open, frequent verbal discussions between the business and the tech side and among developers on the tech side); *Simplicity* (in designing and implementing solutions - deliver only what is required in the most straightforward fashion); *Feedback* (frequent stocktaking on functionality, requirements, designs and code; *Courage* (I love this one - courage in facing choices such as throwing away bad code or standing up to a too-tight schedule), and finally *Pair Programming* where two programmers work intensely together side-by-side on particular elements of the code and test cycles of development. 
 
 [Interested in comparing Agile, XP and SDLC?](http://bit.ly/1Tj7gSp)
 
 ### Why do systems development projects fail?
 
-An Oracle (originally a database vendor but now a full-service application provider including, as we have seen, in the ERP space) developer with many years of experience wrote a sponsored piece in the Harvard Business Review about information systems delivery. He began with, "Information systems projects frequently fail. Depending upon which academic study you read, the failure rate of large projects is reported as being between 50%-80%. Because of the natural human tendency to hide bad news, the real statistic may be even higher. This is a catastrophe. As an industry we are failing at our jobs." (Paul Dorsey, [*Top 10 reasons why systems development projects fail*](http://www.hks.harvard.edu/m-rcbg/ethiopia/Publications/Top%2010%20Reasons%20Why%20Systems%20Projects%20Fail.pdf) - accessed June 18, 2015). Add this to what we have already seen from McKinsey regarding failure rates 
+An Oracle (originally a database vendor but now a full-service application provider including, as we have seen, in the ERP space) developer with many years of experience wrote a sponsored piece in the Harvard Business Review about information systems delivery. He began with "Information systems projects frequently fail. Depending upon which academic study you read, the failure rate of large projects is reported as being between 50%-80%. Because of the natural human tendency to hide bad news, the real statistic may be even higher. This is a catastrophe. As an industry we are failing at our jobs." (Paul Dorsey, [*Top 10 reasons why systems development projects fail*](http://www.hks.harvard.edu/m-rcbg/ethiopia/Publications/Top%2010%20Reasons%20Why%20Systems%20Projects%20Fail.pdf) - accessed June 18, 2015). Add this to what we have already seen from McKinsey regarding failure rates 
 <a class="underlined-link" href="Ch03_Basics.md\#fail" target="_blank">(take me there)</a> and ICT doesn't have the best track record for delivering systems as promised. 
 
 First of all, how do we define *failure*? That's important. The vast majority of systems are actually delivered, but what causes them to be deemed a failure is how well they measure up to the following metrics:
@@ -886,7 +887,7 @@ Criteria numbers 3 and 4 are the most problematic since they are not as easily m
 
 Criteria 5 and 6 are somewhat subjective (subject to opinion) but decent metrics can clearly be developed to measure whether or not the system can and is meeting expectations. Input and output are, for the most part, tangible and measurable. Agreements on what constitutes input and what counts as output can be made *a priori* and measured at any interval. The cost of capital and the alternatives to investing in a system are all clearly measurable and comparable to the current reality. So this stuff *can be done*. It's just doing it and not romanticising system development (the siren call of technology) or, on the other end of the spectrum, being driven by fear. The entrepreneur's goal is to instill *FOMO* (fear of missing out) in the hearts and minds of potential investors. This is *NOT* how systems should be conceived. 
 
-So yes, expectations are difficult to manage. Requirements are difficult to nail down, especially when clients *don't know what they want until they see what they DON'T want..."* (this is a real saying in the systems development world). Clients come and go. Client expectations change. Senior management shuffles responsibilities. Your development team membership will change. Technology evolves at an alarming pace. New people need to be *re-sold* on the virtues of the system. Budgets dry up or, maybe worse, budgets get pumped full of cash at fiscal year end and must be spent (talk about needlessly raising the bar on expectations). Business requirements (the context) change. Everything is in constant flux, so meeting expectations is like trying to hit a target that's moving multiple times faster than your ability to adjust your sights. So in many ways, it's surprising that *any* system gets delivered and considered a success. 
+So yes, expectations are difficult to manage. Requirements are difficult to nail down, especially when clients *don't know what they want until they see what they DON'T want..."* (this is a real saying in the systems development world). Clients come and go. Client expectations change. Senior management shuffles responsibilities. The development team membership will change. Technology evolves at an alarming pace. New people need to be *re-sold* on the virtues of the system. Budgets dry up or, maybe worse, budgets get pumped full of cash at fiscal year end and must be spent (talk about needlessly raising the bar on expectations). Business requirements (the context) change. Everything is in constant flux, so meeting expectations is like trying to hit a target that's moving multiple times faster than your ability to adjust your sights. So in many ways, it's surprising that *any* system gets delivered and considered a success. 
 
 #####Ten rules for delightful systems development
 That being said (and I feel better for having said it and defending my old friends in the business), there are some well accepted ground rules for developing systems that are timely, efficient, well received by users, that bring value and are a delight to use. They are:
@@ -906,7 +907,7 @@ That being said (and I feel better for having said it and defending my old frien
 
 #### Why do in-place systems fail?
 
-According to a piece in Techopedia, as technology experts in an organisation trace back through a series of events that led to a system failure or error, they typically identify one of the following primary causes:
+According to a piece in *Techopedia* (see Interested below), as technology experts in an organisation trace back through a series of events that led to a system failure or error, they typically identify one of the following primary causes:
 
 >*Human error*: This is where a person took an erroneous action, or took no action when one was needed. For instance, perhaps someone forgot to schedule a data backup or chose the wrong option on a software menu.
 *Physical failure*: This describes an instance when a system component failed or malfunctioned in some way. An example might be a server going down or data being breached. In many cases, human error leads to physical failure.
@@ -916,7 +917,7 @@ Source: [Techopedia](https://www.techopedia.com/2/31265/trends/virtualization/ho
 
 #### UxD - User experience design
 <a name="uxd"></a>
-The final topic (I know!!! finally...) we need to look at is *User Experience Design*. UxD will be the topic of an Interested? link in Chapter 7, but I wanted to close this chapter on development with an interesting article from the Nielson-Norman Group on the importance of the *platform* upon which you do business. A *platform* can be thought of as a *computing model* in the sense of the size of the device (a smartphone being infinitely smaller - though getting larger again of late - than a tablet, than a laptop, than a desktop) upon which business is being offered, as well as vaguely the operating system (Android presenting itself differently than Apple iOS than Apple OS than Windows, etc.). But thinking strictly of what are called *conversion rates* (as simple as simply the number of sales on an eCommerce site divided by the number of visitors multiplied by 100 or as medium complex as the number of abandoned shopping carts divided by the number of visitors or as a ratio of completed sales to abandoned sales, etc.) it is apparent that platform matters. If you're in Marketing, this will interest you. If you are in IS, this will interest you. If you are in Finance, this will interest you. If you are in Supply Chain, this will interest you. If you are in Managerial Accounting, this will interest you. It's just plain interesting. Check it out.   
+The final topic (I know!!! finally...) we need to look at is *User Experience Design*. UxD will be the topic of an Interested? link in Chapter 7, but I wanted to close this chapter on development with an interesting article from the *Nielson-Norman Group* on the importance of the *platform* upon which you do business. A *platform* can be thought of as a *computing model* in the sense of the size of the device (a smartphone being infinitely smaller - though getting larger again of late - than a tablet, than a laptop, than a desktop) upon which business is being offered, as well as vaguely the operating system (Android presenting itself differently than Apple iOS than Apple OS than Windows, etc.). But thinking strictly of what are called *conversion rates* (as simple as the number of sales on an eCommerce site divided by the number of visitors multiplied by 100 or as medium complex as the number of abandoned shopping carts divided by the number of visitors or as a ratio of completed sales to abandoned sales, etc.) it is apparent that platform matters. If you're in Marketing, this will interest you. If you are in IS, this will interest you. If you are in Finance, this will interest you. If you are in Supply Chain, this will interest you. If you are in Managerial Accounting, this will interest you. It's just plain interesting. Check it out.   
 
 [Interested?](http://bit.ly/1egGGcN)
 
