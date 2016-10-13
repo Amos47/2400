@@ -619,7 +619,7 @@ A further Scrum artifact is the *Burn Chart*, which shows how much of the scope 
 
 Next comes the *Task Board*, which is visible to all team members, the simplest form having just three columns: 1) To do; 2) Doing; and 3) Done.  Elegant. Simple. Transparent. 
 
-Finally (for our purposes) is the notion of *done*. It might seem simple to you or I. If something is done, it’s done. Not so in the world of development. There are conflicting realities and stages of *doneness*.  The authors write: 
+Finally (for our purposes) is the notion of *done*. It might seem simple to you or I. If something is done, it’s done. Not so in the world of development. There are conflicting realities and stages of *doneness*. The authors write: 
 
 >“A programmer might call something done when the code has been written. The tester might think that done means that all of the tests have passed. The operations person might think that done means it’s been loaded onto the production servers. A business person may think that done means we can now sell it to customers, and it’s ready for them to use. This confusion about what “done” means can cause plenty of trouble, when the salesperson asks why the team is still working on the same story that the programmer said was done two weeks ago! In order to avoid confusion, good scrum teams create their own definition of the word “done” when it is applied to a user story. They decide together what things will be complete before the team declares a story to be done.”
 
@@ -675,7 +675,7 @@ The Unified Modelling Language (UML) tool for visual storytelling is the Use Cas
 
 >"Actor: An actor is a person, organization, or external system that plays a role in one or more interactions with your system. Actors are drawn as stick figures. 
 
->"Associations. Associations between actors and use cases are indicated in use case diagrams by solid lines. An association exists whenever an actor is involved with an interaction described by a use case. Associations are modeled as lines connecting use cases and actors to one another, with an optional arrowhead on one end of the line. The arrowhead is often used to indicating the direction of the initial invocation of the relationship or to indicate the primary actor within the use case. The arrowheads are typically confused with data flow and as a result I avoid their use."
+>"Associations. Associations between actors and use cases are indicated in use case diagrams by solid lines. An association exists whenever an actor is involved with an interaction described by a use case. Associations are modelled as lines connecting use cases and actors to one another, with an optional arrowhead on one end of the line. The arrowhead is often used to indicating the direction of the initial invocation of the relationship or to indicate the primary actor within the use case. The arrowheads are typically confused with data flow and as a result I avoid their use."
 
 Figure MM (above) models the online auction system as a series of Use Cases. There are too many individual cases and actors and associations in this diagram (I created it just to show scope) but it nonetheless gives an overview of the tool used in agile programming of all kinds to make sense of requirements. Note the relationships between the *Use Case* and the set of diagrams. The UC itself is brought to life in the diagram.  A better way to understand this tool is to look at the UCD detail in Figure VP, below.   
 

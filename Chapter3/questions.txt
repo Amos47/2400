@@ -1,0 +1,294 @@
+How many paths are there to a new system?
+A. 11
+B. 4
+C. 3 + 1
+D. 0 - there are no new systems
+E. 17
+ANSWER: A
+
+A process is defined as _____. 
+A. something with an input and an output
+B. a series of actions that produce something or that lead to a particular result
+C. a system with known boundaries
+D. None of these answers are correct
+E. All of these answers are correct
+ANSWER: B
+
+Progress is measured _____. 
+A. at the output end of a system
+B. at the input end of a system
+C. at the margins of the system
+D. in the process part of the system
+E. None of these answers is correct
+ANSWER: C
+
+The four major sources of systems are: 
+A. vendors, retailers, system houses, operating systems
+B. Microsoft, Apple, Android, Linux
+C. In-sourced, Out-sourced, Self-sourced, Re-sourced (IOSR)
+D. CDS, OSS, COTS, SaaS
+E. Each of these answers is correct
+ANSWER: D
+
+It is possible to create a _____ from various pieces of systems secured from various sources. 
+A. vendor surprise
+B. x - functioning system
+C. system with known boundaries
+D. x - mashup
+E. answers beginning with an x are correct
+ANSWER: E
+
+In-sourcing refers to systems created by _____.
+A. a dedicated in-house development function or team
+B. an outside agency that is brought into the firm
+C. a software vendor (such as Microsoft) who work inside proprietary software
+D. in-house workers in a functional area which will benefit from the system
+E. software as a service provided over the internet
+ANSWER: A
+
+Out-sourcing refers to systems created by _____. 
+A. a dedicated in-house development function or team
+B. an outside agency that is brought into the firm
+C. a software vendor (such as Microsoft) who work inside proprietary software
+D. in-house workers in a functional area which will benefit from the system
+E. software as a service provided over the internet
+ANSWER: B
+
+Self-sourcing refers to systems created by _____. 
+A. a dedicated in-house development function or team
+B. an outside agency that is brought into the firm
+C. a software vendor (such as Microsoft) who work inside proprietary software
+D. in-house workers in a functional area which will benefit from the system
+E. software as a service provided over the internet
+ANSWER: D
+
+The term 'forking' refers to _____. 
+A. re-selling open-source software on the open market
+B. creating multiple paths to a goal
+C. copying software from open sources for one's own use
+D. testing software at various stages to see if it's 'done'
+E. none of the other answers to this question is correct
+ANSWER: C
+
+Building-out software forked from the open source community by firms outside the organisation is a form of _____. 
+A. in-sourcing
+B. self-sourcing
+C. OSS and SaaS
+D. Custom Designed Software (CDS)
+E. out-sourcing
+ANSWER: E
+
+Commercial Off-the-Shelf software is not _____. 
+A. written from scratch by the purchaser
+B. self-sourced
+C. customised
+D. sold to firms outside the industry
+E. created by the open-source community
+ANSWER: A
+
+Software-as-a-Service essentially involves _____ software from a vendor. 
+A. buying
+B. renting
+C. co-locating
+D. self-sourcing
+E. soliciting
+ANSWER: B
+
+An advantage of Custom Developed Software is _____. 
+A. quick delivery time
+B. low cost
+C. quality of the end product
+D. no wasted time on protecting IP
+E. quick time to value
+ANSWER: C
+
+A disadvantage of Custom Developed Software is _____. 
+A. quick delivery time
+B. low cost
+C. low quality of the end product
+D. long time to value
+E. difficult requirments process
+ANSWER: D
+
+An advantage of Open Source Software is _____. 
+A. specificity of operational target
+B. high quality of the end product
+C. quality of the end product
+D. no wasted time on protecting IP
+E. low or no initial capital outlay
+ANSWER: E
+
+A disadvantage of Custom Developed Software is _____. 
+A. cost
+B. quick time to value
+C. quality of the end product
+D. wasted time on protecting IP
+E. lack of freedom to choose the solution
+ANSWER: A
+
+An advantage of Customised Off-the-Shelf Software is _____. 
+A. time to value
+B. cost
+C. quality
+D. ability to protect IP
+E. in-house expertise
+ANSWER: B
+
+A disadvantage of Customised Off-The-Shelf Software is _____. 
+A. delivery time
+B. cost
+C. vendor viability risk
+D. wasted time on protecting IP
+E. time to value
+ANSWER: C
+
+An advantage of Software-as-a-Service is _____. 
+A. no data lock-in
+B. data confidentiality
+C. IP protection
+D. risk is transferred to the vendor
+E. lack of scalability
+ANSWER: D
+
+A disadvantage of Software-as-a-Service is _____. 
+A. quality
+B. scalability
+C. IP protection
+D. risk is assumed by the renter
+E. data lock-in
+ANSWER: E
+
+An advantage of Software-as-a-Service is _____. 
+A. no data lock-in
+B. data confidentiality
+C. IP protection
+D. risk is transferred to the vendor
+E. lack of scalability
+ANSWER: A
+
+An advantage of in-sourcing is _____. 
+A. cost
+B. IP protection
+C. time to value
+D. risk avoidance
+E. not necessary to train staff
+ANSWER: B
+
+A disadvantage of in-sourcing is _____. 
+A. data lock-in
+B. data confidentiality
+C. cost
+D. risk is transferred to the owner
+E. scalability
+ANSWER: C
+
+An advantage of outsourcing is _____. 
+A. data lock-in
+B. lack of data confidentiality
+C. IP protection
+D. allows firm to focus on its core competence
+E. scalability
+ANSWER: D
+
+A disadvantage of outsourcing is _____. 
+A. data lock-in
+B. data fidelity
+C. lack of focus on core competence
+D. risk is transferred to the vendor
+E. no IP protection
+ANSWER: E
+
+An advantage of self-sourcing is _____. 
+A. it meets user requirements
+B. data confidentiality
+C. focus on core competence
+D. low risk 
+E. IP protection
+ANSWER: A
+
+A disadvantage of self-sourcing is _____. 
+A. security
+B. all of these answers are correct
+C. privacy
+D. lack of documentation 
+E. cost
+ANSWER: B
+
+The question "Should we start from scratch here, rent something or should we buy off the shelf?" is regarding the _____. 
+A. in-sourcing vs. outsourcing issue
+B. struggle to respect core competence
+C. decision to buy or build
+D. offloading of risk to outside vendors 
+E. importance of IP protection
+ANSWER: C
+
+The broad "buy" category in system acquisition includes _____. 
+A. buying from outside the organisation
+B. renting from outside the organisation
+C. creating a system from the ground up
+D. all of these answers are correct
+E. using in-house resources to develop a system
+ANSWER: D
+
+The broad "build" category of systems acquisition includes _____. 
+A. in-sourcing 
+B. self-sourcing
+C. COTS
+D. customising COTS using in-house resources 
+E. all of these answers are correct
+ANSWER: E
+
+A useful tool to understand the context of the "Buy vs. Build" question is the _____. 
+A. Outsourcing Decision Matrix
+B. Insourcing Risk Matrix
+C. Risk Aviodance Schedule (RAS)
+D. ROI Optimisation Model 
+E. None of these answers is correct
+ANSWER: A
+
+Regarding outsourcing of systems development, Deloitte wrote in 2104 that _____. 
+A. firms should always look to outsource as it is cost efficient
+B. firms should think twice before outsourcing
+C. firms never get quality systems from in-sourcing
+D. firms can offload considerable risk by outsourcing 
+E. the importance of IP protection is paramount in the decision
+ANSWER: B
+
+When Deloitte wrote in 2014 that "The applications and the staff that build them can become valuable competitive assets and valuable intellectual property that are best protected in-house." they were referring to what?
+A. the struggle between risk acceptance and risk avoidance
+B. the importance of respecting IP
+C. the value of building systems in-house (in-sourcing)
+D. the difference between COTS and CDS 
+E. the necessity of strategic alliances in the digital age
+ANSWER: C
+
+The other nbame for the ficticious program "Airborne Fulfillment Logistics" at the ficticiuos university was "_____". 
+A. flying supply replenishment
+B. fulfilling customer needs by air
+C. air access aids
+D. delivering stuff with drones
+E. none of these answers is correct
+ANSWER: D
+
+A firm should Buy rather than Build a system if _____. 
+A. there is insufficient core competence
+B. the need is for a small, simnple ad hoc system
+C. the system is not strategically important
+D. they can better manage IP 
+E. the need is for a large, complex system
+ANSWER: E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
