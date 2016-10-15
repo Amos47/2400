@@ -107,7 +107,7 @@ A. quick delivery time
 B. low cost
 C. low quality of the end product
 D. long time to value
-E. difficult requirments process
+E. difficult requirements process
 ANSWER: D
 
 An advantage of Open Source Software is _____. 
@@ -241,7 +241,7 @@ ANSWER: E
 A useful tool to understand the context of the "Buy vs. Build" question is the _____. 
 A. Outsourcing Decision Matrix
 B. Insourcing Risk Matrix
-C. Risk Aviodance Schedule (RAS)
+C. Risk Avoidance Schedule (RAS)
 D. ROI Optimisation Model 
 E. None of these answers is correct
 ANSWER: A
@@ -262,7 +262,7 @@ D. the difference between COTS and CDS
 E. the necessity of strategic alliances in the digital age
 ANSWER: C
 
-The other nbame for the ficticious program "Airborne Fulfillment Logistics" at the ficticiuos university was "_____". 
+The other name for the fictitious program "Airborne Fulfillment Logistics" at the fictitious university was "_____". 
 A. flying supply replenishment
 B. fulfilling customer needs by air
 C. air access aids
@@ -272,19 +272,635 @@ ANSWER: D
 
 A firm should Buy rather than Build a system if _____. 
 A. there is insufficient core competence
-B. the need is for a small, simnple ad hoc system
+B. the need is for a small, simple ad hoc system
 C. the system is not strategically important
 D. they can better manage IP 
 E. the need is for a large, complex system
 ANSWER: E
 
+A firm should Buy rather than Build a system if _____. 
+A. the system has little or no strategic or operational impact
+B. the need is for a small, simple ad hoc system
+C. there is plenty of time to get it right
+D. they can better manage IP 
+E. the need is for a small, ad hoc system
+ANSWER: A
 
+A firm should Buy rather than Build a system if _____. 
+A. there is unique proprietary aspects to the system
+B. the firm has no real systems development competence
+C. it will have a short lifespan
+D. it is not required to be compliant with external agencies
+E. industry, market, competition and business practices are stable and glacial (slow moving)
+ANSWER: B
 
+A firm should Buy rather than Build a system if _____. 
+A. there is a dedicated, well-funded and persistent system development resource in-house
+B. the need is for a small, simple ad hoc system
+C. the system lifespan is long
+D. the system has impact on a single function or process 
+E. the system is strategically important and/or has significant operational impact
+ANSWER: C
 
+A firm should Build rather than Buy a system if _____. 
+A. the system is large and complex
+B. the system has little strategic and/or operational impact
+C. the firm has limited in-house systems expertise
+D. lifespan is short
+E. industry, market, competition and business practices are volatile
+ANSWER: D
 
+A firm should Build rather than Buy a system if _____. 
+A. there is a tight delivery timeline
+B. the system has little strategic and/or operational impact
+C. the firm has limited in-house systems expertise
+D. lifespan is long
+E. there is plenty of time to get it right
+ANSWER: E
 
+System quality metrics include _____. 
+A. all of these answers are correct
+B. Reliability
+C. Exhaustiveness
+D. Accuracy
+E. Interoperability
+ANSWER: A
 
+System quality metrics include _____. 
+A. Out-sourcing
+B. Reliability
+C. ROI
+D. Stability
+E. Strategic alignment
+ANSWER: B
 
+System quality metrics include _____. 
+A. Security
+B. Reliability
+C. all of these answers are correct
+D. Accuracy
+E. Interoperability
+ANSWER: C
+
+System quality metrics include _____. 
+A. Sourcing
+B. COTS
+C. OSS
+D. None of these answers is correct
+E. SaaS
+ANSWER: D
+
+Transparency, Availability and Recoverability are _____. 
+A. ROI metrics
+B. SDLC stages
+C. Scrum artefacts
+D. Agile principles
+E. system quality metrics
+ANSWER: E
+
+A system is considered to be 'secure' if it _____. 
+A. protects inputs, processes and outputs from unauthorised access and tampering
+B. affords testing of other quality metrics
+C. is exhaustive
+D. is accuracy
+E. interoperates with security hardware
+ANSWER: A
+
+According to a McKinsey/Oxford University study, on average, large systems development projects deliver _____. 
+A. all the value projected, and then some
+B. 56% less value than projected
+C. 75% more value than projected
+D. enough value to pay for themselves
+E. no tangible value to the organisation
+ANSWER: B
+
+SDLC stands for _____. 
+A. Standard Design Lightweight Component
+B. Software Design Lifespan Constraint
+C. Systems Development Lifecycle
+D. None of these answers is correct
+E. Security Deployment Licence Criteria
+ANSWER: C
+
+The SDLC is a(n) _____ method. 
+A. agile
+B. scrum
+C. prototype 
+D. waterfall
+E. in-house
+ANSWER: D
+
+The risk for waterfall methods is _____ that for iterative (prototyping, for example) methods. 
+A. lower than 
+B. the same as 
+C. higher initially then lower than
+D. lower initially then higher than
+E. higher than
+ANSWER: E
+
+The SDLC has _____ stages or phases. 
+A. 8
+B. 11
+C. 14
+D. no
+E. flexible
+ANSWER: A
+
+In the SDLC the _____ phase comes _____ the _____ phase. 
+A. coding & development / after / requirements analysis
+B. all of these answers are correct
+C. design / before / testing & verification
+D. maintenance & evaluation / after / implementation and integration
+E. inception & feasibility / before / requirements analysis
+ANSWER: B
+
+In the SDLC the _____ phase comes _____ the _____ phase. 
+A. testing & verification / after / coding & analysis
+B. retirement / after / design
+C. all of these answers are correct
+D. maintenance & evaluation / after / testing & verification
+E. inception & feasibility / before / design
+ANSWER: C
+
+In the SDLC the cost of finding and fixing errors _____. 
+A. spikes during the testing phase
+B. is reduced to zero once the design phase is complete
+C. remains stable with each phase
+D. rises with each phase
+E. falls with each phase
+ANSWER: D
+
+There are ____ system conversion methods. 
+A. three
+B. nine
+C. seven
+D. many
+E. four
+ANSWER: E
+
+Which of the following are system conversion methods? 
+A. pilot
+B. design
+C. verification
+D. maintenance 
+E. inception 
+ANSWER: A
+
+Which system conversion method is the least risky? 
+A. plunge
+B. parallel
+C. phased
+D. pilot
+E. design
+ANSWER: B
+
+Which system conversion method is the least costly? 
+A. plunge
+B. parallel
+C. plunge
+D. pilot
+E. phased
+ANSWER: C
+
+Prototyping is a(n) _____ method. 
+A. plunge
+B. agile
+C. adaptive
+D. not quite waterfall and not quite agile
+E. prescriptive
+ANSWER: D
+
+The Prototyping and SDLC systems development methods have _____ phases. 
+A. different
+B. similar
+C. parallel
+D. 12
+E. the same number of
+ANSWER: E
+
+There are _____ types of prototyping. 
+A. two
+B. several
+C. eight
+D. four
+E. parallel
+ANSWER: A
+
+Which of the following are types of prototyping? 
+A. plunge, parallel
+B. horizontal, vertical
+C. phased, plunge
+D. pilot, horizontal
+E. plunge, vertical
+ANSWER: B
+
+Which of the following are benefits of prototyping? 
+A. delivery speed
+B. cost
+C. none of these answers is correct
+D. design acceptance
+E. user testing
+ANSWER: C
+
+Which of the following are benefits of the SDLC? 
+A. delivery speed
+B. system availability
+C. IP protection
+D. cost certainty
+E. design validation
+ANSWER: D
+
+Which of the following are benefits of prototyping? 
+A. cost certainty
+B. time to value
+C. resource allocation
+D. feature creep
+E. valuable user feedback early and often
+ANSWER: E
+
+Which of the following are weaknesses of prototyping? 
+A. developer attachment to the prototype
+B. repeated user feedback
+C. cost certainty
+D. pilot phases
+E. design lock-in
+ANSWER: A
+
+Which of the following are weaknesses of prototyping? 
+A. developer attachment to the prototype
+B. all of these answers are correct
+C. insufficient analysis
+D. user attachment to features of the prototype
+E. long time to value
+ANSWER: B
+
+In comparing the SDLC and prototyping, the SDLC is _____ than prototyping _____. 
+A. better / when delivery timelines are tight
+B. worse / when developers are using familiar technology
+C. better / when audit trails and multi-level sign-off are critical
+D. worse / when scope creep and feature creep need to be managed
+E. better / when user requirements are poorly understood
+ANSWER: C
+
+In comparing the SDLC and prototyping, prototyping is _____ than the SDLC _____. 
+A. better / when projects are complex
+B. worse / when developers are using unfamiliar technology
+C. worse / when audit trails and multi-level sign-off are critical
+D. better / when continuous management buy-in is critical
+E. worse / when user requirements are poorly understood
+ANSWER: D
+
+Scope creep occurs when _____. 
+A. developers include user feedback loops in systems
+B. prototyping falls into an infinite loop
+C. developers add small incremental features to systems
+D. the SDLC fails to get sign-off
+E. developers include functionality in software that is outside the original broad mandate of the system
+ANSWER: E
+
+Feature creep occurs when _____. 
+A. developers add small incremental features to systems beyond what was included in the initial specifications
+B. prototyping resumes following testing
+C. users demand feedback loops in systems
+D. the SDLC risk falls below the prototyping risk 
+E. developers include functionality in software that is outside the original broad mandate of the system
+ANSWER: A
+
+The cost of finding and fixing errors in Agile development never exceeds finding a _____ in your kitchen. 
+A. horse
+B. cat
+C. dog
+D. fly
+E. mouse
+ANSWER: B
+
+In iterative (RUP) development, specialists from every domain except _____ are active in every phase. 
+A. business modelling
+B. fashion modelling
+C. analysis & design
+D. model airplane design
+E. deployment
+ANSWER: C
+
+_____ is a flavour of _____. 
+A. agile / lean
+B. prototyping / waterfall
+C. RUP / Scrum
+D. lean / agile
+E. SDLC / prototyping
+ANSWER: D
+
+Which of the following is a phase of the Rational Unified Process (RUP or UP)? 
+A. Inception
+B. Elaboration
+C. Construction
+D. Transition 
+E. all of these answers are correct
+ANSWER: E
+
+Lean might be described as _____. 
+A. knowing "what" to build without knowing what to build
+B. prototyping meets the SDLC
+C. Agile on steroids
+D. being identical to the SDLC except for the cost of fixing errors 
+E. a developer's nightmare
+ANSWER: A
+
+Lean and Agile both owe props to prototyping because of their emphasis on _____. 
+A. determining exact specifications before development begins
+B. frequent and rich user feedback
+C. user feedback loops in systems
+D. prototyping risk avoidance
+E. development in short sprints
+ANSWER: B
+
+Agile and SDLC are _____. 
+A. identical in their underlying structure
+B. quite similar to prototyping
+C. polar opposites
+D. in competition at the next summer games 
+E. system conversion methods
+ANSWER: C
+
+The SDLC might be falling from favour, but _____ organisations find comfort in its predictability. 
+A. agile development
+B. prototyping
+C. user
+D. bureaucratic
+E. outsourcing
+ANSWER: D
+
+A Scrum team typically consists of _____ members. 
+A. 5 +/- 2 (from 3 to 7)
+B. 1 to 10
+C. 3 groups of 4 
+D. nobody who was ever a lawyer 
+E. 7 +/- 2 (from 5 to 9)
+ANSWER: E
+
+Scrum is a(n) _____. 
+A. specific set of rules to follow when practising agile software development
+B. flavour of SDLC
+C. type of prototyping
+D. none of the other answers is correct
+E. like yoga only less stressful
+ANSWER: A
+
+A Scrum "sprint" is _____. 
+A. a set of rules to follow when practising the SDLC
+B. a short, sustainable burst of activity
+C. user feedback loops in systems
+D. a daily product meeting 
+E. a customer component in a system
+ANSWER: B
+
+A Scrum principle is that _____. 
+A. developers should add small incremental features to systems beyond what was included in the initial specifications
+B. prototyping resumes following testing
+C. adding value quickly is a good thing
+D. the SDLC should be less risky than prototyping
+E. developers should never include added functionality in software 
+ANSWER: C
+
+Which of the following are principles of Agile? 
+A. Individuals and interactions over processes and tools 
+B. Working software over comprehensive documentation 
+C. Customer collaboration over contract negotiation 
+D. All of these answers are correct	
+E. Responding to change over following a plan 
+ANSWER: D
+
+Which of the following is a Scrum "role"? 
+A. Developer
+B. Prototyper
+C. Tester
+D. Database Architect
+E. Product Owner
+ANSWER: E
+
+Which of the following is a responsibility of the Scrum role "Team Member"?
+A. All of these answers are correct 
+B. completing user stories to incrementally increase the value of the product
+C. Self-organising to get all of the necessary work done 
+D. Owns the "how to do the work" decisions 
+E. Avoids siloed "not my job" thinking
+ANSWER: A
+
+The Scrum Product Owner uses a tool known as _____ to keep the Scrum team fully informed about product requirements. 
+A. product bursts
+B. user stories
+C. prototype feedback loops
+D. knowledge architecting
+E. none of these answers is correct
+ANSWER: B
+
+Which of the following is part of the Scrum role of "Scrum Master"? 
+A. expert and adviser
+B. coach
+C. All of these answers are correct
+D. impediment bulldozer
+E. facilitator
+ANSWER: C
+
+Which of the following is a Scrum "artefact"? 
+A. Developer
+B. Prototyper
+C. Tester
+D. Product Backlog
+E. Product Owner
+ANSWER: D
+
+The Business Requirements (BRs) are a _____.  
+A. list of functional requirements
+B. wish list from customers
+C. list of "scope creep" warnings
+D. list of "feature creep" warnings
+E. roughly sequential set of top-level things that a system should accomplish
+ANSWER: E
+
+User Requirements (URs), Functional Requirements (FRs) and Business Requirements (BRs) are all facets of? 
+A. Scrum
+B. SDLC
+C. Testing
+D. Databases
+E. Product specifications
+ANSWER: A
+
+Which Scrum role is responsible for "prioritising the product backlog"? 
+A. Scrum Master
+B. Product Owner
+C. Tester
+D. Database Architect
+E. Team Member
+ANSWER: B
+
+The "sprint backlog" is a Scrum artefact that serves as _____. 
+A. the product backlog
+B. a burn chart
+C. the team's "to do" list
+D. an impediment bulldozer
+E. none of these answers is correct
+ANSWER: C
+
+In Scrum, the number of "tasks per user story" is referred to as the _____. 
+A. product backlog
+B. sprint backlog
+C. testing schema
+D. scope
+E. mustard on the hot dog
+ANSWER: D
+
+In Scrum, the "burn chart" is an artefact that can be seen as a _____. 
+A. turnover metric
+B. speed of execution of algorithms
+C. database metric
+D. none of these answers is correct
+E. progress chart
+ANSWER: E
+
+In Scrum, the "task board" has how many columns? 
+A. three
+B. as many as required
+C. none
+D. Get over it man. Column is just a "concept".
+E. beer is a good dietary source of iron
+ANSWER: A
+
+In Scrum, there can be confusion about _____ unless there is agreement beforehand. 
+A. roles
+B. doneness
+C. testing
+D. sprints
+E. ownership
+ANSWER: B
+
+Which of the following is a "ceremony" in Scrum? 
+A. daily scrum
+B. story time
+C. all these answers are correct
+D. sprint planning
+E. retrospective
+ANSWER: C
+
+A _____ is a methodology used in system analysis to identify, clarify and organise system requirements. 
+A. burn chart
+B. prototype
+C. sprint
+D. use case
+E. product backlog
+ANSWER: D
+
+A _____ is simply a story. 
+A. scrum sprint
+B. product backlog
+C. test scenario
+D. sprint review
+E. use case
+ANSWER: E
+
+The sum of all _____ can be thought of as a collection of possible scenarios related to a particular goal. 
+A. use cases
+B. scope documents
+C. tester protocols
+D. database schemas
+E. product backlogs
+ANSWER: A
+
+UML stands for? 
+A. Unidentified Metric List
+B. Unified Modelling Language
+C. Understood Mission Language
+D. Undiscovered Murphy's Laws
+E. None of these answers is correct
+ANSWER: B
+
+The components of a UML diagram include? 
+A. system boundary
+B. actor(s)
+C. all of these answers are correct
+D. associations
+E. includes and extends
+ANSWER: C
+
+"Includes" and "Extends" are elements of?
+A. Scrum
+B. Agile
+C. SDLC
+D. prototyping
+E. Product Owner
+ANSWER: D
+
+Which of the following are metrics by which to judge the success of systems development projects? 
+A. on-time delivery
+B. at or under budget
+C. meeting system requirements
+D. provides good quality output
+E. All of these answers are correct
+ANSWER: E
+
+FOMO stands for? 
+A. fear of missing out
+B. friend of my (significant) other
+C. faster output more output
+D. first outputs moderate objections
+E. none of these answers is correct
+ANSWER: A
+
+The "Composite Risk Index" tool multiplies the _____ of risk by the _____ of risk, yielding a composite score. 
+A. mitigation / outcome
+B. probability / impact
+C. assessment / factor
+D. quality / quantity
+E. potential / product
+ANSWER: B
+
+Which of the following is an step in the "risk mitigation" process? 
+A. assess the vulnerability of critical assets to specific threats
+B. identify, characterise and assess threats
+C. all of these answers are correct 
+D. identify ways to reduce risks
+E. determine the risk (the specifics of impact and likelihood)
+ANSWER: C
+
+Realising that some risks are unavoidable and making sure that contingency plans are in place describes which of the following risk mitigation strategies? 
+A. transfer
+B. deferral
+C. all of these answers are correct 
+D. acceptance
+E. reduction
+ANSWER: D
+
+A Project Manager oversees which of the following project elements? 
+A. x - scope of the project
+B. x - project resources
+C. x - completion time 
+D. human resources
+E. all the answers beginning with x are correct
+ANSWER: E
+
+The Project Management Triangle includes which three elements? 
+A. Quality, Speed, Economy
+B. Quality, Risk, Resources
+C. Respect, Inclusiveness, Empathy
+D. Carbs, Protein, Fatty Acids
+E. None of these answers is correct
+ANSWER: A
+
+The Project Management Triangle in the textbook has a(n) _____ in the centre. 
+A. overlap of two elements
+B. Jolly Roger
+C. risk strategy 
+D. quality metric
+E. economy, quality and speed metric
+ANSWER: B
+
+The Project Management Triangle illustrates that _____. 
+A. if quality and economy are emphasised, speed will suffer
+B. if speed and quality are emphasised, economy will suffer
+C. all of these answers are correct 
+D. if speed and economy are emphasised, quality will suffer
+E. a system that attempts to balance speed, economy and quality will satisfy none
+ANSWER: C
 
 
 

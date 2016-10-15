@@ -245,7 +245,7 @@ The first ever formalised method was the *Systems Development Life Cycle*, a so-
 
 The SDLC is referred to as a *waterfall method* since its steps resemble a waterfall; in order for water to reach the bottom, it must pass along the entire span between the top of the falls (system conception) to the bottom of the falls (system retirement). The water can't skip any of the distance along the way. Equally, once the water has reached any certain point, there's no going back. It's all one way, and the only way is to finish the plunge to the bottom.
 
-Figure ZZ shows the SDLC and illustrates the *seven phases*, accompanied by a whimsical estimate, through creatures, of the cost of finding and fixing errors or having to add new requirements at the various stages of the cycle. Image, if you will, the associated animal appearing suddenly, unannounced, in your home. What would it take to remedy the situation? The fly is a simple nuisance and nothing has really been expended on development at the *inception phase* of the SDLC. Plenty of ideas are thrown around and nothing is yet committed. So in the inception phase, you swat the fly. Image the structural havoc to your home of having to deal with a 6,500+ kg. bull elephant in your kitchen.
+Figure XCB shows the SDLC and illustrates the *seven phases*, accompanied by a whimsical estimate, through creatures, of the cost of finding and fixing errors or having to add new requirements at the various stages of the cycle. Image, if you will, the associated animal appearing suddenly, unannounced, in your home. What would it take to remedy the situation? The fly is a simple nuisance and nothing has really been expended on development at the *inception phase* of the SDLC. Plenty of ideas are thrown around and nothing is yet committed. So in the inception phase, you swat the fly. Image the structural havoc to your home of having to deal with a 6,500+ kg. bull elephant in your kitchen.
 
 That’s the order of magnitude of issues faced by software developers who use the SDLC. The US space agency NASA estimates that, on average, it can take upwards of 100 times the resources to fix an error discovered after delivery (implementation) than if the error were discovered in the requirements or early design phase of development. *Some estimates are up to 1,000 times*. 
 
@@ -587,7 +587,7 @@ Furthermore, “Each item, or story, in the product backlog should include the f
 
 Let's interject here in the Scrum process and backtrack to the origin of the requirements that are being coded by the Scrum teams. What are these things that are being prioritised? They are *user requirements* (UR) and are the result of an intense exercise to elicit exactly what the system is meant to accomplish. Designers, architects and programmers need at least a general idea of what the system is meant to do, even if the exact details will emerge through an Agile process of discovery. Unlike an ancient explorer who just *kept heading west* to see what they could find, our modern-day explorers need a good compass heading. We need to know exactly where we are meant to end up, even if the exact route is unknown. Such is the goal of user requirement discovery. 
 
-The process is not exactly set in stone and can itself proceed along a path of discovery, but in the end, certain things must have been documented and agreed upon. They are the *Business Requirements* often shortened to BR# where # refers to a sequential number that can later be referenced when particular *Functional Requirements* (FR) are listed. Each FR must map back to a BR. The BR are the top-level things that the system must allow and accomplish. In our auction system, there are certain things that absolutely need to be accomplished. Examples  of BR are:
+The process is not exactly set in stone and can itself proceed along a path of discovery, but in the end, certain things must have been documented and agreed upon. They are the *Business Requirements*, often shortened to BR# where # refers to a sequential number that can later be referenced when particular *Functional Requirements* (FR) are listed. Each FR must map back to a BR. The BR are the top-level things that the system must allow and accomplish. In our auction system, there are certain things that absolutely need to be accomplished. Examples of BR are:
 
 - BR1: Professors must be able to log into the system
 - BR2: Students must be able to log into the system
@@ -635,6 +635,7 @@ Ceremonies, as they are all about *communication*, are at the heart of Scrum.
 
 [Interested?]( http://scrummethodology.com/scrum-meetings/)
 
+#### Scrum summary
 To sum up, Scrum is a straightforward, lightweight method for building software where user requirements can change, and useful, value-adding software needs to be produced quickly. Scrum is a collaborative method, focused on continuous improvement of not only the end product (software) but also on the actual process of making the software.
 
 [Interested?]( http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm)
