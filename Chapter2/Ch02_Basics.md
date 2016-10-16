@@ -203,7 +203,7 @@ Let's put this into the context of the input/output ratio we discussed in Chapte
 We can now provide a little more depth in terms of contextualisation and the role of ICT in the process. Examine Figure LLJJ below. It’s the same figure as LJLJ above, but with the ICT contributions overlaid on each element. 
 
 **Figure LLJJ. Context with ICT contribution**
-
+<a name="context_ict"></a>
 ![ICT context](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ict_context.png)
 
 ### System input
