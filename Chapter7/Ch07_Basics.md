@@ -251,7 +251,7 @@ And that's the thousand kilometre high view of interface design, objects, progra
 
 [Or the underlying aspects of Human-computer Interaction?](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
 
-## Database design
+## Database design <a name="database"></a>
 
 A *database* is a collection of related data, organized in a logical order and used in many everyday activities. They are called *databases* because they store *data* and not *information*. Everyday examples include a dictionary (words arranged alphabetically), a catalogue (items arranged in groups with an index for finding things easily), TV listings (data arranged by channel and date/time) and even the directory in a building, listing all the names of the people, perhaps their title and/or function along with the floor they occupy and their office number. Just like phone books, building directories are typically organized alphabetically. These are all non-electronic databases, but could easily be presented electronically as well. 
 

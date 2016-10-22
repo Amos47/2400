@@ -1,0 +1,520 @@
+Competitive advantage occurs when a firm _____.
+A. does something that its rivals cannot
+B. makes money
+C. gets a price advantage on it's competitors
+D. is the first to market
+E. overtakes its rivals in sales
+ANSWER: A
+
+If you locate your steel mill in close proximity to raw materials you are likely to have a _____. 
+A. lower market share
+B. competitive advantage
+C. first mover advantage
+D. efficient value chain
+E. optimal supply chain
+ANSWER: B
+
+The statement "a contest between organisms, animals, individuals, groups, etc., for territory, a niche, or a location of resources, for resources and goods, mates, for prestige, recognition, awards, or group or social status, for leadership." describes what? 
+A. value proposition
+B. competitive advantage
+C. competition 
+D. an efficient value chain
+E. an optimal supply chain
+ANSWER: C
+
+A superiority gained by an organization when it can provide the same value as its competitors but at a lower price, or can charge higher prices by providing greater value through differentiation. _____ results from matching _____ to the opportunities.
+A. Value / competition
+B. Revenue / sales
+C. Sales / revenue
+D. Competitive advantage / core competencies
+E. None of these answers is correct
+ANSWER: D
+
+_____ refers to what you or your firm or organisation is particularly and specifically really good at.
+A. Sales optimisation
+B. Value chain
+C. Competitive advantage
+D. First-mover advantage
+E. Core competency
+ANSWER: E
+
+Sustainable competitive advantage differs from simple competitive advantage in that it is _____.
+A. persistent
+B. valuable
+C. indestructible
+D. regular
+E. full of holes
+ANSWER: A
+
+The Technology Replication Cycle makes it difficult for firms to _____.
+A. hire outside consultants
+B. sustain a competitive advantage
+C. in-source systems
+D. get a cost advantage
+E. sell cheeseburgers
+ANSWER: B
+
+xxx-as-a-service makes it difficult for firms to _____ because the services are available to all.
+A. hire outside consultants
+B. self-source a system
+C. sustain a competitive advantage
+D. sustain a duopoly
+E. get a market advantage over competitors
+ANSWER: C
+
+The 'xxx' in xxx-as-a-service could stand for?
+A. software
+B. hardware
+C. platform
+D. all of these answers are correct
+E. infrastructure
+ANSWER: D
+
+VRIO stands for?
+A. valuable, resourceful, independent, operation
+B. value, retail, immutable, ordinary
+C. versatile, reusable, independent, objects
+D. vulgar, reprehensible, ignorant, objectionable
+E. valuable, rare, inimitable, organisationally available
+ANSWER: E
+
+American Airlines was able to sustain a competitive advantage by introducing _____ in the 1960s.
+A. yield management systems
+B. Y2K fixes
+C. variable rate fares
+D. outsourced systems
+E. hot in-flight meals
+ANSWER: A
+
+Porter's _____ Forces.
+A. Competitive
+B. Five
+C. Sustainable
+D. Corporate
+E. Financial
+ANSWER: B
+
+According to Porter, _____ is/are not the same as _____.
+A. the value chain / the supply chain
+B. the threat of new entrants / competition
+C. the threat of substitutes / competition
+D. competition / strategy
+E. strategy / tactics
+ANSWER: C
+
+If a customer can negotiate the price of admission to a movie, the customer is said to have ____.
+A. supplier power
+B. competition
+C. competitive advantage
+D. buyer power
+E. plenty of resources
+ANSWER: D
+
+If a supplier can arbitrarily set a price for the goods and/or services it provides, the supplier is said to have _____.
+A. buyer power
+B. a good value proposition
+C. competitive advantage
+D. differentiation
+E. supplier power
+ANSWER: E
+
+If an industry has ___ barriers to entry then the ____ will be _____.
+A. few / threat of new entrants / low
+B. many / competition / strong
+C. no / industry  / stagnant
+D. multiple / suppliers / powerful
+E. variable / buyers / plentiful
+ANSWER: A
+
+According to Porter, Supplier power and Buyer power are _____.
+A. equal
+B. opposites
+C. competitive advantages
+D. strategic imperatives
+E. nonsense
+ANSWER: B
+
+_____ drives the Productivity Frontier outwards.
+A. Competition
+B. Buyer power
+C. Knowledge and accumulated technology (best practices)
+D. Supplier power
+E. Threat of new entrants
+ANSWER: C
+
+A set of articulated goals for a person, an organisation or a firm, along with a plan specifying how to get there, is _____.
+A. tactics
+B. competitive advantage
+C. unattainable
+D. strategy
+E. nonsense
+ANSWER: D
+
+Strategy and tactics _____.
+A. affect different employee groups
+B. are related
+C. are necessary in an organisation
+D. are both English words
+E. all of these answers are correct
+ANSWER: E
+
+In an organisation, _____ is/are pushed down and _____ is/are pushed up.
+A. strategy / outcomes
+B. tactics / strategy
+C. competition / buyer power
+D. supplier power / buyer power
+E. good people / incompetent idiots
+ANSWER: A 
+
+Strategic alignment is critical in an organisation as otherwise _____ is/are wasted.
+A. buyer power
+B. resources
+C. supplier power
+D. competitive advantage
+E. onions
+ANSWER: B
+
+Aligning firm with ICT strategy is considered to be _____.
+A. impossible
+B. improbable
+C. optimal
+D. simple
+E. nonsensical
+ANSWER: C
+
+The Alignment Trap shows that most firms are in the _____ quadrant.
+A. IT-enable Growth
+B. Well-oiled IT
+C. Competitive Advantage
+D. Maintenance Zone
+E. Broccoli
+ANSWER: D
+
+In terms of the Alignment Trap, the optimal place to be is the _____ quadrant.
+A. Alignment Trap
+B. Maintenance Zone
+C. Well-oiled IT
+D. Strategic Tactics 
+E. IT-enabled Growth
+ANSWER: E
+
+ICT can provide competitive advantage to a firm, but such advantage is _____.
+A. not sustainable
+B. tiny
+C. negative
+D. complicated
+E. annoying
+ANSWER: A
+
+ICT can be seen as both a _____ and a _____.
+A. source of competitive disadvantage / source of competitive advantage
+B. cost centre / profit centre
+C. good source of Vitamin C / good source of dietary iron
+D. strategic imperative / revenue centre
+E. strategic tool / tactical directive
+ANSWER: B
+
+Broadly speaking, _____ represents the highest level of decision making, involving basic questions of status, financial viability, strategy, and compliance within an organisation.
+A. tactics
+B. the board of directors
+C. corporate governance
+D. strategic imperatives
+E. competitive advantage
+ANSWER: C
+
+Which of the following participate in corporate governance?
+A. BoD (Board of Directors)
+B. Shareholders
+C. Creditors, auditors and regulators
+D. all of these answers are correct
+E. Managers and other employees who make decisions affecting the corporation
+ANSWER: D
+
+Organisations need to remain internally compliant with their own ICT standards and practices in addition to those imposed upon it by the law or local regulations, including:
+A. PIPEDA
+B. Bill 198
+C. EU Data Protection Directive
+D. Sarbanes-Oxley Act 
+E. all of these answers are correct
+ANSWER: E
+
+_____ is the decision-rights and policy-making for corporate data, while _____ is the tactical execution of those policies.
+A. Data governance / data management
+B. Competitive advantage / renewable resource 
+C. Sarbanes-Oxley / PIPEDA
+D. Donald Trump / Hilary Clinton
+E. BoD / shareholders
+ANSWER: A
+
+Which of the following are governance types?
+A. IT Anarchy
+B. IT Monarchy
+C. Triopoly
+D. all of these answers are correct
+E. Federal System
+ANSWER: B
+
+The most popular governance type for Input Decisions is _____.
+A. Anarchy
+B. Burger King
+C. Federal
+D. Feudal
+E. Duopoly
+ANSWER: C
+
+In the average organisation, Measurement (as an activity) is primarily done by _____.
+A. humans
+B. Decision Support Systems (DSS)
+C. middle managers
+D. machines
+E. in-memory computing
+ANSWER: D
+
+In the average organisation, _____ _____ as we move up through the management hierarchy.
+A. data variety / decreases
+B. data complexity / decreases
+C. granularity / increases
+D. information / remains stable
+E. data variety / increases
+ANSWER: E
+
+Senior managers in the average firm make _____ decisions than do middle managers.
+A. more unstructured
+B. fewer unstructured
+C. more structured
+D. less complicated
+E. more mixed
+ANSWER: A
+
+In the average organisation, _____ is the domain of senior management.
+A. decision
+B. knowledge
+C. context creation
+D. information
+E. measurement
+ANSWER: B
+
+Granularity of data refers to?
+A. the complexity of decisions 
+B. the variety of data
+C. the amount of low-level detail in the data
+D. the decision type required
+E. domain of expertise required
+ANSWER: C
+
+In the business intelligence domain of the average organisation, the acquisition phase correlates with _____ and _____.
+A. data acquisition and data collection
+B. data collection/storage and information
+C. context creation and decision
+D. measurement and data acquisition
+E. buying a round for the team and being late for dinner
+ANSWER: D
+
+_____ shoulder much of the load in the measurement activity for the average organisation.
+A. humans
+B. tactical staff
+C. senior managers
+D. Decision Support Systems (DSS)
+E. sensors
+ANSWER: E
+
+In the average organisation, _____ decisions are most often made by _____.
+A. unstructured / senior managers
+B. structured / middle managers
+C. structured / senior managers
+D. mixed / operational staff
+E. bad / smart people
+ANSWER: A
+
+In terms of business intelligence in an average organisation, which domain is concerned wth synthesis of information?
+A. middle management
+B. executives
+C. technical staff
+D. tactical staff
+E. kitchen staff
+ANSWER: B
+
+In an average organisation, action is carried out predominantly by?
+A. people
+B. executive information systems
+C. machines
+D. technical staff
+E. operational staff
+ANSWER: C
+
+Cost, complexity and granularity of data all _____ as we move _____ the organisational ladder in an average organisation.
+A. increase / down
+B. remain static / up
+C. remain static / down
+D. increase / up
+E. decrease / up
+ANSWER: D
+
+TPS stands for?
+A. Transferrable Protocol Synthesis
+B. Top Prospect Sorting
+C. Trading Post System
+D. Tradition Prevention System
+E. Transaction Processing System
+ANSWER: E
+
+Management Information Systems (MIS) are not _____.
+A. strategic
+B. useful in modern organisations
+C. linked to the value chain
+D. complicated
+E. annoying
+ANSWER: A
+
+Which type of system operates at the very bottom of the organisation?
+A. Management Information System
+B. Transaction Processing System
+C. Executive Information System
+D. Decision Support System
+E. all these answers are correct
+ANSWER: B
+
+Management Information Systems (MIS) are used by _____.
+A. executives
+B. all employees in modern organisations
+C. lower to middle management
+D. strategists
+E. Boards of Directors
+ANSWER: C
+
+Management Information Systems (MIS) can provide important _____ as they contain rolled-up data.
+A. decisions
+B. data
+C. links
+D. context
+E. insights
+ANSWER: D
+
+Which type of system supports primary and secondary activities in the firm's value chain?
+A. Transaction Processing System
+B. Decision Support System
+C. Executive Information System
+D. Coca-Cola machine
+E. Management Information System
+ANSWER: E
+
+The statement "A system of organisations, people, technology, activities, information, and resources involved in moving a product or service from suppliers, through the firm, to the customer." describes a(n) _____.
+A. supply chain
+B. value chain
+C. executive information system
+D. transaction processing system
+E. annoying little insect
+ANSWER: A
+
+Decision Support Systems are used by?
+A. all employees in modern organisations
+B. senior management
+C. lower to middle management
+D. strategists
+E. Boards of Directors
+ANSWER: B
+
+Insight into a question such as "What is likely to happen to sales if we raise prices by 5%?" is provided by _____.
+A. decision support systems
+B. sales management systems
+C. What if analysis
+D. strategic analysis systems
+E. Ouija boards
+ANSWER: C
+
+Which type of system might make use of completely unstructured data using rolled-up TPS and MIS data, but also data from sources external to the organisation?
+A. Transaction Processing System
+B. Decision Support System
+C. Tassimo Coffee System
+D. Executive Information System
+E. Management Information System
+ANSWER: D
+
+Which of the following are challenges for a siloed organisation?
+A. delayed communication
+B. expanded cycle time
+C. excess inventory
+D. lack of workflow visibility 
+E. all of these answers are correct
+ANSWER: E
+
+Which of the following business functions are supported by Enterprise Systems?
+A. all of these answers are correct
+B. financials
+C. human capital management
+D. enterprise resource planning
+E. customer relationship management
+ANSWER: A
+
+Enterprise Systems take care of much of the complexity of matching people with functions in an organisation by using _____.
+A. decision support systems
+B. role-based access to pertinent data
+C. What if analysis
+D. strategic analysis systems
+E. chocolate as a reward
+ANSWER: B
+
+Latency can best be described as _____.
+A. something in the present caused by something in the past
+B. speeding up of analysis
+C. idle time
+D. an issue for TPS only
+E. the aftertaste from low quality olive oil
+ANSWER: C
+
+Which of the following systems best handles the massive challenge that is Big Data?.
+A. decision support systems
+B. transaction processing systems
+C. What if analysis
+D. In-memory Computing (IMC)
+E. Mercury outboard motors
+ANSWER: D
+
+Big Data is often described as having which three characteristics?
+A. vacuum, Viking, vacancy
+B. valve, vivid, verify
+C. no three characteristics could possible do it justice it's so awesome
+D. velvet, vital, voucher
+E. volume, variety, velocity
+ANSWER: E
+
+Which layer of the organisation is in imminent danger of being replaced by machines?
+A. middle
+B. ICT
+C. top
+D. technical
+E. accounting
+ANSWER: A
+
+The biggest challenge to fixing the siloed organisation is _____.
+A. the lack of a transaction processing system
+B. the lack of an enterprise-wide data store
+C. difficulty getting senior management buy-in
+D. latency in top-level decision making
+E. a general lack of resources
+ANSWER: B
+
+The second biggest challenge to fixing the siloed organisation is _____.
+A. the lack of a transaction processing system
+B. the lack of an enterprise-wide data store
+C. that the firm must examine and alter its business processes to match the way the ERP system works
+D. latency in top-level decision making
+E. lack of resources
+ANSWER: C
+
+Role-based visibility of resources is _____.
+A. not possible in large organisations
+B. too complex to manage
+C. an issue for senior managers
+D. easily effected in enterprise software
+E. not as tasty as a nice garden salad
+ANSWER: D
+
+BYOD (bring your own device) is often credited with _____.
+A. causing trouble in the workplace
+B. consuming a lot of resources
+C. not being enterprise friendly
+D. blocking resource allocation decisions
+E. being the start of the Shadow IT phenomenon
+ANSWER: E
+
