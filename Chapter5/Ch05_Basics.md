@@ -11,6 +11,7 @@ The Productivity Paradox: https://en.wikipedia.org/wiki/Productivity_paradox
 Measuring Productivity: Canada vs. USA: http://www.statcan.gc.ca/pub/15-206-x/15-206-x2014038-eng.htm
 
 #### Social Media
+
 Let's quantify by example what I mean by the term *social media*. According to <a class="underlined-link" href="http://www.ebizmba.com/articles/social-networking-websites" target="_blank">ebizmedia.com</a>, the top 15 most popular social media sites in October 2016 were:
 
 1. Facebook
@@ -31,6 +32,13 @@ Let's quantify by example what I mean by the term *social media*. According to <
 
 And not a Snapchat among them. Interesting eh? 
 
+Now let's look at some statistics on SM usage. Despite some really glaring thinko/typo errors in this infographic, it has an interesting story to tell
+
+**Figure JDRB. Social Media Usage**
+
+![XKCD Phishing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/social_media.png)
+
+*Source*http://www.adweek.com/socialtimes/social-media-addiction-stats/504131
 
 Why do you use social media? http://mashable.com/2009/12/02/personal-social-media-roi/#1ivkIKzAEkqK
 
