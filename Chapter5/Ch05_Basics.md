@@ -10,11 +10,13 @@ The Productivity Paradox: https://en.wikipedia.org/wiki/Productivity_paradox
 
 Measuring Productivity: Canada vs. USA: http://www.statcan.gc.ca/pub/15-206-x/15-206-x2014038-eng.htm
 
-#### Social Media
+#### Social Media (SM)
 
-Let's quantify by example what I mean by the term *social media*. According to <a class="underlined-link" href="http://www.ebizmba.com/articles/social-networking-websites" target="_blank">ebizmedia.com</a>, the top 15 most popular social media sites in October 2016 were:
+Given that we (you and I but likely much more you than I) spend a lot (see below) of time on social media, maybe it's high time we took a look at how much return we're getting on it. 
 
-1. Facebook
+Let's start buy quantifying, by example, what I mean by the term *social media*. According to <a class="underlined-link" href="http://www.ebizmba.com/articles/social-networking-websites" target="_blank">ebizmedia.com</a>, the top 15 most popular social media sites in October 2016 were:
+
+1. Facebook (by far!)
 2. YouTube
 3. Twitter
 4. LinkedIn
@@ -32,13 +34,54 @@ Let's quantify by example what I mean by the term *social media*. According to <
 
 And not a Snapchat among them. Interesting eh? 
 
-Now let's look at some statistics on SM usage. Despite some really glaring thinko/typo errors in this infographic, it has an interesting story to tell
+Now let's look at some statistics on SM usage. Despite some really glaring thinko/typo errors in this infographic, it has an interesting story to tell.
 
 **Figure JDRB. Social Media Usage**
 
-![XKCD Phishing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/social_media.png)
+![Social Media Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/social_media.png)
 
-*Source*http://www.adweek.com/socialtimes/social-media-addiction-stats/504131
+<a class="underlined-link" href="http://www.adweek.com/socialtimes/social-media-addiction-stats/504131"target="_blank">*Source*</a>
+
+Now some more recent (2016) statistics from :
+
+![2016 stats](https://raw.githubusercontent.com/robertriordan/2400/master/Images/social-media-usage-stats-in-2016.jpg)
+
+And this from <a class="underlined-link" href="http://growingsocialmedia.com/social-media-facts-and-statistics-for-2016/" target="_blank">growingsocialmedia.com</a>:
+
+<div style="width:100%;margin:10px 0;"><iframe src="https://w.graphiq.com/w/3rqjtCzPh9r" width="600" height="554" frameborder="0" scrolling="no" style="position:static;vertical-align:top;margin:0 auto;display:block;width:600px !important;max-width:100%;min-height:554px !important;max-height:none !important;border:none;overflow:hidden;"></iframe><div style="text-align:center;font:14px/16px Helvetica,arial;color:#3d3d3d;"><a target="_blank" href="http://web-browsers.softwareinsider.com" style="color:#3d3d3d;">SoftwareInsider | Graphiq</a></div></div>
+
+<div style="width:100%;margin:10px 0;"><iframe src="https://w.graphiq.com/w/5fcPr0oWTT7" width="600" height="495" frameborder="0" scrolling="no" style="position:static;vertical-align:top;margin:0 auto;display:block;width:600px !important;max-width:100%;min-height:495px !important;max-height:none !important;border:none;overflow:hidden;"></iframe><div style="text-align:center;font:14px/16px Helvetica,arial;color:#3d3d3d;"><a target="_blank" href="https://www.graphiq.com/vlp/5fcPr0oWTT7" style="color:#3d3d3d;">FindTheCompany | Graphiq</a></div></div>
+
+>"Now that we have some insights as far as the year’s most popular social media platforms and apps. Let’s learn some social media facts and statistics for 2016.
+>
+1. According to Statistica, the number of global social media users is expected to reach 2.5 billion in 2018.
+2. According to Pew Research Center, 90% of adults age 18 to 29 use social media.
+3. The following apps are ranked as percentages as it relates to level of “importance” to teen and young adult users. (Mary Meeker)
+
+
+	- Instagram (39%)
+	- Twitter (24%)
+	- Facebook (14%)
+	- Snapchat (13%)
+	- Tumbler (4%)
+
+4. The average user of social media typically manages five social media accounts, according to Link Humans.
+5. Also according to Link Humans, social media is a widely used outlet for developing countries when it comes to obtaining information and news regarding surrounding countries.
+6. The following are the top social media platforms that companies plan on investing more advertising into in 2016, shown as percentages: (Media Post)
+
+	- Instagram (72%)
+	- Facebook (61%)
+	- Pinterest (41%)
+	- Snapchat (36%)
+	- Amazon (34%)
+
+7. According to We Are Social Media, 71% of women are active on social media, compared to 62% of men.
+8. 189 million of Facebook’s users are mobile only users. (We Are Social Media)
+9. Every second, two new users join LinkedIn. (We Are Social Media)
+10. Of small business owners that use social media, 92% of them believe that social media marketing is important for their business. (Business2Community)
+
+
+Read more at http://growingsocialmedia.com/social-media-facts-and-statistics-for-2016/#CtJe9iufXoswFB5f.99
 
 Why do you use social media? http://mashable.com/2009/12/02/personal-social-media-roi/#1ivkIKzAEkqK
 
