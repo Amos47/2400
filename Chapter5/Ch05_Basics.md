@@ -1,30 +1,38 @@
 #Chapter 5 - Basics ![Basics](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png)
 
-## The personal side of ICT
+## The personal side of ICT - What's in ICT for me?
 
-### What's in ICT for me?
+####Productivity
 
-Are we more productive? http://blogs.gartner.com/andrew_white/2016/08/10/are-we-more-productive/
+Has technology made us more productive? http://blogs.gartner.com/andrew_white/2016/08/10/are-we-more-productive/
 
 The Productivity Paradox: https://en.wikipedia.org/wiki/Productivity_paradox
 
 Measuring Productivity: Canada vs. USA: http://www.statcan.gc.ca/pub/15-206-x/15-206-x2014038-eng.htm
 
+#### Social Media
+Let's quantify by example what I mean by the term *social media*. According to <a class="underlined-link" href="http://www.ebizmba.com/articles/social-networking-websites" target="_blank">ebizmedia.com</a>, the top 15 most popular social media sites in October 2016 were:
+
+1. Facebook
+2. YouTube
+3. Twitter
+4. LinkedIn
+5. Pinterest
+6. Google+
+7. Tumblr
+8. Instagram
+9. reddit
+10. VK
+11. Flickr
+12. Vine
+13. meetup
+14. ask.fm
+15. ClassMates 
+
+And not a Snapchat among them. Interesting eh? 
+
+
 Why do you use social media? http://mashable.com/2009/12/02/personal-social-media-roi/#1ivkIKzAEkqK
-
-There's no reason not to use the same metrics that firms use to measure their ROI on the effort expended on getting their message out there. So let's use some standard tools and see what your personal ROI on social media is. 
-
-Step - 1: Define social media. We will define social media as any technology tool that allows you to send or receive messages regarding personal brand to and from one or more members of your relevant social network of family and either existing or *potential* friends, contacts, employers, lovers or haters.
-
-Step 2: A simple definition of ROI:
-
-ROI = (return – investment) / investment 
-
-Step - 3: Define investment. For personal users of social media, those who aren't *selling something* in the commercial sense, the investment we make in social media can only be measured in *time*. How many minutes we spend in a defined time period engaging in social media activities. Those minutes are your investment. Your resource spend.
-
-Step 4 - define "return". What does it mean in terms of your personal efforts? What do you want/expect to achieve by spending time on social media? What's a return on using Facebook, for example? What's the return on a tweet? For marketing or sales firms, those answers are a little easier (though not much) to nail down. A new *follower*? A re-tweet? A product brochure download? A sale? Some of these are more concrete than others, but there's a progression, culminating in the ultimate for a business: revenue. 
-
-We need also to determine what your goals are for using SM. What do you expect to achieve? http://www.socialmediaexaminer.com/measure-social-media-roi/
 
 Why do people use SM? http://www.onepoll.com/10-reasons-people-use-social-media/
 
@@ -69,6 +77,39 @@ Including:
 - The applications are intuitive — there’s no training required.
 - The applications are well-tuned to support the specific tasks we want to perform and their features are regularly rated and refined.
 - 
+There's no reason not to use the same metrics that firms use to measure their ROI on the effort expended on getting their message out there. So let's use some standard tools and see what your personal ROI on social media is. 
+
+Step - 1: Define social media. We will define social media as any technology tool that allows you to send or receive messages regarding personal brand to and from one or more members of your relevant social network of family and either existing or *potential* friends, contacts, employers, lovers or haters.
+
+Step 2: A simple definition of ROI:
+
+ROI = (return – investment) / investment 
+
+Step - 3: Define investment. For personal users of social media, those who aren't *selling something* in the commercial sense, the investment we make in social media can only be measured in *time*. How many minutes we spend in a defined time period engaging in social media activities. Those minutes are your investment. Your resource spend.
+
+Step 4 - define "return". What does it mean in terms of your personal efforts? What do you want/expect to achieve by spending time on social media? What's a return on using Facebook, for example? What's the return on a tweet? For marketing or sales firms, those answers are a little easier (though not much) to nail down. A new *follower*? A re-tweet? A product brochure download? A sale? Some of these are more concrete than others, but there's a progression, culminating in the ultimate for a business: revenue. 
+
+We need also to determine what your goals are for using SM. What do you expect to achieve? http://www.socialmediaexaminer.com/measure-social-media-roi/
+
+<a class="underlined-link" href="https://blog.hootsuite.com/measure-social-media-roi-business/" target="_blank">Hootsuite </a> has this to say about measuring the value of a social media programme for business:
+
+>"Measuring your social media ROI is important for countless reasons, including, but not limited to: 
+>
+- Proving the value of social media to your organization’s overall goals and business objectives
+- Allowing you to clearly see where efforts and resources are being used efficiently
+- Enabling you to evaluate where resources are being wasted, or not used as efficiently as possible
+- Allowing you to recognize gaps in strategy, key messages, and content
+- Showing where your social media budget is being used most effectively, and showing areas where it can be pulled back"
+
+Let's look at these from a personal perspective, one by one. 
+
+How would you, personally, go about the task of proving the value of social media to your overall objectives?
+
+
+
+
+
+ 
 Make sure to do the Nuclear reactor backup thing. 
 
 ![XKCD Phishing](https://raw.githubusercontent.com/robertriordan/2400/master/Images/xkcd_phishing.png)
