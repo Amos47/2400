@@ -52,55 +52,53 @@ And this from <a class="underlined-link" href="http://growingsocialmedia.com/soc
 
 <div style="width:100%;margin:10px 0;"><iframe src="https://w.graphiq.com/w/5fcPr0oWTT7" width="600" height="495" frameborder="0" scrolling="no" style="position:static;vertical-align:top;margin:0 auto;display:block;width:600px !important;max-width:100%;min-height:495px !important;max-height:none !important;border:none;overflow:hidden;"></iframe><div style="text-align:center;font:14px/16px Helvetica,arial;color:#3d3d3d;"><a target="_blank" href="https://www.graphiq.com/vlp/5fcPr0oWTT7" style="color:#3d3d3d;">FindTheCompany | Graphiq</a></div></div>
 
->"Now that we have some insights as far as the year’s most popular social media platforms and apps. Let’s learn some social media facts and statistics for 2016.
->
-1. According to Statistica, the number of global social media users is expected to reach 2.5 billion in 2018.
-2. According to Pew Research Center, 90% of adults age 18 to 29 use social media.
-3. The following apps are ranked as percentages as it relates to level of “importance” to teen and young adult users. (Mary Meeker)
-
-
-	- Instagram (39%)
-	- Twitter (24%)
-	- Facebook (14%)
-	- Snapchat (13%)
-	- Tumbler (4%)
-
-4. The average user of social media typically manages five social media accounts, according to Link Humans.
-5. Also according to Link Humans, social media is a widely used outlet for developing countries when it comes to obtaining information and news regarding surrounding countries.
-6. The following are the top social media platforms that companies plan on investing more advertising into in 2016, shown as percentages: (Media Post)
-
-	- Instagram (72%)
-	- Facebook (61%)
-	- Pinterest (41%)
-	- Snapchat (36%)
-	- Amazon (34%)
-
-7. According to We Are Social Media, 71% of women are active on social media, compared to 62% of men.
-8. 189 million of Facebook’s users are mobile only users. (We Are Social Media)
-9. Every second, two new users join LinkedIn. (We Are Social Media)
-10. Of small business owners that use social media, 92% of them believe that social media marketing is important for their business. (Business2Community)
-
-
-Read more at http://growingsocialmedia.com/social-media-facts-and-statistics-for-2016/#CtJe9iufXoswFB5f.99
-
-Why do you use social media? http://mashable.com/2009/12/02/personal-social-media-roi/#1ivkIKzAEkqK
+ JOURNALISTS: Why do you use social media? http://mashable.com/2009/12/02/personal-social-media-roi/#1ivkIKzAEkqK
 
 Why do people use SM? http://www.onepoll.com/10-reasons-people-use-social-media/
 
 Despite the fact that the survey link is broken, this is an interesting place to start:
 
-A recent study by Whiting and Williams interviewed a range of social media users and explored what keeps them coming back to social networks.
+>"A recent study [link broken] by Whiting and Williams interviewed a range of social media users and explored what keeps them coming back to social networks. [They found that people use SM for the following reasons (I assume not in any particular order.) I have added some editorial comment following each reason, to which we will later refer.]
 
-Social interaction – social media, not surprisingly, allows people to be social. They meet new people and keep in touch with friends, acquaintances and family.
-Information seeking – this refers to the process of finding information about products/services, keeping up to date with real-world social events, and learning new things.
-Passing time – social media is a great time killer and can cure boredom whether at home, at school, or in the work place.
-Entertainment – games, music and videos are all accessed through social media. Watching the stream of updates from people is also a form of entertainment – whether intentionally humorous or not.
-Relaxation – whilst people find others updates humorous, they also find them relaxing. Social media is a way to alleviate stress and escape from reality.
-Expression of opinions – expressing thoughts and opinions, criticizing others and blowing off steam (either anonymously or named) is regularly undertaken through social media.
-Things to talk about – like the daily newspaper, social media provide subject matter for people to talk and gossip about with others.
-Convenience – social media is readily accessible, even more so as mobile devices become ubiquitous. Furthermore, people can talk to several people at the same time.
-Sharing information – people can use social media to broadcast things about themselves. By publishing updates, videos and pictures, people market their own personal brand or business.
-Knowing about others – social media allows a window into the lives of others. By checking out other profiles, they can be nosey or ‘keep up with the Jones’’.
+>Social interaction – social media, not surprisingly, allows people to be social. They meet new people and keep in touch with friends, acquaintances and family. [People are social animals - we need social interaction or at least *most* of us do - in order to validate our existence. SM provides such contact, albeit not very *rich* contact. Physical touch is essential.]
+>
+Information seeking – this refers to the process of finding information about products/services, keeping up to date with real-world social events, and learning new things. [Humans are innately curious about our surroundings. We have survived through the millennia by being constantly aware of what is in our surroundings and what is friend and what is foe.]
+>
+Passing time – social media is a great time killer and can cure boredom whether at home, at school, or in the work place. [See later stats about just how much of our online time at work is actually work!]
+>
+Entertainment – games, music and videos are all accessed through social media. Watching the stream of updates from people is also a form of entertainment – whether intentionally humorous or not. [We all need a break from time to time. essentially the same as Passing time (above) and Relaxation (below).]
+>
+Relaxation – whilst people find others updates humorous, they also find them relaxing. Social media is a way to alleviate stress and escape from reality. [I'm not so sure this is any different from Entertainment...]
+>
+Expression of opinions – expressing thoughts and opinions, criticizing others and blowing off steam (either anonymously or named) is regularly undertaken through social media. [But trolling is a nasty business.]
+>
+Things to talk about – like the daily newspaper, social media provide subject matter for people to talk and gossip about with others. [This is information seeking so doesn't merit a separate category.]
+>
+Convenience – social media is readily accessible, even more so as mobile devices become ubiquitous. Furthermore, people can talk to several people at the same time. [Convenience is not a human need as far as I understand. We like to be efficient, sometimes... The second part about multi-channel is valid but this is simply Sharing information (below) and Social interaction (above).]
+>
+Sharing information – people can use social media to broadcast things about themselves. By publishing updates, videos and pictures, people market their own personal brand or business. [The marketing part I agree with, but the broadcasting is too similar to expressing of opinions to warrant specific mention here.] 
+>
+Knowing about others – social media allows a window into the lives of others. By checking out other profiles, they can be nosey or ‘keep up with the Jones’’. [Way too similar to Information seeking and Social interaction.]"
+
+So let's boil that down to what I think are the main reasons people use SM. Here's my list:
+
+- Social interaction
+- Data seeking and sharing
+- Diversion (entertainment, passing time and relaxation)
+- Marketing one's personal brand
+
+Thus there's nothing *particularly special* about social media as opposed to other forms of human interaction. We use SM in much the same way we have used newspapers, libraries, movie theatres, radio and TV in the past. But what *is* different is the ability SM gives us to reach out to a wide audience, and to receive from a wide variety of sources, both in real time. This *marketing of personal brand* is unprecedented in history. We do need to ask though, with everyone doing personal marketing on such a grand scale, is there enough time to listen?
+
+In this regard, I'm reminded of research by British Anthropologist Robin Dunbar, discussed by Malcolm Gladwell in his iconic year 2000 book *The Tipping Point: How Little Things Can Make a Big Difference* (Back Bay Books). Gladwell reports on Dunbar's findings that, all through history, humans have kept their optimal social group size surprisingly constant as around 150. Dunbar's research demonstrates that it is the size of the human neocortex (a region of the brain) that dictates the maximum number of *relationships* both direct and between the others in the group. This 150 figure is remarkably consistent across all manner of social groups (including military) over recorded history. Our little brain just can't handle any more complexity than that. The social fabric begins to unravel when numbers in a group get too far beyond this optimal number.  
+
+So we need to ask. Are we expanding our network by using SM? Or are we simply either spreading ourselves thinner? Or are we expanding our network by at the expense of the quality of our closest relationships? The *platform* keeps track of much of what we would otherwise need to process in our little brains so we can scroll back through our timeline to see what was happening last week or last month or last year. We are freed from having to keep in our own memory. This allows us to artificially extend our network beyond the 150 mark.
+
+Interested in Dunbar's Number? https://en.wikipedia.org/wiki/Dunbar%27s_number
+
+But let me share something with you. I have as of October 25, 2016, 1,592 connections in my LinkedIn network. And I ask myself "Why?" I spend some part of nearly every day simply maintaining that network, saying congrats on the new job or approving (or more likely rejecting) new requests for inclusion in my *exclusive network* of close associates. I recently approved a request from an HR Project Coordinator at the Royal College of Physicians and Surgeons of Canada. And I don't know why. I took the time to examine her profile and to check our common connections and then said yes to her request. But I'm not sure what it gives me at this point in my career. I'm not going to change jobs and we have little or nothing in common (except my background in Epidemiology I suppose) that would lead to a synergistic relationship. We'll return to this shortly.  
+
+The other side of this is the hit on the quality of our *physical* interactions. We maintain these artificially-outsized networks in an increasingly insular way. 
+
 
 Another view: http://wersm.com/the-10-top-reasons-why-we-use-social-networks/
 
