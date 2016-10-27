@@ -82,82 +82,85 @@ Knowing about others – social media allows a window into the lives of others. 
 
 So let's boil that down to what I think are the main reasons people use SM. Here's my list:
 
-- Social interaction
-- Data seeking and sharing
-- Diversion (entertainment, passing time and relaxation)
-- Marketing one's personal brand
+1. Social interaction
+1. Data seeking and sharing
+1. Diversion (entertainment, passing time and relaxation)
+1. Marketing one's personal brand
+1. And one that's *not* included above: creating *meaning* from our experiences
 
-Thus there's nothing *particularly special* about social media as opposed to other forms of human interaction. We use SM in much the same way we have used newspapers, libraries, movie theatres, radio and TV in the past. But what *is* different is the ability SM gives us to reach out to a wide audience, and to receive from a wide variety of sources, both in real time. This *marketing of personal brand* is unprecedented in history. We do need to ask though, with everyone doing personal marketing on such a grand scale, is there enough time to listen?
+Looking first at #5 above, we have an interesting challenge. People will create meaning from their experiences whether they use SM or not. SM is simply one way to do that. But what do I mean when I write "create meaning"? Meaning is interpretation. Meaning involves perception and context. Humans are unlike all other creatures (humans believe) because we alone are searching for answers to the big question of life: "Why?" We have created all kinds of explanations for things down through the ages. Science is but another tool for creating order and meaning in and among natural phenomena. And social media can assist. In order to create meaning, all we need is agreement on interpretation. Something happens (lightening strikes the earth) and someone creates an interpretation of it (the gods are unhappy with us for driving Volkswagens!). Interpretation is important to humans because we seek to understand cause and effect. We get a *Dopamine rush* when we search for meaning and an *opioid hit* when we find it. This *community of understanding* is vital to us. ANd SM allows us to create such communities and to come to shared understandings of contextual soup in which we live. 
 
-In this regard, I'm reminded of research by British Anthropologist Robin Dunbar, discussed by Malcolm Gladwell in his iconic year 2000 book *The Tipping Point: How Little Things Can Make a Big Difference* (Back Bay Books). Gladwell reports on Dunbar's findings that, all through history, humans have kept their optimal social group size surprisingly constant as around 150. Dunbar's research demonstrates that it is the size of the human neocortex (a region of the brain) that dictates the maximum number of *relationships* both direct and between the others in the group. This 150 figure is remarkably consistent across all manner of social groups (including military) over recorded history. Our little brain just can't handle any more complexity than that. The social fabric begins to unravel when numbers in a group get too far beyond this optimal number.  
+Considering the first four above, there's nothing *particularly special* about social media as opposed to other forms of human interaction. We use SM in much the same way we have used newspapers, libraries, movie theatres, radio and TV in the past. But what *is* different is the ability SM gives us to reach out to a wide audience, and to receive from a wide variety of sources, both in real time. This *marketing of personal brand* is unprecedented in history. We do need to ask though, with everyone doing personal marketing on such a grand scale, is there enough time to listen?
 
-So we need to ask. Are we expanding our network by using SM? Or are we simply either spreading ourselves thinner? Or are we expanding our network by at the expense of the quality of our closest relationships? The *platform* keeps track of much of what we would otherwise need to process in our little brains so we can scroll back through our timeline to see what was happening last week or last month or last year. We are freed from having to keep in our own memory. This allows us to artificially extend our network beyond the 150 mark.
+In this regard, I'm reminded of research by British Anthropologist Robin Dunbar, discussed by Malcolm Gladwell in his iconic year 2000 book *The Tipping Point: How Little Things Can Make a Big Difference* (Back Bay Books, pp: 177-181, 185-86). Gladwell reports on Dunbar's findings that, all through history, humans have kept their optimal social group size surprisingly constant at around 150. Dunbar's research demonstrates that it is the size of the human neocortex (a region of the brain) that dictates the maximum number of *relationships* both direct and between the others in the group. This 150 figure is remarkably consistent across all manner of social groups (including military) over recorded history. Our little brain just can't handle any more complexity than that. The social fabric begins to unravel when numbers in a group get too far beyond this optimal number.  
+
+Interested in neocortex? https://en.wikipedia.org/wiki/Neocortex
 
 Interested in Dunbar's Number? https://en.wikipedia.org/wiki/Dunbar%27s_number
 
-But let me share something with you. I have as of October 25, 2016, 1,592 connections in my LinkedIn network. And I ask myself "Why?" I spend some part of nearly every day simply maintaining that network, saying congrats on the new job or approving (or more likely rejecting) new requests for inclusion in my *exclusive network* of close associates. I recently approved a request from an HR Project Coordinator at the Royal College of Physicians and Surgeons of Canada. And I don't know why. I took the time to examine her profile and to check our common connections and then said yes to her request. But I'm not sure what it gives me at this point in my career. I'm not going to change jobs and we have little or nothing in common (except my background in Epidemiology I suppose) that would lead to a synergistic relationship. We'll return to this shortly.  
+So we need to ask. Are we expanding our network by using SM or are we simply spreading ourselves thinner? Or maybe we are expanding our network but at the expense of the quality of our closest relationships? The *platform* keeps track of much of what we would otherwise need to process in our little brains. It allows us to scroll back through our timeline to see what was happening last week or last month or last year. We are freed from having to keep all that detail in our own memory - the cloud does it for us. Perhaps this allows us to artificially extend our network beyond the 150 mark.
 
-The other side of this is the hit on the quality of our *physical* interactions. We maintain these artificially-outsized networks in an increasingly insular way. 
+But let me share something with you. I have as of October 25, 2016, 1,592 connections in my LinkedIn network. And I ask myself "Why?" I spend some part of nearly every day simply maintaining that network, saying "Congrats on the new job!" or approving (or more likely rejecting) new requests for inclusion in my *exclusive network* of 1,600 close associates. I recently approved a request from an HR Project Coordinator at the Royal College of Physicians and Surgeons of Canada. And I don't know why. I took the time to examine her profile and to check our common connections and then said yes to her request. But I'm not sure what it gives me at this point in my career. I'm not going to change jobs and we have little or nothing in common (except my background in Epidemiology I suppose) that would lead to a synergistic relationship. We'll return to this shortly.  
+
+The other side of this is the hit on the quality of our *physical* interactions. We maintain these artificially-outsized networks in an increasingly insular way. How many times have you seen a scene such as below? People not interacting on a personal level, even given the opportunity, because they are occupied with their device, either answering some sort of correspondence, updating their status or snapping a selfie for *posterity*. I'm willing to wager that upwards of 95% of all photos taken today are *never looked at again*. Ever. And we missed the moment by trying to preserve it. Next time you watch an Olympic opening ceremony on TV (unless you are lucky enough to actually *be there*), note how many are watching it through their smartphone or other tech device. We need to return to *being there*. Just saying. 
+
+**Image SECC. People in the moment?**
+
+![People and their Phones](https://raw.githubusercontent.com/robertriordan/2400/master/Images/people_smartphones.jpg)
+
+#### Social Media ROI
+
+Are we getting value from our use of Social Media? There's no reason not to use the same metrics that firms use to measure their ROI on their efforts to get their message out there. Let's use some standard tools and see what your personal ROI on social media is. 
+
+Step 1: I will define social media as *any technology tool that allows the sending and/ or receipt of messages to and/or from one or more members of your relevant social network of family and either existing or potential friends, contacts, employers, lovers or haters.*
+
+Step 2: A simple definition of *ROI* as:
+
+	ROI = (return – investment) / investment 
+
+Step 3: Define *investment*. For personal users of social media, those who aren't *selling something* in the commercial sense, the investment we make in social media can only be measured in *time*. How many minutes we spend in a defined time period engaging in social media activities. Those minutes are your investment. Your resource spend. Let's quantify this arbitrarily. Some fairly specific http://www.marketingcharts.com/online/social-networking-eats-up-3-hours-per-day-for-the-average-american-user-26049/ data suggest that young people (18-34) spend 3.8 hours a day on social media, and some quick calculations yield that females spend 32% more time on SM than do males. This is in part due to their higher propensity to actually *use* SM, but also due to their increased time spend when on. SO not only do females participate more often than males, but they also spend more time per person than males. Ladies? What's up with that? 
+
+More on gender: http://www.pewresearch.org/fact-tank/2013/09/12/its-a-womans-social-media-world/
+
+![People and their Phones](https://raw.githubusercontent.com/robertriordan/2400/master/Images/sm_usage.jpg)
 
 
-Another view: http://wersm.com/the-10-top-reasons-why-we-use-social-networks/
+Complete life table, males, Ontario, 2009-2011 http://www.statcan.gc.ca/pub/84-537-x/2013005/tbl/tbl7a-eng.htm
+Complete life table, females, Ontario, 2009-2011 http://www.statcan.gc.ca/pub/84-537-x/2013005/tbl/tbl7b-eng.htm
 
-What Are The Top 10 Reasons For Using Social Media?
+e(x) female age 18 = 66.4 - total life lived = 66.4 + 18 = 84.4 (@0 = 83.9) - reward for living to age 18 is another .5 years of life
+e(x) male age 18 = 62.4  - total life lived = 62.4 + 18 = 80.4 (@0 = 79.8) - reward is .6 years
+Average: 64.4 (@0 = 81.9) 
+Total life lived = 82.4 
 
-1. To stay in touch with what friends are doing - 55%
-2. To stay up-to-date with news and current events - 41%
-3. To fill up spare time - 41%
-4. To find funny or entertaining content - 39%
-5. To share opinions - 38%
-6. To share photos or videos with others - 38%
-7. Because friends are already on them - 36%
-8. General networking with other people - 33%
-9. To meet new people - 32%
-10. To share details of our everyday life - 27%
+e(x) female age 63 = 23.6 (@0 = 83.9)
+e(x) male age 63 = 20.6 (@0 = 79.8)
 
-Another view: https://hbr.org/2012/02/why-we-use-social-media-in-our
+Step 4 - Define *return*. What does it mean in terms of your personal efforts? What do you want/expect to achieve by spending time on social media? What's a return on using Facebook, for example? What's the return on a tweet? For marketing or sales firms, those answers are a little easier (though not much) to nail down. A new *follower*? A re-tweet? A product brochure download? A sale? Some of these are more concrete than others, but there's a progression, culminating in the ultimate for a business: revenue. But for you or I, personally, what kind of meaningful return can we measure? 
 
-Including:
+I don't have an answer. I get nothing back from LinkedIn that is of any value to me personally or professionally. I don't participate in Facebook anymore(I did at the very beginning but it became just overwhelming, maintaining my network and keeping up - there was no value). I stopped years ago, long before my own mother got an account. At 93, she's on Facebook. That's a great reason for me *not* to be. When your mother wants to friend you, it's time to bail. I use Twitter sparingly. I got in early on Snapchat, but, as you might imagine, I don't get much use from it. I don't have an Instagram account, though one of my dear friends spends part of the little time we can manage to spend together at a quarterly lunch in maintaining his pictorial account of the exotic vacations upon which he and his wife go. I sometime say "Hey! I'm talking to you!" It doesn't phase him.
 
-- We’re usually invited to participate by people we know and trust.
-- There are specific things we want to do with the other people involved, such as share photos, stay up-to-date on a club’s activities, or develop a personal reputation.
-- We get something back from participation: advice, practical information we need, a network to tap when times are rough, or the emotional pleasure of seeing others photos or hearing their news.
-- We have control over who sees our information.
-- The applications are intuitive — there’s no training required.
-- The applications are well-tuned to support the specific tasks we want to perform and their features are regularly rated and refined.
-- 
-There's no reason not to use the same metrics that firms use to measure their ROI on the effort expended on getting their message out there. So let's use some standard tools and see what your personal ROI on social media is. 
-
-Step - 1: Define social media. We will define social media as any technology tool that allows you to send or receive messages regarding personal brand to and from one or more members of your relevant social network of family and either existing or *potential* friends, contacts, employers, lovers or haters.
-
-Step 2: A simple definition of ROI:
-
-ROI = (return – investment) / investment 
-
-Step - 3: Define investment. For personal users of social media, those who aren't *selling something* in the commercial sense, the investment we make in social media can only be measured in *time*. How many minutes we spend in a defined time period engaging in social media activities. Those minutes are your investment. Your resource spend.
-
-Step 4 - define "return". What does it mean in terms of your personal efforts? What do you want/expect to achieve by spending time on social media? What's a return on using Facebook, for example? What's the return on a tweet? For marketing or sales firms, those answers are a little easier (though not much) to nail down. A new *follower*? A re-tweet? A product brochure download? A sale? Some of these are more concrete than others, but there's a progression, culminating in the ultimate for a business: revenue. 
-
-We need also to determine what your goals are for using SM. What do you expect to achieve? http://www.socialmediaexaminer.com/measure-social-media-roi/
+Thus we need also to determine what our goals are for using SM. What do you expect to achieve? http://www.socialmediaexaminer.com/measure-social-media-roi/
 
 <a class="underlined-link" href="https://blog.hootsuite.com/measure-social-media-roi-business/" target="_blank">Hootsuite </a> has this to say about measuring the value of a social media programme for business:
 
 >"Measuring your social media ROI is important for countless reasons, including, but not limited to: 
 >
-- Proving the value of social media to your organization’s overall goals and business objectives
-- Allowing you to clearly see where efforts and resources are being used efficiently
-- Enabling you to evaluate where resources are being wasted, or not used as efficiently as possible
-- Allowing you to recognize gaps in strategy, key messages, and content
-- Showing where your social media budget is being used most effectively, and showing areas where it can be pulled back"
+> 1. Proving the value of social media to your organization’s overall goals and business objectives
+1. Allowing you to clearly see where efforts and resources are being used efficiently
+1. Enabling you to evaluate where resources are being wasted, or not used as efficiently as possible
+1. Allowing you to recognize gaps in strategy, key messages, and content
+1. Showing where your social media budget is being used most effectively, and showing areas where it can be pulled back"
 
-Let's look at these from a personal perspective, one by one. 
+Let's look at these from a personal perspective. 
 
-How would you, personally, go about the task of proving the value of social media to your overall objectives?
+1. How would you, personally, go about the task of proving the value of social media to your overall objectives? And what are your overall objectives for using SM? FOMO (Fear of Missing Out)? Meeting people? Having quality relationships? Getting a job or a promotion? Staying in touch? Relaxation? Make a list. Which goals can you quantify? Can you measure relaxation? Does playing a fast-paced action game count as relaxation, entertainment or diversion? So make your list and then attach some kind of value to each one. But what value? I'll leave that to you. 
+2. Can you easily see which resources (time) are being spent effectively? Which SM interaction using which platform is contributing to your efficient and effective achievement of a goal?
+3. The mirror image of #2. Where are you wasting time (your only input resource)? How do you know when it's time to cut and run? 
+4. Can you identify where you are missing your targets and how will you get back on track?
+5. Can you metricise your inputs and outputs and calculate an ROI?
 
-
-
-
-
+I'm going to say no. You can't. There's no clean and defensible way to calculate the ROI from social media use. Yet we use it. We spend countless hours at it.
  
 Make sure to do the Nuclear reactor backup thing. 
 
