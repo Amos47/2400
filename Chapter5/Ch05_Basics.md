@@ -122,7 +122,9 @@ Step 3: Define *investment*. For personal users of social media, those who aren'
 
 More on gender: http://www.pewresearch.org/fact-tank/2013/09/12/its-a-womans-social-media-world/
 
-![Social Media Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/sm_usage.jpg)
+Up-to-date stats on gender: http://www.pewresearch.org/fact-tank/2015/08/28/men-catch-up-with-women-on-overall-social-media-use/
+
+![Social Media Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/sm_usage.png)
 
 Complete life table, males, Ontario, 2009-2011 http://www.statcan.gc.ca/pub/84-537-x/2013005/tbl/tbl7a-eng.htm
 Complete life table, females, Ontario, 2009-2011 http://www.statcan.gc.ca/pub/84-537-x/2013005/tbl/tbl7b-eng.htm
