@@ -32,7 +32,29 @@ Let's start buy quantifying, by example, what I mean by the term *social media*.
 14. ask.fm
 15. ClassMates 
 
-And not a Snapchat among them. Interesting eh? 
+And not a Snapchat among them. Interesting eh? But here is a slightly different list from Wikipedia, equally current, but with some important differences.
+
+>"This is a list of the leading social networks based on number of active user accounts as of September 2016: 
+
+1. Facebook 1,712,000,000 users.
+1. WhatsApp 1,000,000,000 users.
+1. Facebook Messenger: 1,000,000,000 users.
+1. QQ: 899,000,000 users.
+1. WeChat: 806,000,000 users.
+1. QZone: 652,000,000 users.
+1. Tumblr: 555,000,000 users.
+1. Instagram: 500,000,000 users.
+1. Twitter: 313,000,000 users.
+1. Baidu Tieba: 300,000,000 users.
+1. Skype: 300,000,000 users.
+1. Sina Weibo: 282,000,000 users.
+1. Viber: 249,000,000 users.
+1. Line: 218,000,000 users.
+1. Snapchat: 200,000,000 users."
+
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/Social_media" target="_blank">Source</a>
+
+The differences between the lists underlines the difficulty in nailing down exactly what SM is and where SM is measured. With the folding of the SM site Vine this week, the field is changing. 
 
 Now let's look at some statistics on SM usage. Despite some really glaring thinko/typo errors in this infographic, it has an interesting story to tell.
 
@@ -52,9 +74,7 @@ And this from <a class="underlined-link" href="http://growingsocialmedia.com/soc
 
 <div style="width:100%;margin:10px 0;"><iframe src="https://w.graphiq.com/w/5fcPr0oWTT7" width="600" height="495" frameborder="0" scrolling="no" style="position:static;vertical-align:top;margin:0 auto;display:block;width:600px !important;max-width:100%;min-height:495px !important;max-height:none !important;border:none;overflow:hidden;"></iframe><div style="text-align:center;font:14px/16px Helvetica,arial;color:#3d3d3d;"><a target="_blank" href="https://www.graphiq.com/vlp/5fcPr0oWTT7" style="color:#3d3d3d;">FindTheCompany | Graphiq</a></div></div>
 
- JOURNALISTS: Why do you use social media? http://mashable.com/2009/12/02/personal-social-media-roi/#1ivkIKzAEkqK
-
-Why do people use SM? http://www.onepoll.com/10-reasons-people-use-social-media/
+Why do people use SM? Here is an interesting article: http://www.onepoll.com/10-reasons-people-use-social-media/
 
 Despite the fact that the survey link is broken, this is an interesting place to start:
 
@@ -79,6 +99,21 @@ Convenience – social media is readily accessible, even more so as mobile devic
 Sharing information – people can use social media to broadcast things about themselves. By publishing updates, videos and pictures, people market their own personal brand or business. [The marketing part I agree with, but the broadcasting is too similar to expressing of opinions to warrant specific mention here.] 
 >
 Knowing about others – social media allows a window into the lives of others. By checking out other profiles, they can be nosey or ‘keep up with the Jones’’. [Way too similar to Information seeking and Social interaction.]"
+
+Here is a technical definition of social media from our friends at Wikipedia (accessed October 29, 2016) from the usage statistics entry cited above:
+
+>"Social media are computer-mediated technologies that allow individuals, companies, NGOs, governments, and other organizations to view, create and share information, ideas, career interests, and other forms of expression via virtual communities and networks. The variety of stand-alone and built-in social media services currently available introduces challenges of definition; however, there are some common features:
+>
+- social media are interactive Web 2.0 Internet-based applications
+- user-generated content such as text posts or comments, digital photos or videos, as well as data generated through all online interactions, are the lifeblood of the social media organism
+- users create service-specific profiles for the website or app, that are designed and maintained by the social media organization and
+- social media facilitate the development of online social networks by connecting a user's profile with those of other individuals and/or groups."
+
+They add further that:
+
+>"Social media use web-based and mobile technologies on smartphones and tablet computers to create highly interactive platforms through which individuals, communities and organizations can share, co-create, discuss, and modify user-generated content or pre-made content posted online. They introduce substantial and pervasive changes to communication between businesses, organizations, communities, and individuals. Social media changes the way individuals and large organizations communicate. These changes are the focus of the emerging field of technoself studies.
+>
+>"Social media differ from paper-based or traditional electronic media such as TV broadcasting in many ways, including quality, reach, frequency, usability, immediacy, and permanence. Social media operate in a dialogic transmission system (many sources to many receivers). This is in contrast to traditional media that operates under a monologic transmission model (one source to many receivers), such as a paper newspaper which is delivered to many subscribers. Some of the most popular social media websites are Facebook (and its associated Facebook Messenger), WhatsApp, Tumblr, Instagram, Twitter, Baidu Tieba, Pinterest, LinkedIn, Gab, Google+, YouTube, Viber and Snapchat. These social media websites have more than 100,000,000 registered users."
 
 So let's boil that down to what I think are the main reasons people use SM. Here's my list:
 
@@ -138,7 +173,7 @@ More on gender: http://www.pewresearch.org/fact-tank/2013/09/12/its-a-womans-soc
 
 Step 4 - Define *return*. What does it mean in terms of your personal efforts? What do you want/expect to achieve by spending time on social media? What's a return on using Facebook, for example? What's the return on a tweet? For marketing or sales firms, those answers are a little easier (though not much) to nail down. A new *follower*? A re-tweet? A product brochure download? A sale? Some of these are more concrete than others, but there's a progression, culminating in the ultimate for a business: revenue. But for you or I, personally, what kind of meaningful return can we measure? 
 
-I don't have an answer. I get nothing back from LinkedIn that is of any value to me personally or professionally. I don't participate in Facebook anymore(I did at the very beginning but it became just overwhelming, maintaining my network and keeping up - there was no value). I stopped years ago, long before my own mother got an account. At 93, she's on Facebook. That's a great reason for me *not* to be. When your mother wants to friend you, it's time to bail. I use Twitter sparingly. I got in early on Snapchat, but, as you might imagine, I don't get much use from it. I don't have an Instagram account, though one of my dear friends spends part of the little time we can manage to spend together at a quarterly lunch in maintaining his pictorial account of the exotic vacations upon which he and his wife go. I sometime say "Hey! I'm talking to you!" It doesn't phase him.
+I don't have an answer. I get nothing back from LinkedIn that is of any value to me personally or professionally. I don't participate in Facebook anymore (I did at the very beginning but it became just overwhelming, maintaining my network and keeping up - there was no value). I stopped years ago, long before my own mother got an account. At 93, she's on Facebook. That's a great reason for me *not* to be. When your mother wants to friend you, it's time to bail. I use Twitter sparingly. I got in early on Snapchat, but, as you might imagine, I don't get much use from it. I don't have an Instagram account, though one of my dear friends spends part of the little time we can manage to spend together at a quarterly lunch in maintaining his pictorial account of the exotic vacations upon which he and his wife go. I sometime say "Hey! I'm talking to you!" It doesn't phase him.
 
 Thus we need also to determine what our goals are for using SM. What do you expect to achieve? http://www.socialmediaexaminer.com/measure-social-media-roi/
 
@@ -164,6 +199,16 @@ In unsolicited response to #5 above, I'm going to say no. You can't. There's no 
 
 Just think about it. Exactly what kind of return on that time would be worth it? How will you get back the value of more than two full years of your life by age 36? It's mind-boggling. All the more since it is the platforms that are being enriched in tangible assets (real dollars) from your participation. We are left to imagine and *artificially create* (call it rationalise) the value we derive from our participation. 
 
+Returning to the Wikipedia article quoted above, here are some final thoughts on social media.
+
+>"Observers have noted a range of positive and negative impacts from social media use. Social media can help to improve individuals' sense of connectedness with real and/or online communities and social media can be an effective communications (or marketing) tool for corporations, entrepreneurs, nonprofit organizations, including advocacy groups and political parties and governments. At the same time, concerns have been raised about possible links between heavy social media use and depression and even the issues of cyberbullying, online harassment and "trolling". According to Nielsen, Internet users continue to spend more time with social media sites than any other type of site. At the same time, the total time spent on social media in the U.S. across PC and mobile devices increased by 99 percent to 121 billion minutes in July 2012 compared to 66 billion minutes in July 2011."
+
+Imagine what the numbers are today.
+
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/Social_media#Positive_effects" target="_blank">Interested in the positive effects of SM?</a>
+
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/Social_media#Negative_effects" target="_blank">Interested in the negative effects of SM?</a>
+
 You can see the complete life table that I used to derive these figures for males, Ontario, 2009-2011 [here](http://www.statcan.gc.ca/pub/84-537-x/2013005/tbl/tbl7a-eng.htm). Same for females [here](http://www.statcan.gc.ca/pub/84-537-x/2013005/tbl/tbl7b-eng.htm). 
 
 Make sure to do the Nuclear reactor backup thing. 
@@ -181,18 +226,59 @@ Algorithms go here? Marketing algorithms also?
 
 If you are in BUSI 2400, you will have already (or will soon) be learning the fundamentals of programming. You may already be an accomplished coder and, if so, you know a good algorithm when you see one. For those new to the field, let's define what we mean. A simple Google search of the term yields the following: "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." So algorithms are technology, broadly defined. They are a set of rules or procedures, collected together and tested and which produce a quantifiable and expected result. 
 
-Thus when Twitter reports what's *Trending*, they are reporting the results obtained by applying an algorithm to their tweet data. When I think of what's trending on Twitter, I think of what's most popular at the moment. What hash tag is most prevalent (most frequently occurring) over the past minute or 5 minutes or hour. BUt it's more complex than that, according to Twitter. When the Twitter hash tag *#occupywallstreet* did not trend despite the Occupy movement being the top new story of the time, there were cries of *censoring* from the blogosphere. But hold on. 
+Thus when Twitter reports what's *Trending*, they are reporting the results obtained by applying an algorithm to their tweet data. When I think of what's trending on Twitter, I think of what's most popular at the moment. What hash tag is most prevalent (most frequently occurring) over the past minute or 5 minutes or hour. But it's more complex than that, according to Twitter. 
 
-**Figure TTAP. Trending on Twitter**
+A simple *incidence algorithm* would look something like:
+
+	for x = 1 to all hashtags
+		trending(x) = hashtag(x) / total_hashtags
+	next
+	sort trending(x) descending
+	for x = 1 to n
+		show hashtag(x)
+	next
+	
+Twitter might set 'n' to be 10 or 15, let's say, and then the top 10 or 15 hashtags would be displayed. The algorithm could be run every minute or five minutes or at whatever interval Twitter deemed appropriate. Here's what the result of that might look like:
+
+**Figure TTAP. Trending on Twitter, October 28, 2016 ~ 4PM**
 
 ![Twitter Trending](https://raw.githubusercontent.com/robertriordan/2400/master/Images/twitter_trending.png)
 
->"Twitter explains that Trends is designed to identify topics that are enjoying a surge, not just rising above the normal chatter, but doing so in a particular way. Part of the evaluation includes: Is the use of the term spiking, i.e. accelerating rapidly, or is its growth more gradual? Are the users densely interconnected into a single cluster, or does the term span multiple clusters? Are the tweets unique content, or mostly retweets of the same post? Is this the first time the term has Trended? (If not, the threshold to Trend again is higher.) So this list, though automatically calculated in real time, is also the result of the careful implementation of Twitter’s judgments as to what should count as a “trend.”"
+But when the Twitter hash tag *#occupywallstreet* did not trend despite the Occupy movement being the top news story at the time, there were cries of *censoring* from the blogosphere. But hold on. 
 
-
+>"Twitter explains that *Trends* is designed to identify topics that are enjoying a surge, not just rising above the normal chatter, but doing so in a particular way. Part of the evaluation includes: Is the use of the term spiking, i.e. accelerating rapidly, or is its growth more gradual? Are the users densely interconnected into a single cluster, or does the term span multiple clusters? Are the tweets unique content, or mostly retweets of the same post? Is this the first time the term has Trended? (If not, the threshold to Trend again is higher.) So this list, though automatically calculated in real time, is also the result of the careful implementation of Twitter’s judgments as to what should count as a “trend.”"
 
 <a class="underlined-link" href="http://limn.it/can-an-algorithm-be-wrong/" target="_blank">Source</a>
 
+Apparently, Twitter's algorithm is quite a bit more sophisticated. Not only does it matter that a hashtag is popular, it must also be *increasingly* and not just *persistently* popular. This is *spiking*. Not just *up* but persistently *on the way* up. And it can't be popular in isolation. It needs to be popular across what Twitter calls *clusters* of users. And it just can't be any old recurring and spiking and popular story... it's got to have something more. Like not being censored. Sounds like gobbledygook to me. Twitter was trying to hide something IMHO. But who am I to say?
+
+####A deeper look at algorithms
+
+ZDNET (a tech publishing service) has this to offer on algorithms. Reporting on a talk given by Peter Sondergaard, a research chief at well-respected tech consultancy Gartner, they wrote:
+
+>"'Big data is not where the value is,' said Sondergaard. 'Algorithm is where the real value lies. Algorithms are where the action lies. Data is dumb. Algorithms define the way the world works.'"
+
+They further shared that:
+
+>"'A market for algorithms will emerge,' said Sondergaard.
+
+>The platforms that enterprises rely on will be powered by algorithms. Cortana, Siri and the like are just precursors to what's coming. [...] Technology giants such as Microsoft may not provide apps, but algorithms and analytics. Is there any wonder why IBM, Microsoft, Google and Amazon Web Services have all spun their clouds with an analytic bent?
+
+>Here are my [the ZDNET author's] thoughts about the promise of perils of this algorithmic nirvana.
+>
+>Algorithms are only going to be as good as the humans producing them. Some companies are going to go digital, algorithm happy and merely scale bad processes and models.
+>
+>Vendors are going to spin magic bullets with algorithms and analytics. It's one thing to evaluate user interfaces, software, processes and integration. It's quite another to dig into the data science to validate vendor claims.
+>
+>Big data is looking increasingly like a backend plumbing topic. If data science can't find the signals and real business use, all you're going to have is a big lake of information. [I would say *data* but hey, who am I?]
+>
+>Transforming to this algorithmic business isn't going to be easy. Companies are going to need new suppliers, ways to invest and approach to innovation. Every company is going to need to be about technology as well as a venture investor. Sondergaard urged enterprises to use "techquisitions," acquisitions of IT companies that can boost traditional businesses.
+>
+>Algorithms as a scene setter this year was a different tack from the previous two themes from Gartner. In 2014 and 2013, digital business was the key theme with smart machines and algorithms viewed as something developing in the future."
+
+<a class="underlined-link" href="http://www.zdnet.com/article/dear-enterprise-you-are-your-algorithms-says-gartner/?imm_mid=0da452&cmp=em-data-na-na-newsltr_20151014" target="_blank">Interested?</a>
+
+Thus algorithms are the future, according to Gartner. I agree. Big data is big data. It's just a relentless, jet-speed stream of data. Without some way to make sense of the data, without a way to create the necessary *context*, big data cannot be leveraged to value. 
 
 Segmentation
 
