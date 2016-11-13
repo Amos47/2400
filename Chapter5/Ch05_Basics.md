@@ -352,22 +352,34 @@ Heady stuff. A master algorithm. I'll let you ponder that for the moment. We wil
 ####Algorithmic Trading
 https://en.m.wikipedia.org/wiki/Algorithmic_trading
 
+Algorithms replace dude on the floor to buy a large order of stocks.
+
+Disintermediation of the broker (DMA - direct market access) allows ultimate investor without using the broker. Used own algorithms (bought or rented algorithm) - see Knight Capital - bought by an algo trader. Brokers first automated themselves - original automaters. Now the investors are automated. Typical curve. Intermediaries stand ready to buy and sell (middlemen, specialists, market makers). NOw dealing with algorightms and easier for them to also automate. Instead of offering to buy and sell they coded up algos to monitor the market and then offer to buy and sell. Instead of a human making the decision about the quantities and prices at which they were willing to buy and sell, an algo made that decision. This was automation of the classic market makers.  These market makers essentially took their business model and replicated it in an exzcel spreadsheet. This was the old intermediation model automated. These traditional market makers were ripe to be disrupted by neck beard cheetos eating basement dwellers, and they were. Upstart technology market makers, called high frequency traders, started competing with traditional market makers for their business. They were faster and cheaper than the traditional market makers and were willing to trade at better prices than was the old guard. 
+
+These HFTs were located as close to the electronic market infrastructure as possible. Sometimes they would rent offices directly across from the exchange to shorten the distance between themselves and the markets, other times they would co-locate (cite) within the exchange infrastructure. These new market makers quickly drove the slower market makers out of business, leaving only HFT willing to stand ready to buy and sell securities in most markets. For the most part this has been beneficial to the market. The price of liquidity (the distance between the buy and sell price) has fallen and markets have become relatively resilient (see the Flash Crash). Nevertheless the public and regulators are concerned about the overall impact of these ultra fast liquidity suppliers. In particular whether or not HFT are using their speed advantage to take unfair advantage of slower and less sophisticated investors. Most evidence suggests that this is not the case, most individual investors are better off with HFT intermediaries than the classic intermediaries. HFTs are cheaper and quicker to react to market changes. For some large algorithmic investors the previous market structure may have been better however their is no clear evidence that this is the case. 
+
+New market makers link http://www.sciencedirect.com/science/article/pii/S1386418113000281
+Algorithmic trading link http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2010.01624.x/full
+Another AT link http://journals.cambridge.org/abstract_S0022109013000471
+HFT Links: http://rfs.oxfordjournals.org/content/27/8/2267.short
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2236201
+
+
+Overall the jury still appears to be out on whether or not HFTs are beneficial to markets overall. Nevertheless most serious eveidence suggests that HFTs have been relatively good for stock markets.   
+
 Algorithmic trading has a bad rep. It's been blamed for all sorts of ills such as leading to a *Flash Crash* <a class="underlined-link" href="https://en.wikipedia.org/wiki/Flash_crash" target="_blank">Interested?</a>. 
 
 Automated trading systems: https://en.wikipedia.org/wiki/Automated_trading_system
 
 Segmentation
 
-Analysis tools?
-
-Visualisation?
-
 Browser / OS usage
 
 ![Browser Usage - desktop Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/browser-CA-monthly-201510-201610-bar.png)
+
 ![Browser Usage - mobile+tablet Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/mobile_tablet_browser-CA-monthly-201510-201610-bar.png)
 
-
+Source: http://gs.statcounter.com/#mobile+tablet-browser-CA-monthly-201510-201610-bar
 
 App Annie
 
