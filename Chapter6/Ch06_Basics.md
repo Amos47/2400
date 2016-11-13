@@ -2,17 +2,62 @@
 
 ## What's in store in the world of ICT?
 
-Let's start with a gentle introduction to *the digital divide*. 
+###Disruption
 
-**Figure KSRT. The digital divide**
+###IoT
 
-![Figure KS. The digital divide](https://raw.githubusercontent.com/robertriordan/2400/master/Images/internet_usage.png)
-The Digital Divide refers to the gap between the *haves* and the *have nots* in terms of access to the internet and modern computing. This gap can occur at any level from neighbourhoods in a community all the way up to nations at the global level. Those with access to modern computing tools and techniques have a distinct advantage over those without such access. Things as basic as the ability to create and print or send an digital resume, access to online job postings, access to critical health information, the ability to upgrade one's skills through online education, among many others, are out of reach for those with no digital access. Imagine your world without the internet.
+###Quantum Computing
 
-Figure KSRT shows the trends over time in internet usage for developed versus developing countries from 1999 to 2014 (estimated). The figure also provides the ratio of developed to developing countries in the internet figures. The most striking change over time is the decline in the ratio over time. This becomes less striking when you examine the starting values for the ratio. Already by 1999, the internet was popular in developed countries with 24% penetration as opposed to 1% in developing countries. Thus the ratio was 24:1. Even moderate growth in both areas would yield a declining ratio, as evidenced by 2001, where the developed world had increased usage from 24 to 36 (a 50% increase) but the developing world increased from 1 to 3 (a 300% increase - 6 times faster than the developed world increase) over the same time. The ratio is steadily dropping, and sat at 2.4:1 in 2014. But the disparity remains stark: the rate of increase in usage in the two regions has been roughly the same for the last 10 years or so, but still, 78% of the inhabitants of developed countries use the internet compared to only 32% of those in developing countries. To be truly equitable, the gap needs to close.
+###Contextual Computing
+####4D contextual printing
 
-This is important for you since, in my experience, I've found that younger people when making marketing or strategic plans, tend to take it for granted that everyone is just like them and: 1) has access to internet resources; 2) knows how to use them; 3) *wants* to use them and; 4) does not take privacy very seriously. These are all dangerous assumptions.
+###Wearables
 
+###Autonomous vehicles
+
+###Smart Cities
+
+###Wind internet
+
+###LiFi
+
+###The Sharing Economy
+
+###Platform Computing
+
+####Analytics
+
+###Artificial Intelligence
+
+Many jokes have been made over the years about just which group best exhibits the characteristics of *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A front runner has been academics. We won't settle it here.  Better to concentrate on the growing prowess of machines towards becoming sentient (thinking, aware, conscious entities). 
+
+The blue oval with the cogs and hand indicates that either a machine or a human could take the action. 
+
+(tk) Definition
+Wikipedia offers this about AI: 
+
+>"In computer science, an ideal *intelligent machine* is a flexible rational agent that perceives its environment and takes actions that maximize its chance of success at an arbitrary goal."
+
+(References in original [here](https://en.wikipedia.org/wiki/Artificial_intelligence#CITEREFRussellNorvig2003).)
+
+###Machine Learning
+(tk) Definition
+
+Wikipedia (yes, again) offers this nugget:
+
+>"Tom M. Mitchell provided a widely quoted, more formal definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E." This definition is notable for its defining machine learning in fundamentally operational rather than cognitive terms, thus following Alan Turing's proposal in his paper "Computing Machinery and Intelligence" that the question "Can machines think?" be replaced with the question "Can machines do what we (as thinking entities) can do?""
+
+(References in original [here](https://en.wikipedia.org/wiki/Machine_learning).)
+
+Link all to fluid information. 
+
+**Figure MJGT. Aritiicial Intelligence and Machine Learning showing IoT Sensor Input**
+
+![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
+
+####Neural Nets
+https://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html
+https://en.wikipedia.org/wiki/Artificial_neural_network
 
 
 Dilbert: Move this to discussion of robots
@@ -212,36 +257,26 @@ NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a h
 
 Source: The Dilbert cartoon above is available [here](http://bit.ly/28JMLOk).
 
-There are a couple of interesting things going on in the Dilbert strip above. First, the notion of a *minimum viable product*. This perversion os several design standards is hilarious to anyone in the design industry, whether software, hardware or just everyday product design. The goals of simplicity and elegeance in design, recyclability and multi-purposing are all nicely met by a block of wood. Trouble is, the block has severely limited capacity to do anything. That never stopped a good engineer though ;)  Next, the notion of AI or *artificial intelligence*, is a really hot topic these days. We will consider it in some depth below. Finally, the the strip plays on our fears that machines are becoming too human or worse still, *better than human*. Many fear the inevitability of *the singularity*. We will touch on that as well in this chapter. 
+There are a couple of interesting things going on in the Dilbert strip above. First, the notion of a *minimum viable product*. This perversion of several design standards is hilarious to anyone in the design industry, whether software, hardware or just everyday product design. The goals of simplicity and elegance in design, recyclability and multi-purposing are all nicely met by a block of wood. Trouble is, the block has severely limited capacity to do anything. That never stopped a good engineer though ;) Next, the notion of AI or *artificial intelligence*, is a really hot topic these days. We will consider it in some depth below. Finally, the strip plays on our fears that machines are becoming too human or worse still, *better than human*. Many fear the inevitability of *the singularity*. We will touch on that as well in this chapter. 
 
-###Artificial Intelligence
+### Machine Learning
 
-Many jokes have been made over the years about just which group best exhibits the characteristics of *the artificially intelligent*. Is it politicians? How about referees and judges in sports? A frontrunner has been academics. We won't settle it here.  Better to concentrate on the growing prowess of machines towards becoming sentient (thinking, aware, concious entities). 
+Traditionally, the only way to get a computer to do something— from adding two numbers to flying an airplane — was to write down an algorithm explaining how, in painstaking detail. But machine-learning algorithms, also known as learners, are different: they figure it out on their own, by making inferences from data. And the more data they have, the better they get. Now we don’t have to program computers; they program themselves.
 
-THe blue oval with the cogs and hand indicates that either a machine or a human could take the action. 
+Domingos, Pedro. The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World. Basic Books. Kindle Edition.
 
-####Artificial Intelligence
-(tk) Definition
-Wikipedia offers this about AI: 
+#####The chip bag
 
->"In computer science, an ideal *intelligent machine* is a flexible rational agent that perceives its environment and takes actions that maximize its chance of success at an arbitrary goal."
+#####The Future of work
+#####Robots
 
-(References in original [here](https://en.wikipedia.org/wiki/Artificial_intelligence#CITEREFRussellNorvig2003).)
+#####Blockchains
+#####The future of Finance
 
-###Machine Learning
-(tk) Definition
+#####The singularity = the limits of computing
 
-Wikipedia (yes, again) offers this nugget:
+#####The Borg
 
->"Tom M. Mitchell provided a widely quoted, more formal definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E." This definition is notable for its defining machine learning in fundamentally operational rather than cognitive terms, thus following Alan Turing's proposal in his paper "Computing Machinery and Intelligence" that the question "Can machines think?" be replaced with the question "Can machines do what we (as thinking entities) can do?""
-
-(References in original [here](https://en.wikipedia.org/wiki/Machine_learning).)
-
-Link all to fluid information. 
-
-**Figure MJGT. Aritiicial Intelligence and Machine Learning showing IoT Sensor Input**
-
-![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
-
+#####The Roshomon Effect in IoT - time travel
 
 

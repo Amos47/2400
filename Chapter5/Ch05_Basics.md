@@ -163,9 +163,9 @@ There is also some greater potential collective good that can come of social med
 
 <a class="underlined-link" href="http://limn.it/preface-crowds-and-clouds/](http://limn.it/preface-crowds-and-clouds/" target="_blank">Interested?</a>
 
-![LinkedIn](https://raw.githubusercontent.com/robertriordan/2400/master/Images/linkedin.png)
+![LinkedIn](https://raw.githubusercontent.com/robertriordan/2400/master/Images/linkedin.PNG)
 
-But let me share something with you. I have as of October 25, 2016, 1,592 connections in my LinkedIn network. And I ask myself "Why?" I spend some part of nearly every day simply maintaining that network, saying "Congrats on the new job!" or approving (or more likely rejecting) new requests for inclusion in my *exclusive network* of 1,600 close associates (#sarcasm). I recently approved a request from an HR Project Coordinator at the Royal College of Physicians and Surgeons of Canada. And I don't know why. I took the time to examine her profile and to check our common connections and then said yes to her request. But I'm not sure what it gives me at this point in my career. I'm not going to change jobs and we have little or nothing in common (except my background in Epidemiology I suppose) that would lead to a synergistic relationship. So what kind of collective or community is this LinkedIn thing of mine? And what kid of community created the Arab Spring? And what kind of community comes together around a public tragedy such as a shooting or a hurricane or an earthquake? Are such communities artificial in comparison to those crowds that assemble physically and have a palpable presence and can cause the ground to shake. Is the community formed by those watching a Blue Jays game on TV different from the crowd that assembles on the lakeshore in Toronto when the Jays play the Rogers Centre? Certainly they are different, but in what ways? One is virtual and one is physical and that distinction frames the disctinction between them.  
+But let me share something with you. As of November 13, 2016, I have 1,599 connections in my LinkedIn network. And I ask myself *Why?* I spend some part of nearly every day simply maintaining that network, saying "Congrats on the new job!" or approving (or more likely rejecting) new requests for inclusion in my *exclusive network* of 1,600 close associates (#sarcasm). I recently approved a request from an HR Project Coordinator at the Royal College of Physicians and Surgeons of Canada. And I don't know why. I took the time to examine her profile and to check our common connections and then said yes to her request. But I'm not sure what it gives me at this point in my career. I'm not going to change jobs and we have little or nothing in common (except my background in Epidemiology I suppose) that would lead to a synergistic relationship. So what kind of collective or community is this LinkedIn thing of mine? And what kid of community created the Arab Spring? And what kind of community comes together around a public tragedy such as a shooting or a hurricane or an earthquake? Are such communities artificial in comparison to those crowds that assemble physically and have a palpable presence and can cause the ground to shake. Is the community formed by those watching a Blue Jays game on TV different from the crowd that assembles on the lake shore in Toronto when the Jays play the Rogers Centre? Certainly they are different, but in what ways? One is virtual and one is physical and that distinction frames the distinction between them.  
 
 This distinction defines the hit we take on the quality of our *physical* interactions. We maintain these artificially-outsized networks in an increasingly insular way. How many times have you seen a scene such as below? People not interacting on a personal level, even given the opportunity, because they are occupied with their device, either answering some sort of correspondence, updating their status or snapping a selfie for *posterity*. I'm willing to wager that upwards of 95% of all photos taken today are *never looked at again*. Ever. And we missed the moment by trying to preserve it. Next time you watch an Olympic opening ceremony on TV (unless you are lucky enough to actually *be there*), note how many are watching it through their smartphone or other tech device. We need to return to *being there*. Just saying. 
 
@@ -217,7 +217,7 @@ Let's look at these from a personal perspective.
 4. Can you identify where you are missing your targets and how will you get back on track?
 5. Can you metricise your inputs and outputs and calculate an ROI?
 
-In unsolicited response to #5 above, I'm going to say no. You can't. There's no clean and defensible way to calculate the ROI from social media use. Yet we use it. We spend countless hours at it. I did a quick estimate  using Life Tables (sometimes called mortality tables) for Ontario males and females, and came to some startling conclusions. Using the most conservative estimates (about 3 hours/day for those aged between 0 and 18) and 2 hours/day thereafter, I calculate that you will have spent 228 *full 24-hour days* on social media by your 18th birthday. Furthermore, you will have spent 743 (more than *two full years at current rates) by the time you complete your 35th year on this rock of ours. If you live to the ripe old age of 65, you will have spent nearly 2,200 full, 24-hour days on social media (if anything remotely similar still exists in that faraway future). 
+In unsolicited response to #5 above, I'm going to say no. You can't. There's no clean and defensible way to calculate the ROI from social media use. Yet we use it. We spend countless hours at it. I did a quick estimate  using Life Tables (sometimes called mortality tables) for Ontario males and females, and came to some startling conclusions. Using the most conservative estimates (about 3 hours/day for those aged between 0 and 18) and 2 hours/day thereafter, I calculate that you will have spent 228 *full 24-hour days* on social media by your 18th birthday. Furthermore, you will have *social mediad* your way through 743 days (more than *two full years at current rates*) by the time you complete your 35th year on this rock of ours. If you live to the ripe old age of 65, you will have spent nearly 2,200 full, 24-hour days on social media (if anything remotely similar still exists in that faraway future). 
 
 Just think about it. Exactly what kind of return on that time would be worth it? How will you get back the value of more than two full years of your life by age 36? It's mind-boggling. All the more since it is the platforms that are being enriched in tangible assets (real dollars) from your participation. We are left to imagine and *artificially create* (call it rationalise) the value we derive from our participation. 
 
@@ -243,12 +243,12 @@ Time for some XKCD.
 
 Life Logging and the Quantified Self (TK)  https://en.wikipedia.org/wiki/Lifelog also: http://mashable.com/2014/03/20/lifelogging-experiment/ also: http://www.computerworld.com/article/2499169/enterprise-applications/is-the--quantified-self--movement-just-a-fad-.html and for the negative, see: http://www.computerworld.com/article/3048497/personal-technology/lifelogging-is-dead-for-now.html
 
-Listen to the first 2.00 minutes of <a class="underlined-link" href="http://www.cbc.ca/radio/ideas/big-data-part-2-1.3658439" target="_blank">this podcast.</a> on big data, security and privacy. 
+Listen to the first 2:00 minutes of <a class="underlined-link" href="http://www.cbc.ca/radio/ideas/big-data-part-2-1.3658439" target="_blank">this podcast.</a> on big data, security and privacy. 
 
 Algorithms go here? Marketing algorithms also? 
 ### Algorithms
 
-If you are in BUSI 2400, you will have already (or will soon) be learning the fundamentals of programming. You may already be an accomplished coder and, if so, you know a good algorithm when you see one. For those new to the field, let's define what we mean. A simple Google search of the term yields the following: "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." So algorithms are technology, broadly defined. They are a set of rules or procedures, collected together and tested and which produce a quantifiable and expected result. 
+If you are in BUSI 2400, you will have already (or will soon) be learning the fundamentals of programming. You may already be an accomplished coder and, if so, you know a good algorithm when you see one. For those new to the field, let's define what we mean. A simple Google search of the term yields the following: An algorithm is "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." So algorithms are technology, broadly defined. They are a set of rules or procedures, collected together and tested and which produce a quantifiable and expected result. 
 
 Thus when Twitter reports what's *Trending*, they are reporting the results obtained by applying an algorithm to their tweet data. When I think of what's trending on Twitter, I think of what's most popular at the moment. What hash tag is most prevalent (most frequently occurring) over the past minute or 5 minutes or hour. But it's more complex than that, according to Twitter. 
 
@@ -274,7 +274,7 @@ But when the Twitter hash tag *#occupywallstreet* did not trend despite the Occu
 
 <a class="underlined-link" href="http://limn.it/can-an-algorithm-be-wrong/" target="_blank">Source</a>
 
-Apparently, Twitter's algorithm is quite a bit more sophisticated. Not only does it matter that a hashtag is popular, it must also be *increasingly* and not just *persistently* popular. This is *spiking*. Not just *up* but persistently *on the way* up. And it can't be popular in isolation. It needs to be popular across what Twitter calls *clusters* of users. And it just can't be any old recurring and spiking and popular story... it's got to have something more. Like not being censored. Sounds like gobbledygook to me. Twitter was trying to hide something IMHO. But who am I to say?
+Apparently, Twitter's algorithm is quite a bit more sophisticated than our simple *incidence algorithm*. Not only does it matter that a hashtag is popular, it must also be *increasingly* and not just *persistently* popular. This is *spiking*. Not just *up* but persistently *on the way* up. And it can't be popular in isolation. It needs to be popular across what Twitter calls *clusters* of users. And it just can't be any old recurring and spiking and popular story... it's got to have something more. Like not being censored. Sounds like gobbledygook to me. Twitter was trying to hide something IMHO. But who am I to say?
 
 Now take a listen to the first 10 minutes of this <a class="underlined-link" href="http://www.cbc.ca/radio/spark/pastepisodes/259-algorithm-awareness-mindful-multitasking-going-on-a-data-safari-a-crowd-sourced-hunt-for-marginalia-1.2772167?autoplay=true" target="_blank">CBC Spark podcast</a> (this is examinable content so please do plug in and listen). 
 
@@ -296,9 +296,9 @@ They further shared that:
 >
 >Vendors are going to spin magic bullets with algorithms and analytics. It's one thing to evaluate user interfaces, software, processes and integration. It's quite another to dig into the data science to validate vendor claims.
 >
->Big data is looking increasingly like a backend plumbing topic. If data science can't find the signals and real business use, all you're going to have is a big lake of information. [I would say *data* but hey, who am I?]
+>Big data is looking increasingly like a backend plumbing topic. If data science can't find the signals and real business use, all you're going to have is a big lake of information. [I, Rob, would say *data* but hey, who am I?]
 >
->Transforming to this algorithmic business isn't going to be easy. Companies are going to need new suppliers, ways to invest and approach to innovation. Every company is going to need to be about technology as well as a venture investor. Sondergaard urged enterprises to use "techquisitions," acquisitions of IT companies that can boost traditional businesses.
+>Transforming to this algorithmic business isn't going to be easy. Companies are going to need new suppliers, ways to invest and approach to innovation. *Every company is going to need to be about technology as well as a venture investor*. Sondergaard urged enterprises to use "techquisitions," acquisitions of IT companies that can boost traditional businesses.
 >
 >Algorithms as a scene setter this year was a different tack from the previous two themes from Gartner. In 2014 and 2013, digital business was the key theme with smart machines and algorithms viewed as something developing in the future."
 
@@ -348,9 +348,13 @@ Algorithms are, however, not static. They evolve, morph and *learn*. The technic
 
 Heady stuff. A master algorithm. I'll let you ponder that for the moment. We will revisit big issues like this in Chapter 6.
 
+
 ####Algorithmic Trading
 https://en.m.wikipedia.org/wiki/Algorithmic_trading
 
+Algorithmic trading has a bad rep. It's been blamed for all sorts of ills such as leading to a *Flash Crash* <a class="underlined-link" href="https://en.wikipedia.org/wiki/Flash_crash" target="_blank">Interested?</a>. 
+
+Automated trading systems: https://en.wikipedia.org/wiki/Automated_trading_system
 
 Segmentation
 
@@ -359,6 +363,11 @@ Analysis tools?
 Visualisation?
 
 Browser / OS usage
+
+![Browser Usage - desktop Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/browser-CA-monthly-201510-201610-bar.png)
+![Browser Usage - mobile+tablet Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/mobile_tablet_browser-CA-monthly-201510-201610-bar.png)
+
+
 
 App Annie
 
@@ -386,10 +395,5 @@ Green IT
 
 Buying IT
 
-### Machine Learning
-
-Traditionally, the only way to get a computer to do something— from adding two numbers to flying an airplane— was to write down an algorithm explaining how, in painstaking detail. But machine-learning algorithms, also known as learners, are different: they figure it out on their own, by making inferences from data. And the more data they have, the better they get. Now we don’t have to program computers; they program themselves.
-
-Domingos, Pedro. The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World. Basic Books. Kindle Edition.
 
 
