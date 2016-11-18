@@ -19,23 +19,23 @@ A. Tangible
 B. Measured
 C. Useful
 D. Pertinent
-E. All of the above are correct
+E. All of these answers are correct
 ANSWER: C
 
 Data and information are:
 A. The same
-B. Part of a continuum
+B. X - Part of a continuum
 C. Never measured
-D. All of the above
-E. B and C are correct
+D. X - All of the above
+E. Answers beginning with X are correct
 ANSWER: B
 
 In business, we use information to:
-A. Reduce uncertainty around decisions
-B. Propose an informed course of action
+A. X - Reduce uncertainty around decisions
+B. X - Propose an informed course of action
 C. Interpret data
 D. Create metadata
-E. A and B are correct
+E. Answers beginning with X are correct
 ANSWER: E
 
 What are the components of the hierarchy discussed in Chapter 1?
@@ -55,11 +55,11 @@ E. Never in context
 ANSWER: A
 
 An accepted definition of information is:
-A. A message received and understood
-B. Data that has been measured
+A. X - A message received and understood
+B. X - Data that has been measured
 C. Knowledge acquired through study, experience or instruction
 D. All of the above
-E. A and C are correct
+E. Answers beginning with X are correct
 ANSWER: E
 
 Information:

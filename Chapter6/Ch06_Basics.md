@@ -51,14 +51,13 @@ Wikipedia (yes, again) offers this nugget:
 
 Link all to fluid information. 
 
-**Figure MJGT. Aritiicial Intelligence and Machine Learning showing IoT Sensor Input**
+**Figure MJGT. Artificial Intelligence and Machine Learning showing IoT Sensor Input**
 
 ![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/ai_mach.png)
 
 ####Neural Nets
 https://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html
 https://en.wikipedia.org/wiki/Artificial_neural_network
-
 
 Dilbert: Move this to discussion of robots
 
@@ -191,63 +190,7 @@ As technology advances, we shouldn't focus on beating computers at what they do 
 
 
 
-##Blockchains
 
-Probably the single biggest impact technology over the next decade will be *Blockchains*. This technology (a set of rules on how to use technology), which is behind such popular initiatives as Bitcoin, is poised to revolutionise the way we interect with each other, with public institutions and with platform enterprises such as Uber, Facebook and Twitter.
-
-What is a Blockchain? A blockchains is, simply speaking, a distributed ledger. Ledgers exactly as you ahve studied in your introductory accounting classes. Everyone who participates in the blockchain has their own copy of the ledger - this can mean that there can be millions of copies of the ledger spread across what can be a vast network of participants. And the ledger grows with each transaction. Using Bitcoin as an example, two participants in the network can exchange services for funds simply by the purchaser broadcasting a message to the network that their account should be decremented by *x* amount, and the receiver's account should be incremented by the same amount. This *proposed transaction* (we'll get back to why it's only *proposed* below) is then recorded in each copy of the ledger across the network of participants. So every participant has a copy of every transaction that has ever or will ever occur in the network for as long as they remain participants.
-
-If you agreed to participate in Bitcoin, for example, the entire collection of every transaction that ever occured in the Bitcoin network is downloaded onto your computer and is processed back through the chain from that moment to the very first creation of the very first Bitcoin. This can take over 24 hours. Note the two figures below. This reconcilliation occured on my own desktop computer. 
-
-**Figure KJTA. Bitcoin reconcilliation (start)**
-
-![Bitcoin process begin](https://raw.githubusercontent.com/robertriordan/2400/master/Images/bitcoin_synchro_install.png)
-
-Note the highlighted sections at the bottom, indicating where we are at in the process. Seems I joined the Bitcon game about 7 years and some weeks late. As my old maching chunked away at reconcilliation, we see the status some 28 hours later, below.
-
-**Figure KJPT. Bitcoin reconcilliation (nearing completion)**
-
-![Bitcoin process nearing completion](https://raw.githubusercontent.com/robertriordan/2400/master/Images/bitcoin_synchro_install_2.png)
-
-
-What's unuque and groundbreaking about such a system is that, unlike the way we are accustomed to doing business, through large financial organisations such as banks, where unless a transaction were the subject of an investigation, details are hidden from all but the bank itself and the participants, with blockchain networks such as Bitcoin, everyone sees every transaction. It's the ultimate hippy commune. What we don't know, however, is the *identitiy* of the participants. We see that a transaction has occurred between a and b and we see the amount that was transferred, we do not and should not know who a and b are. 
-
-###Public Key Infrastructure (PKI)###
-
-In doing transactions on the network, the sender and recipient of a transaction don't use their real identities. Rather they use *digital signatures* (see below) which allow both parties to verify their authenticity without revealing their true identities. Such signatures are made possible through a tried-and-true technology known as *PKI* or *Public Key Infraxtructure*. Participants in blockchain networks use PKI to generate a unique signature each time they initiate a transaction. PKI works by genertating two keys (digital hashes - see below): a private key that only the owner knows and a public key that anyone can use and which proves that the public key belongs to the owner of the private key. 
-
-[Interested in PKI?](https://en.wikipedia.org/wiki/Public_key_infrastructure)
-
-The first step is to install a digital wallet (or equivalent - email clients can do the same thing for you). You then ask the wallet to generate a private key for you. This private key never changes and must be safeguarded. If you lose your private key, you also lose all claim to anything based on your public key as they depend on each other. Once you have a private key, the wallet will allow you to generate any number of public keys. Only the holder of the private key can unlock the contents of a message encrypted with a particular public key. The sender of the transaction must initiate and send the message to move something from their possession to the possession of another. A payee can also request a payment by sending their address to the payer's address and sepcifying the amount. This private/public key technology is an inmportant component of a *digital signature*, as we will see below. 
-
-####Digital signatures
-
-As we learned above, digital signatures are based on PKI (which is also also known as *asymmetric cryptography*). PKI algorithms such as RSA can be used to generate two keys that are mathematically linked: one private and one public. To create a digital signature, signing software (such as an email program) creates a one-way *hash* (see below) of the electronic data to be signed. In a blockchain transaction such as Bitcoin, this electronic data consists of your signature (I know this sounds circular - just hang on), the signature of the party to whom you are sending Bitcoins, the hash of the previous block in the chain, and finally a random digit t the end. We will come back to this in some detail later. We take all this electronic data and then use the private key to encrypt the hash. All this together is the digital signature. 
-
-??? The reason for encrypting the hash instead of the entire message or document is that a hash function can convert an arbitrary input into a fixed length value, which is usually much shorter. This saves time since hashing is much faster than signing. ???
-
-
-###Using blockchains for transactions
-
-Here's how it works. To transfer ownership of something you own to someone else (in Bitcoin this is bitcoin funds but it could be anything as we will later explain), both parties must have an account on the system used for the exchange. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. Each recipient of the message updates their local copy of the blockchain to reflect the change, and passes the message on to the next node. This message contains the *digital signature* of both the sender and the recipient. Thus the message is to send *x* from the account of the owner of digital signature *A* to the account of the owner of digital signature *B*. Since the identities of both parties to the transaction are *protected by* PKI, the exchange is completely private, even though all participants in the network can see the transaction. So what's a digital signature?
-
-###Hash (no not *that* kind)###
-
-A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
-
-But more importantly, Blockchain hashes are *cryptographic*. A cryptographic hash has certain characteristics, the most important of which is that it can't be reverse-engineered to recreate the input data without having to endeavour to use all possible combinations to see which one produced the same output. Such hashes are called *one-way*. You can't figure out the input by looking at the output. And this is critical. But there are other critical things as well. Here are the three big ones according to Wikipedia:
-
-1. Pre-image resistance - Given a hash value h it should be difficult to find any message m such that h = hash(m). This concept is related to that of one-way function. Functions that lack this property are vulnerable to preimage attacks.
-2. Second pre-image resistance - Given an input m1 it should be difficult to find different input m2 such that hash(m1) = hash(m2). Functions that lack this property are vulnerable to second-preimage attacks.
-3. Collision resistance - It should be difficult to find two different messages m1 and m2 such that hash(m1) = hash(m2). Such a pair is called a cryptographic hash collision. This property is sometimes referred to as strong collision resistance. It requires a hash value at least twice as long as that required for preimage-resistance; otherwise collisions may be found by a birthday attack.
-
-The article continues that "These properties imply that a malicious adversary cannot replace or modify the input data without changing its digest. Thus, if two strings have the same digest, one can be very confident that they are identical."
-
-[Interested?](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-
-We know what transactions are from our discussions of Transaction Processing Systems (TPS); a transaction is simply a record of the exchange of something for something else: money for a product or service, for example. So transactions are simple. And transactions are the very basis of our financial and banking systems. It's simple accounting. 
-
-NOTE: Excel file in Fall 2016 BUSI 2400 folder named HASH. It's an XLSM with a hash function built in. Distribute it. 
 
 ###Artificial Intelligence and Machine Learning
 

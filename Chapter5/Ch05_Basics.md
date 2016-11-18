@@ -4,11 +4,22 @@
 
 ####Productivity
 
-Has technology made us more productive? http://blogs.gartner.com/andrew_white/2016/08/10/are-we-more-productive/
+Has technology made us more productive? To begin the conversation about the impact of tech on us as individuals, please read this Gartner article on productivity. Bear in mind it's written by an old guy who was actually there when email was introduced. Like me, he thought is was simply amazing. It was the beginning of all the social media we see today. Read it <a class="underlined-link" href="http://blogs.gartner.com/andrew_white/2016/08/10/are-we-more-productive/" target="_blank">here</a>. Consider this to be part of the textbook (as in required reading).
 
-The Productivity Paradox: https://en.wikipedia.org/wiki/Productivity_paradox
+This leads us to another important discussion in terms of whether ICT has paid serious ROI: The Productivity Paradox. Here's a synopsis from our friends at Wikipedia:
 
-Measuring Productivity: Canada vs. USA: http://www.statcan.gc.ca/pub/15-206-x/15-206-x2014038-eng.htm
+>"The productivity paradox refers to the slowdown in productivity growth in the United States in the 1970s and 80s despite rapid development in the field of information technology (IT) over the same period. During that time, despite dramatic advances in computer power and increasing investment in IT, productivity growth slowed down at the level of the whole U.S. economy, and often within individual sectors of the U.S. economy that had invested heavily in IT. While the computing capacity of the U.S. increased a hundredfold in the 1970s and 1980s, labor [sic] productivity growth slowed from over 3% in the 1960s to roughly 1% in the 1990s. This perceived paradox was popularized in the media by analysts such as Steven Roach and Paul Strassman. The concept is sometimes referred to as the Solow computer paradox in reference to Robert Solow's 1987 quip, 'You can see the computer age everywhere but in the productivity statistics.' The paradox has been defined as a perceived 'discrepancy between measures of investment in information technology and measures of output at the national level.'" [Sources in original]
+
+
+This touches the very essence of out book-long discussion of ROI, and especially of ROI on ICT investment. Wikipedia continues:
+
+>Many observers disagree that any meaningful 'productivity paradox' exists and others, while acknowledging the disconnect between IT capacity and spending, view it less as a paradox than a series of ... unwarranted assumptions about the impact of technology on productivity. In the latter view, this disconnect is emblematic of our need to understand and do a better job of deploying the technology that becomes available to us rather than an arcane paradox that by its nature is difficult to unravel. Some point to historical parallels with the steam engine and with electricity, where the dividends of a productivity-enhancing disruptive technology were reaped only slowly, with an initial lag, over the course of decades, due to the time required for the technologies to diffuse into common use, and due to the time required to reorganize around and master efficient use of the new technology. As with previous technologies, an extremely large number of initial cutting-edge investments in IT were counterproductive and over-optimistic. Some modest IT-based gains may have been difficult to detect amid the apparent overall slowing of productivity growth, which is generally attributed to one or more of a variety of non-IT factors, such as oil shocks, increased regulation or other cultural changes, a hypothetical decrease in labor [sic] quality, a hypothetical exhaustion or slowdown in non-IT innovation, and/or a coincidence of sector-specific problems.
+
+Academic studies of aggregate U.S. data from the 1970s and 1980s failed to find evidence that IT significantly increased overall productivity. However, the 1990s saw evidence of a delayed IT-related productivity jump, arguably resolving the original paradox; the broader issue of what measurable factors best explain the dramatic productivity ups-and-downs of the past two hundred years, as well as whether the rate of productivity growth is more likely to increase or to decrease in the decades ahead, remains a subject of contentious study." [Sources in original]
+
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/Productivity_paradox" target="_blank">Source</a>
+
+With this notion of productivity at the national level under our belt, let's switch focus to the individual level, which is what this chapter is all about. I frame the discussion in term that we all understand. We all use social media. It's probably the biggest external tool we use in any day. It takes the most time to manage and thus should potentially provide a great return to us on our investment of time (and in keeping our tech tools up to date and connected). Let's see. 
 
 #### Social Media (SM)
 
@@ -66,7 +77,7 @@ But here is a slightly different list, from Wikipedia but equally current, with 
 
 <a class="underlined-link" href="https://en.wikipedia.org/wiki/Social_media" target="_blank">Source</a>
 
-The differences between the lists underlines the difficulty in nailing down exactly what SM is and where SM is measured. With the folding of the SM site Vine this week, the field is changing.
+The differences between the lists underlines the difficulty in nailing down exactly what SM is and where SM is measured. With the folding of the SM site Vine in October 2016 week, the field is changing.
 
 While it may be changing, it is also enormous. Take a look at the range of SM sites and services available:
 
@@ -98,17 +109,17 @@ Why do people use SM? Here is an interesting article: http://www.onepoll.com/10-
 
 Despite the fact that the survey link is broken, this is an interesting place to start:
 
->"A recent study [link broken] by Whiting and Williams interviewed a range of social media users and explored what keeps them coming back to social networks. [They found that people use SM for the following reasons (I assume not in any particular order.) I have added some editorial comment following each reason, to which we will later refer.]
+>"A recent study [link broken] by Whiting and Williams interviewed a range of social media users and explored what keeps them coming back to social networks. They found that people use SM for the following reasons (I assume not in any particular order.) I have added some editorial comment following each reason in [square brackets].
 
 >Social interaction – social media, not surprisingly, allows people to be social. They meet new people and keep in touch with friends, acquaintances and family. [People are social animals - we need social interaction or at least *most* of us do - in order to validate our existence. SM provides such contact, albeit not very *rich* contact. Physical touch is essential.]
 >
-Information seeking – this refers to the process of finding information about products/services, keeping up to date with real-world social events, and learning new things. [Humans are innately curious about our surroundings. We have survived through the millennia by being constantly aware of what is in our surroundings and what is friend and what is foe.]
+Information seeking – this refers to the process of finding information about products/services, keeping up to date with real-world social events, and learning new things. [Humans are innately curious about our surroundings. We have survived through the millennia by being constantly aware of what is in our surroundings and what is friend and what is foe. This is context.]
 >
 Passing time – social media is a great time killer and can cure boredom whether at home, at school, or in the work place. [See later stats about just how much of our online time at work is actually work!]
 >
 Entertainment – games, music and videos are all accessed through social media. Watching the stream of updates from people is also a form of entertainment – whether intentionally humorous or not. [We all need a break from time to time. essentially the same as Passing time (above) and Relaxation (below).]
 >
-Relaxation – whilst people find others updates humorous, they also find them relaxing. Social media is a way to alleviate stress and escape from reality. [I'm not so sure this is any different from Entertainment...]
+Relaxation – whilst people find others' updates humorous, they also find them relaxing. Social media is a way to alleviate stress and escape from reality. [I'm not so sure this is any different from Entertainment...]
 >
 Expression of opinions – expressing thoughts and opinions, criticizing others and blowing off steam (either anonymously or named) is regularly undertaken through social media. [But trolling is a nasty business.]
 >
@@ -117,8 +128,10 @@ Things to talk about – like the daily newspaper, social media provide subject 
 Convenience – social media is readily accessible, even more so as mobile devices become ubiquitous. Furthermore, people can talk to several people at the same time. [Convenience is not a human need as far as I understand. We like to be efficient, sometimes... The second part about multi-channel is valid but this is simply Sharing information (below) and Social interaction (above).]
 >
 Sharing information – people can use social media to broadcast things about themselves. By publishing updates, videos and pictures, people market their own personal brand or business. [The marketing part I agree with, but the broadcasting is too similar to expressing of opinions to warrant specific mention here.] 
->
-Knowing about others – social media allows a window into the lives of others. By checking out other profiles, they can be nosey or ‘keep up with the Jones’’. [Way too similar to Information seeking and Social interaction.]"
+
+>Knowing about others – social media allows a window into the lives of others. By checking out other profiles, they can be nosey or ‘keep up with the Jones’’. [Way too similar to Information seeking and Social interaction.]"
+
+All in all I would take much of this research with a grain of salt. There is a lot of category overlap and bleed. It does inject some interesting context into the discussion.
 
 Here is a technical definition of social media from our friends at Wikipedia (accessed October 29, 2016) from the usage statistics entry cited above:
 
@@ -133,7 +146,7 @@ They add further that:
 
 >"Social media use web-based and mobile technologies on smartphones and tablet computers to create highly interactive platforms through which individuals, communities and organizations can share, co-create, discuss, and modify user-generated content or pre-made content posted online. They introduce substantial and pervasive changes to communication between businesses, organizations, communities, and individuals. Social media changes the way individuals and large organizations communicate. These changes are the focus of the emerging field of technoself studies.
 >
->"Social media differ from paper-based or traditional electronic media such as TV broadcasting in many ways, including quality, reach, frequency, usability, immediacy, and permanence. Social media operate in a dialogic transmission system (many sources to many receivers). This is in contrast to traditional media that operates under a monologic transmission model (one source to many receivers), such as a paper newspaper which is delivered to many subscribers. Some of the most popular social media websites are Facebook (and its associated Facebook Messenger), WhatsApp, Tumblr, Instagram, Twitter, Baidu Tieba, Pinterest, LinkedIn, Gab, Google+, YouTube, Viber and Snapchat. These social media websites have more than 100,000,000 registered users."
+>"Social media differ from paper-based or traditional electronic media such as TV broadcasting in many ways, including quality, reach, frequency, usability, immediacy, and permanence. Social media operate in a dialogic transmission system (many sources to many receivers). This is in contrast to traditional media that operates under a monologic transmission model (one source to many receivers), such as a paper newspaper which is delivered to many subscribers. Some of the most popular social media websites are Facebook (and its associated Facebook Messenger), WhatsApp, Tumblr, Instagram, Twitter, Baidu Tieba, Pinterest, LinkedIn, Gab, Google+, YouTube, Viber and Snapchat."
 
 So let's boil that down to what I think are the main reasons people use SM. Here's my list:
 
@@ -157,9 +170,9 @@ So we need to ask. Are we expanding our network by using SM or are we simply spr
 
 There is also some greater potential collective good that can come of social media use. Have a read:
 
->"Or consider the Arab Spring of 2011, and the anniversary of the revolution in Egypt this year. The question has repeatedly been posed as to whether the Internet, specifically social media platforms like Facebook and Twitter, had caused the revolution.  Two kinds of answers typically follow. First, the qualified yes: these technological media were necessary but not sufficient, they provided new capacities for organization that previous revolutions did not possess. Second, the concerted no: the technologies are important, but the necessary and sufficient cause of the revolution was “the people.”  No one (except Biz Stone and Mark Zuckerberg) believes that these tools actually cause revolutions.
+>"... consider the Arab Spring of 2011, and the anniversary of the revolution in Egypt this year. The question has repeatedly been posed as to whether the Internet, specifically social media platforms like Facebook and Twitter, had caused the revolution. Two kinds of answers typically follow. First, the qualified yes: these technological media were necessary but not sufficient, they provided new capacities for organization that previous revolutions did not possess. Second, the concerted no: the technologies are important, but the necessary and sufficient cause of the revolution was 'the people.'  No one (except Biz Stone and Mark Zuckerberg) believes that these tools actually cause revolutions.
 
->"Both answers miss the mark, but they nonetheless point to one of those well-worn paths of argument. On the one hand there are technologies that create new relationships, new capacities, or re-arrange existing relationships of knowledge and power.  On the other hand, there are the reassuringly familiar collectivities—like “the people” or “the public” or “the community.” Sometimes information technologies are invoked as a threat to older forms of collective life; other times, especially in response to inflated claims about the power of those technologies, they are seen as irrelevant to the power of known collectives. Do information technologies connect existing collectivities or do they generate the conditions of possibility for new collectivities—maybe even new kinds of collectivity?"
+>"Both answers miss the mark, but they nonetheless point to one of those well-worn paths of argument. On the one hand there are technologies that create new relationships, new capacities, or re-arrange existing relationships of knowledge and power.  On the other hand, there are the reassuringly familiar collectivities—like 'the people' or 'the public' or 'the community.' Sometimes information technologies are invoked as a threat to older forms of collective life; other times, especially in response to inflated claims about the power of those technologies, they are seen as irrelevant to the power of known collectives. Do information technologies connect existing collectivities or do they generate the conditions of possibility for new collectivities—maybe even new kinds of collectivity?"
 
 <a class="underlined-link" href="http://limn.it/preface-crowds-and-clouds/](http://limn.it/preface-crowds-and-clouds/" target="_blank">Interested?</a>
 
@@ -177,17 +190,16 @@ This distinction defines the hit we take on the quality of our *physical* intera
 
 Are we getting value from our use of Social Media? There's no reason not to use the same metrics that firms use to measure their ROI on their efforts to get their message out there. Let's use some standard tools and see what your personal ROI on social media is. 
 
-Step 1: I will define social media as *any technology tool that allows the sending and/ or receipt of messages to and/or from one or more members of your relevant social network of family and either existing or potential friends, contacts, employers, lovers or haters.* (A long list of SM appears above in this Chapter).
+Step 1: I will define social media as *any technology tool that allows the sending and/or receipt of messages to and/or from one or more members of your relevant social network of family and either existing or potential friends, contacts, employers, lovers or haters.* (A long list of SM appears above in this Chapter).
 
 Step 2: A simple definition of *ROI* as:
 
 	ROI = (return – investment) / investment 
 
-Step 3: Define *investment*. For personal users of social media, those who aren't *selling something* in the commercial sense, the investment we make in social media can only be measured in *time*. How many minutes we spend in a defined time period engaging in social media activities. Those minutes are your investment. Your resource spend. Let's quantify this arbitrarily. Some [fairly specific data](http://www.marketingcharts.com/online/social-networking-eats-up-3-hours-per-day-for-the-average-american-user-26049/) suggest that young people (18-34) spend 3.8 hours a day on social media, and some quick calculations yield that females spend 32% more time on SM than do males. This is in part due to their higher propensity to actually *use* SM, but also due to their increased time spend when on. So not only do females participate more often than males, but they also spend more time per person than males. Ladies? What's up with that? 
+Step 3: Define *investment*. For personal users of social media, those who aren't *selling something* in the commercial sense, the investment we make in social media can only be measured in *time*. How many minutes we spend in a defined time period engaging in social media activities. Those minutes are your investment. Your resource spend. Let's quantify this arbitrarily. Some [fairly specific data](http://www.marketingcharts.com/online/social-networking-eats-up-3-hours-per-day-for-the-average-american-user-26049/) suggest that young people (18-34) spend 3.8 hours a day on social media, and some quick calculations yield that females spend 32% more time on SM than do males. This is in part due to their higher propensity to actually *use* SM, but also due to their increased time spend when on. So not only do females participate more often than males, but they also spend more time per person than males. But the traditional gender gap is closing. <a class="underlined-link" href=" http://www.pewresearch.org/fact-tank/2015/08/28/men-catch-up-with-women-on-overall-social-media-use/" target="_blank">Interested in up-to-date stats on social media use by gender?</a>
 
-More on gender: http://www.pewresearch.org/fact-tank/2013/09/12/its-a-womans-social-media-world/
+<a class="underlined-link" href="http://www.pewresearch.org/fact-tank/2013/09/12/its-a-womans-social-media-world/" target="_blank">Interested in more on gender?</a> 
 
-<a class="underlined-link" href=" http://www.pewresearch.org/fact-tank/2015/08/28/men-catch-up-with-women-on-overall-social-media-use/" target="_blank">Interested in up-to-date stats on social media use by gender?</a>:
 
 **Figure NAFL: Social media use by platform and gender, 2015**
 
@@ -197,7 +209,7 @@ Step 4 - Define *return*. What does it mean in terms of your personal efforts? W
 
 I don't have an answer. I get nothing back from LinkedIn that is of any value to me personally or professionally. I don't participate in Facebook anymore (I did at the very beginning but it became just overwhelming, maintaining my network and keeping up - there was no value). I stopped years ago, long before my own mother got an account. At 93, she's on Facebook. That's a great reason for me *not* to be. When your mother wants to friend you, it's time to bail. I use Twitter sparingly. I got in early on Snapchat, but, as you might imagine, I don't get much use from it. I don't have an Instagram account, though one of my dear friends spends part of the little time we can manage to spend together at a quarterly lunch in maintaining his pictorial account of the exotic vacations upon which he and his wife go. I sometime say "Hey! I'm talking to you!" It doesn't phase him.
 
-Thus we need also to determine what our goals are for using SM. What do you expect to achieve? http://www.socialmediaexaminer.com/measure-social-media-roi/
+Thus we need also to determine what our goals are for using SM. What do you expect to achieve?
 
 <a class="underlined-link" href="https://blog.hootsuite.com/measure-social-media-roi-business/" target="_blank">Hootsuite </a> has this to say about measuring the value of a social media programme for business:
 
@@ -217,7 +229,7 @@ Let's look at these from a personal perspective.
 4. Can you identify where you are missing your targets and how will you get back on track?
 5. Can you metricise your inputs and outputs and calculate an ROI?
 
-In unsolicited response to #5 above, I'm going to say no. You can't. There's no clean and defensible way to calculate the ROI from social media use. Yet we use it. We spend countless hours at it. I did a quick estimate  using Life Tables (sometimes called mortality tables) for Ontario males and females, and came to some startling conclusions. Using the most conservative estimates (about 3 hours/day for those aged between 0 and 18) and 2 hours/day thereafter, I calculate that you will have spent 228 *full 24-hour days* on social media by your 18th birthday. Furthermore, you will have *social mediad* your way through 743 days (more than *two full years at current rates*) by the time you complete your 35th year on this rock of ours. If you live to the ripe old age of 65, you will have spent nearly 2,200 full, 24-hour days on social media (if anything remotely similar still exists in that faraway future). 
+In unsolicited response to #5 above, I'm going to say no. You can't. There's no clean and defensible way to calculate the ROI from social media use. Yet we use it. We spend countless hours at it. I did a quick estimate using Life Tables (sometimes called mortality tables) for Ontario males and females, and came to some startling conclusions. Using the most conservative estimates (about 3 hours/day for those aged between 0 and 18) and 2 hours/day thereafter, I calculate that you will have spent 228 *full 24-hour days* on social media by your 18th birthday. Furthermore, you will have *social mediad* your way through 743 days (more than *two full years at current rates*) by the time you complete your 35th year on this rock of ours. That same amount of time would give you a decent Master's degree. If you live to the ripe old age of 65, you will have spent nearly 2,200 full, 24-hour days on social media (if anything remotely similar still exists in that faraway future). 
 
 Just think about it. Exactly what kind of return on that time would be worth it? How will you get back the value of more than two full years of your life by age 36? It's mind-boggling. All the more since it is the platforms that are being enriched in tangible assets (real dollars) from your participation. We are left to imagine and *artificially create* (call it rationalise) the value we derive from our participation. 
 
@@ -241,11 +253,14 @@ Time for some XKCD.
 
 <a class="underlined-link" href="http://imgs.xkcd.com/comics/phishing_license.png" target="_blank">XKCD Source</a>
 
+BUSI 2400 Fall 2016 please ignore the chunk from here ------------------
+
 Life Logging and the Quantified Self (TK)  https://en.wikipedia.org/wiki/Lifelog also: http://mashable.com/2014/03/20/lifelogging-experiment/ also: http://www.computerworld.com/article/2499169/enterprise-applications/is-the--quantified-self--movement-just-a-fad-.html and for the negative, see: http://www.computerworld.com/article/3048497/personal-technology/lifelogging-is-dead-for-now.html
+
+To here: -------------------------------------
 
 Listen to the first 2:00 minutes of <a class="underlined-link" href="http://www.cbc.ca/radio/ideas/big-data-part-2-1.3658439" target="_blank">this podcast.</a> on big data, security and privacy. 
 
-Algorithms go here? Marketing algorithms also? 
 ### Algorithms
 
 If you are in BUSI 2400, you will have already (or will soon) be learning the fundamentals of programming. You may already be an accomplished coder and, if so, you know a good algorithm when you see one. For those new to the field, let's define what we mean. A simple Google search of the term yields the following: An algorithm is "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." So algorithms are technology, broadly defined. They are a set of rules or procedures, collected together and tested and which produce a quantifiable and expected result. 
@@ -262,7 +277,7 @@ A simple *incidence algorithm* would look something like:
 		show hashtag(x)
 	next
 	
-Twitter might set 'n' to be 10 or 15, let's say, and then the top 10 or 15 hashtags would be displayed. The algorithm could be run every minute or five minutes or at whatever interval Twitter deemed appropriate. Here's what the result of that might look like:
+Twitter might set 'n' to be 10 or 15, let's say, and then the top 10 or 15 hashtags would be displayed. The algorithm could be run every time someone hits the page, or on a fixed schedule per second, minute or five minutes or at whatever interval Twitter deemed appropriate. Here's what the result of that might look like:
 
 **Figure TTAP. Trending on Twitter, October 28, 2016 ~ 4PM**
 
@@ -304,7 +319,7 @@ They further shared that:
 
 <a class="underlined-link" href="http://www.zdnet.com/article/dear-enterprise-you-are-your-algorithms-says-gartner/?imm_mid=0da452&cmp=em-data-na-na-newsltr_20151014" target="_blank">Interested?</a>
 
-Thus algorithms are the future, according to Gartner. I agree. Big data is big data. It's just a relentless, jet-speed stream of data. Without some way to make sense of the data, without a way to create the necessary *context*, big data cannot be leveraged to value. 
+Thus algorithms are the future, according to Gartner. I agree. Big data is big data. It's just a relentless, jet-speed stream of un-contextual facts. Without some way to make sense of the data, without a way to create the necessary *context*, big data cannot be leveraged to value. 
 
 Algorithms are, however, not static. They evolve, morph and *learn*. The technical term for algorithms that evolve in this way is *machine learning*. Here's a rather long passage from the Forward of a book I'm currently reading called *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World* by Domingos, Pedro. (Basic Books). 
 
@@ -348,32 +363,97 @@ Algorithms are, however, not static. They evolve, morph and *learn*. The technic
 
 Heady stuff. A master algorithm. I'll let you ponder that for the moment. We will revisit big issues like this in Chapter 6.
 
-
 ####Algorithmic Trading
-https://en.m.wikipedia.org/wiki/Algorithmic_trading
 
-Algorithms replace dude on the floor to buy a large order of stocks.
+How about algorithms on a personal level? In the world of Finance, algorithms have replaced the day-trader dudes on the floor of the stock exchange in the business of buying and selling large blocks of stocks. In the old days (a few years ago), an institutional buyer (such as a mutual fund) would, if they wanted to buy or sell stocks in their portfolio, call up a broker and say "Hey. We need to sell a million shares of XYZ Corp. over the next few weeks but we don't want to create any kind of a shock in the market. Tell your traders to unload a few hundred here, a few hundred there and get it done by December 31." For their efforts, the brokers would take a commission on each sale. Everyone was happy (sort of). Brokers and traders were a chatty, close-knit lot, and news soon got around regarding what would be coming on the market and in what amounts and from whom. 
 
-Disintermediation of the broker (DMA - direct market access) allows ultimate investor without using the broker. Used own algorithms (bought or rented algorithm) - see Knight Capital - bought by an algo trader. Brokers first automated themselves - original automaters. Now the investors are automated. Typical curve. Intermediaries stand ready to buy and sell (middlemen, specialists, market makers). NOw dealing with algorightms and easier for them to also automate. Instead of offering to buy and sell they coded up algos to monitor the market and then offer to buy and sell. Instead of a human making the decision about the quantities and prices at which they were willing to buy and sell, an algo made that decision. This was automation of the classic market makers.  These market makers essentially took their business model and replicated it in an exzcel spreadsheet. This was the old intermediation model automated. These traditional market makers were ripe to be disrupted by neck beard cheetos eating basement dwellers, and they were. Upstart technology market makers, called high frequency traders, started competing with traditional market makers for their business. They were faster and cheaper than the traditional market makers and were willing to trade at better prices than was the old guard. 
+Then came algorithms which, at the time, were simple mechanisms to distribute buy or sell orders across some time frame and achieve what people on the floor of the stock exchange used to do. So the brokers disintermediated (jumped over) their traders and let machines do the trading. Chapter one of the story. The underlying players and their motivations could be more closely held, but still there was the messy and expensive hand-off to the broker and the fee to be paid.
 
-These HFTs were located as close to the electronic market infrastructure as possible. Sometimes they would rent offices directly across from the exchange to shorten the distance between themselves and the markets, other times they would co-locate (cite) within the exchange infrastructure. These new market makers quickly drove the slower market makers out of business, leaving only HFT willing to stand ready to buy and sell securities in most markets. For the most part this has been beneficial to the market. The price of liquidity (the distance between the buy and sell price) has fallen and markets have become relatively resilient (see the Flash Crash). Nevertheless the public and regulators are concerned about the overall impact of these ultra fast liquidity suppliers. In particular whether or not HFT are using their speed advantage to take unfair advantage of slower and less sophisticated investors. Most evidence suggests that this is not the case, most individual investors are better off with HFT intermediaries than the classic intermediaries. HFTs are cheaper and quicker to react to market changes. For some large algorithmic investors the previous market structure may have been better however their is no clear evidence that this is the case. 
+Chapter two begins with DMA (direct market access), which allowed the ultimate investor (the pension fund or mutual fund or you and I) to access the trading mechanism without using a broker. Thus the broker was disintermediated as well. Investors large and small used either their own algorithms, bought or rented (see Knight Capital for a look at the havoc a broken algorithm can cause <a class="underlined-link" href="http://www.bloomberg.com/news/articles/2012-08-02/knight-shows-how-to-lose-440-million-in-30-minutes" target="_blank">Interested?</a>) to execute transactions. First the brokers automated themselves, but now the investors are automated. A typical adoption curve for this new technology sweeps the industry, picking up speed as it takes an exponential path towards dominating the market. While intermediaries (so called middlemen, specialists, market makers) once stood ready to buy and sell, algorithms now did their work. Instead of brokers offering to buy and sell, they coded up algorithms to monitor the market and then offer to buy and sell. Instead of a human making the decision about the quantities and prices at which they were willing to buy and sell, an algorithm made that decision. 
 
-New market makers link http://www.sciencedirect.com/science/article/pii/S1386418113000281
-Algorithmic trading link http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2010.01624.x/full
-Another AT link http://journals.cambridge.org/abstract_S0022109013000471
-HFT Links: http://rfs.oxfordjournals.org/content/27/8/2267.short
-http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2236201
+This was automation of the classic market makers. These market makers essentially took their business model and replicated it in an Excel spreadsheet. These traditional market makers were ripe to be disrupted by [editorial warning - massive and unkind generalisation coming] neck-beard, Cheetos-eating, basement dwellers. Upstart technology market makers, called *high frequency traders* (HFTs), started competing with traditional market makers for their business. They were faster and cheaper than the traditional market makers and were willing to trade at better prices than was the old guard. An article in Wired magazine puts the HFTs into perspective:
 
+>"On the first day of the New York conference [of HFT algorithm experts], Aaron Brown, a legendary quant and former professional poker player, took the stage in rumpled chinos and a leather jacket to lecture the assembly on game theory. He began his talk by saying, '3.14159,' and then pausing expectantly. From the back of the room came the response: '265358.' Together they made up the first 12 digits of pi — a geek shibboleth. 'You won’t see a lot of masters of the universe here,' said Charles Jones, a professor of finance and economics at Columbia Business School. 'A lot of these guys, if they’re wearing a tie, it might be the only one they own." Chapter three begins.
 
-Overall the jury still appears to be out on whether or not HFTs are beneficial to markets overall. Nevertheless most serious eveidence suggests that HFTs have been relatively good for stock markets.   
+<a class="underlined-link" href="https://www.wired.com/2012/08/ff_wallstreet_trading/" target="_blank">Source - and a great article to read!</a>
 
-Algorithmic trading has a bad rep. It's been blamed for all sorts of ills such as leading to a *Flash Crash* <a class="underlined-link" href="https://en.wikipedia.org/wiki/Flash_crash" target="_blank">Interested?</a>. 
+To set up this final piece on HFT, please read <a class="underlined-link" href="http://www.wsj.com/articles/SB10001424052702303947904579340711424615716" target="_blank">this article</a> from the Wall Street Journal. 
 
-Automated trading systems: https://en.wikipedia.org/wiki/Automated_trading_system
+These HFTs were located as close to the electronic market infrastructure as possible. Sometimes they would rent offices directly across from the exchange to shorten the distance between themselves and the markets, other times they would co-locate (cite) within the exchange infrastructure. Entire skyscrapers in NYC close to the exchanges have been hollowed out and filled with servers and network infrastructure, just to beat *latency* (the time it takes for an electronic signal to move from point A to point B) in an effort to *reach zero latency* (the *speed of light*) in transactions. These new market makers quickly drove the slower market makers out of business, leaving only HFT willing to stand ready to buy and sell securities in most markets. 
 
-Segmentation
+For the most part, this has been beneficial to the market. The price of liquidity (the difference between the buy and sell price) has fallen and markets have become relatively resilient (see the <a class="underlined-link" href="https://en.wikipedia.org/wiki/2010_Flash_Crash" target="_blank">Flash Crash</a>). Nevertheless, the public and regulators are concerned about the overall impact of these ultra-fast liquidity suppliers. In particular whether or not the HFT speed advantage leads to an unfair unfair advantage over slower and less sophisticated investors. Most evidence suggests that this is not the case as research shows that most individual investors are better off with HFT intermediaries than with the classic, old-school intermediaries. HFTs are cheaper and quicker to react to market changes. There is no clear evidence that anyone was better served in the previous market structure. 
 
-Browser / OS usage
+Here are some interesting research papers if you are so inclined (Finance people will be). They are not required reading. 
+
+<a class="underlined-link" href="http://www.sciencedirect.com/science/article/pii/S1386418113000281" target="_blank">New market makers</a>
+<a class="underlined-link" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2010.01624.x/full" target="_blank">Algorithmic trading (AT)</a>
+<a class="underlined-link" href="http://journals.cambridge.org/abstract_S0022109013000471" target="_blank">Another AT link</a>
+<a class="underlined-link" href="http://rfs.oxfordjournals.org/content/27/8/2267.short" target="_blank">HFT Link</a>
+<a class="underlined-link" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2236201" target="_blank">another HFT Link</a>
+
+Overall the jury is still out on whether or not HFTs are beneficial to markets overall. Nevertheless, most evidence suggests that HFTs have been relatively good for all players. 
+
+##Blockchains
+
+We end this chapter with a discussion of probably the single biggest impact technology over the next decade: *Blockchains*. This technology (a set of rules on how to use technology), which is behind such popular initiatives as *Bitcoin*, is poised to revolutionise the way we interact with each other, with public institutions (including banks and governments) and with platform enterprises such as *Uber*, *Facebook* and *Twitter*.
+
+What is a Blockchain? A blockchains is, simply speaking, a distributed ledger. Ledgers exactly as you have studied in your introductory accounting classes. Everyone who participates in the blockchain has their own copy of the ledger - thus there can be millions of copies of the ledger spread across what can be a vast network of participants. And the ledger grows with each transaction. Using *Bitcoin* as an example, two participants in the network can exchange services for funds simply by the purchaser broadcasting a message to the network that their account should be decremented by *x* amount, and the receiver's account should be incremented by the same amount. This *proposed transaction* (we'll get back to why it's only *proposed* below) is then recorded in each copy of the ledger across the network of participants. So every participant has a copy of every transaction that has ever or will ever occur in the network for as long as they remain participants.
+
+If you agreed to participate in Bitcoin, for example, the entire collection of every transaction that ever occurred in the Bitcoin network is downloaded onto your computer and is processed back through the chain from that moment to the very first creation of the very first Bitcoin. This can take over 24 hours. Note the two figures below. This reconciliation occurred on my own desktop computer. 
+
+**Figure KJTA. Bitcoin reconciliation (start)**
+
+![Bitcoin process begin](https://raw.githubusercontent.com/robertriordan/2400/master/Images/bitcoin_synchro_install.png)
+
+Note the highlighted sections at the bottom, indicating where we are at in the process. Seems I joined the Bitcoin game about 7 years and some weeks late. As my old machine clunked away at reconciliation, we see the status some 28 hours later, below.
+
+**Figure KJPT. Bitcoin reconciliation (nearing completion)**
+
+![Bitcoin process nearing completion](https://raw.githubusercontent.com/robertriordan/2400/master/Images/bitcoin_synchro_install_2.png)
+
+What's unique and groundbreaking about such a system is that, unlike the way we are accustomed to doing business - through large financial organisations such as banks where unless a transaction were the subject of an investigation, details are hidden from all but the bank itself and the participants - with blockchain networks such as Bitcoin, everyone sees every transaction. It's the ultimate hippy commune. What we don't know, however, is the *identity* of the participants. We see that a transaction has occurred between party A and part B and we see *the amount that was transferred*, we do not and should not know who A and B are. 
+
+###Public Key Infrastructure (PKI)###
+
+In transacting on the network, the sender and recipient of a transaction don't use their real identities. Rather they use *digital signatures* (see below) which allow both parties to verify their authenticity without revealing their true identities. Such signatures are made possible through a tried-and-true technology known as *PKI* or *Public Key Infrastructure*. Participants in blockchain networks use PKI to generate a unique signature each time they initiate a transaction. PKI works by generating two keys (digital hashes - see below): a *private key* that only the owner knows and a *public key* that anyone can use and which proves that the public key belongs to the owner of the private key. 
+
+[Interested in PKI?](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+
+The first step is to install a digital wallet (or equivalent - email clients can do the same thing for you). You then ask the wallet to generate a private key for you. This private key never changes and must be safeguarded. If you lose your private key, you also lose all claim to anything based on your public key as they depend on each other. Once you have a private key, the wallet will allow you to generate any number of public keys. Only the holder of the private key can unlock the contents of a message encrypted with a particular public key. The sender of the transaction must initiate and send the message to move something from their possession to the possession of another. A payee can also request a payment by sending their address to the payer's address and specifying the amount. This private/public key technology is an important component of a *digital signature*, as we will see below. 
+
+####Digital signatures
+
+As we learned above, digital signatures are based on PKI (which is also also known as *asymmetric cryptography*). PKI algorithms such as RSA can be used to generate two keys that are mathematically linked: one private and one public. To create a digital signature, signing software (such as an email program) creates a one-way *hash* (see below) of the electronic data to be signed. In a blockchain transaction such as Bitcoin, this electronic data consists of your signature (I know this sounds circular - just hang on), the signature of the party to whom you are sending Bitcoins, the hash of the previous block in the chain, and finally a random digit at the end. We will come back to this in some detail later. We take all this electronic data and then use the private key to encrypt the hash. All this together is the digital signature. 
+
+The reason for encrypting the hash instead of the entire message or document is that a hash function can convert an arbitrary input into a fixed length value, which is usually much shorter. This saves time since hashing is much faster than signing.
+
+###Using blockchains for transactions
+
+Here's how it works. To transfer ownership of something you own to someone else (in Bitcoin this is bitcoin funds but it could be anything as we will later explain), both parties must have an account on the system used for the exchange. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. Each recipient of the message updates their local copy of the blockchain to reflect the change, and passes the message on to the next node. This message contains the *digital signature* of both the sender and the recipient. Thus the message is to send *x* from the account of the owner of digital signature *A* to the account of the owner of digital signature *B*. Since the identities of both parties to the transaction are *protected by PKI*, the exchange is completely private, even though all participants in the network can see the transaction. 
+
+###Hash (no not *that* kind)
+
+A hash is a well-used and time-honoured function from Computer Science that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. To demonstrate this principle, see the Excel macro-enabled worksheet downloadable from the following link: [Excel hash algorithm](https://raw.githubusercontent.com/robertriordan/2400/master/resources/risk_profiler.xlsx). We use a variation of this hash to do Peer Evals anonymously. Download the Excel sheet and enter any series of characters (even a blank or null string) and note that you will always get a 10-digit hash back from the algorithm. 
+
+But more importantly, Blockchain hashes are *cryptographic*. A cryptographic hash has certain characteristics, the most important of which is that it can't be reverse-engineered to recreate the input data without having to endeavour to use all possible combinations to see which one produced the same output. Such hashes are called *one-way*. You can't figure out the input by looking at the output. And this is critical. But there are other critical things as well. Here are the three big ones according to Wikipedia:
+
+1. Pre-image resistance - Given a hash value h it should be difficult to find any message m such that h = hash(m). This concept is related to that of one-way function. Functions that lack this property are vulnerable to preimage attacks.
+2. Second pre-image resistance - Given an input m1 it should be difficult to find different input m2 such that hash(m1) = hash(m2). Functions that lack this property are vulnerable to second-preimage attacks.
+3. Collision resistance - It should be difficult to find two different messages m1 and m2 such that hash(m1) = hash(m2). Such a pair is called a cryptographic hash collision. This property is sometimes referred to as strong collision resistance. It requires a hash value at least twice as long as that required for preimage-resistance; otherwise collisions may be found by a birthday attack.
+
+The article continues that "These properties imply that a malicious adversary cannot replace or modify the input data without changing its digest. Thus, if two strings have the same digest, one can be very confident that they are identical."
+
+[Interested?](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+
+We know what transactions are from our discussions of Transaction Processing Systems (TPS); a transaction is simply a record of the exchange of something for something else: money for a product or service, for example. So transactions are simple. And transactions are the very basis of our financial and banking systems. It's simple accounting. 
+
+Every transaction in a blockchain is stored and shared with every participant, making it quite democratic. There is no hiding of transactions, but only the identity of the transactors. Blockchains have been put to criminal use (if your laptop or tablet has ever been infected with ransomware, invariably the request from the ransomers is that you pay them in Bitcoin before they will unlock your computer). But there is much potential for good from blockchains. 
+
+Blockchains are being used in many applications, including whole countries which are adopting them to replace their national currencies. See this fresh bit of news: <a class="underlined-link" href="http://qz.com/838589/chinas-central-bank-is-hiring-blockchain-experts-to-help-it-kill-off-cash/" target="_blank">China going cashless?</a> Other applications include real estate (much of the land in the world does not have clear ownership title, opening many in developing countries to the threat of eviction from land they have occupied for millennia. Blockchain can establish ownership.), drivers and other permits, social insurance cards, banking of course, and many others. 
+
+BUSI 2400 Fall 2016 - Chapter ends rather abruptly here ------------------------
+
+####Browser / OS usage
 
 ![Browser Usage - desktop Usage](https://raw.githubusercontent.com/robertriordan/2400/master/Images/browser-CA-monthly-201510-201610-bar.png)
 
