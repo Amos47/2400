@@ -1,0 +1,319 @@
+The Digital Divide refers to the gap between _____ and _____ in terms of access to the internet and modern computing.
+A. haves / have nots
+B. WiFi / wired
+C. supply / demand
+D. firm / industry
+E. none of these answers is correct
+ANSWER: A
+
+The Digital Divide can occur: 
+A. only in underserviced areas
+B. at any aggregation from neighbourhood to nation
+C. within any industry
+D. at the macro level only
+E. in fewer than 10 minutes
+ANSWER: B
+
+In or around 1999, _____ in developed countries used the internet whereas _____ in developing countries did so. 
+A. almost all / almost none
+B. the young / the elderly
+C. 24% / 1%
+D. individuals / firms
+E. none of these answers (except this one) is even remotely correct
+ANSWER: C
+
+Younger people, in making marketing or strategic decisions, tend to assume that: 
+A. everyone has access to the internet
+B. everyone knows how to use the internet
+C. people don't take security and privacy seriously
+D. all of these answers are correct
+E. wants to use modern computing tools
+ANSWER: D
+
+PIPEDA stands for: 
+A. Personal Internet Privacy Entertainment and Digital Access
+B. Perpetual Interconnected Pipeline for Education Direction and Action
+C. Protected Internet Principles for Environmental and Digital Activity
+D. This is the best answer
+E. Personal Information Protection and Electronic Documents Act
+ANSWER: E
+
+The Canadian statute which, in part, requires that data be collected "by fair and lawful means" is called: 
+A. PIPEDA
+B. The Fair Use Doctrine
+C. The Canada Privacy Act
+D. There is no such law
+E. The Fair and Lawful Means Act of 1994
+ANSWER: A
+
+Which of the following sources of data are covered by Canada's privacy legislation? 
+A. email addresses and messages; IP addresses
+B. all of these answers are correct
+C. age, height, weight, medical records, blood type
+D. income, purchases, spending habits
+E. Social Insurance Number (SIN)
+ANSWER: B
+
+According to Canadian law, consumers have _____ in terms of data gathering. 
+A. no protection from survey organisations
+B. the same rights as business 
+C. the right to privacy with respect to data gathered by commercial enterprises 
+D. all of these answers are correct
+E. the right to sue organisations which do not offer BOGO promotions
+ANSWER: C
+
+The privacy interests of employees of federally-regulated organisations are _____: 
+A. not protected by PIPEDA
+B. covered by various provincial legislative acts
+C. protected only if their municipality has privacy legislation
+D. protected by PIPEDA
+E. not considered important under federal privacy Acts
+ANSWER: D
+
+In the context of a live sporting event, a "support" might be: 
+A. television
+B. Twitter feed
+C. Periscope feed
+D. radio
+E. all of these answers are correct
+ANSWER: E
+
+Which team beat the Oshawa generals for the Memorial Cup in 1965-66? 
+A. Edmonton Oil Kings
+B. Shawinigan Bruins
+C. Montréal Junior Canadiens
+D. St. Catherine's Black Hawks
+E. Nobody beat them! The Generals won the whole thing. 
+ANSWER: A
+
+Tethering in the ICT sense means? 
+A. bandwidth restrictions on upload/download
+B. the requirement that the support be physically connected to something in order to exchange content
+C. the existence of a digital divide
+D. that it is necessary to provide a place to hitch your horse in front of the saloon and/or hotel
+E. there is no relationship between tethering and ICT 
+ANSWER: B
+
+The very first "roaming" experiences were provided by _____ and _____. 
+A. television / radio
+B. broadcasting / narrowcasting
+C. car radio / transistor radio
+D. National Hockey League / Ontario Hockey League
+E. Twitter / Periscope 
+ANSWER: C
+
+_____ is synchronous and _____ is asynchronous. 
+A. email / Twitter
+B. broadcasting / narrowcasting
+C. car radio / transistor radio
+D. live radio / email
+E. Facebook / Snapchat 
+ANSWER: D
+
+Did the advent of email improve productivity? 
+A. Yes. 
+B. Maybe, if junk mail is deleted.
+C. Email, no. Twitter, yes.
+D. Yes. We do more communicating now than ever before.
+E. Not one bit.
+ANSWER: E
+
+The Productivity Paradox refers to? 
+A. Flattening of productivity increases as ICT capital expenses were increasing
+B. Increasing productivity with more careful ICT spending
+C. No change in productivity when computing became affordable
+D. Increasing productivity with increasing ICT spend
+E. This is the only correct answer. 
+ANSWER: A
+
+Robert Solow's 1987 quip, 'You can see the computer age everywhere but in the productivity statistics.' refers to: 
+A. The slowdown in ICT spend in post-1980s North America 
+B. The Productivity Paradox
+C. The introduction of email in 1994
+D. The advent of the wireless internet
+E. None of these answers is correct.
+ANSWER: B
+
+According to some, the Productivity Paradox will be resolved: 
+A. when spending matches output
+B. when productivity indicators are standardised
+C. with the passage of time
+D. blockchain technology becomes more mainstream
+E. when pigs fly
+ANSWER: C
+
+"Computer-mediated technologies that allow the creating and sharing of information, ideas, career interests and other forms of expression via virtual communities and networks." is one definition of?
+A. the internet
+B. the Productivity Paradox
+C. the introduction of email in 1994
+D. social media
+E. None of these answers is correct.
+ANSWER: D
+
+According to the infographic in the text, social networking accounts for _____ of all media time spent online. 
+A. the vast majority
+B. a tiny minority
+C. none
+D. all
+E. 28%
+ANSWER: E
+
+According to the infographic in the text, users between the ages of 15-19 spend _____ hours/day on social media. 
+A. 3
+B. 1
+C. 9
+D. .5
+E. 15
+ANSWER: A
+
+According to the infographic in the text, _____ of people rely on Twitter or Facebook for their monring news: 
+A. a majority
+B. 16%
+C. 80% of Twitter users
+D. 70% of Facebook users
+E. a small minority
+ANSWER: B
+
+Between _____ % and _____ % of the time people spend on the internet while at work has nothing to do with work. 
+A. 5 / 10
+B. 10 / 20
+C. 60 / 80
+D. 30 / 40
+E. 50 / 60
+ANSWER: C
+
+Complete the following phrase: "_____ changes the way individuals and large organizations communicate. These changes are the focus of the emerging field of technoself studies." 
+A. Narrowcasting
+B. Asynchronous communication
+C. Vitamin C
+D. Social media
+E. The selfie
+ANSWER: D
+
+Social media operate in a _____ fashion. 
+A. monologic (one source to many consumers)
+B. bipartisan (both parties equally)
+C. asynchronous (not same time)
+D. blockchain (distributed ownership of content)
+E. dialogic (many sources to many sources)
+ANSWER: E
+
+Of the main reasons people use social media, the one not mentioned in research is: 
+A. creating meaning from our experiences
+B. diversion
+C. data seeking and sharing
+D. marketing one's personal brand
+E. social interaction
+ANSWER: A
+
+British anthroplogist Robin Dunbar determined that the optimal size of human social groups is around _____ persons. 
+A. 30
+B. 150
+C. 600
+D. there is not optimal group size
+E. 1000
+ANSWER: B
+
+Dunbar's Number refers to: 
+A. the size of the human subcortex
+B. the amount of time people spend on social media
+C. the optimal size of human personal groups
+D. the maximum number of nodes in a blockchain
+E. this is the only correct answer coz none of the others is anywhere near correct
+ANSWER: C
+
+According to research, _____ use social media more often than _____, but the _____ gap is closing. 
+A. males / females / gender
+B. the elderly / youth / age
+C. immigrants / domestic / gender
+D. females / males/ gender
+E. students / workers / employment
+ANSWER: D
+
+Using life table analysis, the author of your textbook estimated that by the time you are 18 years of age, you will have spent _____ on social media. 
+A. over $5,000 (CDN) on internet usage fees
+B. the equivalent of time spent to earn a master's degree
+C. nearly 1/4 of your waking hours
+D. the equivalent of one year in school
+E. 228 full, 24-hour days
+ANSWER: E
+
+The phrase "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." defines?
+A. an algorithm
+B. blockchain
+C. programming
+D. database
+E. combinatorial mathematics
+ANSWER: A
+
+According to Sondergaard, "_____ is not where the value is. _____ is where the real value lies." 
+A. social media / big data
+B. big data / algorithm
+C. blockchain / big data
+D. algorithm / blockchain
+E. this is the only correct answer coz none of the others is anywhere near correct
+ANSWER: B
+
+In the world of Finance, _____ has/have replaced the day trader on the stock exchange floor. 
+A. social media 
+B. big data
+C. algorithms
+D. blockchain
+E. all of these answers (including this one) are correct
+ANSWER: C
+
+_____ is the time it takes for an electronic signal to move form point A to point B. 
+A. lag
+B. algorithm
+C. Big Mac Integer
+D. latency
+E. stream speed
+ANSWER: D
+
+The single biggest impact of ICT in the near future will be provided by: 
+A. algorithms
+B. big data
+C. asynchronous communication
+D. social media
+E. blockchains
+ANSWER: E
+
+Blockchain can be used to effect transactions in:
+A. all of these answers are correct
+B. real estate
+C. art works
+D. automobiles
+E. gold
+ANSWER: A
+
+Digital signatures use _____ and _____.  
+A. social media / big data
+B. a private key / a public key
+C. a blockchain / big data
+D. an algorithm / a blockchain
+E. big data / internet of things
+ANSWER: B
+
+A _____ is a function that is used to map (create a path) from digital input data of arbitrary (random) size to digital output data of a fixed (known and predictable) size. 
+A. algorithm
+B. blockchain
+C. hash
+D. Bitcoin
+E. PKI 
+ANSWER: C
+
+The most commonly used desktop browser in Canada from October 2015 to October 2016 was _____.  
+A. Internet Explorer
+B. Safari
+C. Firefox
+D. Chrome
+E. Edge
+ANSWER: D
+
+Blockchains hide the identity of participants behind _____.  
+A. firewalls
+B. algorithms
+C. databases
+D. social media
+E. digital signatures
+ANSWER: E

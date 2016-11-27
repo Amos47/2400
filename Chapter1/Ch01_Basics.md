@@ -321,7 +321,7 @@ From this you should clearly see that a big part of your ability to both create 
 Indeed that is exactly what you are doing as you train and study – creating intangible and (though we do try via testing and require that you write papers for our assessment) almost immeasurable capacities for thought and synthesis and creation. The value you create in your career will not, in all likelihood, be measured on a weight scale (as in a bucket of made widgets), but rather on an ethereal scale that measures ideas, theories, mashups and disruptions. You will indeed be working in the weightless economy. Best to be prepared. 
 
 ##### Takeaways
-To bring it home, we live in and are likely to remain living in an increasingly a service-based economy. Services are weightless. Weightless artifacts are intimately tied to ICT whether by services or by manufacturing. And the contribution of services to GDP is consistently outpacing all other sectors. It appears that services, and ICT-leveraging services among them, is a good place to be. Let's get trained up. 
+To bring it home, we live in and are likely to remain living in an increasingly service-based economy. Services are weightless. Weightless artifacts are intimately tied to ICT whether by services or by manufacturing. And the contribution of services to GDP is consistently outpacing all other sectors. It appears that services, and ICT-leveraging services among them, is a good place to be. Let's get trained up. 
 
 ### Pillar 3: Impact on the input/output ratio
 

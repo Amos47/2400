@@ -25,7 +25,7 @@ With this notion of productivity at the national level under our belt, let's swi
 
 Social Media is defined as: "Computer-mediated technologies that allow the creating and sharing of information, ideas, career interests and other forms of expression via virtual communities and networks." <a class="underlined-link" href="https://en.wikipedia.org/wiki/Social_media" target="_blank">Source</a>
 
-Here's a great quote form a book on machine learning (which we discuss below in the context of algorithms). It introduces nicely the topic of Social Media.
+Here's a great quote from a book on machine learning (which we discuss below in the context of algorithms). It introduces nicely the topic of Social Media.
 
 >"A few thousands of years ago, you needed to be a god or goddess if you wanted to be painted, be sculpted, or have your story remembered and told. A thousand years ago you needed to be a king or queen, and a few centuries ago you needed to be a rich merchant, or in the household of one. Now anybody, even a soup can, can be painted. A similar democratization has also taken place in computing and data. Once only large organizations and businesses had tasks worthy of a computer and hence only they had data; starting with the personal computer, people and even objects became generators of data. 
 >
@@ -79,7 +79,7 @@ But here is a slightly different list, from Wikipedia but equally current, with 
 
 <a class="underlined-link" href="https://en.wikipedia.org/wiki/Social_media" target="_blank">Source</a>
 
-The differences between the lists underlines the difficulty in nailing down exactly what SM is and where SM is measured. With the folding of the SM site Vine in October 2016 week, the field is changing.
+The differences between the lists underlines the difficulty in nailing down exactly what SM is and where SM is measured. With the folding of the SM site Vine in October 2016, the field is changing.
 
 While it may be changing, it is also enormous. Take a look at the range of SM sites and services available:
 
@@ -107,9 +107,9 @@ And this from <a class="underlined-link" href="http://growingsocialmedia.com/soc
 
 <div style="width:100%;margin:10px 0;"><iframe src="https://w.graphiq.com/w/5fcPr0oWTT7" width="600" height="495" frameborder="0" scrolling="no" style="position:static;vertical-align:top;margin:0 auto;display:block;width:600px !important;max-width:100%;min-height:495px !important;max-height:none !important;border:none;overflow:hidden;"></iframe><div style="text-align:center;font:14px/16px Helvetica,arial;color:#3d3d3d;"><a target="_blank" href="https://www.graphiq.com/vlp/5fcPr0oWTT7" style="color:#3d3d3d;">FindTheCompany | Graphiq</a></div></div>
 
-Why do people use SM? Here is an interesting article: http://www.onepoll.com/10-reasons-people-use-social-media/
+Why do people use SM? Here is [an interesting article](http://www.onepoll.com/10-reasons-people-use-social-media/): 
 
-Despite the fact that the survey link is broken, this is an interesting place to start:
+Despite the fact that the survey link is broken, this is an good place to start:
 
 >"A recent study [link broken] by Whiting and Williams interviewed a range of social media users and explored what keeps them coming back to social networks. They found that people use SM for the following reasons (I assume not in any particular order.) I have added some editorial comment following each reason in [square brackets].
 
@@ -150,7 +150,7 @@ They add further that:
 >
 >"Social media differ from paper-based or traditional electronic media such as TV broadcasting in many ways, including quality, reach, frequency, usability, immediacy, and permanence. Social media operate in a dialogic transmission system (many sources to many receivers). This is in contrast to traditional media that operates under a monologic transmission model (one source to many receivers), such as a paper newspaper which is delivered to many subscribers. Some of the most popular social media websites are Facebook (and its associated Facebook Messenger), WhatsApp, Tumblr, Instagram, Twitter, Baidu Tieba, Pinterest, LinkedIn, Gab, Google+, YouTube, Viber and Snapchat."
 
-So let's boil that down to what I think are the main reasons people use SM. Here's my list:
+So let's boil that down to what *I think* are the main reasons people use SM. Here's my list:
 
 1. Social interaction
 1. Data seeking and sharing
@@ -180,7 +180,7 @@ There is also some greater potential collective good that can come of social med
 
 ![LinkedIn](https://raw.githubusercontent.com/robertriordan/2400/master/Images/linkedin.PNG)
 
-But let me share something with you. As of November 13, 2016, I have 1,599 connections in my LinkedIn network. And I ask myself *Why?* I spend some part of nearly every day simply maintaining that network, saying "Congrats on the new job!" or approving (or more likely rejecting) new requests for inclusion in my *exclusive network* of 1,600 close associates (#sarcasm). I recently approved a request from an HR Project Coordinator at the Royal College of Physicians and Surgeons of Canada. And I don't know why. I took the time to examine her profile and to check our common connections and then said yes to her request. But I'm not sure what it gives me at this point in my career. I'm not going to change jobs and we have little or nothing in common (except my background in Epidemiology I suppose) that would lead to a synergistic relationship. So what kind of collective or community is this LinkedIn thing of mine? And what kid of community created the Arab Spring? And what kind of community comes together around a public tragedy such as a shooting or a hurricane or an earthquake? Are such communities artificial in comparison to those crowds that assemble physically and have a palpable presence and can cause the ground to shake. Is the community formed by those watching a Blue Jays game on TV different from the crowd that assembles on the lake shore in Toronto when the Jays play the Rogers Centre? Certainly they are different, but in what ways? One is virtual and one is physical and that distinction frames the distinction between them.  
+But let me share something with you. As of November 13, 2016, I have 1,599 connections in my LinkedIn network. And I ask myself *Why?* I spend some part of nearly every day simply maintaining that network, saying "Congrats on the new job!" or approving (or more likely rejecting) new requests for inclusion in my *exclusive network* of 1,600 close associates (#sarcasm). I recently approved a request from an HR Project Coordinator at the Royal College of Physicians and Surgeons of Canada. And I don't know why. I took the time to examine her profile and to check our common connections and then said yes to her request. But I'm not sure what it gives me at this point in my career. I'm not going to change jobs and we have little or nothing in common (except my background in Epidemiology I suppose) that would lead to a synergistic relationship. So what kind of collective or community is this LinkedIn thing of mine? And what kind of community created the Arab Spring? And what kind of community comes together around a public tragedy such as a shooting or a hurricane or an earthquake? Are such communities artificial in comparison to those crowds that assemble physically and have a palpable presence and can cause the ground to shake. Is the community formed by those watching a Blue Jays game on TV different from the crowd that assembles on the lake shore in Toronto when the Jays play the Rogers Centre? Certainly they are different, but in what ways? One is virtual and one is physical and that distinction frames the distinction between them.  
 
 And LinkedIn suggests to me that I "Stay up to date with my network." How?
 
@@ -433,7 +433,7 @@ The reason for encrypting the hash instead of the entire message or document is 
 
 ###Using blockchains for transactions
 
-Here's how it works. To transfer ownership of something you own to someone else (in Bitcoin this is bitcoin funds but it could be anything as we will later explain), both parties must have an account on the system used for the exchange. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. Each recipient of the message updates their local copy of the blockchain to reflect the change, and passes the message on to the next node. This message contains the *digital signature* of both the sender and the recipient. Thus the message is to send *x* from the account of the owner of digital signature *A* to the account of the owner of digital signature *B*. Since the identities of both parties to the transaction are *protected by PKI*, the exchange is completely private, even though all participants in the network can see the transaction. 
+Here's how it works. To transfer ownership of something you own to someone else (in Bitcoin this is Bitcoin funds but it could be anything as we will later explain), both parties must have an account on the system used for the exchange. For person A to transfer ownership to person B, all that is required is that A send a message to the network that they want to transfer some amount of whatever is being traded from A to B. Each recipient of the message updates their local copy of the blockchain to reflect the change, and passes the message on to the next node. This message contains the *digital signature* of both the sender and the recipient. Thus the message is to send *x* from the account of the owner of digital signature *A* to the account of the owner of digital signature *B*. Since the identities of both parties to the transaction are *protected by PKI*, the exchange is completely private, even though all participants in the network can see the transaction. 
 
 ###Hash (no not *that* kind)
 
