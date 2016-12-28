@@ -61,14 +61,16 @@ Ontario has not enacted legislation that is substantially similar to PIPEDA but 
 
 
 ###Disassociation of content, time and support
+
 <a name="disassociation">
-We live in an increasingly digitised world. Take a simple example: a hockey game. Time was, the only one way to enjoy the event was in person. Consider the myriad ways such an event can be enjoyed today, both *synchronously* (in real time both in person and off-site) and *asynchronously* (not in real time – stored for later consumption).  See Figure TT below.
+
+We live in an increasingly digitised world. Take a simple example: a hockey game. Time was, the only one way to enjoy the event was in person. Consider the myriad ways such an event can be enjoyed today, both *synchronously* (in real time both in person and off-site) and *asynchronously* (not in real time – stored for later consumption). See Figure TT below.
 
 **Figure TT. Disassociation of content, time and support**
 
 ![Disassociation](https://raw.githubusercontent.com/robertriordan/2400/master/Images/disassociation.png)
 
-Let’s unpack this busy figure. The event is a hockey game. In the early days of such games, they were played on local frozen ponds and then on makeshift rinks, and only when the temperature was below freezing. The teams were made up mostly of locals, and the fans, if there were such hardy souls, were locals rooting for the local side. In order to experience the spectacle, it was necessary to attend in person. There wasn’t often any press to report on the match. The only artifacts produced by the games were in the memories of those in attendance, and any anecdotal scribblings of a local historian or scribe. Those were the days indeed.
+Let’s unpack this busy figure. The event is a hockey game. In the early days of such games, they were played on local frozen ponds and then on makeshift rinks, and only when the temperature was below freezing. The teams were made up mostly of locals, and the fans, if there were such hardy souls, were locals rooting for the local side. In order to experience the spectacle, it was necessary to attend in person. There wasn’t often any press to report on the match. The only artifacts produced by the games were in the memories of those in attendance, and any anecdotal scribbling of a local historian or scribe. Those were the days indeed.
 
 As the cities and towns grew, so too did the rivalries. More and more attention was paid to sporting events and more archival material became available in the form of photographs and perhaps even some grainy film. Players began to receive small *rewards* for their efforts. Firms became interested in having their name associated with a winning side (as brand management). When real money enters the picture, interest picks up. More people attend the games. More widespread interest in the outcomes is aroused. This spiral of interest and investment leads to capacity problems at the arenas. Not enough seats for willing purchasers, and the widespread interest leads to the inability for *fans* to attend due to long travel times and cost.
 

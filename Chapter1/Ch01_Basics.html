@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch01_Basics</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h1>Chapter 1 - Basics <img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/mag_10.png" alt="Basics" /></h1>
+<h2>Setting the stage</h2>
+<h3>Pillar 1: Data, information and knowledge</h3>
+<p>Much of this first section relies on work from a dated but still quite interesting article from <em>liquidinformation.org</em>. While quite compelling and thought-provoking, I don't agree with everything written there, but I was certainly stimulated by the piece.</p>
+<p><a class="underlined-link" href="http://www.liquidinformation.org/information_history.html" target="_blank">Interested?</a></p>
+<p>First of all, many of the times the author refers to <em>information</em>, I contend they are instead referring to <em>data</em>. This distinction will become more clear as we progress. Here is a quote from the piece: </p>
+<blockquote>
+<p>“The first information was incidental. A cratered moon records the history of the impacts [of interstellar objects] but it does so by accident, as a by-product of the events, not <em>for</em> the events.” [<em>emphasis</em> added]</p>
+</blockquote>
+<p>From that point on, we have, as a species, become all about communication. There is almost nothing we do that does not involve information and communication. The technology piece came a bit later, but provides the impetus for our study. While I am quoting slightly out of order, the same article also offers:</p>
+<blockquote>
+<p>“Information’s natural state used to be one of motion, of activity. Information is generated by interactions, information <em>is</em> interaction, as without comparison, without a <em>context</em> [much more on <em>context</em> in the second chapter of this text], without interaction, there is nothing. There is no temperature with only hot. There is no darkness without light [...] Information cannot exist without <em>context</em>. And [...] it is important to point out that information has to be useful to exist. [...] Useful in a specific <em>context</em>. If it is not, it either does not exist, or it becomes negatively useful. As in noise.”</p>
+</blockquote>
+<p>So only something that is <em>useful</em> can be called information. Now that's a bold statement. Our task then becomes to discover what <em>useful</em> means. I will argue that useful has to do with either causing change or persisting the <em>status quo</em>. Decision and action cause either change or persistence (the absence of change when change <em>could</em> occur). Please stay for the show. </p>
+<p>Right up front let's get clear on something. <strong>Wikipedia is no more a scientific tool that are my mother's grand Irish musings. Leprechauns may or may not exist, but Wikipedia won't solve the mystery.</strong> My use of Wikipedia in this book is to encourage thoughtful discussion and not to provide any kind of proof; you will always get my interpretation of the issue at hand and often get other sources with which to augment or compare. Such is academics. </p>
+<p>With that out of the way, <a href="https://en.wikipedia.org/wiki/Information">Wikipedia</a> provides a definition most pertinent and useful for us: </p>
+<blockquote>
+<p>&quot;Information resolves uncertainty. The uncertainty of an event is measured by its probability of occurrence and is inversely proportional to that. The more uncertain an event, the more information is required to resolve uncertainty of that event.&quot;</p>
+</blockquote>
+<p>In business, we use information overwhelmingly to inform decision-making. We look out over the horizon and hope to reach some strategic goals. In order to get there, we need to make decisions about our trajectory.   </p>
+<p>In the context of information as: ”...an influence which leads to a transformation.” It can be seen as “... any type of pattern that influences the formation or transformation of other patterns. In this sense, there is no need for a conscious mind to perceive, much less appreciate, the pattern. Consider, for example, DNA. The sequence of nucleotides is a pattern that influences the formation and development of an organism without any need for a conscious mind.”</p>
+<p>I have a couple of comments on these web musings. To begin, the assertion regarding <em>influence</em> is closest to what I will show is most important in the context of business. Information leads to decisions which have consequences. It is the consequences of decisions that produce knowledge and inform the future. I would, however, maintain that the DNA example is flawed in that DNA is <em>deterministic</em>. There is no <em>interpretation</em> necessary in order for DNA to have an impact. It requires no <em>context</em> in which information is created. It expresses what it is destined to express with no need for any understanding or translation. It cannot do other than it was destined to do. DNA's actions are determined <em>a priori</em> (before the fact) and in this sense DNA is <em>data</em>, as I will show later, and not <em>information.</em></p>
+<p>The Wikipedia article goes on that “If, however, the premise of 'influence' implies that information has been perceived by a conscious mind and also interpreted by it, the specific context associated with this interpretation may cause the transformation of the information into knowledge.” This is where you and I come in. We are the interpreters. The article continues that “Complex definitions of both 'information' and 'knowledge' make such semantic and logical analysis difficult, but the condition of 'transformation' is an important point in the study of information as it relates to knowledge.”</p>
+<p>No need to fully digest or understand this just yet. We will spend some time on such transformation and why it’s important for business. </p>
+<p>The article maintains that: “In this practice, tools and processes are used to assist a knowledge worker in performing research and making decisions, including steps such as [my comments in parens]:</p>
+<blockquote>
+<ul>
+<li>Reviewing information in order to effectively derive value and meaning [assessing the outcomes of decisions]</li>
+<li>Referencing metadata if any is available [metadata is literally <em>data about data</em> - the list of numbers you've called on your cell is metadata]</li>
+<li>Establishing a relevant context, often selecting from many possible contexts [this will be important for us]</li>
+<li>Deriving new knowledge from the information [critical in the business context]</li>
+<li>Making decisions or recommendations from the resulting knowledge [the feedback from previous knowledge acquisition – this is how knowledge grows]</li>
+</ul>
+</blockquote>
+<p>“Stewart (2001) argues that the transformation of information into knowledge is a critical one, lying at the core of value creation and competitive advantage for the modern enterprise.” <em>(Stewart, Thomas, (2001). Wealth of Knowledge. Doubleday, New York, NY, 379 p.)</em></p>
+<p>Well you can't get any more impactful that that. Knowledge creation from information is at the very core of what makes business successful.</p>
+<p>The full Wikipedia article is here: <a href="http://en.wikipedia.org/wiki/Information">Interested?</a></p>
+<h4>The data, information and knowledge hierarchy</h4>
+<p>To begin, when studying Information Systems (or the broader term that we use in this book - <em>Information and Communication Technology</em> or <em>ICT</em>), it is crucial to define what we mean by the pieces. We need to carefully specify the differences between the <strong>Big Three</strong> of <em>data, information</em> and <em>knowledge</em>. We need also to examine the intimate interrelationships between these levels of the hierarchy in order to understand what ICT really is and what impact it has on our private and public lives.</p>
+<p>Let's first deal with a potential controversy. You might have heard (more likely you will hear or see in other places during your academic career) this hierarchy referred to as the Data, Information, Knowledge and <em>Wisdom</em> hierarchy. There are problems with this particular characterisation (<a href="https://hbr.org/2010/02/data-is-to-info-as-info-is-not">Interested?</a>) so instead, I describe here the simpler <em>Data, Information and Knowledge</em> hierarchy. </p>
+<p>We need to carefully define what each of <em>data</em>, <em>information</em> and <em>knowledge</em> means in its own right. We can then examine the hierarchy that evolves when discussing these big three in the context of decision making. Oh yes, and <em>context</em> will be critical too. We will deal with that in some detail in Chapter 2.</p>
+<h4>Data</h4>
+<p><strong>Figure STT. Definition of data from Visual Thesaurus</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_data.PNG" alt="visualthesaurus.com Definition of data" /></p>
+<p>The excellent website (or service, really) <a href="http://visualthesaurus.com">visualthesaurus.com</a> shows the visualisation, above, of the look-up term <em>data</em> once expanded by clicking on the red node.  </p>
+<p>The interpretation of the visual goes as follows:</p>
+<ul>
+<li>A solid line between two terms denotes a relationship between a meaning and a word. Thus the term at the distal (far) end of a solid line can be used to express the meaning of the defined word. Thus in this image, data and information can be used to describe each other (are synonomous). This will be discussed at length below. I maintain that, while they are often interchangeable in common usage, they are not equivalent terms. Stay tuned.</li>
+<li>A dashed line indicates a <em>type of</em> relationship. Thus the term at the distal end of a dashed line indicates that this construct is a type of the term at the proximal (near) end of the dashed line. So <em>accounting data</em> is a <em>type of</em> data. Self-evident, really. </li>
+<li>A dashed red line (not shown in this visual but appearing in others below) indicates an opposite. So a red line appearing between the terms <em>distal</em> and <em>proximal</em> would indicate that they are a negation of each other. </li>
+</ul>
+<p>The Visual Thesaurus defines data as: &quot;A collection of facts from which conclusions may be drawn.&quot; Hold onto this definition as we further analyse the complex relationship between data and information.</p>
+<p>The visual on <em>data</em> above implies (states, really) that data and information are synonymous; that they can be used to describe each other, and thus that they are equal. My definition, which clears up some of the ambiguity in the terms <em>data</em> and <em>information</em>, is: </p>
+<p><em>Data is pre-information</em>. It is <em>potential</em> information; a collection of one or more facts, figures or measurements of some entity whether tangible or not. <em>Information</em>, on the other hand, is <em>actionable data</em>; data embedded in a <em>context</em> that allows us to make a decision on a course of action. </p>
+<p>The critical topic of <em>measurement</em> is considered in some depth in the Backstory section of this chapter <a class="underlined-link" href="Ch01_Backstory.md\#measure" target="_blank">(take me there)</a> and we will spend some time unpacking the concepts of <em>entities</em> and <em>tangible / intangible</em> in due course. </p>
+<p>The online <a href="http://businessdictionary.com">Business Dictionary</a> defines data as:</p>
+<ol>
+<li>&quot;Information in raw or unorganized form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe. See also information and knowledge.&quot;, and</li>
+<li>&quot;Computers: Symbols or signals that are input, stored, and processed by a computer, for output as usable information.”</li>
+</ol>
+<p>I would clarify the first definition by stating that data are <em>potential information</em> when in raw form. We cannot define data as information and information as data. In my opinion, both definitions should begin with the words in the second definition, specifically that data are <em>symbols and signals</em> or indeed drawings or sounds or signs or even facial expressions that carry within them the <em>potential</em> for information but not information <em>per se</em>. Data is raw and lacks context. A column of digits in a spreadsheet with no row header to indicate what the data <em>mean</em>, for example, is not information. It has no potential impact. I maintain that information occurs in the <em>interpretation</em> of data when it’s <em>located in context</em>. Read on.</p>
+<p>Note the definition of information below in the section on Information, from the same source, and note that one of the necessary elements of information is that it be presented within a context that gives it meaning. Thus the dictionary contradicts itself in this case. Good thing we're watching carefully... ;)  </p>
+<p><a href="http://www.businessdictionary.com/definition/data.html">Interested?</a></p>
+<h5>Synopsis</h5>
+<p>Data is not information, and neither is information, data. Data represents, at best, <em>potential</em> information, if it is measured with care. Data scientists and Information Designers pay close attention to how data are measured in order that maximal value can be extracted from business analytics efforts.</p>
+<p>We now more on to a discussion of what information is. This is where it gets good.</p>
+<h4>Information</h4>
+<p><strong>Figure LP. Definition of information from Visual Thesaurus</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_info.PNG" alt="visualthesaurus.com Definition of information" /></p>
+<p>The Visual Thesaurus defines <em>information</em>, in conjunction with the visual above and ignoring the definitions pertaining strictly to the study or administration of justice and the law (with apologies to LJ), as:</p>
+<ol>
+<li>A message received and understood [YES]</li>
+<li>Knowledge acquired through study or experience or instruction [YES]</li>
+<li>A collection of facts from which conclusions may be drawn [PROBABLY]</li>
+<li>The psychological result of perception and learning and reasoning [YES]</li>
+<li>In communication theory, a numerical measure of the uncertainty of an outcome [MAYBE] </li>
+</ol>
+<p>We need some unpacking here. In the [square brackets] at the end of each definition of information above, I have added my little editorial comment. Information can <em>clearly</em> be characterised as <em>received and understood</em> as understanding assumes that not only the content but also the context of the message, it's meaning and its intent have all been synthesised. If something is <em>understood</em> then the <em>context</em> is rich enough to allow a decision to be made based on the <em>content</em>. Data alone cannot do this. It should be noted that it is entirely possible that the <em>wrong</em> decision can still be made. Inadequate or poorly measured data might result in an incomplete context. A faulty message receiver (as in any of us if we've had one too many) can equally result in a bad decision being made. The distinction here is not between good and bad decisions, <em>per se</em>, but rather between whether a decision can be made at all. </p>
+<p>The second and fourth definitions are acceptable, on the whole, especially, as we will see, as they relate to <em>experience and learning from experience</em>. More to come on this.</p>
+<p>The third definition is shading into murky territory. A collection of facts, in and of itself, cannot afford a conclusion. That is the domain of information. The facts might well form a context from which information can arise, but alone, no. Thus number three is not precise enough. </p>
+<p>The fifth definition, as it applies to <em>entropy</em>, is dealt with in detail in Chapter 2.  </p>
+<p>Our business dictionary source offers that <em>information</em> (not data but information) is:</p>
+<blockquote>
+<p>Data that is:  
+</p>
+<ol>
+<li>accurate and timely, </li>
+<li>specific and organized for a purpose, </li>
+<li>presented within a context that gives it meaning and relevance, and </li>
+<li>can lead to an increase in understanding and decrease in uncertainty.&quot;</li>
+</ol>
+</blockquote>
+<p>They go on to offer that “Information is valuable because it can affect behaviour, a decision, or an outcome. For example, if a manager is told his/her company's net profit decreased in the past month, he/she may use this information as a reason to cut financial spending for the next month. A piece of information is considered valueless if, after receiving it, things remain unchanged. For a technical definition of information see information theory.&quot;</p>
+<p>I must respectfully disagree with several of the assertions in this definition. Specifically, they again define <em>data</em> as <em>information</em>. The two are clearly not synonymous. To begin the <em>definition</em> of information with the assertion that it is <em>data</em> is clearly not helpful for us. Furthermore, data doesn't have the potential to change things (or to lead to change). Only information can lead to change through informing our decisions. But what is bang on about this definition is its assertion that information <em>can affect behaviour, decision making and outcomes</em>. This is to where we are going here. </p>
+<p><a href="http://www.businessdictionary.com/definition/information-theory.html">Interested in Information Theory?</a></p>
+<p>Let’s be clear: <strong>Data that can be measured and put into context leads to information, which facilitates decision making.</strong> Moreover, <strong>data and information are not the same thing.</strong> We will look at the distinction in some detail in Chapter 2. </p>
+<p>Finally, it is categorically <em>not</em> necessary for information to lead to change. Information leads to decisions, which are binary by nature. One of the two possibilities when informed about something is the decision <em>to do nothing!</em> And that’s perfectly fine. Maybe that’s the right decision. <em>Ergo</em> information does not always result in change. But it always results in the <em>potential</em> for change. </p>
+<p>Now we're getting somewhere.</p>
+<p><a href="http://www.businessdictionary.com/definition/information.html">Interested?</a> </p>
+<p>Let's move on to knowledge. </p>
+<h4>Knowledge</h4>
+<p><strong>Figure KS. Definition of knowledge (know) from Visual Thesaurus</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/vt_know.PNG" alt="visualthesaurus.com Definition of know" /></p>
+<p>The <a href="http://www.visualthesaurus.com/" title="Visual Thesaurus">Visual Thesaurus</a> cogently defines <em>know</em> (a richer context is provided than if we asked for a definition of <em>knowledge</em>) as: &quot;The psychological result of perception and learning and reasoning.&quot; So this definition explicitly excludes machines from having the capacity to <em>know something</em> since it refers to a &quot;psychological result.&quot; Pity...  </p>
+<p>But let's look at this visual for a second. Note how rich it is. Note how many nodes are of interest to us here. </p>
+<p>Next let's look at what our Business Dictionary source offers for the definition of <em>knowledge</em>. Their general definition fits our needs:</p>
+<blockquote>
+<p>&quot;Human faculty resulting from interpreted information; understanding that germinates from [the] combination of data, information, experience, and individual interpretation. Variously defined as, &quot;Things that are held to be true in a given context and that drive us to action if there were no impediments&quot; (Andre Boudreau). &quot;Capacity to act&quot; (Karl Sweiby). &quot;Justified true belief that increases an entity's capacity for effective action&quot; (Nonaka and Takeuchi). &quot;The perception of the agreement or disagreement of two ideas&quot; (John Locke). In an organizational context, knowledge is the sum of what is known and resides in the intelligence and the competence of people. In recent years, knowledge has come to be recognized as a factor of production (see knowledge capital) in its own right, and distinct from labor.&quot;</p>
+</blockquote>
+<p><a href="http://www.businessdictionary.com/definition/knowledge.html">Interested?</a></p>
+<p>Some very rich definition and context here. From this we can glean that <em>data is useless unless in a context</em>, which allows it to become information. Information drives decisions and decisions drive action or inaction, in the rich context of previous information. Collected information from this action, previous actions and from all other sources of knowledge becomes new or evolving knowledge and confers the ability to pass judgment on the previous three. </p>
+<p>Again, we consider these important concepts in detail in Chapter 2. </p>
+<h5>Important takeaways</h5>
+<ul>
+<li>Measurement is complex, critical and has several quality metrics associated with it (see Backstory)</li>
+<li>Data and information are not synonymous </li>
+<li>Information is created in the presence of data in context</li>
+<li>Decisions arise from information and a decision to <em>not</em> act is as valid as one <em>to act</em></li>
+<li>Knowledge arises from accumulated experience with the outcomes of decisions </li>
+</ul>
+<h4>Communication</h4>
+<p>Communication is the essence of our being. Communication is almost all we do. Our friends at Wikipedia have this to say about that: &quot;Communication (from Latin commūnicāre, meaning 'to share') is the activity of conveying meaning through a shared system of signs and semiotic rules.&quot; </p>
+<p><a href="http://en.wikipedia.org/wiki/Communication">Interested?</a></p>
+<p>Semiotics is the study of signs and symbols in communication. </p>
+<p><a href="http://www.amazon.ca/This-Means-That-Users-Semiotics/dp/1856697355/ref=sr_1_4?ie=UTF8&amp;qid=1427474025&amp;sr=8-4&amp;keywords=semiotics">Interested?</a></p>
+<p>We can further examine a subset of what <a href="http://dictionary.reference.com/browse/communication">dictionary.com</a> offers:</p>
+<ol>
+<li>The act or process of communicating; fact of being communicated. </li>
+<li>The imparting or interchange of thoughts, opinions, or information by speech, writing, or signs. </li>
+<li>Something imparted, interchanged, or transmitted. </li>
+<li>A document or message imparting news, views, information, etc. </li>
+<li>Communications - means of sending messages, orders, etc., including telephone, telegraph, radio, and television. </li>
+<li>Biology: a) activity by one organism that changes or has the potential to change the behavior of other organisms; b) transfer of information from one cell or molecule to another, as by chemical or electrical signals.</li>
+</ol>
+<p>Now isn't that interesting, the Biology part? That's exactly what we are saying about <em>Information</em>. Specifically that we (or at least I) have here defined information (that it emerges from data in a context) as something that is communicated and can cause <em>change</em>. So in nature, a large part of communication involves change, and such communication is achieved by the exchange of <em>information</em>. I argue that when we communicate, we are exchanging only data, and that information is in fact created by our interpretation of that data in context. And I will argue just that in Chapter 2. Indeed a website article we will examine in depth in Chapter 2 on <em>Liquid Information</em> offers on the [history of information]((http://www.liquidinformation.org/information_history.html) that as life appeared on earth it required “[...] storing information about how to replicate something, how to replicate itself. Information now served a purpose...”. Life requires information because life requires action to perpetuate itself. The purpose of life is perpetuation. </p>
+<p>Thus communication allows humans to fulfil their only real purpose on this planet: to persist on this planet.  </p>
+<h4>What is technology?</h4>
+<p>Wikipedia offers that Technology is &quot;...the collection of tools, including machinery, modifications, arrangements and procedures used by humans.&quot; Note the breadth of this definition. How do we understand <em>tools</em> in this context, for example? It is not inconceivable that a tool could be a hammer, a cell phone, a traffic signal, a spoken language, Ikea instructions, a cookie recipe or even applied mathematics. So technology is broad indeed.</p>
+<p><a href="http://bit.ly/139Y25z">Interested?</a></p>
+<p>The online <a href="http://businessdictionary.com">Business Dictionary</a> also takes a broad view, and delineates categories and taxonomies. They write that technology is &quot;The purposeful application of <em>information</em> in the design, production, and utilization of goods and services, and in the organization of human activities.&quot; (emphasis added)</p>
+<p>Further, they provide the following detail, while splitting the taxonomy into two additive (presumably) sub-categories. Thus technology can be either tangible (can be touched, seen, etc.) or intangible (not physical - as in the sense of services) (see also the more extensive treatment of this topic in the Pillar 2 section below). Further, they rank three levels of interaction between technology and the matter and forces with which it interacts. So we can have tangible technology that is either high, medium or low, with the same three levels for intangible. They write that: &quot;Technology is generally divided into five categories [my explanations/examples in brackets].&quot; The list begins with the distinction between tangible and intangible:</p>
+<ol>
+<li>Tangible (blueprints, models, operating manuals, prototypes) [can be touched, take up space, etc.]</li>
+<li>Intangible (consultancy, problem-solving, and training methods) [do not exist in the physical realm; do not exist until consumed...]</li>
+</ol>
+<p>And then continues in terms of <em>sophistication</em>:</p>
+<ol>
+<li>High (entirely or almost entirely automated and intelligent technology that manipulates ever finer matter and ... powerful forces) [a space shuttle]</li>
+<li>Intermediate (semi-automated partially intelligent technology that manipulates refined matter and medium level forces) [an e-commerce algorithm to suggest stuff for you to buy] </li>
+<li>Low (labour-intensive technology that manipulates only coarse or gross matter and weaker forces) [a shovel]&quot;</li>
+</ol>
+<p><a href="http://bit.ly/1GsH5SO">Interested?</a></p>
+<p>But the online Oxford Dictionary takes a much narrower view, <em>viz</em>.: &quot;The application of scientific knowledge [the logical progeny of information] for practical purposes, especially in industry. [For example,] advances in computer technology [or] recycling technologies.&quot;</p>
+<p>We will take this narrower view of technology in this book, partly because we just don't have the time to consider all the nuances that the broader scope suggests. So when we consider technology, and specifically <em>information and communication technology</em>, we will be constraining ourselves to the narrow realm where engineering, science (both natural and social) and business realities intersect and interact with the systems that are in use in our modern society, with an eye to whether or not they are creating value by either reducing input or enhancing output.</p>
+<p>Thus we can say that <em>technology is encoded process knowledge based on best practices from previous outcomes.</em></p>
+<p><a href="http://bit.ly/1z0JHX3">Interested?</a></p>
+<h4>Information and Communication Technology (ICT)</h4>
+<p>What then of the overlap between information and technology? What exactly is it? Turns out it's a long story, stretching all the way back to prehistory. An excellent introduction is provided by a book in the <em>openbookproject</em>.</p>
+<p><a href="http://openbookproject.net/courses/intro2ict/history/history.html">Interested?</a></p>
+<p>The <a href="http://foldoc.org/">Free Online Dictionary of Computing</a> defines <em>information technology</em> as:</p>
+<blockquote>
+<p>(IT) Applied computer systems - both hardware and software, and often including networking and telecommunications, usually in the context of a business or other enterprise. Often the name of the part of an enterprise that deals with all things electronic. </p>
+</blockquote>
+<p>(Source: http://foldoc.org/information%20technology)</p>
+<p>Zuppo (see source below, accessed August 31, 2016) provided several definitions of ICT in his 2012 International Journal of Managing Information Technology article. Here's what he wrote:</p>
+<blockquote>
+<p>Zhang, Aikman and Sun define ICTs as “technologies used by people and organizations for their information processing and communication purposes” (p. 628). ITIL® , “the most widely accepted approach to IT service management in the world” [15], defines ICT as: </p>
+<p>“The application of science to the processing of data according to programmed instructions in order to derive results. In the widest sense, ICT includes all communications, information and related technology. The term Information Technology (IT) is used in a narrower sense, typically excluding telecommunications (voice) technology while including data networks (although almost all networks today are digital), as a reference to the systems that support information processing”.</p>
+<p>Various professional resources such as CIO Magazine and TechTerms.com offer definitions that are equally as broad including:</p>
+<p>“ICT refers to technologies that provide access to information through telecommunications. It is similar to Information Technology (IT), but focuses primarily on communication technologies. This includes the Internet, wireless networks, cell phones, and other communication mediums.</p>
+<p>In the past few decades, information and communication technologies have provided society with a vast array of new communication capabilities. For example, people can communicate in real-time with others in different countries using technologies such as instant messaging, voice over IP (VoIP), and video-conferencing. Social networking websites like Facebook allow users from all over the world to remain in contact and communicate on a regular basis. </p>
+<p>Modern information and communication technologies have created a &quot;global village,&quot; in which people can communicate with others across the world as if they were living next door. For this reason, ICT is often studied in the context of how modern communication technologies affect society”. </p>
+</blockquote>
+<p><em>Source:<a href="http://www.airccse.org/journal/ijmit/papers/4312ijmit02.pdf">International Journal of Managing Information Technology (IJMIT) Vol.4, No.3, August 2012</a></em></p>
+<p>Thus Information Technology (often referred to simply as <em>IT</em>) is a type of technology, and a subset of ICT. </p>
+<h3>Pillar 2: Tangible vs. intangible</h3>
+<p>This distinction is larger and more important than the traditional one made in most introductory information system classes. We were wont to say that tangible things are those with a physical presence that we can touch, such as a computer or a smartphone. Intangible was something that, while it exists, cannot be weighed, measured or directly detected, such as software or a computer service such as email. You can weigh a smartphone, but how much does email weigh? What are its dimensions? If measurable at all, its measurement is in terms of counts, such as email sent and received, or a measure of quality such as delivery speed. </p>
+<p>While the traditional distinctions are still valid, it’s now bigger than that. Read on.</p>
+<p>It started slowly, then picked up steam in the 1960s. What was <em>it</em>? It was the switch from the production of tangible goods (manufacturing) to intangible services (banking, health, education, etc.) in the post-industrial era, sometimes referred to as the era of <em>deindustrialisation</em>. Indeed the proportion of Canadians employed in the <em>secondary</em> sector (<em>primary</em> roughly being agriculture, mining and extraction, forestry, etc. and <em>tertiary</em> being the services sector) has declined steadily over time.  </p>
+<p><strong>Figure AFSF. Proportion of Canadians employed in the secondary and tertiary industries, 1931 to 1975</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/employment_by_sector_31_75.PNG" alt="Employment by sector" /></p>
+<p>Examination of Figure AFSF shows some interesting trends. With the exception of the period during which Canada was at war (1939 – 1945), the proportion of Canadians of both genders who were employed in the manufacturing sector has been in steady decline. On the other hand, there has been a steady rise, clearly since the inflection point at right around 1960, in jobs in what we call the <em>service or tertiary sector</em>. The trend lines in the graph clearly show the story. </p>
+<p>These trends have extended into the present day, where in 2014, using the percent of GDP generated by these sectors as an indicator, Policy Horizons Canada, using Statistics Canada data from 2011 and 2012, reported that activity in Manufacturing accounted for only 13% of Canada’s Gross Domestic Product (GDP) while Service accounted for 72%. Natural Resource Extraction and Other, combined, account for the remaining 15%.  Indeed <a href="http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/labor10b-eng.htm">Statistics Canada</a> reported that in 2014, the number of employed Canadians in manufacturing had sunk to 9.6% (in 1975 it was over 20%) while the number in services has skyrocketed to 78.1%.</p>
+<p><a href="http://www.horizons.gc.ca/eng/content/significant-shifts-key-economic-sectors">Interested?</a></p>
+<p>Here is what Policy Horizons had to say about it: <em>“The Canadian economy is dominated by the services industry, which makes up 72% of GDP and employs 78% of Canada's workforce. The services sector includes accommodation, business, cultural, education, financial, food, health care, information, professional, retail, transportation, wholesale and a range of other services. The sub-sectors that contribute the most to GDP include finance, insurance and real estate services (29% of total services), health care and social assistance (9.3%), retail trade (8.6%), public administration (8.2%) and wholesale trade (8%).”</em></p>
+<p>There are multiple reasons for these seismic shifts, but the nuances are best left to the labour economists and policy wonks. For our purposes, it matters not at all <em>why</em>, but rather only <em>that</em>. And it matters for the remainder of the so-called <em>advanced economies</em> as well (according to <a href="http://data.worldbank.org/data-catalog/GDP-ranking-table">World Bank data</a> for 2013, Canada ranked 11th in terms of the size of our economy by GDP). All advanced economies have experienced the same relative shift over the same period (see the 1998 <a href="https://books.google.ca/books?id=-05vo38wz-IC&amp;dq=advanced+economies+shift+from+manufacturing&amp;source=gbs_navlinks_s">IMF study</a>), and the economies of the currently modernising countries (China, India, Brazil, among others) will experience the same shift towards intangible, knowledge-based contribution to GDP. See the World Bank <a href="http://bit.ly/1DQ2xNG">study</a>.</p>
+<p>We ask why it matters that the world’s largest economies are increasingly dominated by service providers. </p>
+<p>The Policy Horizons (<em>ibid.</em>) piece has this to offer: <em>“Economic growth increasingly linked to intangibles: The shift from a goods economy to a knowledge economy has increased the importance of intangibles. Intangible assets include brand, customer base, design, human capital, intellectual property and [not physical but rather interpersonal and inter-organisational] networks, among others, which are all essential aspects driving firm value. Investments in intangible assets are an increasingly important source of growth that could result in a new range of business services. Also reshaping services is the rise of intangible artifacts through the digitization of information and arts. Freed from the resource constraints of physical production, the economics of these markets are being transformed by a shift from relative scarcity to relative abundance, suggesting a need for different pricing mechanisms. New monetization models are emerging, no longer centred on ownership but access, such as online subscriptions or the use of targeted advertising powered by data analytics. The greater ease of replicating intangible artifacts has also increased piracy and intellectual property concerns.”</em></p>
+<p>Careful reading of this passage reveals that we are firmly and irrevocably in what <a href="http://www.idate.fr/fic/revue_telech/68/goldfing.pdf">Goldfinger</a> (accessed April 17, 2015) has termed <em>The Intangible Economy.</em> He writes: “Knowledge Economy, Digital Economy, Information Society, Experience Economy, names for the new economy proliferate to the point of becoming ubiquitous buzzwords.” Furthermore, in trying to describe the new economy, he offers “I would like to suggest an alternative framework, based on a single defining trend: the shift from tangible to intangible. The economic landscape of the present and future is no longer shaped by physical flows of material goods and products but by ethereal streams of data, images and symbols.” And finally “At the core of the agricultural economy, there was a relationship between man, nature and natural products. The core relationship of the industrial economy was between man, machine and machine-created artificial objects. The intangible economy is structured around relationships between man and ideas and symbols. The source of economic value and wealth is no longer the production of material goods but the creation and manipulation of intangible content. <em>We live in the intangible economy</em> [emphasis added].”</p>
+<p>And of course by &quot;man&quot; the author meant &quot;man and woman&quot; when he (I assume) wrote this piece. Silly rabbit. </p>
+<p>Though the paper is a little dated (published in 2000), it remains valid today. A clever metric is reproduced below wherein the physical weight of certain commodities is expressed in terms of their cost in USD. It’s surprising.</p>
+<p><strong>Figure LAJ. Comparison of price per pound for manufactured goods in different classes</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/price_per_pound.PNG" alt="Price per pound" /></p>
+<p>(Goldfinger quotes the source of this data as <em>Colvin, Fortune Magazine</em>, but does not provide the full citation in his paper. We’ll have to take it at face value.)</p>
+<p>It’s indeed interesting to see that the pinnacle of costliness is still gold (in this limited comparison) but not far behind was the Intel P3 processor (the most powerful personal computer microprocessor at the time). Note also the relatively low cost per pound of the Mercedes in comparison to Viagra, for example. </p>
+<p>What’s the point of this? It is to demonstrate the shift to what LSE professor Danny Quah (see the <a href="http://www.idate.fr/fic/revue_telech/68/goldfing.pdf">Goldfinger article</a> for the reference) has called the <em>increasingly weightless economy</em> where more and more GDP is generated by “economic commodities that have little or no physical manifestations.” While this shift is not inherently due only to the so-called <em>digital revolution</em> it is also clear that much of the intangible output in this new economy is produced by or requires information and communication technology <em>to unlock its value</em>. </p>
+<p><a href="http://www.davies.com.au/ip-news/the-future-of-manufacturing-embracing-intangible-assets">Interested?</a></p>
+<p>In case you were thinking that this is a strictly western, developed economy phenomenon, take a look at the infographic below from <em>The Globe and Mail</em> (Saturday, August 15, 2015 citing the World Bank as the data source) which accompanied an article entitled <em>China's New Economic Reality.</em>&quot; Ignoring the image of the Chinese currency between the two lines, we clearly see that the red <em>services</em> line, separated by miles from the grey <em>industry</em> line in 1981, has recently crossed above the heavy industry contribution to China's GDP. The times they are a changing, indeed. </p>
+<p><strong>Figure LJP. Contribution of industry vs. services to China's GDP, 1981 to 2015</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/ChinaWeb4.jpg" alt="Price per pound" /></p>
+<p><a href="http://www.theglobeandmail.com/report-on-business/international-business/article25974515.ece">Interested?</a></p>
+<p>Back to the Policy Horizons article (<em>ibid</em>). While the article is excellent in its entirely, below is the most important material from our perspective: They write: </p>
+<blockquote>
+<p>“While a large part of the services sector will continue to include low-skilled work, some significant shifts for an economy that increasingly revolves around services are highlighted below.</p>
+<p>“Economic growth increasingly linked to intangibles: The shift from a goods economy to a knowledge economy has increased the importance of intangibles. Intangible assets include brand, customer base, design, human capital, intellectual property and networks, among others, which are all essential aspects driving firm value. Investments in intangible assets are an increasingly important source of growth that could result in a new range of business services. Also reshaping services is the rise of intangible artifacts through the digitization of information and arts. Freed from the resource constraints of physical production, the economics of these markets are being transformed by a shift from relative scarcity to relative abundance, suggesting a need for different pricing mechanisms. New monetization models are emerging, no longer centred on ownership but access, such as online subscriptions or the use of targeted advertising powered by data analytics. The greater ease of replicating intangible artifacts has also increased piracy and intellectual property concerns.</p>
+<p>Employers cater to the 'creative class': As developed economies have found their value through knowledge creation and innovation activities, 'creative class' workers (e.g., scientists, engineers, media workers, designers) in the services sector have seen their market worth rise, while blue-collar workers and low-skilled service workers have seen little growth in their relative value, even though the latter still dominate the services industry. These creative workers tend to seek to live in diverse and creative cities and are comfortable working in flexible work arrangements such as online employment or self-employment. With the expectation of greater future competition for creative class workers, their preferences may be influential in determining workplace norms and firm location choice (Florida, 2002).</p>
+<p>Services increasingly crossing borders: Some service firms may find that the need for proximity to their workers becomes a moot point. Information communication technologies have facilitated the off-shoring and exporting of service tasks, which to date have largely been limited to the fields of architecture, engineering, finance, education and research and development. Services have traditionally been less tradable than goods, particularly in the most customer-facing industries such as retail and health care (Farrell et al., 2005). However, even in these fields, virtual and communications technologies are advancing the ability to bridge distance and offer personalized service, for instance through mobile health tools and applications, remotely controlled robots for high-precision surgeries, and the use of avatars and 'virtual fitting rooms' to aid online shopping for clothes. Within firms, developments in virtual technologies that can easily reproduce the human interface could expand the tradability of other service tasks, forging a pathway for the greater participation of 'virtual service workers.' Where employers are challenged to find specialized skills in their local labour market, online contracting is seen as an advantage to fill needs quickly. The transnational nature of service provision raises important questions for Canada's labour market and Canadian service providers.</p>
+<p>Services influenced by an aging population: Many service industries will likely see greater demand due to the needs and preferences of an aging population (e.g., personal care, health, leisure, tourism, transportation, supplementary careers). At the same time, service industries are concerned about their ability to source specific skills as needed, as they anticipate a smaller working age demographic to fill these needs. Firms are exploring incentives to retain older workers (e.g., flexible work schedules) and interventions to delay the onset of chronic ailments that might limit their ability to keep workers (e.g., offering workplace wellness programs).”</p>
+</blockquote>
+<p>From this you should clearly see that a big part of your ability to both create new and consume existing value in society will be fuelled and facilitated by ICT. That’s why we’re here. That’s why we study ICT. You are at university to learn how to become knowledge creators. </p>
+<p>Indeed that is exactly what you are doing as you train and study – creating intangible and (though we do try via testing and require that you write papers for our assessment) almost immeasurable capacities for thought and synthesis and creation. The value you create in your career will not, in all likelihood, be measured on a weight scale (as in a bucket of made widgets), but rather on an ethereal scale that measures ideas, theories, mashups and disruptions. You will indeed be working in the weightless economy. Best to be prepared. </p>
+<h5>Takeaways</h5>
+<p>To bring it home, we live in and are likely to remain living in an increasingly service-based economy. Services are weightless. Weightless artifacts are intimately tied to ICT whether by services or by manufacturing. And the contribution of services to GDP is consistently outpacing all other sectors. It appears that services, and ICT-leveraging services among them, is a good place to be. Let's get trained up. </p>
+<h3>Pillar 3: Impact on the input/output ratio</h3>
+<p>If a piece of technology has no impact on either the inputs or the outputs of the target, whether that target is an organisation, firm or person, is there any value to it? The short answer is no. That's the medium and the long answer as well. </p>
+<p>There are primarily four ways that a business can derive benefit by applying ICT to support the organisation and its processes:</p>
+<ul>
+<li>Supporting the value chain – As we discuss in the Backstory to this chapter, systems can be applied directly to the value chain to make it more efficient and effective.</li>
+<li>Automating – Business processes and functions can be automated, enabling cost reductions, normally through the consumption of less labour and increased efficiency and reliability.</li>
+<li>Informing – ICT systems create, store, and make available data that can be used to improve the quality of business decisions, as discussed in Chapter 3.</li>
+<li>Gaining a competitive advantage – Implementing a new system that creates new capabilities may give an organisation a temporary competitive advantage over their competitors. </li>
+</ul>
+<p>A McKinsey piece on capitalism proposes that the purpose of business is to solve problems. Here's the quote: &quot;... the crucial contribution business makes to society is transforming ideas into products and services that solve problems.&quot; They go on to specify that if problems are solved at an increasing rate, prosperity results. If this is true (and it makes good sense to me on the surface) then our task as we study technology becomes to determine if the product or service or technology under consideration (which is the tangible manifestation of a new idea) solves a <em>real</em> problem. </p>
+<p><a href="http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism">Interested?</a></p>
+<p>But it also seems to me that something is missing from the McKinsey postulation. And that something is <em>profit</em>. Under capitalism, for an enterprise to remain viable, it must either be supported externally or must generate a competitive return on investment. Nothing is free. Everything (and I mean everything) has a cost. So cancer research (cancer being the problem) can be supported by governments through their revenues, derived mainly from taxation, and advances in the treatment of cancer are seen as a social good. You and I pay for that research and we expect a return on that investment in the form of longer disease-free life and more productivity, upon which we pay tax, and return the investment. Some cancer research is also undertaken by private enterprise (pharmaceutical firms and university research labs as funded research, for example), but private enterprise won’t (or can’t for long) go down a road without the reasonable expectation of recouping a premium over what they have invested in their work. This is ROI. This is the basis of free enterprise and of capitalism itself. </p>
+<p>It’s clear that problems don’t get solved for free. If business solves a problem, it must make a profit in so doing. But there’s also the age-old challenge of widening the gap between costs and revenues. It’s not enough to make a profit. The profit must <em>increase</em> year over year. Grow the margins. Be more effective and/or more efficient or your competitors will. Expand the market, open new frontiers. Grow revenues and shrink costs, that’s what drives the system. Keep this in mind.</p>
+<p>What is also interesting from the McKinsey piece is their contention that problems must be solved at an increasing rate. So this year we must solve more problems (either in absolute terms or as a rate) than last year and the year before that. Everything escalates under capitalism. Goods cost more, wages rise to meet the cost of goods and we live in this inflationary spiral which ebbs and flows but other than in rare periods of deflation (which are quickly corrected by monetary policy) is always with us. Problems must be solved at an increasing pace and profit must increase year over year. It’s enough to drive one mad. </p>
+<p>Thus the pace of everything is accelerating. This puts increasing pressure on the systems that businesses use to solve problems. To understand systems in detail, see the Systems and process section in Backstory.</p>
+<h4>How is value created?</h4>
+<p>It sounds simple, but the entire premise upon which the capitalist system rests is that the realised output from a system (a business) must be worth <em>somewhat more</em>, in the long run, than the investment in inputs required to produce the output. Thus the goal of a business is that the difference between what you get when you sell your wares and what it costs to fuel the system to produce those wares is greater than what profits you might realise from <em>doing something else with your money</em>. This is <em>opportunity cost</em>. You have <em>an opportunity</em> to do lots of stuff with your money. You can put it in the bank, invest it, lend it (a form of investment if charging interest), or use it to buy inputs for a process that you wager will give you a better return than any or all of the other alternatives. Looked at another way, the value generated must be greater than what it would cost to borrow the money to run the business. If you’re paying 3% to borrow money to run your business and it’s only returning a 2% margin, well... you’ve got trouble with a capital F. </p>
+<p>And remember that the purpose of business is to solve problems. I have added the <em>caveat</em> that those problems won’t get solved by private sector firms unless they can be solved <em>at a profit</em>. </p>
+<h4>How does technology add value in solving problems?</h4>
+<p>A business is a collection of systems, large and small, simple and complex. How do we measure the value creation potential of technology in a set of complex processes? </p>
+<p>The twin concepts used in measurement of all systems are: <em>effectiveness – doing the right thing</em>, and <em>efficiency – doing the thing right</em>. Effectiveness is all about the components of a system. No process should be part of a system if it doesn’t add value at output. Nothing should be done that doesn’t need to be done. On the other hand, efficiency is all about doing the right thing in the right way, with the least waste and the maximum output. It should be clear that the top priority is effectiveness. Once the process is doing the right thing, effort can be put into doing the thing right. It’s all too easy to be really efficiently doing the <em>wrong thing</em>.</p>
+<p>Indeed management guru Peter Drucker is quoted as having written: &quot;There is nothing so useless as doing with great efficiently that which should not be done at all.&quot; Interestingly, he also wrote that: &quot;Management is doing things right; leadership is doing the right things.&quot; And finally, &quot;Doing the right thing is more important than doing the thing right.&quot; I'm with Drucker. <a class="underlined-link" href="https://www.entrepreneur.com/article/237484" target="_blank">Interested in Peter Drucker?</a></p>
+<p>Paradoxically, technological progress is not measured in terms of impact on the actual <em>business process</em> of doing anything. Technological change impacts business process, but it’s impact is measured elsewhere. Though this sounds heretical, in the simplest terms, technological progress is measured not in terms of process improvements, but rather by the impact such progress has on the inputs and outputs of the system - the resultant decrease in required inputs to produce the same output or by an increase in realisable output given the same input. In the simplest terms, the ratio of realised output (what you reap when you sell) to the cost of input (what you invest in procuring inputs for your system) must be greater than 1. And it must be greater than 1 <strong>and</strong> in excess of what you might earn by doing something else with your money. There are many terms in business to describe this phenomenon, including <em>Return on Investment (ROI), Rate of Return,</em> and <em>yield.</em> </p>
+<p>Of course this is a very simple measure and there are plenty of other contingencies and vagaries of which to take account when deciding what to do with your money. Long-term ROI, however, is a must. You must eventually get a decent and competitive return on your investment in order to justify investing in a business. <em>The value of output must eventually be greater than the cost of input.</em>  </p>
+<p><a href="http://www.businessdictionary.com/definition/return-on-investment-ROI.html">Interested?</a></p>
+<p>Let's do some very simple math here. If you dialed <em>7</em> in 1915 and asked my grandfather Joseph Riordan Sr. what his ROI was for last year and he said &quot;None of your &amp;@#$%&amp; business!&quot; you would know that you had reached my grandfather. If you were to get a chance to look at the books and found that a simple ROI was 1.03, for example, but that the interest charged by lenders on borrowing capital was 4%, you might conclude that, in the short term, Joe would be better off lending his money to someone and making 4% on it. The ratio of output/input (profit) was 1.03 and the ratio of input/output (cost) was 1.04. His money was better off somewhere else. And eventually it ended that way. Another local dairy gobbled up Riordan's Dairy and many others like it in an effort to increase ROI through scale.   </p>
+<p><strong>Figure JD. ICT Value creation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/ict_value_creation.png" alt="ICT value add" /></p>
+<h4>A working definition of progress</h4>
+<p>We know progress has occurred when inputs cost less for a given output or output is more plentiful or valuable from a given input. Simple. The value creation graphic (Figure JD above) shows this clearly.</p>
+<p>Assume a stable system where yesterday, 100 units of input produced 100 units of output. Progress has been achieved if today we get the same output from only 99 units of input. On the other end of the system, progress will also have been achieved if tomorrow those 100 units of input produce 101 units of output. Either of these might represent an increase in <em>effectiveness</em>, where we are making more <em>effective</em> use of our input resources, or an increase in <em>efficiency</em> wherein we are doing more with what we have. Message: technology effects are measured at the boundaries of the system, where we count inputs and outputs.  </p>
+<p>Thus technology has an impact if it moves the needle on efficiency and/or effectiveness. That’s how we measure technological impact. Either it leads to cost savings on the input side or to increased realisable value on the output side. Technology has the capacity to widen the margin between costs and revenues. It can increase profit. It can also cost a lot of money and have no appreciable impact.</p>
+<p>What if an entirely <em>new</em> solution to an existing problem emerges? What if there's no input to improve on or outputs to augment? We're still good. If it's entirely new and better than anything extant, then if must be cheaper to run or produce better outcomes, otherwise why use it? Bingo.</p>
+<p>Finally, the part where I specify <em>realisable</em> output is important. If progress results in <em>so much output that it cannot be used or sold or examined or put to good use</em> then it's of no value, and in fact is potentially wasteful. Imagine a new variant on growing mushrooms that increased output by a factor of 100,000. <em>That's a lot o' 'shrooms.</em> What to do with them all? Is it progress if we can't realise value from it? That's a great topic for a debate someday.</p>
+<p>Important takeaway: Information and Communication Technology (ICT) operates on the process piece of business problem solving, but its impacts are measured on the edges of the system or by calculating the ratio of input/outputs and comparing to the benefit of doing something else with your capital. See the <em>ICT Value creation graphic</em> above.</p>
+<p>An intimately related topic is that of <em>Business Process Management</em> (BPM). Specifically, BPM has expanded its scope recently to encompass <em>Six Sigma</em> methods among others, and to specifically embrace the following functionality:</p>
+<ul>
+<li>Visualize - functions and processes</li>
+<li>Measure - determine the appropriate measure to determine success</li>
+<li>Analyze - compare the various simulations to determine an optimal improvement</li>
+<li>Improve - select and implement the improvement</li>
+<li>Control - deploy this implementation and by use of user-defined dashboards monitor the improvement in real time and feed the performance information back into the simulation model in preparation for the next improvement iteration</li>
+<li>Re-engineer - revamp the processes from scratch for better results</li>
+</ul>
+<p>If you are interested in <em>Supply Chain Management</em> you might find BPM to be of interest.</p>
+<p><a href="https://en.wikipedia.org/wiki/Business_process_management">Interested?</a></p>
+<h4>What <em>real problems</em> can technology solve?</h4>
+<p>A real problem is one that either has input or output challenges – and we know by now that those are the <em>only</em> challenges. See the <a href="http://www.mckinsey.com/insights/corporate_social_responsibility/redefining_capitalism">McKinsey article</a>. Thus in this book and this course we will examine at each juncture in discussing a piece of technology (whether it is personal productivity software or social media or an enormous enterprise system) whether the technology can be demonstrated to either reduce the cost of inputs or increase the value of outputs. If not, it simply is a waste of time and effort.</p>
+<h4>The two contributions of ICT to value creation</h4>
+<p>I have argued above that there are but <em>two impacts</em> that ICT can have in our individual daily lives and in the functions of every for-profit or not-for-profit enterprise, public institution and social endeavour. The first is as <em>Input Reducer</em> and the second function is that of <em>Output Enhancer</em>.  </p>
+<p>An input reducer functions as an agent which, <em>at a given level of output</em>, reduces the unit cost of inputs such that either more input is available at the same cost, or less input is required at the same cost. An output enhancer either increases the volume of output or the value of that output, holding volume constant. </p>
+<p>So <em>context</em> becomes the frame of reference within which we narrow the error bands around our decisions. Context is everything, and ICT provides, or can provide, rich context. We will be examining context repeatedly in this book, because context is what drives information creation, and information drives decision making and good decisions are something that we all, as actors in both public and private scenarios, need to make. </p>
+<p>For now, in examining the ICT task of input reducer, we need to examine this function in terms of its ability to provide the necessary rich array of data which allow decisions to be made with relative certainty. In order to make fewer errors in our decision-making endeavours (and thus to reduce the amount of input necessary to produce the same output), we need as much context (the rich backdrop of facts, figures and shared understandings) as possible. We need to know what data means. We need to be able to put data into context to create actionable information. All this will come together in Chapter 2. </p>
+<p>Information systems can not only distribute that scarcest of all commodities - knowledge - but can create knowledge and understanding in socially equitable ways. It is argued that the purpose of business is to solve problems, leading to a better social situation for as many humans as possible. It is only as a by-product of problem solving that profits are generated. One could assume, however, that problems for which no profit can be made won't be solved. Unless, of course, we consider the rapidly-expanding social economy and the not-for-profit sector.</p>
+<p>And we shall. Onward! </p>
+<p>Move now to <em>Chapter 1 Backstory</em>. </p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

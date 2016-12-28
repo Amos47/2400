@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch03_Backstory</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2>Chapter 3 - Backstory <img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png" alt="Flashlight" /></h2>
+<h2>Risk and Risk Management</h2>
+<p>Everything is risky. Getting out of bed in the morning is risky (you could slip and fall). But so is staying put (you wouldn't last long without food and exercise). So once again, nothing is free. There is risk attached to action and to inaction. This might remind you of our discussion in Chapter 2 regarding how decisions arise from information. Given the right information from the right context, one can decide whether to act or not. This is nicely illustrated by the notion of risk. Given the right information, we can decide to do something about risk or not. That's where we're going in this discussion. </p>
+<p>What is risk? Our friends at <a href="https://en.wikipedia.org/wiki/Risk">Wikipedia define risk</a> as &quot;... the potential of gaining or losing something of value. Values (such as physical health, social status, emotional well-being or financial wealth) can be gained or lost when taking risk resulting from a given action or inaction, foreseen or unforeseen.&quot; People take risks all the time (some more than others - teenage males are the biggest risk takers). Firms and organisation also take risks. To not take risk is to perish. For example, Bernard Myerson (VP Global Innovation, IBM), in a speech at GTEC 2012 in Ottawa, said ”You can never save your way to greatness. If you shut that engine [innovation] off, it can take 35 years to restart. You have to be willing to gamble. Safe and conservative gets you nowhere!” (Source: Ottawa Citizen, November 9, 2012, pages F1 and F2). Innovation is risky. Changing what works is risky. Not changing what doesn't work is riskier still. But how to know which risk to take, and what the consequences will be? That's the hard part. </p>
+<p>What are the sources of risk for systems development? Among others, they are:</p>
+<ul>
+<li>Credit and financing</li>
+<li>Internal sabotage</li>
+<li>Feature creep</li>
+<li>Requirements gold-plating (clients asking for way more than they should)</li>
+<li>Project/product failures</li>
+<li>Political problems</li>
+<li>Legal liabilities</li>
+<li>Supply chain difficulties</li>
+<li>Unanticipated low quality</li>
+<li>Accidents</li>
+<li>Natural causes and disasters</li>
+<li>Malicious attacks from a competitor/adversary</li>
+<li>Others may arise and/or are specific to particular industries...</li>
+</ul>
+<h3>Managing Risk</h3>
+<p>To mitigate risk, the following methods are performed more or less in the following order:</p>
+<ul>
+<li>Identify, characterise, and assess threats</li>
+<li>Assess the vulnerability of critical assets to specific threats</li>
+<li>Determine the risk (i.e. the expected consequences of specific types of attacks on specific assets)</li>
+<li>Identify ways to reduce those risks</li>
+<li>Prioritise risk reduction measures <em>based on a strategy</em></li>
+</ul>
+<p>A simple measure of risk is the <em>Composite Risk Index</em> which is calculated by multiplying the <em>impact of a risk event</em> by the <em>probability of occurrence for each potential risk event</em>. The impact of the risk event is assessed on a scale of 1 (no or small financial impact) to 5 (total ruin). The probability of occurrence is likewise assessed on a scale from 1 (highly unlikely) to 5 (inevitable – but if inevitable it’s not a risk but a structural fact so let’s say 5 is just shy of inevitable... almost certain?). The resultant <em>Composite Index</em> thus ranges from 1 through 25 <em>for each factor</em>. This risk score is then arbitrarily divided into three sub-ranges:</p>
+<ul>
+<li>Low (score of 1 to 8)</li>
+<li>Medium (9 to 16)</li>
+<li>High (17 to 25)</li>
+</ul>
+<p>But note that the probability of risk occurrence is difficult to estimate since past data on frequency of occurrence are not always readily available.
+Furthermore, the impact of the risk is not easy to assess since it is often difficult to estimate the potential financial loss in the event a risk turns into an event. So indeed, this is a risky business. </p>
+<p>Here is a simple risk profiler.</p>
+<p><strong>Figure JPHB. Risk profiler</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/risk_profiler.png" alt="Risk Profiler" /></p>
+<p>This is a picture of the risk profile of a project. The project could be anything from building a deck to architecting a complex information system. In the particular (fictional) project, there are 11 identified risk factors - count each <em>x</em>. These factors were identified by either business process (domain) experts, or systems analysts, designers or project managers - most likely <em>all</em> these players played a role in identifying the risk factors. As outlined above, each was then assigned, based on the best available information, an <em>impact</em> score (how much it would hurt if the risk were realised) and a <em>likelihood</em> score (the probability that this risk will actually happen). We then simply sum the product of the two scores for each factor. This project has a total risk profile of 65. The total score is of nothing more than passing interest unless comparing projects with the same number of risk factors. A better measure is the <em>average</em> risk score, here calculated as 65/11 (the total score / the number of factors). This will allow better comparison over time and between projects. But that's not the <em>whole</em> story. The <em>distribution</em> of risk is also important. If factors are clustered in one zone, for example, a score can be misleading. <em>Ergo</em> the distribution is important.  Whatever the distribution however, the risks in the upper, right area (highly likely and highly damaging) must be addressed. They can lead to disaster if not managed. </p>
+<p><a href="https://raw.githubusercontent.com/robertriordan/2400/master/resources/risk_profiler.xlsx">Interested in risk profiling?</a> Download this Excel spreadsheet and see what different hypothetical projects would look like in terms of risk profile. You can enter two project profiles side by side and compare the statistics derived from them. Enter values in the green areas. (You will need Excel installed on whatever device you choose to use.)</p>
+<p><strong>Table STTA. Risk reduction methods</strong></p>
+<table>
+<thead>
+<tr>
+	<th align="left">Risk response</th>
+	<th align="left">Potential action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="left">Risk transfer</td>
+	<td align="left">Move the risk to a department, organisation or person who can better handle the risk</td>
+</tr>
+<tr>
+	<td align="left">Risk deferral</td>
+	<td align="left">Postpone exposure to the risk until circumstances are more favourable or resources are available to address the risk</td>
+</tr>
+<tr>
+	<td align="left">Risk reduction</td>
+	<td align="left">Either reduce the probability of the risk occurring or lessen the impact</td>
+</tr>
+<tr>
+	<td align="left">Risk acceptance</td>
+	<td align="left">Realise that some risks are unavoidable and make sure that contingency plans are in place</td>
+</tr>
+<tr>
+	<td align="left">Risk avoidance</td>
+	<td align="left">Eliminate the possibility of the risk occurring; however, that may close the doors on some business opportunities as well</td>
+</tr>
+</tbody>
+</table>
+<p>You can't make risk disappear, but you can manage around it. Table STTA outlines five ways in which risk can be managed, ranging from transferring the risk to someplace else (this is what insurance does, but at a cost relative to the severity and probability of the risk), through changing the project schedule to some future time when the risk is reduced (this is deferral), through changing the context of the risk (this is a vague action as it would mean changing either the project or the circumstances of the project, which really changes everything - this is my least favourite method), down to just biting the bullet and accepting that risk occurs to finally just not doing the project because the risk is too great. </p>
+<h3>Project Management</h3>
+<p>Perhaps the best, and certainly the most popular, method to deal with risk is through Project Management. Project Management is an accredited discipline regulated by the <a href="https://www.pmi.org/">Project Management Institute</a>. Accreditation is akin to becoming a CPA, for example, with rigorous training, testing and regular and continuous re-training and re-certification. </p>
+<p>Managing an ICT development (or other) project is a balancing act. A project manager simultaneously oversees three main project elements: </p>
+<ul>
+<li>The scope of the project</li>
+<li>The required resources</li>
+<li>The time to complete it</li>
+</ul>
+<p>The project scope defines what the project is intended to accomplish. Resources can include people, equipment, material, and money. Time estimates consider project activity time requirements and how they depend on each other (for example it's not wise to begin coding until there is some understanding of what the system requirements are). Management of these elements, and their intricate interplay, is a balancing act. Project Managers (PMs) often make decisions to actively set the levels of two elements, and then calculate the third accordingly while always realizing that all three are important and must be accomplished. This is often expressed (or visualised) as the <em>Project Management Triangle.</em> </p>
+<p><strong>Figure YTPT. The Project Management Triangle (revisited)</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/pmt.png" alt="Risk Profiler" /></p>
+<p>Let's take a minute or two unpacking this figure. The <em>Project Management Triangle</em> (PMT) is most often seen as, guess what, a triangle. There is a faint triangle in the background of the figure, with the three corners pointing at the three constraints in project management: Quality, Speed and Economy. You likely will have seen (or will see) <em>economy</em> expressed as <em>cost</em>. The idea is the same, but calling it economy makes the <em>opposite</em> of it easier to express with arrows (as we will see). Let's pick it apart.</p>
+<p>Representing the triangle rather as spheres is brilliant. I credit (though I don't know if it was they who first represented it this way) an organisation called <a href="https://kmstandards.com/wpblog/2014/10/">Contract Standards</a>. The spheres allow good old Venn Diagrammatic logic, where the area of intersection of spheres has specific significance. Each sphere represents one of the big three in Project Management (PM). The farther away from the intersection of all three (the Jolly Roger symbol in the centre) we move, the more of the characteristic a system will have. The coloured arrows point in the direction of more <em>speed</em> (faster delivery), more <em>quality</em> (a good product) and more <em>economy</em> (lower cost). At the very centre, at the intersection of all three, we have the Jolly Roger. This is a perfectly balanced system, having some of each of the three characteristics but not being particularly outstanding in any one. Such a system, while buildable, would be a hard sell. It would have some good qualities, would take a fairly long time to build and deliver (speed) and would be fairly expensive. Why build it? Furthermore, the triangle and the spheres all indicate that you can have some measure of two things, but the third will inevitably suffer. If you want a system of high quality and you want it quickly, then it will be expensive (low speed). If you want an economical system and you want it right away, quality will suffer. This makes intuitive sense. If you want a system that's affordable but of high quality, you'll have to wait for it coz it ain't happening tomorrow. This is the logic of the PMT.</p>
+<p>So how to manage an ICT project such as developing a new system? For the standard SDLC, there is a mapping from stages to management practice. Indeed, project management activities may occur as early as the concept phase (remembering back to our discussion of the SDLC in Chapter Basics <a class="underlined-link" href="Ch03_Basics.md\#sdlc" target="_blank">(take me there)</a>. In practice, PM activities usually start when the organisation has approved a project proposal and selected it to be executed as part of their project portfolio. Note one important difference between the system development life cycle (SDLC) and the project management activities to support a particular project: a project has a beginning and an end, whereas the SDLC is a continuous stream of activities over time. </p>
+<p>The Project Management Institute (PMI) promotes a five-step Project Management Life Cycle (PMLC) approach, which can be roughly mapped on the Systems Development Life Cycle (SDLC) which we discuss extensively in the Basics segment of Chapter 3 <a class="underlined-link" href="Ch03_Basics.md\#sdlc" target="_blank">(take me there)</a>. Table NSFG below provides a concordance mapping illustrating the relationship. </p>
+<p><strong>Table NSFG. Concordance Table between SDLC and PMI Life Cycle Stages</strong></p>
+<table>
+<thead>
+<tr>
+	<th align="center">Milestone</th>
+	<th align="left">Project selection and approval</th>
+	<th align="left">Prototype &amp; design</th>
+	<th align="left">Development</th>
+	<th align="left">Testing</th>
+	<th align="left">Production</th>
+	<th align="left">Maintenance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="center">SDLC</td>
+	<td align="left">Inception &amp; feasibility</td>
+	<td align="left">Requirements analysis &amp; design</td>
+	<td align="left">Development</td>
+	<td align="left">Testing &amp; verification</td>
+	<td align="left">Implementation</td>
+	<td align="left">Maintenance</td>
+</tr>
+<tr>
+	<td align="center">PMLC</td>
+	<td align="left">Initiating</td>
+	<td align="left">Planning</td>
+	<td align="left">Executing</td>
+	<td align="left">Executing / Controlling</td>
+	<td align="left">Executing / Controlling</td>
+	<td align="left">Closing</td>
+</tr>
+</tbody>
+</table>
+<p><a href="http://www.mpmm.com/project-management-methodology.php">Interested in PMLC?</a></p>
+<p>And that's Chapter 3 all over! </p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch05_Backstory</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2>Chapter 5 - Backstory <img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png" alt="Flashlight" /></h2>
+<p>Let's start with a gentle introduction to <em>the digital divide</em>. </p>
+<p><strong>Figure KSRT. The digital divide</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/internet_usage.png" alt="Figure KS. The digital divide" />
+The Digital Divide refers to the gap between the <em>haves</em> and the <em>have nots</em> in terms of access to the internet and modern computing. This gap can occur at any level from neighbourhoods in a community all the way up to nations at the global level. Those with access to modern computing tools and techniques have a distinct advantage over those without such access. Things as basic as the ability to create and print or send an digital resume, access to online job postings, access to critical health information, the ability to upgrade one's skills through online education, among many others, are out of reach for those with no digital access. Imagine your world without the internet.</p>
+<p>Figure KSRT shows the trends over time in internet usage for developed versus developing countries from 1999 to 2014 (estimated). The figure also provides the ratio of developed to developing countries in the internet figures. The most striking change over time is the decline in the ratio over time. This becomes less striking when you examine the starting values for the ratio. Already by 1999, the internet was popular in developed countries with 24% penetration as opposed to 1% in developing countries. Thus the ratio was 24:1. Even moderate growth in both areas would yield a declining ratio, as evidenced by 2001, where the developed world had increased usage from 24 to 36 (a 50% increase) but the developing world increased from 1 to 3 (a 300% increase - 6 times faster than the developed world increase) over the same time. The ratio is steadily dropping, and sat at 2.4:1 in 2014. But the disparity remains stark: the rate of increase in usage in the two regions has been roughly the same for the last 10 years or so, but still, 78% of the inhabitants of developed countries use the internet compared to only 32% of those in developing countries. To be truly equitable, the gap needs to close.</p>
+<p>This is important for you since, in my experience, I've found that younger people when making marketing or strategic plans, tend to take it for granted that everyone is just like them and: 1) has access to internet resources; 2) knows how to use them; 3) <em>wants</em> to use them and; 4) does not take privacy very seriously. These are all dangerous assumptions.</p>
+<p><a name="pipeda"></a>
+<em>The section on PIPEDA and privacy legislation was contributed by Lauren K. Jamieson, JD Candidate, University of Ottawa, School of Law.</em> </p>
+<h3>The Personal Information Protection and Electronic Documents Act (PIPEDA)</h3>
+<p>The Personal Information Protection and Electronic Documents Act (“PIPEDA” or the “Act” - <em>PIPEDA, SC 2000, c 5</em>) is the federal statute that governs the collection and use of personal information by businesses. The Act applies to organizations collecting, using or disclosing information in the course of commercial activities, and information collected about employees of federally regulated businesses.  For commercial purposes, the Act applies to private enterprises across Canada except in provinces with “substantially similar legislation” which includes Quebec, British Columbia, and Alberta. In these provinces, PIPEDA still applies to federal sectors such as banking, aviation, and telecommunications. </p>
+<p>The Act defines personal information as “information about an identifiable individual” (<em>PIPEDA, s. 2</em>) and includes:</p>
+<ul>
+<li>your name, race, ethnic origin, religion, marital status, educational level</li>
+<li>e-mail address and messages, IP address</li>
+<li>age, height, weight, medical records, blood type, DNA code, fingerprints, voiceprint</li>
+<li>income, purchases, spending habits, banking information, credit/debit card data, loan or credit reports, tax returns</li>
+<li>Social Insurance Number (SIN) or other identification numbers (<em>see: Office of the Privacy Commissioner of Canada, “A Guide for Individuals Protecting Your Privacy: An Overview of the Office of the Privacy Commissioner of Canada and Federal Privacy Legislation”</em>).</li>
+</ul>
+<p>PIPEDA requires organizations to collect, use and disclose personal information only for stated and reasonable purposes, by fair and lawful means, with the individual’s consent. The information collected must be essential to the business transaction and the individual maintains the right see the information and confirm its accuracy.</p>
+<p>The Act sets out 10 “Fair Information Principles”, which reflect the basic privacy obligations under the Act. They are:</p>
+<ol>
+<li><em>Accountability</em> – Organizations should appoint someone to be responsible for privacy issues. They should make information about their privacy policies and procedures available to customers.</li>
+<li><em>Identifying purposes</em> – Organizations must identify the reasons for collecting your personal information before or at the time of collection.</li>
+<li><em>Consent</em> – Organizations should clearly inform you of the purposes for the collection, use or disclosure of personal information.</li>
+<li><em>Limiting collection</em> – Organizations should limit the amount and type of the information gathered to what is necessary.</li>
+<li><em>Limiting use, disclosure and retention</em> – Organizations should use or disclose your personal information only for the purpose for which it was collected, unless you consent. They should keep your personal information only as long as necessary.</li>
+<li><em>Accuracy</em> – Organizations should keep your personal information as accurate, complete and up to date as necessary.</li>
+<li><em>Safeguards</em> – Organizations need to protect your personal information against loss or theft by using appropriate security safeguards.</li>
+<li><em>Openness</em> – An organization’s privacy policies and practices must be understandable and easily available.</li>
+<li><em>Individual access</em> – Generally speaking, you have a right to access the personal information that an organization holds about you.</li>
+<li><em>Recourse (challenging compliance)</em> – Organizations must develop simple and easily accessible complaint procedures. When you contact an organization about a privacy concern, you should be informed about avenues of recourse (<em>see: Office of the Privacy Commissioner of Canada, “A Guide for Individuals Protecting Your Privacy: An Overview of the Office of the Privacy Commissioner of Canada and Federal Privacy Legislation”</em>). </li>
+</ol>
+<p>Complaints under the Act go to the <em>Privacy Commissioner of Canada</em>, whose role is to investigate and resolve complaints against an organisation. The Commissioner is not empowered to issue fines or award damages for contravention of the Act. The reports issued after these investigations can be found online at <a href="http://www.canlii.org/" title="canLii.org">http://www.canlii.org/</a> under <em>Privacy Commissioner of Canada</em> in the Federal section of the database. Under certain circumstances, complaints can be elevated from the Privacy Commissioner to the Federal Court where the Commissioner’s report fails to address the concerns raised in an individual’s complaint.</p>
+<h4>PIPEDA and consumers</h4>
+<p>As a consumer, PIPEDA protects your right to privacy with respect to information gathered by a business. This is particularly important as e-commerce continues to gain popularity. As mentioned above, PIPEDA provides the individual with a number of rights respecting the collection, use and disclosure of personal information. On the other hand, the Act imposes obligations on organizations who are collecting and using the individual’s personal information. The Act seeks to put the power in the hands of the consumers.</p>
+<p>Information that an organization might collect about a consumer include credit card data, contact information, and IP address.</p>
+<h4>PIPEDA and employees</h4>
+<p>If you are an employee of a federally-regulated organisation (for example, a bank, a telecommunications company, an airline, the Government of Canada, or a Crown Corporation), information collected by your employer is subject to PIPEDA. If you are an employee of a provincially-regulated organisation (ie. private enterprise in an industry regulated by provincial laws), PIPEDA does not apply and your employer is covered by any applicable provincial legislation. </p>
+<p>Information that an organisation might collect with respect to its employees include their SIN, date of birth, home address, and banking information for direct deposit payments.</p>
+<h4>Privacy legislation in Ontario</h4>
+<p>Ontario has not enacted legislation that is substantially similar to PIPEDA but does have a number of laws that relate to privacy. <em>The Personal Health Information Protection Act</em> governs personal health information held by health information custodians in the province. <em>The Freedom of Information and Protection of Privacy Act</em> provides a right of access to records in the custody or control of certain institutions including universities and agencies under provincial government bodies. Similarly, the <em>Municipal Freedom of Information and Protection of Privacy Act</em> extends similar rights with respect to information controlled by designated municipal institutions. </p>
+<h3>Disassociation of content, time and support</h3>
+<p><a name="disassociation"></p>
+<p>We live in an increasingly digitised world. Take a simple example: a hockey game. Time was, the only one way to enjoy the event was in person. Consider the myriad ways such an event can be enjoyed today, both <em>synchronously</em> (in real time both in person and off-site) and <em>asynchronously</em> (not in real time – stored for later consumption). See Figure TT below.</p>
+<p><strong>Figure TT. Disassociation of content, time and support</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/disassociation.png" alt="Disassociation" /></p>
+<p>Let’s unpack this busy figure. The event is a hockey game. In the early days of such games, they were played on local frozen ponds and then on makeshift rinks, and only when the temperature was below freezing. The teams were made up mostly of locals, and the fans, if there were such hardy souls, were locals rooting for the local side. In order to experience the spectacle, it was necessary to attend in person. There wasn’t often any press to report on the match. The only artifacts produced by the games were in the memories of those in attendance, and any anecdotal scribbling of a local historian or scribe. Those were the days indeed.</p>
+<p>As the cities and towns grew, so too did the rivalries. More and more attention was paid to sporting events and more archival material became available in the form of photographs and perhaps even some grainy film. Players began to receive small <em>rewards</em> for their efforts. Firms became interested in having their name associated with a winning side (as brand management). When real money enters the picture, interest picks up. More people attend the games. More widespread interest in the outcomes is aroused. This spiral of interest and investment leads to capacity problems at the arenas. Not enough seats for willing purchasers, and the widespread interest leads to the inability for <em>fans</em> to attend due to long travel times and cost.</p>
+<p>Enter new <em>support systems</em>. The dawn of commercial radio, and then television, led to the ability for remote fans to enjoy at least some of the <em>in-person</em> experience of a sporting event in the comforts of their own home. This revolution required what Goldfinger calls <em>supports</em> and what we might think of as technology (which includes print media). Supports are the things that allow us to have a <em>near-real-time</em> experience of an event occurring in some other place. </p>
+<p>I remember back to the 1965-66 Junior “A” hockey season, the last where legendary Bobby Orr played for my hometown <em>Oshawa Generals</em>, and I was all of 13 years old. There was no TV coverage at all but I owned a gorgeous little compact transistor radio, powered by the very first 9-volt batteries, that I hid under my pillow so I could listen to the games as the Generals travelled to exotic (to me) locations around the country to beat first the <em>St. Catherine’s Black Hawks</em>, then the <em>Montréal Junior Canadiens</em> (at that time playing in the Ontario Hockey League) and finally the <em>Kitchener Rangers</em> to win the J. Ross Robertson trophy emblematic of OHA (not yet called the OHL) supremacy. The Oshawa side then went on to best the <em>North Bay Trappers</em> (by a combined score of 43-9 over four games) and finally the <em>Shawinigan Bruins</em> in three straight in a best-of-five to earn the right to represent the eastern provinces in the Memorial Cup.  </p>
+<p>Oshawa lost to the <em>Edmonton Oil Kings</em> in that national final, with Orr playing hurt and finally reputedly being benched on orders from his new masters, the <em>Boston Bruins</em>, who had drafted and signed him to an NHL contract. Orr’s bad knees were legendary, even at 17 years of age. </p>
+<p>While the pain of losing that Memorial Cup series to the Oil Kings is still palpable, so is the sheer excitement of listening in near real-time as the games unfolded in faraway places. That little Japanese <em>Candle</em> transistor radio was my support. By the same token, I remember well watching the Toronto Maple Leafs (my dad’s team – I was a Bruin’s fan as Oshawa was a Boston feeder team) win their last ever (and maybe final ever) Stanley Cup, in 1967, when I was the tender age of 14... alas. This was the golden age of <em>broadcasting</em>, or sending a single signal to many receivers, in this case, most of the TV sets in Canada.  </p>
+<p>This explains the first two spheres on Figure TT, numbered 1 and 2, extending the in-person experience to the home, through early radio and then TV.  Sphere number three is a bit more complex, as it introduces the confounding influence of <em>synchronicity</em> to the equation. Attending the game, or listening via radio or watching on TV are all <em>synchronous</em> events – experienced in real time (or very near real time taking <em>latency</em> into account). Sphere number three, labelled <em>Anywhere</em>, shows that it’s not necessary to be <em>tethered</em> to a location in order to experience an event. The automobile radio and the portable transistor radio were the first to <em>cut the cord</em> as it were, allowing the very first <em>roaming</em> experience. And make no mistake - it was big at the time. The ability to bring music to the beach or on a walk or to a ball game on a summer's eve was truly liberating. </p>
+<p>Today the ability to consume anything, anywhere, in real time is taken for granted. Thus we have a myriad of ways to experience the game, including streaming services available wherever the internet is available, on devices such as desktop and laptop computers, tablets, smart phones and smart TVs, most of which are quite portable. Commercial providers offer services varying from streamed audio, streamed audio/video, to instant, <em>bite-sized</em> updates in various forms depending on the device in use.  All these are on the synchronous side of the equation. Asynchronous media include newspaper reports, news media on radio and TV reporting (which are nothing new at all), as well as our own capacity, with a Personal Video Recorder (PVR), to <em>tape</em> an event and dissect it at any time later in all its stop and start, slow-motion glory. Time is no longer in the equation. </p>
+<p>And that covers the commercial providers. Increasingly important, however, is our own ability to report (share) the real-time experience for both synchronous and asynchronous consumption. Witness the rise of social media and the concept of <em>narrowcasting</em>. Twitter and Facebook are narrowcasting technologies, narrow being defined relatively. Twitter supports narrow communities of <em>followers</em> and Facebook the same concept, referred to as <em>friends</em>. I don’t need to explain these platforms to you. </p>
+<p>Let’s think about what could happen at a public event, such as our hockey game. With social media, you could easily narrowcast through any number of platforms. Your followers and friends could consume, in near synchronicity (real time), your experience of the game. But let’s go farther afield and consider that you could also narrowcast a live stream of the event through technologies such as <em>Periscope</em>, and <em>Meerkat</em> (who are now concentrating on video networking) and Facebook Live which allow anyone with a camera and a connection to the internet to live stream any event. You are the new CBC. An emerging <em>Sportsnet</em>. A nascent <em>Hockey Night in Canada</em>. </p>
+<p>Ok so cool enough. But consider that you can be Tweeting, Facebooking and <em>Periscoping</em> in real time <em>inside the venue</em> where the event is happening. Others in your sphere could well be consuming your narrowcasts, and by the same token you could be consuming theirs. This adds a whole new dimension to the model. Finally, you could also be live narrowcasting the game to anyone on the other end of a cell phone call, or recording your play-by-play on a voicemail recorder for later consumption and analysis. </p>
+<p>Alas, just two days after my writing the above paragraph, The NHL itself officially banned livestreaming of its property (games) by anyone. <a href="http://mashable.com/2015/04/22/periscope-meerkat-banned-nhl/">Mashable.com reported</a> that NHL Deputy Commissioner Bill Daly announced on April 21, 2015 that “... any streaming of footage in violation of the NHL’s Broadcast Guidelines (including, for example, live-streaming inside the arena less than 30 minutes before the start of the game) and Media Access Policy is expressly prohibited.&quot; </p>
+<p>The Mashable piece concludes with “... the branding opportunities for organizations like the NHL seem pretty limitless: rinkside live streams of team warm-ups, exclusive interviews with players and coaches, the list goes on. So it figures: Why cede those opportunities (and future dollars) to fans?”</p>
+<p><a href="http://yhoo.it/1dkOJFp">Interested?</a></p>
+<p>All of this represents a wrinkle in the space-time continuum of synchronicity and location. But what’s the bottom line here? Why does this matter other than being really cool and other than actually making it considerably less likely that we will enjoy an in-person, synchronous event? (Next time you either attend or watch a major event such as the opening or closing of the Olympic Games, note how many people are recording it, watching the pageantry through a tiny camera screen, to be played back... never?). Recently (May 2016), pop star Adele (only needs one name), called out a fan for recording her concert. Or perhaps the fan was live-streaming? Hard to tell, but Adele shut her down anyway. Check out the video:</p>
+<p>{% youtube %}https://www.youtube.com/watch?v=Gg0pSgrtQJo{% endyoutube %}</p>
+<p>But in an odd twist, and back to the future for sure, take a look at this <em><a href="https://espresso.economist.com/30d454f09b771b9f65e3eaf6e00fa7bd">Economist Espresso</a></em> story from June 4, 2016. Seems that live broadcasting of events isn't quite dead yet, and may in fact enjoy a resurgence. </p>
+<h4>Some thoughts on the media</h4>
+<p>There is no denying that the majority of the <em>weightless</em> or the <em>digital</em> or the <em>intangible economy</em> is if not driven by, at least facilitated by, information and communication technology. So to fully participate, it’s necessary to be well versed in the technology – not necessarily to be able to <em>create</em> new technology but clearly to be able to <em>leverage</em> it. To understand it well enough to be able to see how it can solve problems or create opportunities for competitive advantage. </p>
+<p>And it’s also important because of ownership. And ownership is all about business because business sells access to events such as hockey games. This is why it’s a revolution. The ownership model is completely upside-down now. The ability to participate in (consume) an event is now available to any and all with a support mechanism (technology) and an internet connection (technology). So ownership of that event is now widely dispersed. Who, for example, owns the rights to a Tweet or a FB post or indeed to a live stream via <em>Periscope</em> of a hockey game? And the pricing for consumption is now multi-tiered. In fact, one could argue that the price to consume many events (or movies or broadcasts of any kind – indeed at the time of writing there have been numerous reports of live-streaming feature films) has been reduced to the hit you take on your data plan. So how to generate revenue from events? How do you pay your hockey players or your screen actors? </p>
+<p>This at least partly explains the consolidation among entertainment providers and also why the former content <em>purveyors</em> (such as Rogers and Bell) are now content <em>producers</em>, owning major league sports teams for example, and buying up sports broadcasting properties (while Bell owns at least part of TSN, for example, and Rogers owns the Blue Jays as well as their ball park, and at the time of writing, they together hold a nearly 80% share in Maple Leaf Sports and Entertainment, which owns major league teams in three leagues as well as considerable prime real estate). So the folks who formerly <em>brought you</em> the product (via cable, satellite and the internet), now own the venues, the product and the distribution channels. And in a market such as Canada, where people live and die hockey, having the purveyors of content own the competition is particularly problematic.  </p>
+<p><a href="http://www.dailyinfographic.com/wp-content/uploads/2015/04/IllusionofChoice.jpg">Interested in media consolidation?</a></p>
+<p>But if they don’t follow this model, they risk being shoved aside by the content producers. They’ve become the creators rather than the purveyors. <em>Shomi</em> is a Rogers – Telus joint response to <em>Netflix</em> (isn’t it fun when competitors get in bed with each other – this is the definition of a strategic partnership). Bell’s <em>CraveTV</em> is the same. As of the writing of this paragraph, Rogers/Telus has announced that, just like Netflix, Shomi will be available to all as a streaming service to anyone (not just their customers). It’s the only way to compete in this world of intangible products. And it’s due in large part to the <em>digital revolution</em>. Netflix is a <em>disruptor</em>. We will return to disruptors later in this text.</p>
+<p>Netflix has impacted network TV to the point of near extinction.</p>
+<p><a href="http://www.dailyinfographic.com/wp-content/uploads/2015/09/watta.jpg">Interested?</a></p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

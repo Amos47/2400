@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch02_Backstory</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2>Chapter 2 - Backstory <img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png" alt="Flashlight" /></h2>
+<p>Make sure to read the Basics main-chapter before reading this.</p>
+<h3>The five faces of information</h3>
+<p>Below is an infographic of sorts, showing the five <em>faces</em> of information. The faces and their characteristics are from a (highly recommended) 2012 book by <em>Joel Katz</em> entitled <em>Designing Information: Human factor and common sense in design</em> (2012, John Wiley &amp; Sons).<br />
+<a name="katz"></a>
+<strong>Figure FFI. The five faces of information according to Katz</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/nature_of_info.png" alt="Nature of information" /></p>
+<p>Here in this chapter, as almost always, many authors use the term <em>information when they actually mean data</em> (if you agree with my interpretation and definition). As a rule of thumb, when experts here are talking about exchanging information, in most cases they mean data. A message, for example, such as the spoken word is simply a stream of sounds. It's only information (capable of causing change) when it's interpreted by a recipient and mapped onto concepts that are familiar to that recipient - be they human or machine. Someone yelling &quot;Fire!&quot; in a language that I don't understand is not information. It's sounds that I can't measure or calibrate or interpret. It's unmeasured data. Please remain clear on this despite all the loose talk in this chapter.  </p>
+<p>I have arranged Katz’s five types into three groups, then ranked them in terms of their importance to us as students of business. Moreover, I have added a column delineating the approach taken by ICT to the challenge of how to deal with each group. Let’s begin at the bottom, and explain each in turn. </p>
+<p>As we walk our way up the scale, consider the context to be that our organisation is examining the results of an online poll asking visitors to a third-party website to rate the various products in our industry (let’s say it’s the toothpaste segment of the dental hygiene industry just to put some teeth in it and we're Sparkl and our competitor is nuGrill). The results have been summarised by the polling firm and released at a press conference sponsored by nuGrill. This could be damaging to us at Sparkl. The opinions of visitors to the website have been measured in the online survey and the raw data have been contextualised by the polling firm and, worst of all, our competitor, nuGrill, has provided its own spin. </p>
+<p>Though the data has been transformed into information in the context of our competitor’s survey and the analysis by the polling firm, for us, it’s still raw data. In order to make a decision whether to act on the release of the data, we need to put it in our own unique context.  </p>
+<p>We need to contextualise the input data in order to create information sufficient to decide on an action. Here we go, starting from the bottom of the taxonomy. </p>
+<h4>Non-information</h4>
+<p>Non-information is described by Katz as being possibly true (thus perhaps untrue), probably unimportant (perhaps we can ignore it) and/or possibly confusing (not well enough explained or contextualised to allow for understanding). The ICT approach is likely to monitor and filter. If the information is deemed to be of no impact, the ICT response could be to filter it out and remove it from consideration by our company. If deemed potentially relevant, we might conclude that the survey information passes the non-information test, thus we retain it and move up the ladder. Our organisation might have a simple system in place to monitor electronic news services and social media flows looking for keywords (the name <em>Sparkl Tootpaste</em> for example, and perhaps negative and positive words in the context). Such monitoring might allow the system to decide whether to move the status of the news item up the scale to alert. News items that fail to meet a minimum criteria would likely be filtered out and not subject to further scrutiny. Thus we are removing potentially <em>entropic</em> elements from our data stream. Taking the static off the line. (See under <em>Disinformation</em> below for an example of such content monitoring and filtering.)</p>
+<h4>Un-information</h4>
+<p>Next up is un-information as we move into the orange zone of importance. This is a curious category indeed, but information here is more important (potentially more impactful) than is non-information. It’s slightly up the <em>fudge scale</em> in terms of perceived truth, going from only ‘possibly true’ to ‘probably not untrue’ - talk about a fine distinction! It remains probably unimportant, but has moved up the scale from confusing to possibly interesting. We have then, in this situation, some input data that is at least potentially interesting to us at Sparkl. The ICT response might be to alert the firm to the existence and location of the information, and wait for a knowledge worker (who might be you) to decide whether the information warrants escalation or disposal. This is akin to The Toronto Star's shunting potentially dangerous comments to a siding to wait for a real person to take a look at them. </p>
+<p>Assuming the knowledge worker decided on escalation, a further determination is necessary in order to decide on a response. We need to go up another rung on the ladder into the critical red zone. This is where context and information become critical. </p>
+<h4>Disinformation</h4>
+<p>The first category in the red zone is ‘disinformation’, which Katz characterised as <em>deliberately not true</em> and very likely used tactically to intentionally mislead those consuming it. This information might well have been fabricated by our competitor to cast us in a bad light. Imagine the following news release from nuGrill: &quot;nuGrill commissioned independant research agency TellItAll SurveyWorks to survey an accidental sample of toothpaste lovers, asking them to comment on nuGrill and our competitors. The results show that Sparkl tootpaste causes tooth yellowing and bleeding gums!&quot; This activity might even be illegal (libelous), and could be quite damaging to our reputation. In this context, we will want to take some action to protect ourselves. An ICT response could be to provide data to counter the disinformation and disseminate it to our stakeholders in order to protect ourselves from damage. Such information might be in the form of research indicating the whitening properties of our products. </p>
+<p>Indeed, news organisations are continuously on the lookout for potentially damaging posts in the <em>Comments</em> section following many news stories (in fact, many online news publications have abandoned comments altogether owing to the near impossibility of monitoring and moderating them). The <em>Toronto Star</em>, for example, wrote the following in an editorial piece appearing on their online site on July 23, 2015, regarding such comment sections:</p>
+<p>&quot;Our moderation team spends the bulk of its time working on limiting the worst of the worst: racism, threats and personal attacks. This is done with help from readers who flag comments they deem out of line with our community guidelines and <em>software that scans for keywords we have identified as sensitive, and moves those comments to a ‘disabled’ queue until an editor can read them.</em>&quot; [<em>emphasis</em> added]</p>
+<h4>Misinformation</h4>
+<p>If analysis determines that the information released by our competitor nuGrill is not deliberately untrue, it might well be ‘misinformation’, described as definitely not true and important to avoid, in the sense that if the information were considered to be true (even though it is, in fact, <em>untrue</em>) any actions taken under the erroneous belief that it <em>is</em> true would be inappropriate at least and damaging at worst. This information is toxic and needs to be corrected before inappropriate action is taken by some party believing it to be true. Some party such as Sparkl's customers! The ICT response could be to provide true information to counter the false assertions, which could be automatically provided to our customers through various actions (email, Twitter, Facebook, etc.) made possible by stored electronic customer service records with contact information. </p>
+<h4>Information</h4>
+<p>If the information is deemed to be not untrue (<em>ergo</em>, it’s true) then we move to the last level in the scale: information. If we make it up to this level, we know that the information released at the press conference is deemed to contain a true representation of our customers’ opinions of Sparkl and, if released by our competitor nuGrill, the results must be saying either something bad about us or something good about them. Whichever, the information is true and action must be taken to deal with the fallout. Several ICT strategies are possible, including targeted information campaigns designed to bolster our reputation and/or discredit the competition. </p>
+<h4>Exformation</h4>
+<p>Appropriate in this context is the discussion of the concept of <em>Exformation</em>. Here I extensively quote <a href="https://en.wikipedia.org/wiki/Exformation" title="Exformation">the exformation entry in wikipedia.com</a> [emphasis in [] added by me]:</p>
+<blockquote>
+<p>&quot;Exformation (originally spelled <em>eksformation</em> in Danish) is a term coined by Danish science writer Tor Nørretranders in his book <em>The User Illusion</em> published in English 1998. It is meant to mean <em>explicitly discarded information</em>. However, the term also has other meanings related to information, for instance <em>useful and relevant information</em> ...</p>
+<p>&quot;Effective communication depends on a shared body of knowledge between the persons communicating. In using words, sounds, and gestures, the speaker has deliberately thrown away a huge body of information, though it remains implied. This shared <strong>context</strong> is called <em>exformation</em>.</p>
+<p>&quot;Exformation is everything we do not actually say but have in our heads when, or before, we say anything at all - whereas information is the measurable, demonstrable utterance we actually come out with.&quot; [see Chapter 1 of this textbook.]</p>
+<p>&quot;If someone is talking about computers, what is said will have more meaning if the person listening has some prior idea what a computer is, what it is good for, and in what <em>contexts</em> they might encounter one. From the information content of a message alone, there is no way of measuring how much exformation it contains.</p>
+<p>&quot;In 1862 the author Victor Hugo wrote to his publisher asking how his most recent book, <em>Les Misérables</em>, was getting on. Hugo just wrote &quot;?&quot; in his message, to which his publisher replied &quot;!&quot;, to indicate it was selling well. This exchange of messages would have no meaning to a third party because the shared context is unique to those taking part in it. The amount of information (a single character) was extremely small, and yet because of exformation a meaning is clearly conveyed.&quot;</p>
+</blockquote>
+<p>We, with the benefit of knowing the contextual information of who wrote the note and to whom as well as what the inquiry was about (book sales), can piece together the exformation that allows us to understand the communication. We are not always so lucky, and the machines among us are at a decided disadvantage when it comes to exformation.  </p>
+<p><strong>Figure JJLL. Exformation as context</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/exformation.png" alt="Exformation as context" /></p>
+<p>Examine Figure JJLL and imagine time-transporting Canada's first PM, Sir John A. Macdonald, to the present day and handing him an Android device (I don't know about you, but I indulge in such fantasies regularly...). Note the massive <em>exformation</em> in this interaction - the things that we just implicitly understand about such modern devices that Sir John A. could not possibly fathom. This is context at its most obvious. </p>
+<p>We might think of exformation as <em>common sense</em> in a way. Common sense is <em>context</em> that is commonly held by individuals in a particular social setting. When someone says &quot;That's just common sense!&quot; it is understood that a person should have internalised the context in which some action was taken and have been guided by it. &quot;It's just common sense that you need a browser to look at a web page&quot;, for example. It's a shared understanding and a product of having been immersed in the computing culture since forever. But what of Sir John A? It would take him quite a while to come up to speed. </p>
+<p>Our question in this section is <em>“Will machines ever be able to make sense of context and exformation?&quot;</em> We’ll get there in our discussion. Hang on. </p>
+<p>Meanwhile, take a look at context in practice. Below in Figure GH we see the distribution of scores on the 2013 high school exit examination in Poland. Is human decision making at play here (&quot;We just can't let poor Wojciech fail... he's so close!&quot;) or have humans written a computer algorithm that contextualises grades such that &quot;Given that scores have a confidence interval around them of say +/-3%, any score that is in the range of 27-30 should be awarded a grade of 30&quot;? We don't know, but this is interesting <em>contextual rule-making</em>, no? Also note the small amount of what's referred to in statistical circles as <em>heaping</em> at the highest level (100%). I guess if you get close enough, what's the difference? If you log into <em>bit.ly</em> (see below) and examine the data, you will see that there were no scores of 92, 95 or 98, but that the frequency of test scores at 100% was twice that at 99% despite a pattern of continually falling percentages as the distribution approaches 100%. You might also note that no one scored a 29. There was also a bit of a heap at 31 -- so likely a 31 means you scored a legit 30 and were given a 31 so as to differentiate from those who were <em>gifted</em> a 30 - that's a message in itself. A 30 means you didn't earn it... And there's a bit of heaping at 32 up to about 36 or so as the <em>bumping up</em> continues to ripple through the distribution. An otherwise almost textbook <em>normal distribution</em> becomes the victim of context. </p>
+<p><strong>Figure GH. Context at its finest.</strong></p>
+<div>
+    <a href="https://plot.ly/~Dreamshot/461/" target="_blank" title="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam) &lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="display: block; text-align: left;"><img src="https://plot.ly/~Dreamshot/461.png" alt="Distribution of the Results of the Matura in 2013 (Poland&#39;s High School Exit Exam)&lt;br&gt;&lt;br&gt;The minimum score to pass is 30%" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+</div>
+<p><em>Source: https://plot.ly. Create an account and play around. Fun stuff.</em></p>
+<h3>Meaning</h3>
+<p>How do we derive meaning from data or communication? Through interpreting data and facts in context. Context provides meaning for meaningless data. But what does <em>meaning</em> mean? Oxford to the rescue:</p>
+<p>&quot;Whatever it is that makes what would otherwise be mere sounds [...] into instruments of communication and understanding. The philosophical problem is to demystify this power, and to relate it to what we know of ourselves and the world.&quot;</p>
+<p><a href="http://bit.ly/1GoQwmb">Interested?</a></p>
+<p>What we <em>know</em> of ourselves and the world is clearly <em>knowledge</em>. But from where comes knowledge?
+<a href="http://www.oxforddictionaries.com/us/definition/american_english/knowledge" title="Oxford on knowledge">Oxford</a> offers the following (edited for applicability in this context -- see? Context is everywhere).</p>
+<p>Knowledge is:</p>
+<ol>
+<li><strong>Facts, information</strong>, and skills acquired by a person through <strong>experience</strong> or education; the theoretical or practical understanding of a subject</li>
+<li>Awareness or familiarity gained by experience of a fact or <strong>situation</strong> </li>
+</ol>
+<p>The important concepts were <strong>bolded</strong> in the definitions above by me. Let’s look at each in turn:</p>
+<ol>
+<li><em>Facts</em> – facts are data; simple measurements lacking context</li>
+<li><em>Information</em> – we deal with information below, and how it is derived from data and then becomes actionable through context</li>
+<li><em>Experience</em> – comes from observation of the results of actions, which flow from decisions fuelled by actions as a result of information produced from data in a context</li>
+<li>Situation – a synonym for context</li>
+</ol>
+<h3>Data architecture</h3>
+<p>How do we go about ensuring that optimal contexts are built, within which we generate the most valuable information? The answer is <em>data architecture</em> and perhaps in the broader field of <em>information architecture</em>. Our online Business Dictionary defines <em>data architecture</em> as:</p>
+<blockquote>
+<p>&quot;Models, policies, rules, or standards that govern which data is collected, and how it is stored, arranged, and put to use in a database system, and/or in an organization.&quot;</p>
+</blockquote>
+<p><a href="http://www.businessdictionary.com/definition/data-architecture.html">If you are interested, make sure to follow each link for the related definitions!</a></p>
+<p>What does all this mean for us? It means that we need to carefully think about <em>which</em> data to collect, <em>how</em> we will collect it, how we will <em>store</em> it and how we will <em>retrieve</em> it in order that it will contribute to our decision-making context. We will return to this general topic when we discuss databases and related technology in a subsequent chapter. </p>
+<p>For now, imagine a survey with only one question: &quot;So, what do you think?&quot; Administering this survey to a sample of your cohort would lead to all kinds of rich data, wild imaginings and likely some quite pointed suggestions about what we can do with our <em>survey</em>. The data we get in response might well be interesting, but not at all targeted to anything. People would be looking for a context. &quot;What do I think about WHAT?&quot; In fact, I went to the trouble of creating such a survey on a public survey service site but thought better of it... I can imagine the results. It is this principle which guides us in architecting our data collection, storage and retrieval plans for an organisation. We must specify what questions we will need to answer:</p>
+<ul>
+<li>about our organisation when it comes time to account for our activities</li>
+<li>to determine how we are performing</li>
+<li>to understand our place in the market</li>
+<li>to determine how to move forward</li>
+<li>to reply to our employees, customers, stakeholders, regulators, partners and even competitors</li>
+</ul>
+<p>In this regard, organisations must carefully consider their data strategy. But we must also be aware that simply saving everything in every possible format <em>just in case</em> is not a wise strategy either. The burden would be onerous, the data would be monstrous, the information generated from it redundant and perhaps even contradictory. The cost would soon far outweigh the benefits. Rather, an intelligent strategy to specify what data will be required in what volume at what frequency and in which format(s) is the best way forward. </p>
+<p><a href="http://www.itworldcanada.com/article/canada-has-a-dark-data-problem-and-its-getting-worse-veritas/381631">Interested?</a></p>
+<p><a href="http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning" title="Machine Learning">McKinsey</a> had this to say on the subject of whom should be responsible for <em>marshalling data</em> in the organisation:</p>
+<blockquote>
+<p>&quot;Access to troves of useful and reliable data is required for effective machine learning, such as [IBM <em>Jeopardy!</em>-winning supercomputing cluster] Watson’s ability, in tests, to predict oncological [cancer] outcomes better than physicians or Facebook’s recent success teaching computers to identify specific human faces nearly as accurately as humans do. A true data strategy starts with identifying gaps in the data, determining the time and money required to fill those gaps, and breaking down silos [see our discussion of the ERP organisation <a href="#erp_org">(take me there)</a>. Too often, departments hoard information and politicize access to it — one reason some companies have created the new role of chief data officer [CDO as opposed to Chief Information Officer (CIO)] to pull together what’s required. Other elements include putting responsibility for generating data in the hands of frontline managers.&quot;</p>
+</blockquote>
+<h3>Information Theory</h3>
+<p>This all leads to thinking about how to think about information, and for this, we need to dig a bit deeper. Here we go. </p>
+<p>Our business dictionary defines Information Theory as: &quot;Basic data communication theory that applies to the technical processes of encoding a signal for transmission, and provides a statistical description of the message produced by the code. It defines information as choice or entropy and treats the <em>meaning</em> of a message (in the human sense) as irrelevant. Proposed together by the US mathematicians Claude Shannon (1916-2001) and Warren Weaver (1894-1978) in 1949, it focuses on how to transmit data most efficiently and economically, and to detect errors in its transmission and reception.&quot;</p>
+<p><a href="http://www.businessdictionary.com/definition/information-theory.html">Interested?</a></p>
+<p>To really understand Shannon and Weaver (and a guy named Weiner), we need to look a little more deeply into the theory of information.</p>
+<p><a name="entropy"></a></p>
+<h3>Entropy and organisation and <em>potential</em> information</h3>
+<p>From another relatively old (1998) but still <a href="http://www.sveiby.com/articles/Information.html">excellent piece</a>, we find an introduction to the concept of <em>entropy</em>. </p>
+<blockquote>
+<p>“In the physical sciences the entropy associated with a situation is a measure of the degree of randomness. The second law of thermodynamics states that entropy always increases in the universe. High entropy equals [a] high level of chaos.”  
+</p>
+</blockquote>
+<p>Thus for decision making, entropy is the enemy. Entropy is <em>junk on the signal or static on the line.</em> It thwarts our efforts to make sense of a data transmission and to translate data into information. While entropy and chaos and superfluous data provide richness in terms of the <strong>volume</strong> of signal being sent, they are useless in the context of seeking pointed, surgical, targeted information to answer a specific question and to guide action.</p>
+<p>Though this article is too dense to make it an [Interested?] link, it raises some crucial points. Specifically that “The word information is derived from Latin <em>informare</em> which means &quot;give form to&quot;. [...] Most people tend to think of information as disjointed little bundles of 'facts'. In the Oxford definition of the word it is connected both to knowledge and communication. [...] The way the word information is used can refer to both 'facts' in themselves and the transmission of the facts.”</p>
+<p>The author continues. “The double notions of information as both facts and communication are also inherent in one of the foundations of information theory: cybernetics introduced by Norbert Wiener (1948). The cybernetic theory was derived from the new findings in the 1930s and 1940s regarding the role of bioelectric signals in biological systems, including the human being. The full title was: 'Cybernetics or Control and Communication in the Animal and the Machine'. Cybernetics was thus attached to biology from the beginning.</p>
+<blockquote>
+<p>&quot;Wiener introduces the concepts, amount of information, entropy, feedback and background noise as essential characteristics of how the human brain functions. [...] The notion of the amount of information attaches itself very naturally to a classical notion in statistical mechanics: that of entropy. Just as the amount of information in a system is a measure of its degree of organisation, so the entropy of a system is a measure of its degree of disorganisation.&quot;</p>
+</blockquote>
+<p>Thus <em>entropy</em> = <em>disorganisation</em> = <em>information</em>. How odd. How can <em>dis</em>organisation yield more <em>information</em>? It is because <em>disorganisation</em> can produce richer interpretation in that it allows for various different conclusions about the actual message or meaning of the data? But this disorganisation is the enemy of tactical decision making. The process of organising information reduces <em>dis</em>organisation in that superfluous elements (not related to a particular context, for example) are removed, yielding more targeted and focused data. </p>
+<p>We can also easily imagine how this notion jives with our contention that systems only add value if they either reduce input or augment output. The more parsimonious we are in architecting our data for specific purposes, the less input will be required in any specific context. Thus thinking about data is important, and planning its collection, storage and retrieval is pivotal to efficiency. Think of this as a geologist would inasmuch as more pure ore makes it easier to produce steel - there is less to discard. Or the more pure and clean a cellular telephone transmission is, the better our understanding of the conversation.  </p>
+<blockquote>
+<p>&quot;What is information and how is it measured? Wiener defines it as a probability: One of the simplest, most unitary forms of information is the recording of choice between two equally probable simple alternatives, one or the other is bound to happen - a choice, for example, between heads and tails in the tossing of a coin. We shall call a single choice of this sort a decision. If we then ask for the amount of information in the perfectly precise measurement of a quantity known to lie between A and B [...] then the number of choices made and the consequent amount of information is infinite. [...] The quantity that we here define as amount of information is the <strong>negative</strong> of the quantity usually defined as entropy in similar situations.&quot; (article author’s bold)</p>
+</blockquote>
+<p>The author continues: &quot;Information is from its conception attached to issues of decisions, communication and control, by Wiener. System theorists build further on this concept and see information as something that is used by a mechanism or organism, a system which is seen as a 'black box', for steering the system towards a predefined goal. The goal is compared with the actual performance and signals are sent back to the sender if the performance deviates from the norm. This concept of negative feedback has proven to be a powerful tool in most control mechanisms, relays etc.&quot;</p>
+<p>I will now muddy the already turbid water by introducing an opposing viewpoint, that of Claude Shannon, an eminent information scientist working at AT&amp;T (the US telephone people) in the 1950s. The author of the <em>liquid information</em> piece writes:</p>
+<blockquote>
+<p>&quot;The other scientist connected with information theory is Claude Shannon. He was a contemporary of Wiener and as an AT&amp;T mathematician he was primarily interested in the limitations of a channel in transferring signals and the cost of information transfer via a telephone line. He developed a mathematical theory for such communication in <em>The Mathematical Theory of Communication</em>, (Shannon &amp; Weaver 1959). Shannon defines information as a purely quantitative measure of communicative exchanges.&quot;</p>
+</blockquote>
+<p>So Shannon wasn't interested in <em>what</em> was communicated as much as he was in the <em>occurrence</em> or <em>volume</em> of communication. It's not <em>what</em> for him, but <em>that</em>. The author continues:</p>
+<blockquote>
+<p>&quot;[...] based on Shannon it does not matter whether we are communicating a fact, a judgment or just nonsense. Everything we transmit over a telephone line is 'information'. The message 'I feel fine' is information, but 'ff eeI efni' is an equal amount of information.&quot;</p>
+</blockquote>
+<p>Note that the message (we cannot say the 'intended message' as we do not know the intention of the sender when sending it) 'I feel fine' is <em>almost</em> an anagram of the gibberish 'ff eeI efni' (one extra 'f' and no 'l'), but there may be other possible combinations of letters and spaces that would yield other equally viable messages <em>in this context</em>. For Shannon there is information richness in this disorganisation. The potential for many interpretations means there is more raw information in the message. As we will see, for business, this isn't a good thing. </p>
+<p>In Shannon's defence, the author goes on to write that &quot;Shannon is said to have been unhappy with the word 'information' in his theory. He was advised to use the word 'entropy' instead, but entropy was a concept too difficult to communicate so he remained with the word. Since his theory concerns only transmission of signals, Langefors (1968) suggested that a better term for Shannon’s information theory would therefore perhaps be 'signal transmission theory'.&quot;</p>
+<p>But we have a problem here. How can one theorist describe information as <em>organisation</em> and another describe it as <em>disorganisation</em>? The article continues with:</p>
+<p>“Weaver, explaining Shannon’s theory in the same book: Information is a measure of one’s freedom of choice in selecting a message. The greater this freedom of choice, the greater the information, the greater is the uncertainty that the message actually selected is some particular one. Greater freedom of choice, greater uncertainty, greater information go hand in hand.”</p>
+<p>Here comes the contradiction...</p>
+<p>“There is thus one large - and confusing - difference between Shannon and Wiener. Whereas Wiener sees information as negative entropy, i.e. a 'structured piece of the world', Shannon's information is the same as (positive) entropy. This makes Shannon's ‘information’ the opposite of Wiener's ‘information’.&quot;</p>
+<p>For Shannon, the content of a message (which he calls <em>information</em> but which I call <em>potential</em> information or simply <em>data</em>) is a function of volume. The bigger the message, the greater the information content. Shannon was a telephone company engineer, interested only in <em>that</em> data was sent and not <em>what</em> data was sent. Shannon did not care <em>what</em> people were talking about on the phone but only <em>that</em> they were talking. The volume of data transmitted was more important than the actual content. </p>
+<p>And this makes sense if you think about it, from the point of view of a telephone conversation. Imagine you are in a phone call. In the background, you have music playing loudly enough for the other party to hear. While the music is not part of the conversation, <em>per se</em>, it becomes an element of the message being sent from you to the other party. It’s background and contributes to the richness of the signal.</p>
+<p>But that music does <em>not</em> contribute to the clarity of the conversation. Music is competition for understanding the spoken word. </p>
+<p>Thus for Shannon, the more <em>entropy</em> (disorder – as in background music), the more disorganisation (lack of focus) and therefore the more <em>potential</em> interpretations could be made as a result of the message. If the background music was too loud, for example, the <em>intended message</em> might become garbled or unintelligible. This is not helpful for us in business, where we rely on <em>targeted</em> almost <em>surgical</em> messaging in order to make decisions that result in positive outcomes. This is especially true in information systems, where <em>interpretation</em> is not a particularly strong suit of software. Systems are rules-based for the most part. They don't interpret well. Yet. </p>
+<p>Weiner, on the other hand, saw information as <em>negative entropy</em>, or positive organisation with structure, interpretability, less equivocation and noise and more certainty. This is the kind of message that business communication requires. Straightforward and to the point. No guessing about the information content of a data stream. <em>Less input for a given output.</em></p>
+<p>Entropy is the friend of <em>data volume</em> but the enemy of good <em>decision making</em>. In business, we need to keep the junk off the signal. Entropy is to be avoided. Structure is valued. Clean communication is the goal. Understanding is critical.</p>
+<p>Thus Weiner is our man. We care both <em>that</em> messaging is occurring and <em>what</em> is being messaged. But Shannon was an inspiring academic. You’ll see reference to him in the section on ASCII. </p>
+<p><a href="http://www.kerryr.net/pioneers/shannon.htm">Interested?</a></p>
+<h4>Takeaways</h4>
+<p>Business requires careful planning of its data gathering efforts in order to collect clean, precise and intelligible data that covers its business intelligence needs. Data Scientists, Information and Data Architects and others are tasked with designing data-gathering regimes to allow for data to be turned into actionable information that will drive decisions and reduce error around predicted outcomes. Business needs clean, non-noisy data and it's not an easy task to engineer it. </p>
+<h3>Digital vs. Analog</h3>
+<p>The distinction between the concepts of <em>analog</em> and <em>digital</em> is important here. The difference between them is akin to the difference between an integer (whole) number and a real number (with decimal precision of varying degrees). Analog is the <em>real numbers</em> of nature. Analog is the subtle curve and continuous and apparently seamless change we witness all around us; so subtle that sometimes it’s impossible to tell where one thing ends and another begins. We all know what a leaf is and what a branch is, but at which exact point does a branch become a leaf? This is analog. </p>
+<p>Consider colour. In Figure ECC below, we see colour represented in two different ways, as discrete swatches representing the ROYGBIV colours of the rainbow and then, below that, as a continuum of those visible colours. </p>
+<p><strong>Figure ECC. Illustrating the difference between analog and digital</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/analog_digital.png" alt="Analog and digital" /></p>
+<p>We can (most of us – some people suffer with some form of colour blindness <a href="http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/">Interested?</a>) easily discern the difference between red and orange, or orange and yellow from among the boxes in the top row of Figure ECC. And we could equally easily point to a green region or a blue region in the continuous strip of colour beneath. The challenge becomes specifying the point at which yellow becomes green, or exactly where indigo becomes violet. Try and pinpoint the exact location where yellow disappears and becomes green as we move left to right. The continuous nature of the colour strip makes it difficult to nail anything down, in fact. </p>
+<p>The colours in the upper box are represented using a specific method of reproducing colour called the RGB method, standing for Red, Green, Blue, two of the three primary colours. All colours, using this method, are produced as a function of mixing more or less of each of these three on a scale from 0 to 255. So the RGB for the colour red is 255, 0, 0. The maximum red (255) and no green or blue. Green is 0, 255, 0 and blue, 0, 0, 255. Of course there are plenty of shades and hues between these values, and indigo and violet off the right end of the spectrum are entities unto themselves. </p>
+<p>It doesn’t matter to us how this or other colour representation methods (such as CMYK, Pantone, etc.) actually work. What matters is that the continuous colour scale represented by the visible spectrum of the rainbow can be <em>sampled</em> and <em>digitised</em> such that we can work with it in a discrete way. The RGB scale itself produces tints and shades between which the naked eye could not discern. I challenge you to distinguish an RGB of 255, 0, 0 from 254, 0, 0. It would take an expensive display device to even produce and show an image capable of allowing us to discern that difference – but our eyes must be able to work at that level of precision. The message being, at some point or at some resolution, a digital representation becomes just as good as an analog one. It’s just as good because <em>we can’t tell the difference</em>. I’m not saying <em>better</em> or more <em>natural</em> but rather <em>just as good</em> for certain purposes. Take a look at Figure JPRT below. </p>
+<p><strong>Figure JPRT. Subtle differences in RGB</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/rgb.png" alt="Can you tell the difference?" /></p>
+<p>The four reds are, for certain, red. The normally-sighted would have no trouble identifying each and all as being of the colour red from among the other colours of the visible spectrum. But the differences within the range of red are more difficult to detect. The leftmost (labeled 255) is the same red as in Figure ECC. I have altered the amount of red first from the max to 254, then to 245 and then to 225. The difference between 255 and 254 is so slight that it is nearly impossible to detect at the resolution of that figure on any of my devices or monitors with my eyes (such as they are). <em>Perhaps a slightly darker tint?</em> We begin to see a subtle but discernible difference at 245 (a clearly darker tint) while the difference at 225 is quite noticeable. For some purposes, a specific red of a specific hue might be required. For the vast majority of others, any of these reds will do. We would all stop at a traffic light if it showed any of these reds. And that’s the point. In some contexts, <em>any red</em> is good enough.</p>
+<p>Imagine now, sensing the difference between an RGB value of 255, 0, 0 and 254.5460274, 0, 0. Only in the most exacting and demanding of scientific or engineering contexts would such a difference be important (you see the use of <em>context</em> here as a <em>situation</em> in which certain things, such as precision, are critical). In 99.999999999999999% of cases where the two were compared, it would make no difference. We can <em>model</em> the analog nature of nature and get a <em>good enough</em> representation on a digital scale. </p>
+<p>Let's look at this a different way. First of all, try with all your might not to scroll down more than one image at a time below so that the <em>reveal</em> can be properly done. Take a look at the image in Figure AGST1 below:</p>
+<p><strong>Figure AGST1. Maximum pixilation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_25.png" alt="Maximum pixilation" /></p>
+<p>Can you decipher anything about it? Other than some basic colours, it's pretty difficult to say what the image represents. Below, the image will increasingly come into focus with each subsequent figure.</p>
+<p><strong>Figure AGST2. Reduced pixilation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_20.png" alt="Level 4 pixilation" /></p>
+<p>Is this one any more helpful? There are some slight clues, but really, there's not enough data here to allow for a definitive choice between a deformed potato or a camel at rest. Which is it?</p>
+<p><strong>Figure AGST3. Reduced pixilation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_15.png" alt="Level 3 pixilation" /></p>
+<p>Here you might be starting to get an idea of what the image represents. A head is perhaps discernible if those black patches are eyes. Could well be an animal, but which animal and in what orientation to the horizon?</p>
+<p><strong>Figure AGST4. Reduced pixilation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_10.png" alt="Level 2 pixilation" /></p>
+<p>Figure AGST4 is likely good enough for most applications. Perhaps if you were the pet's owner, you'd want a better resolution in order to be able to decide if it was actually <em>your</em> cat or a similarly-sized and -coloured one. But in general, this resolution is <em>good enough</em> for most purposes. We don't need, except in very specific contexts, to spend the resources to reproduce an exact image of this kitten. It's already <em>good enough</em>. </p>
+<p><strong>Figure AGST5. Reduced pixilation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_5.png" alt="Level 1 pixilation" /></p>
+<p>Sharper still, this image is almost at a resolution where it's not necessary to go beyond. But we shall.</p>
+<p><strong>Figure AGST6. Original - No pixilation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/cat_0.png" alt="Level 0 pixilation" /></p>
+<p>Figure AGST6 above is the original image. </p>
+<p><em>Photo credit: https://sites.psu.edu/siowfa15/2015/10/21/cats-and-their-magic-power/</em></p>
+<p>This little exercise is pertinent not only to our discussion of just-noticeable difference in this chapter, but also to our treatment of level of measurement in Chapter 1. It will be revisited when we discuss <em>granularity</em> in Chapter 4. Thus the notion of <em>resolution</em> or <em>fidelity</em> or <em>granularity</em> is important in the study of information systems. It's a matter of having the right amount of data, measured with the right precision and located in the correct context in order to make decisions. </p>
+<p>I’m hoping that by this point you are starting to see the light. The point being that computers represent everything as a series and a combination of binary digits (bits) and the more bits that can be dedicated to modelling something, the more information can be carried and the finer and finer can be the distinction between discrete elements. So fine, with such massive computing power as we now have, that eventually the binary representation of things becomes so rich, so fluid, that we can no longer tell the difference between the <em>real thing</em> and the binary/digital representation of it such that, well, it doesn’t matter at all. Witness Apple’s <em>retina display</em> which Apple claims to be so close to analog that our retinae are incapable of discerning anything finer. We can’t tell the difference. And that means it's good enough.</p>
+<p>And what self-respecting chapter on this topic would be complete without a reference to the Keanu Reeves / Lawrence Fishburne epic movie series <em>The Matrix</em>, first released in 1999, written and directed by The Wachowski Brothers? </p>
+<p><a href="http://en.wikipedia.org/wiki/The*Matrix">Wikipedia Interested?</a> and/or <a href="http://www.imdb.com/title/tt0133093/?ref*=nv*sr*1">IMDB Interested?</a></p>
+<p>And just to throw a wrench into the works, the notion of human <em>spirit</em> and a <em>soul</em> play large in this debate. If everything analog can ultimately be represented by a series of bits to the point where we can’t tell the difference, then are people simply hugely complex binary machines, as are computers, made up of such minute and many binary objects that we simply can’t <em>yet</em> detect and measure them? Is the analog nature of nature just digital at such a fine level of precision that we simply haven’t seen it yet?  Take a biochemistry course. Take philosophy courses. Everyone should. You aren’t complete without them. The truth is out there ;) </p>
+<p><strong>Time for an <a href="http://xkcd.com/1519/" title="XKCD Venus">XKCD</a>.</strong></p>
+<p><img src="http://imgs.xkcd.com/comics/venus.png" alt="XKCD Screaming bird of truth" /></p>
+<p><a name="sens_beac"></a></p>
+<h4>Sensors and beacons</h4>
+<p>Let's step back and look at two pivotal pieces of technology which we have discussed briefly previously, but need to really <em>contextualise</em> in order to fully appreciate their impact. We're talking about <em>sensors</em> and their <em>less-capable</em> cousins, the <em>beacons</em>. Take a look at Figure SB.</p>
+<p><strong>Figure SB. Sensors and beacons</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/sensors_beacons.png" alt="Sensors and beacons" />
+In making sense of Figure SB, let's begin with the walking icon at the left. The walking motion triggers a <em>motion detector</em> (we've all seen these) which might, in this scenario, trigger a door to open (such as at the <em>LCBO</em> - where the height of design silliness often causes doors that do not need to be opened to swing abruptly agape) or a light (in a rarely-used public washroom, for instance) to illuminate. This kind of device can be used to make decisions and cause action in the absence of synchronous decision making by humans. True enough, a person designed the sensor, created the rules about what the sensor should trigger (open a door, etc.) and wrote all the communications protocols and created the servo-mechanisms to effect the door opening, etc. The system was created by humans specifically to make decisions and do work <em>without our intervention in real time.</em> Make no mistake, the door is opening as someone approached because humans decided that's what they wanted to happen. But they wanted machines to take care of all the mundane details. This kind of low-level, rules-based automation is everywhere.</p>
+<p>But sensor data can also fulfill other ends. Data from sensors can be transmitted not only between other sensors in a network, but also to more central data-collection points and even to the cloud for storage, analysis or transmission to anywhere the <em>custodians</em> of the data deem appropriate. So sensor data can contribute enormously to the <em>context creation</em> of decision making. All this rich sensor data, growing exponentially, will radically change the machine world's ability to supplant human decision-making in the near term. Get ready for the age of machines precipitated by the so-called <em>internet of things</em>. Some call it the <em>internet of everything</em>. We will return to the issues around this revolution just below.</p>
+<p><a href="http://research.carleton.ca/story/sensor-expert-envisions-future-unobtrusive-monitoring/">Interested in a local sensor researcher?</a></p>
+<p>The less sophisticated correlate of the sensor is the <em>beacon</em>. While a sensor has the capacity to both read (sense) the environment and share (transmit) data (and fairly rich data), the beacon does no sensing at all. Beacons simply transmit a signal saying &quot;Here I am!&quot; either via their own power (and the issue of how to replenish that power, if required, is interesting) or via power transmitted to it by either a fixed or movable receiver that sends out a message like &quot;Are you there?&quot; Think of the <em>tap</em> capability of modern bank ATM and credit cards. There is no magic in the <em>tap</em>. It's simply a way to get the card chip close enough to the reader/transmitter to allow a signal to be received by the card, with just enough power to allow the card to send its data to the reader; your data. There is no power source in the card. It's simply sending everything it knows in response to a query from the reader. Other beacons, however, transmit data either continually or continuously. There are beacons at airports, sending signals to airplanes approaching for landing to give exact coordinates. This is so pilots can safely land their crafts in situations of near-zero visibility. Beacons have been around since antiquity. Strategically-located fires were used by many an army to signal certain situations. Lighthouses are beacons, as are the flashing lights atop emergency vehicles. All send the signal &quot;I am here!&quot; or &quot;Here I am!&quot; </p>
+<p>Specialty applications and hardware/software has been developed by several firms, most notably Apple, with their <em>iBeacons</em>. According to Wikipedia (see <em>Interested?</em> link below), an industry has sprung up around iBeacons and several vendors have created iBeacon-compatible hardware transmitters, which are a class of <em>bluetooth</em> (a widely-used communications protocol) low-energy devices that broadcast their unique identity to nearby portable electronic devices such as smartphones, tablets and other devices, enabling them to perform actions (such as social media <em>check-ins</em>) or to receive location-based messages when in close proximity to an iBeacon. A range of activities is possible including launching an app on a mobile smart device when in the vicinity of the beacon. Unlike a generic beacon (which is a one-way transmitter continuously announcing &quot;Here I am!&quot;), the iBeacon requires the installation of a specific app on the receiving device (from the Apple Store or Google Play, for example) thus granting implicit permission for the app to track the owner's whereabouts. Read this paragraph again if you weren't paying attention. Your whereabouts, down to the ketchup section of an aisle in a supermarket, are now a commodity. Our locations are being traded and sold and forwarded and mashed-up by legions of firms worldwide. We can no longer hide. The <em>Data Brokers</em> are flourishing. </p>
+<p><a href="https://en.wikipedia.org/wiki/Bluetooth_low_energy">Interested in Bluetooth low energy?</a>
+<a href="https://en.wikipedia.org/wiki/IBeacon">Interested in iBeacons?</a></p>
+<p>A rich set of data can be accumulated over time by monitoring beacon movement. If a beacon transmits its location at a particular time and a new location at some time interval later, much data can be generated by calculating the gradients across the time series. We can calculate absolute movement (was in Peterborough at 10:07 but in Ottawa at 14:30), trajectory (path of movement - in this case generally eastward), speed (a rough calculation unless we know the beacon's exact arrival time - it might well have arrived at 13:32 but we didn't get a measurement of its location until 14:30). So plenty of <em>secondary indicators</em> can be generated from <em>primary observations</em> of a beacon's location. Moreover, when a number of beacons get together at the same time and place, well, all hell can break loose. Imagine the possibilities.</p>
+<p>A wealth of data can be collected through embedding beacons in everything from our own bodies to our vehicles (both commercial and personal) and in our aircraft (the famous <em>black box</em> is a beacon, allowing searchers to locate a downed airplane if they can find it before box's transmitter runs out of power - and that's a challenge you might want to take if you're at all engineering and entrepreneurial in nature. Imagine the lives you could save by architecting a self-sustaining black box!). And again, all this data can be collected for further analysis, surveillance and prediction. This is true <em>context.</em></p>
+<p><a href="https://en.wikipedia.org/wiki/Beacon">Interested?</a></p>
+<p>This should help in explaining how ICT can assist in the contextualisation of decision making through providing measured data to contribute to the richness of the solution space. ICT can accomplish this in a number of ways, and not just the traditional method of storing and marshalling legacy data (such as spreadsheet data of last year’s sales, for example), but by providing real-time, synchronous data <em>representing the current situation</em> (think sensors and beacons). Things such as identity authentication (authorising you to be in a certain place at a certain time based on either what you have – such as a password or a fingerprint – or what you know, such as a password). Your location in time and space can be known and broadcast. </p>
+<p>And if it can be done for you, it can be done for others. Thus random gatherings of persons in a particular place and time can be sensed and utilised in assembling a context. Even simple things such as GPS and cell tower triangulation can locate you and others. This can facilitate all sorts of crowd-related things such as pop-up retail, policing, and research into facility location. It’s also how things such as geo-fencing are accomplished. Geo-fencing was in the spotlight in 2015 with the use (and abuse) of a little app named <em>Yik-Yak</em>. It's also becoming the go-to technology to prevent unauthorised, private drones from encroaching on airport airspace, thereby protecting planes from potential collisions with potentially catastrophic consequences. </p>
+<p><a href="http://whatis.techtarget.com/definition/geofencing">Interested?</a></p>
+<p>In this way, ICT can produce better or more output from the same input as the rich contextualisation of the decision space around <em>what's happening here?</em> leads to a more informed (better quality) decision from the same amount of input data.   </p>
+<p>ICT can not only use and broadcast your location, it can also sense activity – <em>what</em> you’re doing. If your location puts you on the a highway, ICT can make a reasonable guess about what you’re doing, and the error around deciding what it might be can be reduced by examining (measuring) your velocity, for example. Insurance firms are increasingly using voluntary sensors to monitor your driving habits and providing insurance at a lower premium for <em>good</em> drivers. </p>
+<p><a href="http://www.ecommercetimes.com/story/75600.html">Interested?</a></p>
+<p>Systems can sense and determine lots of activity in which you might be engaged. It can therefore authorise you, based on location, time and activity, to perform certain tasks, such as allow you access to a secure facility or to take possession of rental materials or even rental vehicles. Unattended attendants. How cool. And way fewer resources are required to get those rental materials to you. More output for the same input. <em>Bingo</em>.   </p>
+<p>Finally (but by no means exhaustively), ICT can contextualise your activities based on your or others’ previous pattern of activity at a time and place. A system might also make some reasonable guesses (though systems don’t guess things, rather they use rules at best and probability at least) about what you are likely to do <em>next</em> and anticipate and allow you to discover available services in your vicinity that are appropriate and appealing to you. Walking through the park? Ever rented a canoe to go paddling in the pond? How about a little text message on your phone from Joe’s Canoe Rental? This stuff, called <em>m-commerce</em> facilitated by <em>location services</em>, is popping up all over. And we’ve just scratched the surface. Mobile payment options now allow commerce between two parties with just cellphones, <em>disintermediating</em> financial institutions altogether. </p>
+<p><a href="https://en.wikipedia.org/wiki/Mobile_commerce">Interested?</a></p>
+<p>Note that a considerable part of the data that is brought to bear on a context has no direct relationship to the problem or challenge itself, <em>per se.</em> The decision space around a firm’s advertising spend this year would contain plenty of direct information, such as the firm’s liquidity position, sales figures, market maturity, cost to advertise in various markets, customer demographics, competitor’s spend, etc. But there are plenty of other, more <em>contextual</em> variables that come into play. Things such as the firm’s mission, vision and strategy, ethics, brand value, consumer tastes and trends, resource capabilities and others. All of these things play into the decision but some are less, shall we say, tangible? These things provide context and they are the things at which ICT <em>has not been as good</em>, historically. </p>
+<p>But we are on the verge of a change. Context is <em>the single biggest thing happening in ICT today</em>. The proliferation of sensors, so tiny and innocuous, is facilitating measurement at such a fine scale and with such sensitivity that soon we’ll have what one author referred to as <em>liquid information</em> (see below). Context is so compelling, be sure to grasp the material on Digital vs. Analog above. </p>
+<h3>Liquidity...</h3>
+<p>Let’s bring this home. A very old but again ever-so-interesting site (www.liquidinformation.org) has <a href="http://www.liquidinformation.org/ana_digi_liqui.html">this</a> much to offer on the apparently spurious distinction between digital and analog as it pertains to ICT. </p>
+<p>First some definitions:</p>
+<p><strong>Analog</strong>: A mechanism in which data is represented by continuously variable physical quantities.</p>
+<p><strong>Digital</strong>: Of or relating to the fingers or toes. Using calculation by numerical methods or by discrete units.</p>
+<p><strong>Liquid</strong>: Flowing freely like water. Having the properties of a liquid: being neither solid nor gaseous. Smooth and unconstrained in movement. </p>
+<p>The article offers that:</p>
+<blockquote>
+<p>“We have been brought up to believe that there is a total distinction, a wall of separation between digital and analog: The world is smooth and continuous; analog whereas computers are operating on discrete, black &amp; white separate units; they are digital. And the twain shall never meet.&quot; </p>
+</blockquote>
+<p>The author continues: </p>
+<blockquote>
+<p>“Well you know, it just ain't so. Imagine a couple of small grains of sand. Digital, separate, discrete. Now add a couple more. And a couple more. Millions more. Billions. And you have a beach. An analog, a smooth continuous environment. [sic] </p>
+<p>“Everyday home and office computers, with capacities to manipulate literally billions of bits literally billions of times a second [...] have gone the way of the grains of sand and are definitively not just digital anymore. And they have the potential to become more than analog. They have the potential to become, and make us, liquid.”</p>
+</blockquote>
+<p>So the question for us is: At what point does digital become analog? At what threshold does it matter to us? At what point can we detect the difference? What resolution is important for us? This is akin to decimal place precision. How many decimals is it necessary to report in a table of financial ratios, for example, before the additional digit becomes meaningless? Think about this. Especially the Accountants and Finance people among you. How may decimal places, how much precision, is necessary? When is it <em>good enough</em>? </p>
+<h4>Just-noticeable differences and your brain on music</h4>
+<p>This introduces the notion of <em>Just-noticeable Difference</em> or JND. And of course a just-noticeable difference is context dependent (isn’t everything?). The message, again, is that at some point in the digitisation of analog phenomena, the distinction disappears and we can’t tell the difference. JND has applications in many areas, not the least of which is marketing, where intensive research has been done into how much a product can shrink, for example, before potential buyers notice a change in package size.  </p>
+<p><a href="http://www.scoop.it/t/psychology-of-consumer-behaviour/?tag=Just+Noticeable+Difference">Interested in Marketing?</a></p>
+<p><a href="http://apps.usd.edu/coglab/WebersLaw.html">Interested in Weber's Law of JND?</a></p>
+<p><a href="http://en.wikipedia.org/wiki/Just-noticeable_difference">Interested in the Weber-Fechner Law of JND?</a></p>
+<p>I’m reading a few books as I am writing this text. One that is particularly interesting to me is entitled <em>This is Your Brain on Music: The Science of a Human Obsession</em> by McGill neuroscientist and musician Daniel Levitin (2006, Penguin). He writes that “Less well known are the extraordinary advances we have been able to make in modelling how our neurons work, thanks to the continuing revolution in computer technology. We are coming to understand computational systems in our head like never before.” </p>
+<p>He continues that “Even consciousness itself is no longer shrouded in a mystical fog, but rather is something that emerges from observable physical systems.”</p>
+<p>But what’s more interesting for us is the parallel he draws between sound and sight. Consider a motion picture. In case you didn’t know, a movie is made up of a series of still photos interspersed with black screens. When shown at the right speed, however, our visual system can’t tell that it’s a series of stills. Here’s what Levitin writes: </p>
+<blockquote>
+<p>“The lowest note on a standard piano vibrates with a frequency of 27.5 Hz. Interestingly, this is about the same rate of motion that constitutes an important threshold in visual perception. [...] ‘Motion pictures’ are a sequence of still images alternating with pieces of black film presented at a rate (one forty-eighth of a second) that exceeds the temporal receiving property of the human visual system. We perceive smooth, continuous motion when in fact there is no such thing actually being shown to us.”  
+</p>
+</blockquote>
+<p>So motion pictures are <em>just as good</em> as the real thing for us. Next time you're out on the road, take a look at the wheels of vehicles as they pass on the street. Note that for many, it appears as if you can see the disk brakes behind the wheels as if there were almost no spokes in the rims at all. Our eyes can't keep up with the spinning speed and our brain can't paint the picture fast enough for us, rather just showing us that there's nothing there. But we know different. </p>
+<p>Finally, just for fun...</p>
+<p><strong>Figure WWE. The <em>wagon wheel effect</em></strong> </p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/WagonWheelEffect.gif" alt="ICT context" /></p>
+<p>The <em>Wagon wheel effect</em> is often seen in old Western movies where the wheels of a horse-drawn carriage sometimes appear to either be frozen or to be rotating counter to the direction in which the wagon is moving. The animated GIF in Figure WWE illustrates the phenomenon. The speed of the <em>camera</em>, moving towards the right, constantly increases at the same rate with the objects sliding to the left. Halfway through the 24-second loop, the objects appear to suddenly shift and head backwards.</p>
+<p><em>Credit: &quot;WagonWheelEffect&quot; by Ulillillia at the English language Wikipedia. Licensed under CC BY-SA 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:WagonWheelEffect.gif#/media/File:WagonWheelEffect.gif</em></p>
+<p><a href="https://en.wikipedia.org/wiki/Wagon-wheel_effect">Interested?</a></p>
+<p>We might also want to consider the concept of <em>resolution</em>. The resolution of a sensor is the smallest change it can detect in the quantity that it is measuring. Sensor resolution is being continuously improved.</p>
+<p><a href="http://en.wikipedia.org/wiki/Sensor">Interested?</a></p>
+<p>Why matters all of this? It matters because as systems and sensors proliferate and their ability to communicate improves, so improves their ability to measure with more and more precision in more and more places at lower and lower resolutions at increasing rates of speed providing a richer and richer stream of input data to flow into and to generate our contexts. And that’s how decisions get made. As ICT is increasingly able to provide more and more context, machines are more and more able to work at a resolution level that is not only <em>good enough</em> for most situations, but maybe better than we humans can do... And with such great context, better and better information is generated and more and more decisions can be made for us by machines far below our level of consciousness. We'll be the spinning wheels. So fast, we can't see it happen. </p>
+<h3>And finally, the rapidly declining cost of computing</h3>
+<p>We end this chapter with an astonishing table from our friends at Wikipedia on the cost of computing. A <em>gigaflop</em> is described as <em>the power to execute one billion floating point calculations per second</em>. A floating point operation (or a FLOP) is any algebraic manipulation (+ - * /) involving two numbers which have decimal places. So 2 (two) is an <em>integer</em> but 2.0 (two point zero) is a <em>floating point number</em>. <em>Ergo</em> a FLOP might be the mathematical operation to multiply 1.0 by 1.0. Floating point arithmetic takes longer than integer arithmetic. A computer processor's power is often measured in <em>gigaflops</em>, providing a universal standard for speed of execution (the <em>s</em> at the end stands for <em>per second</em>), which is a proxy for computing power. The more flop a system can do in a second, the more powerful the system.</p>
+<p>Below is a table equating gigaflops with dollars. How much did the computing power to effect one gigaflop cost, down through the annals of computer history? Here's what Wikipedia has to say (it will astonish you):</p>
+<p><strong>Table GFP. Hardware cost to get a gig going</strong></p>
+<table>
+<thead>
+<tr>
+	<th align="center"><strong>Date</strong></th>
+	<th align="center"><strong>Approximate cost per GFLOPS</strong></th>
+	<th align="center"><strong>Approximate cost per GFLOPS</strong> [adjusted to 2013 USD]</th>
+	<th align="center"><strong>Platform providing the lowest cost per GFLOPS</strong></th>
+	<th align="left"><strong>Comments</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="center">1961</td>
+	<td align="center">US $1,100,000,000,000 ($1.1 trillion)</td>
+	<td align="center">US $8.3 trillion</td>
+	<td align="center">About 17 million IBM 1620 units costing $64,000 each</td>
+	<td align="left">The 1620's multiplication operation takes 17.7 ms.</td>
+</tr>
+<tr>
+	<td align="center">1984</td>
+	<td align="center">$18,750,000</td>
+	<td align="center">$42,780,000</td>
+	<td align="center">Cray X-MP/48</td>
+	<td align="left">$15,000,000 / 0.8 GFLOPS</td>
+</tr>
+<tr>
+	<td align="center">1997</td>
+	<td align="center">$30,000</td>
+	<td align="center">$42,000</td>
+	<td align="center">Two 16-processor Beowulf clusters with Pentium Pro microprocessors</td>
+	<td align="left">---</td>
+</tr>
+<tr>
+	<td align="center">April 2000</td>
+	<td align="center">$1,000</td>
+	<td align="center">$1,300</td>
+	<td align="center">Bunyip Beowulf cluster</td>
+	<td align="left">Bunyip was the first sub-US-$1/MFLOPS computing technology. It won the Gordon Bell Prize in 2000.</td>
+</tr>
+<tr>
+	<td align="center">May 2000</td>
+	<td align="center">$640</td>
+	<td align="center">$836</td>
+	<td align="center">KLAT2</td>
+	<td align="left">KLAT2 was the first computing technology which scaled to large applications while staying under US-$1/MFLOPS.</td>
+</tr>
+<tr>
+	<td align="center">August 2003</td>
+	<td align="center">$82</td>
+	<td align="center">$100</td>
+	<td align="center">KASY0</td>
+	<td align="left">KASY0 was the first sub-US-$100/GFLOPS computing technology.</td>
+</tr>
+<tr>
+	<td align="center">August 2007</td>
+	<td align="center">$48</td>
+	<td align="center">$52</td>
+	<td align="center">Microwulf</td>
+	<td align="left">As of August 2007, this 26.25 GFLOPS &quot;personal&quot; Beowulf cluster can be built for $1256.</td>
+</tr>
+<tr>
+	<td align="center">March 2011</td>
+	<td align="center">$1.80</td>
+	<td align="center">$1.80</td>
+	<td align="center">HPU4Science</td>
+	<td align="left">This $30,000 cluster was built using only commercially available &quot;gamer&quot; grade hardware.</td>
+</tr>
+<tr>
+	<td align="center">June 2013</td>
+	<td align="center">$0.22</td>
+	<td align="center">$0.22</td>
+	<td align="center">Sony Playstation 4</td>
+	<td align="left">The Sony PlayStation 4 is listed as having a peak performance of 1.84 TFLOPS, at a price of $400</td>
+</tr>
+<tr>
+	<td align="center">November 2013</td>
+	<td align="center">$0.16</td>
+	<td align="center">$0.16</td>
+	<td align="center">AMD Sempron 145 GeForce GTX 760 System</td>
+	<td align="left">Built using commercially available parts, a system using one AMD Sempron 145 and three GeForce GTX 760 reaches a total of 6.771 TFLOPS for a total cost of $1090.66.</td>
+</tr>
+<tr>
+	<td align="center">December 2013</td>
+	<td align="center">$0.12</td>
+	<td align="center">$0.12</td>
+	<td align="center">Pentium G550 R9 290 System</td>
+	<td align="left">Built using commercially available parts. Pentium G550 &amp; AMD R9 290 tops out at 4.848 TFLOPS grand total of $681.84 USD.</td>
+</tr>
+<tr>
+	<td align="center">January 2015</td>
+	<td align="center">$0.08</td>
+	<td align="center">$0.08</td>
+	<td align="center">Celeron G1830 R9 295x2 System</td>
+	<td align="left">Built using commercially available parts. Intel Celeron G1830 &amp; AMD Radeon R9 295x2 tops out at over 11.5 TFLOPS at a grand total of $902.57 USD.</td>
+</tr>
+</tbody>
+</table>
+<p>See <a href="http://en.wikipedia.org/wiki/FLOPS">the source</a> for important notes and additional information.</p>
+<p>In 55 years (shorter than my already short life) the equivalent cost to execute a billion FLOPs has dropped from USD $8,300,000,000,000 to USD $0.08. If that's not stunning and breathtaking then neither is (insert your most stunning and breathtaking thing here). Computing wins. </p>
+<p>While a bit dated, in a liquidinformation.org piece representing probably the absolute minimum achievable computing power, it is asserted that, for USD $1,000, we will be able to buy a computer with the computing power of an insect in 2018. That same $1K will get us a mouse brain in 2030, a human brain is 2042 and <em>all human brains combined</em> by 2060. If you are a normal early 20s undergraduate student, 2060 is well within your lifetime. Think of it. Just <em>think.</em>  </p>
+<p><a href="http://www.liquidinformation.org/information_history.html">Interested?</a> {read just the <em>Computation</em> sub-section including the <em>When will it end?</em> piece]</p>
+<h3>Takeaways</h3>
+<p>That's it for Chapter 2. Context is the single most important factor in decision making. Context is created by observation, examination and synthesis of the environment, the situation and the complex underpinnings of the many factors that swirl around us in everyday life. Computers are becoming better at creating context, partly as a function of the rapidly dropping cost of computing but mainly from the proliferation of more and more powerful sensors embedded in everything around us. ICT is rapidly closing the gap between human and machine in the area of decision making. And in many ways, this isn't a bad thing. We must, however, remain vigilant in order to ensure that we get value from this movement. </p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

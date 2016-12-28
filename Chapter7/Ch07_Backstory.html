@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch07_Backstory</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2>Chapter 7 - Backstory <img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png" alt="Flashlight" /></h2>
+<h3>Design Trends</h3>
+<p>Here's a great infographic on 2016 design trends:</p>
+<p><strong>Figure MJBJ: 2016 Design Trends</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/CC_Design_Trends_2016.jpg" alt="Design trends 2016" /></p>
+<p><a class="underlined-link" href="http://www.dailyinfographic.com/2016-design-trends?utm_source=feedburner&amp;utm_medium=email&amp;utm_campaign=Feed%3A+DailyInfographic+%28Daily+Infographic%29" target="_blank">Infographic source</a></p>
+<h3>Designer Skills</h3>
+<p>Here's some copy from the Careers page of a cutting-edge local (Ottawa) software house. The first ad is for a UX Designer. Note how many of the skills and responsibilities mesh with what we're talking about in this book:</p>
+<blockquote>
+<p><strong>Roles and responsibilities:</strong></p>
+<p><em>Helping the UX teams harness their creativity, realize their confidence to deliver and to mobilize behind collaborative inspirations</em></p>
+<p><em>You will articulate design reasoning to all levels of the organization – so communication skills are a must</em></p>
+<p><em>You will establish the creative direction and will monitor the health of project timelines for multiple programs</em></p>
+<p><em>You will help attract talent and grow the UX design team</em></p>
+<p><strong>Skills and experience:</strong></p>
+<p><em>8 years of experience working with product/design teams, ideally through the full lifecycle development process</em></p>
+<p><em>2+ years working experience in a UX Lead or UX Manager capacity</em></p>
+<p><em>Previous experience with agile development processes and a understanding of how to integrate into this environment</em></p>
+</blockquote>
+<p>And here, same company, an add for a Visual Designer:</p>
+<blockquote>
+<p><strong>Roles and responsibilities:</strong></p>
+<p><em>You will be responsible for the pixel-perfect visual appearances and design styles of our projects</em></p>
+<p><em>You will work on the development of innovative navigation systems, interface designs, typography, iconography and screen or page layouts for software, application, web sites, and other interactive media</em></p>
+<p><em>You will work on pushing the state-of-the-art with every creation with a meticulous and uncompromising eye</em></p>
+</blockquote>
+<p>And finally, here for a Software Developer:</p>
+<blockquote>
+<p><strong>Roles and responsibilities:</strong></p>
+<p><em>You have a strong sense of curiosity and are excited about learning new technologies</em></p>
+<p><em>You believe in iterating quickly and improving the performance of existing features</em></p>
+<p><em>You are a proven software developer and have a strong command of object-oriented principles</em></p>
+<p><em>If you have worked on open sourced projects, have a Github account or portfolio that represents your work, we would love to see it!</em></p>
+<p><strong>Skills and experience:</strong></p>
+<p><em>Strong programming skills in C++</em></p>
+<p><em>Experience or strong interest in developing 2D and 3D video games</em></p>
+<p><em>Experience or strong interest in developing apps for Android and iOS</em></p>
+<p><em>Experience in manipulating assets (geometry, images, sounds)</em></p>
+<p><em>Experience in building innovative user interfaces using popular toolkits</em></p>
+</blockquote>
+<p>Interesting to note that this textbook was written primarily using an open-source tool called <em>GitBook</em> which rests on the <em>GitHub</em> infrastructure mentioned in the ad. It's a small world...  
+</p>
+<h3>How the internet works (a very brief introduction)</h3>
+<p>The internet is a <em>network of networks</em>. In any organisation, large or small, there are likely multiple devices capable of communication with each other. Think desktops, laptops, smart devices, tablets, printers, modems and a wide variety of smaller devices such as sensors and beacons. But how does this communication take place? Let's start at the very beginning, with the original switched network, the telephone system.  
+</p>
+<h4>Circuit Switching - the early era of electronic communication</h4>
+<p>In the old days, every telephone was connected to every other telephone by wire. They weren't all simultaneously connected mind you. But if you had a phone, it was physically connected to the phone company network. When you wanted to make a call from phone number 5 to phone number 7, you requested the assistance of an operator - by either spinning a crank on the phone to spool up an electrical charge that, when sent over the wire, alerted the operator to your request or (later) clicking the receiver cradle to send a request signal down the line. </p>
+<p><strong>Image EBTB. A crank-operated phone</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/crank.jpg" alt="Crank" /></p>
+<p><em>Image credit: http://d2ydh70d4b5xgv.cloudfront.net/images/9/3/vintage-swedish-american-oak-hand-crank-wall-telephone-early-1900s-06583d8a0509b2a8fd776a64e64679fa.jpg</em></p>
+<p>The operator would connect with your line and ask you which number you wanted to reach. The operator would them <em>physically</em> connect your line with the destination line by plugging a wire into a large what was called <em>switchboard</em>. When the call ended, the operator disconnected the lines. Much of this was automated in the 1950s and onward, where mechanical switches were used to <em>disintermediate</em> operators. They were all out of work, and 95% (my estimate) were women.</p>
+<p><strong>Image LTDG. A switchboard operator back in the day</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/operator.jpg" alt="Operator" /></p>
+<p><em>Image credit: https://influxis.com/app/uploads/2014/06/switchboard-operator.jpg</em></p>
+<p>There were still <em>long distance</em> operators into the 1970s. Long distance (out of your Area Code) calls were initiated by dialing the number &quot;0&quot; and asking for a long distance operator. Here, different networks were connected together and you could hear the operators talking to each other. &quot;Hello 312? This is 416 long distance operator requesting local number...&quot; and so on. It was fun to listen. The numbers 312 and 416 were, of course, the Area Codes (AC) of Chicago and Toronto, respectively. An interesting tidbit is that, when area codes were assigned in North America in the late 1940s,  according to the North American Numbering Plan (NANP) states and provinces with only one AC were given numbers with a &quot;0&quot; in the middle, and those with more than one AC were assigned numbers with a &quot;1&quot; in the middle. So Illinois and Ontario had more than one AC. Furthermore, the numbers were assigned based on population, with the smallest numerical sums going to more densely populated areas. Chicago was big (and still is) thus their numbers summed to 6. Toronto summed to 11. Since &quot;1&quot; was never used as the first number in an area code, the lowest possible AC was 211. But all the <em>n11</em> ACs were reserved for future use (anticipating 411 - directory assistance and 911 etc.), the lowest AC was 212. Guess who got that? New York City, of course! The next lowest, 213, went to Southern California, including Los Angeles. This was to reduce wear and tear on the equipment as when a number was dialed (when direct dialing was introduced), the phone had a rotary dial. The dial had to be spun around to indicate the number (see the rotary handset below), and the actual physical clicking you heard (called <em>pulses</em>) was a signal to the network of the number you were dialing. It used the pulses to crank the mechanical switches to make the proper connection. There would obviously be more calls going to larger population areas, thus there was an effort to reduce the number of clicks required (both for wear and tear and ease of use - lower numbers required less effort to dial). If you can see it on your device, note the wear pattern on the numbers on the rotary dial phone image below.</p>
+<p><strong>Image EBSS. An early rotary phone</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/phone.jpg" alt="Rotary" /></p>
+<p><em>Image credit: https://s-media-cache-ak0.pinimg.com/564x/5c/df/a0/5cdfa0cec1c3a31cd91c5f98cd0229f0.jpg</em></p>
+<p>Early phone numbers were assigned on a first-come, first-served basis. So my grandfather's dairy was the 7th phone on his local exchange. Later, when phones became more popular and small phone exchanges amalgamated, they needed better addressing. There was obviously a phone number 7 in Oshawa, and Whitby and Ajax and Pickering and Scarborough and so on. I assume this began with a reassignment of numbers within amalgamated exchanges, so phone number 7 in Oshawa might have become 23 when Oshawa and Whitby amalgamated and so on according to some rule. Even this became unwieldy when numbers of phones grew, and local exchanges were assigned, in anticipation of changes to come, with alphanumeric identifiers. At my house, our identifier was <em>Randolph</em> shortened to RA. Our proper phone number was RA 5-1805. Neighbouring Whitby had a prefix of GR (I don't recall what GR stood for). If you watch the old <em>Honeymooners</em> TV series from the 1950s, you will note that Ralph Cramden's phone number was <em>Bensonhurst</em> (or BE) 0-7741 (they lived at 328 Chauncey Street in the Bensonhurst section of Brooklyn, New York. <a href="http://www.tv.com/shows/the-honeymooners/the-babysitter-104367/">Interested?</a> in an explanation of why Ralph's phone number started with a &quot;0&quot; - none ever do).</p>
+<p>All this to say that eventually, the Randolph RA became 72, so our phone number was 416-725-1805. Check out the very large dialpad from the iPhone below to map how the RA became 72.  Adding a country code (Canada and the US share the country code &quot;1&quot;) gives us, finally, 1.416.725.1805. <em>Et voila!</em> Very similar to an IP address, which we talk about below. If you were to dial that number from Germany, for example, the first digit would get you North America, the next three the 416 AC, the 72 gives the local sub-exchange and the 51805 the actual phone line into the house. Note that in 1993, the 416 AC was split into the 905 (ring around Toronto) and 416 (Toronto core). So that old phone number of mine in Oshawa now belongs to someone in Toronto. </p>
+<p>If you need a break, you can watch some old Honeymooners here: </p>
+<p>{% youtube %}https://www.youtube.com/watch?v=Nb8ulccRP_E{% endyoutube %}</p>
+<p>More trivia. The later, animated sitcom <em>The Flintstones</em> (you may have seen the much more recent movie starring John Goodman, Rosie O'Donnell, Rick Moranis and Halle Berry, among many others) was based on the Honeymooners.</p>
+<p><strong>Image RDIT. Contemporary dialpad (huge!)</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/dialpad.png" alt="Dialpad" /></p>
+<p><em>Image credit: My iPhone</em></p>
+<p>I know the above is totally useless information, but it might come in handy some day in a game of trivia. With an old person. </p>
+<p>So the connected world was physically connected with wires and switchboards to connect one device with another. Like a road system, you had to follow the wire to make the connection. We can still use this metaphor to describe the internet. Just as every phone had a number associated with it, every device attached to the internet has an address. Read on.</p>
+<h4>IP Addresses</h4>
+<p>Everything that is connected to the internet has an <em>Internet Protocol address</em>, usually referred to simply as an IP address or just an IP. Originally, IP addresses were made up of 4, 3-digit numbers separated by a dot. The form was xxx.xxx.xxx.xxx. Many devices still use this standard, called IPv4. The newer standard (IPv4 addresses were running out by 1995) is IPv6 (v5 is never mentioned - maybe it was that incident at the wedding reception last year?). The format of IPv6 addresses is considerably longer. Our friends at Wikipedia have this to say:</p>
+<blockquote>
+<p>&quot;The rapid exhaustion of IPv4 address space prompted the Internet Engineering Task Force (IETF) to explore new technologies to expand the addressing capability in the Internet. The permanent solution was deemed to be a redesign of the Internet Protocol itself. This new generation of the Internet Protocol was eventually named Internet Protocol Version 6 (IPv6) in 1995. The address size was increased from 32 to 128 bits (16 octets), thus providing up to 2128 (approximately 3.403×1038) addresses. This is deemed sufficient for the foreseeable future.&quot;</p>
+</blockquote>
+<p><a href="https://en.wikipedia.org/wiki/IP_address">Interested?</a></p>
+<p>Just to reiterate: every device both great and small, if it's connected to the internet, has an IP address, either v4 or v6. That's how devices on the network communicate. Every communication across the net must be addressed to some other device, otherwise, why bother communicating? Devices would simply be whistling in the wind with no one to hear the tune. That's fine for humans, but we expect more from our machines. </p>
+<h4>DNS - Domain Name Servers</h4>
+<p>At very low levels, when machines are talking to machines, they use IP address exclusively. But if we type the address <em>www.carleton.ca</em> into a browser, how does it get the address of the web server at Carleton? When we type that address into the browser's address box, we're asking to contact a web server at the school and for it to send back to our machine the contents of the home page for Carleton. But we're not typing an IP address, but a name. This is where <em>Domain Name Servers</em> come in. DNS' hold tables of IP addresses with associated names (like <em>carleton.ca</em>) and when a request is made over the World Wide Web service, the DNS does the translation of the name we type to the machine's IP address. Simple.</p>
+<p><strong>Table YTDS. Internet Protocols</strong></p>
+<table>
+<thead>
+<tr>
+	<th align="center">Protocol Layer</th>
+	<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="center">Applications Protocol Layer</td>
+	<td align="left">Protocols specific to particular applications which use the Internet. For example: the World-Wide Web (WWW), email (Post Office Protocol - POP), File Transfer Protocol (FTP), Voice over IP (VOIP), etc.</td>
+</tr>
+<tr>
+	<td align="center">Transmission Control Protocol (TCP) Layer</td>
+	<td align="left">TCP directs packets to a specific application on a computer using a port number.</td>
+</tr>
+<tr>
+	<td align="center">Internet Protocol (IP) Layer</td>
+	<td align="left">IP directs packets to a specific computer using an IP address.</td>
+</tr>
+<tr>
+	<td align="center">Hardware Layer</td>
+	<td align="left">Converts binary packet data to network signals and back. For example: Ethernet network card, modem for phone lines, WiFi adapter, etc.)</td>
+</tr>
+</tbody>
+</table>
+<p>Source: Based on https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm (Accessed August 21, 2016)</p>
+<p><strong>Figure TBRT. Network Protocols and Communication</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/protocols.png" alt="Protocols" /></p>
+<p>Figure TBRT depicts communication between two machines over a network (likely the internet). Each machine (left one has the IP address 1.2.3.4 and the right one has the address 5.6.7.8) has, in addition to its address, a <em>stack</em> of software/hardware consisting of four layers: <em>Application, TCP, IP</em> and <em>Hardware</em>. Below, the process of communicating a simple email between the two machines is explained in light detail. </p>
+<p>The (somewhat dated but still quite valid) <a href="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm">Stanford University article</a> explains what's going on in Figure TBRT (edited for context and clarity):</p>
+<ol>
+<li>Let's imagine that you want to send an email from your computer on the left, with an IP address of 1.2.3.4, to computer 5.6.7.8 on the right. The user types the message (&quot;Hello computer 5.6.7.8!&quot;) into an email client (the application on the top layer) to start the process.  
+</li>
+<li>If the message to be sent is long, each stack layer that the message passes through may break the message up into smaller chunks of data. This is because data sent over the Internet (and most computer networks) are sent in manageable chunks. On the Internet, these chunks of data are known as <em>packets</em>.</li>
+<li>The packets are passed on by the Application Layer and continue to the TCP layer. Here, each packet is assigned a <em>port number</em>. Ports will be explained later, but suffice to say that many programs may be using the TCP/IP stack (at the same time) and sending messages. We need to know which program on the destination computer needs to receive the message because it will be listening on a specific port, thus we need to send to that port. One of the jobs of the TCP layer is to include the port number in the contents of each packet it passes to the IP layer below it. </li>
+<li>The packets now proceed down to the IP layer. This is where each packet receives it's destination address, in this case the IP number <em>5.6.7.8.</em> It is important to note also that sequencing information is also added to the packets so that they can be reassembled in the proper sequence on the destination machine. We don't want our message to come out as &quot;8pHll7..rc&quot; etc. (These are some of the characters in the original message, but in the wrong order.) </li>
+<li>Now that our message packets have a port number and an IP address and a sequence number, they are ready to be sent over the Internet. The hardware layer takes care of turning our packets containing the alphabetic text of our message into electronic signals and transmitting them over the internet.</li>
+<li>On the other end of the modem in your home, your ISP has a direct connection to the Internet. The ISPs router examines the destination address in each packet and determines where to send it. Often, the packet's next stop is another router. The message zips around from router to router, following the least busy electronic pathway, until all pieces are received at the destination computer. </li>
+<li>Eventually, the packets reach computer 5.6.7.8. Here, the packets start at the bottom of the destination computer's TCP/IP stack and work upwards.</li>
+<li>As the packets go upwards through the stack, all routing data that the sending computer's stack added (such as IP address, port number and sequence) is stripped from the packets.</li>
+<li>When the data reaches the top of the stack, the packets have been re-assembled into their original form, &quot;Hello computer 5.6.7.8!&quot; appears as an email in the destination computer. </li>
+</ol>
+<p>But how do all those addresses get handled efficiently. There's a massive number of connected devices, and the number is growing exponentially. The answer is division of labour and knowing your neighbourhood. A very simple example will do here. Imagine your home. Likely you have Internet service from one of the big providers in Canada (Bell, Rogers, Telus, Cogeco, Videotron, etc.). Along with that service, comes a modem. A modem is an interface from your home to the internet. All internet traffic in your home runs through the modem. Likely you connect to it wirelessly, but it doesn't matter if you use a wireless or wired connection. This <em>port</em> to the internet <em>knows</em> the IP addresses of each device that connects to it. </p>
+<p>As promised, here's what <a href="https://www.techopedia.com/definition/3659/computer-port">Techopedia</a> has to say about <em>ports:</em></p>
+<blockquote>
+<p>&quot;A computer port is a connection point or interface between a computer and an external or internal device. Internal ports may connect such devices as hard drives and CD ROM or DVD drives; external ports may connect modems, printers, mice and other devices.&quot;</p>
+</blockquote>
+<p>Thus a port is simply a place that accepts incoming communication, just like a seaport or a door. It's the <em>delivery door</em> for machine communication. When an email is sent, it's sent from a port. WHen an email arrives, it's sent to the email port, where the machine is <em>listening</em> for email. </p>
+<h3>Communication Types</h3>
+<p>All manner of communication protocols like Bluetooth, etc. </p>
+<ul>
+<li>Bluetooth - According to Wikipedia (accessed October 2, 2016) &quot;Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[4]) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization.&quot; Bluetooth is primarily used to connect devices such as speakers, headphones and other short-range devices to smart phones. <a class="underlined-link" href="https://www.bluetooth.com/" target="_blank">Interested in where Bluetooth is going?</a></li>
+<li>RFID (Radio Frequency Identification). RFID provides unique identification for an object.. Much like a bar code or the magnetic strip on the back of a credit card, RFID scanners can retrieve basic information about an object from a distance of about 6 metres (20 feet) for high-frequency scanners. And unlike bar code scanners for exaple, orientation doesn't matter for RFID. Theoretically, you could put all your grocery purchases in a bag and set it on an RFID scanner and all would be scanned without the troublesome swiping and aligning that's necessary with bar code readers. <a class="underlined-link" href="http://www.technovelgy.com/ct/Technology-Article.asp?ArtNum=2" target="_blank">Interested?</a></li>
+<li>NFC (Near Field Communication) NFC descended from RFID technology and is the &quot;magic&quot; behind &quot;tap-and-go&quot; technology found in payment cards, for example. NFC does not require a &quot;pairing handshake&quot; as does Bluetooth and has a very low power requirement. All that is necessary to exchange data is to being an NFC device close to a reader. <a class="underlined-link" href="http://www.techradar.com/news/phone-and-communications/what-is-nfc-and-why-is-it-in-your-phone-948410" target="_blank">Interested?</a>  </li>
+<li>Client-server. The largest implementation of client-server architecture is the Internet. Clients (that's you and me) can make requests for services (data) from servers (machines that hold the data we want). We make requests of those machines, which <em>serve</em> the data back to us. Various specialised machines and architectures provide a wide range of services. There are specialised machines for database, video, voice, email and a range of others. <a class="underlined-link" href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model" target="_blank">Interested?</a></li>
+<li>P2P - Peer-to-Peer networks. According the Wikipedia &quot;Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or work loads between peers [machines of equal standing on the network - unlike the client-server model where servers have more power and privilege]. Peers are equally privileged, equipotent [same power] participants in the application. They are said to form a peer-to-peer network of nodes.&quot; Early file-sharing networks (Napster, for example) used P2P to their advantage. <a class="underlined-link" href="https://en.wikipedia.org/wiki/Peer-to-peer" target="_blank">Interested?</a></li>
+</ul>
+<p>For a comprehensive treatment of networks (not required reading but pretty interesting anyway) see <a href="https://en.wikipedia.org/wiki/Computer_network">this Wikipedia article</a>. </p>
+<p>That's it for Chapter 7!</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

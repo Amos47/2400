@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch04_Backstory</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2>Chapter 4 - Backstory <img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons/32/time_mach_1.png" alt="Flashlight" /></h2>
+<h3>Fixing the siloed organsiation</h3>
+<p>What to do? As a first step, some rationalisation of data stores is in order. Looking at the organisation from a <em>process viewpoint</em>, we realise that the Sales, Marketing and Customer Service functions all relate to the <em>customer interface</em> and share more in common with each other than they do with Manufacturing or Finance, for example. So we might think to rationalise around an enterprise system that has a customer focus. And there's just such a beast: the <em>Customer Relationship Management</em> or CRM system. </p>
+<p>Take a look at Figure ESO below. Note the only real change from Figure SO in the Basics section of this chapter? Functions under the same VP now share databases, making reporting much easier at that level. The databases are bigger, more sophisticated in terms of reporting and relationships and allow for data to be stored and formatted in compatible ways for reporting purposes in this management structure. That’s a great first step. But really, we have only <em>reduced</em> the pain. It’s not a cure. Note the CFO (Chief Financial Officer) and CPO (Chief Privacy Officer) would experience the same problem getting compatible and timely reports as before, as they must cross systems boundaries to get rolled-up data. Not a complete solution at all.</p>
+<p>Examples of enterprise systems include: </p>
+<ul>
+<li><em>CRM</em> (Customer Relationship Management) - manages customer-related processes</li>
+<li><em>PLM</em> (Product Lifecycle Management) - handles creation and implementation of new products</li>
+<li><em>SCM</em> (Supply Chain Management) - deals with procurement, inventory, and other supply chain processes</li>
+<li><em>SRM</em> (Supplier Relationship Management) - works with suppliers, vendors and service providers</li>
+</ul>
+<p>Each of these types of ES concentrate on a particular aspect of the value chain. Note they are <em>managing</em> some process or aspect, such as <em>Customers</em> or <em>Suppliers</em> or <em>Products</em>. Using such systems, while productive (efficient and effective) in and of themselves, does not get us to the truly integrated enterprise stage that we seek. Read on.</p>
+<p><strong>Figure ESO. An enterprise systems organisation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/es.png" alt="An ES organisation" /></p>
+<p>You are probably already guessing what the ultimate fix might be, and that is the enterprise system to beat all enterprise systems -- the mother of all ESs - the <em>Enterprise Resource Planning</em>, or ERP, system. The ERP organisation is a medium to large (to enormous) operation with enough functional complexity and cash to warrant such a comprehensive and expensive solution. ERP (Enterprise Resource Planning systems) automate and rationalize key business functions such as financials, human capital, operations, and corporate services, and also provide complete <em>snap-in</em> solutions for a wide variety of industries (such as pharma, auto, defence, agriculture, retail, etc…) which integrate and automate all functions of an organisation. Take a look at Figure ERP below and spot the change.  </p>
+<p><a name="erp_org"></a>
+<strong>Figure ERP. An ERP organisation</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/erp.png" alt="An ERP organisation" /></p>
+<p>While this is a <em>massive</em> oversimplification of all the benefits or ERP, it serves to illustrate its most basic principle: that a transaction should be <em>atomic</em>, that is, there should only ever be one instance of a thing such as a <em>sale</em>. The sale, as an <em>entity</em>, should make its way through the organisational value chain but should never exist anywhere other than in the value area in which it resides. So there should not be an instance of the sale in Accounting, and in Finance, and in Sales and in Shipping. There is only ever <em>one</em> sale. We can track its position but never copy it. Because a sale, like any other object in an organisation, has a lifetime. We can watch it and interact with it and query it to ask what it's up to through its lifetime but we must never clone it to fulfil the siloed needs of functional areas. And enterprise database <em>backends</em> help to fulfil this very basic requirement. We discuss <em>backends</em> in Chapter 7 <a class="underlined-link" href="Ch07_Basics.md\#terminology" target="_blank">(take me there)</a>.</p>
+<p>What are the benefits of Enterprise Systems (such as ERP)? According to Rick Mullin, <em>ERP Users Say Payback is Passé</em>, (Chemical Week, Feb. 24, 1999) as quoted in CGA stuff waiting for permission, they are plenty: </p>
+<ul>
+<li>Inventory reduction </li>
+<li>Personnel reduction </li>
+<li>Productivity improvement </li>
+<li>Order management improvement </li>
+<li>Financial close cycle reduction </li>
+<li>Procurement cost reductions </li>
+<li>Cash management improvements </li>
+<li>Revenue increases </li>
+<li>Transportation/logistics cost reduction </li>
+<li>Maintenance reduction </li>
+<li>On-time delivery improvements </li>
+<li>Information visibility </li>
+<li>Improved processes </li>
+<li>Customer responsiveness </li>
+<li>Cost reduction </li>
+<li>Integration </li>
+<li>Standardization </li>
+<li>Flexibility </li>
+<li>Globalization </li>
+<li>Improved business performance </li>
+<li>Supply chain management</li>
+</ul>
+<p>What's not to love? </p>
+<p>Note the major change – one massive database has replaced all functional and MIS systems. While this is the most <em>obvious</em> change, it is by no means the <em>only</em> change that organisations undergo when adopting an ERP. Next in line in terms of significance following the integration of all company data stores into a single, transaction-oriented database, the largest impact that an ERP has on an organisation is the requirement that the firm examine and alter all its business processes to match the <em>best practice</em> standards enforced by the ERP system. Don’t want to do business our way? Then you won’t be running SAP or Oracle or Microsoft ERP systems. You play by the rules or you don’t play. This is the most common reason cited for failed ERP installations – the inability (or unwillingness) of the organisation to change the way it does business to match the ERP’s standards.</p>
+<p>Let's take a quick look at role-based visibility and scope as it applies to organisations using ERP-type software. Figure KT shows the breadth of visibility of data and information corresponding to position in the organisational hierarchy. </p>
+<p><strong>Figure KT. Role-based scope of visibility</strong></p>
+<p><img src="https://raw.githubusercontent.com/robertriordan/2400/master/Images/scope.png" alt="An ERP organisation" /></p>
+<p>The <em>visibility</em> of data/information refers to the reporting structure. Starting at the very top, note the great, grey pyramid radiating downward from the CEO position. The CEO <em>sees</em> all data and their Executive Information System software ensures that they have complete visibility of all data because their <em>role</em> as Chief, demands it. So their role-based visibility is 100% wide in scope. Others in the hierarchy have different visibility of, and responsibility for, more restricted domains. Not all the roles are scoped out on this Figure. You can see what the others would be by simply tracing the functional responsibilities up to each successive level of reporting. Such <em>role-based</em> visibility is easily effected in enterprise software.    </p>
+<h4>When ERP fails</h4>
+<p>What happens when organisations can't make the necessary adjustments to their business processes to allow the ERP to run their business? There are several high profile cases. In the Canadian context, the biggest splash was made in 2001 when grocery giant Sobey's has a very public spat with SAP over a database failure (Sobey's was using IBM's DB2 software as their enterprise database system) <a href="http://www.computerdealernews.com/news/sobeys-fires-sap-over-erp-debacle/22906">Interested?</a> and <a href="http://www.itworldcanada.com/article/sobeys-says-goodbye-sap/29540">Interested in a slightly different perspective?</a>. But they apparently kissed and made up, as Sobey's implemented an SAP system a few years later. <a href="http://www.itbusiness.ca/news/sobeys-gives-sap-a-second-chance/10471">Interested?</a></p>
+<p>In 2008, Mountain States Entertainment made the news for a big ERP flop <a href="http://www.erpsoftwareblog.com/2011/01/erp-implementation-failure-you-be-the-jury-part-1/">Interested?</a>, and in 2004 Marin County California's failed implementation led to a lawsuit against Deloitte <a href="http://www.computerworlduk.com/news/it-business/20575/deloitte-sued-over-failed-erp-project/">Interested?</a>.  A more academic treatment is found in a Harvard business case written by A. McAfee, entitled <em>Rich-Con Steel</em>, (Harvard Business School Case 9-699-133, HBS Press, January 27, 1999).</p>
+<p>But the knife cuts both ways. ERP business process is based on best practices (extensive research, testing and proof from the field that the ERP-recommended way to do business is the most efficient and effective way). The opportunity for an organisation to actually stop and look at its processes – which may have grown up over years in a patchwork quilt of expediency and become inefficient and redundant – is an amazing opportunity. </p>
+<h3>Is your IT operating at two speeds?</h3>
+<p>Is this in the right place? It could go several places in the text. </p>
+<p>&quot;It’s hard — perhaps impossible — to undergo a digital transformation with a legacy IT architecture. While the integrity of transaction-focused systems with sensitive data must be protected, IT needs to build out a separate system that can provide nimble customer-facing capabilities. New apps and databases can then be added as needed without touching the underlying systems that run the rest of the business. This second high-speed system supports agile development and prototyping, with weekly or even daily releases and an experimental “fail faster” mind-set.</p>
+<p>&quot;In developing high-speed systems, digital leaders put in place the analytics and intelligence needed to provide near-real-time insights into customer needs and behaviours, which then determine the personalized messages and offers delivered to individual customers. Being digital involves establishing a cyclical dynamic in which processes and capabilities are constantly evolving in response to inputs from the customer. Supporting this give-and-take process across multiple platforms at scale requires extensive automation.&quot;</p>
+<p>http://www.mckinsey.com/business-functions/organization/our-insights/nine-questions-to-help-you-get-your-digital-transformation-right</p>
+<p>(TK) The hybrid cloud: http://searchcloudcomputing.techtarget.com/definition/hybrid-cloud</p>
+<h3>Shadow IT, BYOD and cloud computing</h3>
+<p>An Information Week <a href="http://www.informationweek.com/strategic-cio/it-strategy/shadow-it-8-ways-to-cope/d/d-id/1319535">article</a> on Shadow IT begins this way: </p>
+<blockquote>
+<p>&quot;f your employees and business departments are bypassing internal IT resources to acquire their own systems, software, and other technologies without your explicit permission, take heart: You are not alone.</p>
+<p>For many organizations, so-called Shadow IT grew out of pure necessity, as increasingly tech-savvy employees sought out their own solutions to specific
+line-of-business problems.&quot;</p>
+</blockquote>
+<p>Here's how Wikipedia defines Shadow IT:</p>
+<blockquote>
+<p>&quot;Shadow IT is a term often used to describe information-technology systems and solutions built and used inside organizations without explicit organizational approval. It is also used, along with the term &quot;Stealth IT&quot;, to describe solutions specified and deployed by departments other than the IT department.</p>
+<p>Shadow IT is considered by many an important source for innovation and such systems may turn out to be prototypes for future approved IT solutions. On the other hand, shadow IT solutions are not often in line with the organization's requirements for control, documentation, security, reliability, etc., although these issues can apply equally to authorized IT solutions.&quot;</p>
+</blockquote>
+<p><a href="https://en.wikipedia.org/wiki/Shadow_IT">Interested?</a></p>
+<p>BYOD (Bring Your Own Device) id often credited with being the start of Shadow IT. BYOD was and is a strategy popular in organisations both large and small whereby employees brought their own, personal computing devices and smart tech to work, and the organisation supported their use of it to access and create data on the corporate network. Most IT organisations aren't nimble enough the handle the rapid pace of change in technology - see Governance in Chapter 4 Backstory - <a class="underlined-link" href="Ch04_Basics.md\#governance" target="_blank">(take me there)</a>. Coupled with cloud computing and the wide range of <em>as-a-service</em> services available (such as <em>Software-as-a-Service</em> (SaaS) and <em>Platform-as-a-Service</em> (PaaS). </p>
+<p>Cloud computing has allowed and supported the connection of almost any kind of device to remote resources for storage, computing and transmission of data. You are probably using a cloud email service, examples of which are Hotmail, Gmail, Outlook web access and even Cmail - which is Outlook web access mail from Microsoft. </p>
+<p>And that's it for Chapter 4. </p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
