@@ -10,29 +10,26 @@ When considering data, we first need to carefully consider what is meant by the 
 
 #### Precision
 <a name="precision"></a>
-"The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results. Although the two words precision and accuracy can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method." So precision, in the context of the targets below, is a measure of how close the various attempts are *to each other* and not necessarily how close they are to the bullseye. You can see that the attempts in Figure LAGP are much more precise (closer together) than are those in Figure LAPP. 
+"The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results. Although the two words precision and accuracy can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method." So precision, in the context of the targets below, is a measure of how close the various attempts are *to each other* and not necessarily how close they are to the bullseye. You can see that the attempts in sets B and C in Figure SRNA (below) are much more precise (closer together) than are those in set A. 
 
 They continue that, “A measurement system can be accurate but not precise, precise but not accurate, neither, or both. For example, if an experiment contains a systematic error, then increasing the sample size generally increases precision but does not improve accuracy. The result would be a consistent yet inaccurate string of results from the flawed experiment. Eliminating the systematic error improves accuracy but does not change precision."
 
 Furthermore, “A measurement system is considered valid if it is both accurate and precise. Related terms include bias (non-random or directed effects caused by a factor or factors unrelated to the independent variable) and error (random variability).
 
-**Figure LAPP. Low accuracy: poor precision**  
+**Figure SRNA. Accuracy and precision**  
+![Measurement](https://raw.githubusercontent.com/robertriordan/2400/master/Images/measurement.png)
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/High_accuracy_Low_precision.svg/200px-High_accuracy_Low_precision.svg.png)
+Examining the *target practice* images above, and first considering the set labelled A at the top, left, we immediately see that no one shot is exactly dead centre. This might even be considered a random outcome. Thus on the whole, these attempts are not accurate. And since they err in different directions, neither can we can't give these attempts good marks for *precision* - the degree to which they agree with each other. They err by about the same amount in different directions. For why this is interesting, see the *old joke* below.  
 
-Looking at the *target practice* image above, we immediately see that no one shot is exactly dead centre. This might even be considered a random outcome. Thus on the whole, these attempts are not accurate. And since they err in different directions, neither can we can't give these attempts good marks for *precision* - the degree to which they agree with each other. They err by about the same amount in but different directions. For why this is interesting, see the *old joke* below.  
+We next consider set B. Here we have a different situation. While again no attempt was dead centre, all four were clustered closely to the left and below the *pay dirt* area. Still a situation of *low accuracy*. But in this case, the *precision* is excellent. The attempts are very closely clustered together and are thus very precise. But they are *consistently* wrong. As if some technical difficulty is introducing bias into the process (a crooked site perhaps?) causing an otherwise great set of attempts to be consistently wrong. 
 
-**Figure LAGP. Low accuracy: good precision**
+Finally, let's consider set C. Here we are much closer to a *bullseye* and we are also *consistently* close together. This is the situation of both high accuracy and high precision. We're hitting paydirt and we're consistently doing so. 
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
+*Adapted from: [Wikipedia accuracy and precision](http://en.wikipedia.org/wiki/Accuracy_and_precision). Image sources: Credit DarkEvil (public domain)*
 
-Here we have a different situation. While again no attempt was dead centre, all four were clustered closely to the left and below the *pay dirt* area. Still a situation of *low accuracy*. But in this case, the *precision* is excellent. The attempts are very closely clustered together and are thus very precise. But they are *consistently* wrong. As if some technical difficulty is introducing bias into the process (a crooked site perhaps?) causing an otherwise great set of attempts to be consistently wrong. 
+Finally, "According to ISO 5725-1, the general term *accuracy* is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same *measurand* [see this reference to understand the term *measurand*](http://en.wiktionary.org/wiki/measurand), it involves a component of random error and a component of systematic error. [...] *trueness* [and thus accuracy] is the closeness of the mean of a set of measurement results to the actual (true) value and *precision* is the closeness of agreement among a set of results." Figure PAM illustrates the terms visually. 
 
-*Source: [Wikipedia accuracy and precision](http://en.wikipedia.org/wiki/Accuracy_and_precision). Image sources: Credit DarkEvil (public domain)*
-
-Finally, "According to ISO 5725-1, the general term *accuracy* is used to describe the closeness of a measurement to the true value. When the term is applied to sets of measurements of the same *measurand* [see this reference to understand the term *measurand*](http://en.wiktionary.org/wiki/measurand), it involves a component of random error and a component of systematic error. [...] *trueness* [and thus accuracy] is the closeness of the mean of a set of measurement results to the actual (true) value and *precision* is the closeness of agreement among a set of results." Figure SR illustrates the terms visually. 
-
-**Figure SR. Precision and accuracy of measurement**
+**Figure PAM. Precision and accuracy of measurement**
 
 ![Accuracy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/accuracy_final.png)
 
@@ -45,11 +42,8 @@ Each of these will become important at different junctures in our study. Measure
 #### An old joke
 *All this measurement talk reminds me of the great old joke about a doctor, a lawyer and a statistician who are obviously starving or else they wouldn't be on a hunting trip. While hiding in the bushes, they spot a big buck deer at a distance of 25 metres directly in front of them. The doctor sizes up the distance and wind speed, then aims and fires an arrow at the deer. His shot zooms one metre to the rear of the unsuspecting creature. The lawyer notes the doctor's outcome, does some quick calculations, then aims and fires. His shot zips one metre in front of the deer. Our statistician friend jumps up, raises his hands in victory and shouts "GOT ‘IM!!"  (No animals were hurt in the process of creating this book.)* 
 
-<a name="types">
+<a name="types"></a>
 ### Levels (types) of data
-In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year in which a person was born in order to provide an age-based discount but having only collected customer age data in 5-year age brackets. So rather than asking a customer to provide the year of their birth, instead asking them to indicate whether they were born in the 1970-1974 or 1975-1979 period, etc. That's a lot of guessing and a lot of unnecessary sloppiness in the precision of their data. Thus, level of measurement is critical in some contexts. 
-
-In general, the closer one can get to ratio / hierarchical data level, the more powerful is the measurement. But some data simply doesn't exist at that level. Gender, for example, is a nominal-level measurement no matter how you slice it. Thought needs to be put into data capture schemes so that the collected data can be used to generate value for the firm. We will return to this later.
 
 The *NOIR* and *LATCH* taxonomies assist in categorising and determining what can be done with data. Each is discussed and cross-referenced between taxonomies below. 
 
@@ -98,6 +92,10 @@ Interval data using the NOIR taxonomy corresponds to Time and Hierarchical in LA
 This is the highest level of measurement and affords the most opportunity to understand the underlying dimensions captured therein. Examples of variables measured at the ratio level include age, dollar values, counts of discrete items (number of events, purchases, people, goods, etc. either when counting or when expressed as a ratio to each other or to a total). Interval data are exact and have a real zero, thus any and all algebraic operations are possible (addition, subtraction, multiplication, division and exponentiation). Finally, we can say that $2 is twice as much as $1. 
 
 Ratio data in NOIR corresponds to Hierarchical data in LATCH.
+
+In using statistical methods, for example, the determination of level of measurement is critical. Certain statistical tests and methods require certain levels of measurement of the data under analysis. Level of measurement is also important when data scientists plan what data to collect for a particular purpose. Imagine a firm needing to know the exact year in which a person was born in order to provide an age-based discount but having only collected customer age data in 5-year age brackets. Their mistake was to ask their customers to indicate whether they were born in the 1970-1974 or 1975-1979 period, etc. rather than asking for year of their birth. This mistake introduces a lot of unnecessary sloppiness in the precision of their data. Thus, level of measurement is critical in some contexts. 
+
+In general, the closer one can get to the ratio / hierarchical data level, the more powerful is the measurement. But some data simply doesn't exist at that level. Gender, for example, is a nominal-level measurement no matter how you slice it. Thought needs to be put into data capture schemes so that the collected data can be used to generate value for the firm. We will return to this later.
 
 ### LATCH taxonomy
 
@@ -156,7 +154,7 @@ Hierarchical data is that which is measured in comparison with others and which 
 
 Any and all mathematical operation can be done using such data. It is the highest data categorisation and corresponds to Interval data in the NOIR system.
 
-<a name="communication">
+<a name="communication"></a>
 ## Communication
 
 How pervasive is information communication? What's the *coverage* in Canada? Take a look at this simple interactive map:
@@ -231,7 +229,7 @@ Back to Figure DVTT where we left off at item 6 and 7. This was a huge step forw
 Hand-in-hand with the telephone revolution was the phenomenon we know as the internet. A *network of networks* allowed near real-time, distributed, person and group communication in any combination. Person-to-person, group-to-group, person-to-group, etc. All possibilities were attainable. The internet revolution Phase 1 defeated dialogicity (allowing many people to communicate synchronously with many people) and the wireless revolution allowed the defeat of location, just as the cell phone did for verbal communication. 
 
 ## Systems and process
-<a name="systems">
+<a name="systems"></a>
 **Figure SG. A simple system**
 
 ![Process](https://raw.githubusercontent.com/robertriordan/2400/master/Images/simple_system.png)
