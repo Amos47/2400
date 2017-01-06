@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h1>Forward</h1>
+<p>Thanks for digging into my book, &quot;An introduction to ICT for the average smart person&quot;.</p>
+<p>This book is all things BUSI 2400, it's fresh and, for the time being, it's also free. That's ZERO COST with a capital F!</p>
+<p><img src="http://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png" alt="XKCD is life itself" /></p>
+<p>This comic is from the brilliant XKCD site. Check it out [here](Source: http://xkcd.com/1352/).</p>
+<p>In the very beginning, at the murky start of time, there was nothing. Or perhaps even less than that. Maybe <em>negative</em> nothing? But then again maybe not, since of course negative nothing is something. Or maybe there was already everything, but not anything? In any event, at the instant of the <em>Big Bang</em> (with apologies to Sheldon <em>et al</em>), there was instantly something. It was the very first binary data. Nothing, then something. Zero then one. Off then on. Dark begat light. Up and down became different. In meant something relative to out. You get the picture. </p>
+<p>And so it was that data began to accumulate at that very instant.  </p>
+<p><strong><em>Welcome to the study of ICT!</em></strong></p>
+<p>Let's get the dry, most academic stuff possible out of the way early, with a quote from the <em>Association for Computing Machinery, the Association for Information Systems</em> and the <em>Association of Information Systems Professionals</em> who, from time to time, get together and bang out a position paper on what should be taught to students in information systems in various university and college faculties and programs. The most recent such update is from 2010 (a newer version is expected soon). The full document is available <a href="https://www.acm.org/education/curricula/IS%202010%20ACM%20final.pdf">here</a>. But this is the gist of what you need to know about what they think ICT is (even though they don't use the term <em>Information and Communication Technology</em> or the abbreviation (ICT), I do so in this text). That aside, here's what they say on page 13, <em>for the record</em>:</p>
+<blockquote>
+<p><em>&quot;Information Systems as a field of academic study encompasses the concepts, principles, and processes for two broad areas of activity within organizations: (1) acquisition, deployment, and management of information technology resources and services (the information systems function) and (2) development, operation, and evolution of infrastructure and systems for use in organizational processes (system development, system operation, and system maintenance). The systems that deliver information and communications services in an organization combine both technical components and human operators and users. They capture, store, process, and communicate data, information, and knowledge.</em></p>
+<p><em>&quot;The information systems function in an organization has a broad responsibility to plan, develop or acquire, implement, and manage an infrastructure of information technology (computers and communications), data (both internal and external), and enterprise-wide information processing systems. It has the responsibility to track new information technology and assist in incorporating it into the organization's strategy, planning, and practices. The function also supports departmental and individual information technology systems. The technology employed may range from large centralized to mobile distributed systems. The development and management of the information technology infrastructure and processing systems may involve organizational employees, consultants, and outsourcing services.</em> </p>
+<p><em>&quot;The activity of developing or acquiring information technology applications for organizational and inter-organizational processes involves projects that define creative and productive use of information technology for transaction processing, data acquisition, communication, coordination, analysis, and decision support. Design, development or acquisition, and implementation techniques, technology, and methodologies are employed. Processes for creating and implementing information systems in organizations incorporate concepts of business process design, innovation, quality, human-machine systems, human-machine interfaces, e-business design, sociotechnical systems, and change management.</em></p>
+<p><em>&quot;Information systems professionals work with information technology and must have sound technical knowledge of computers, communications, and software. Since they operate within organizations and with organizational systems, they must also understand organizations and the functions within organizations (accounting, finance, marketing, operations, human resources, and so forth). They must understand concepts and processes for achieving organizational goals with information technology. The academic content of an information systems degree program therefore includes:</em></p>
+<p><em>[1] information technology,</em> </p>
+<p><em>[2] information systems management,</em> </p>
+<p><em>[3] information systems development and implementation,</em> </p>
+<p><em>[4] organizational functions, and</em> </p>
+<p><em>[5] concepts and processes of organizational management.&quot;</em></p>
+</blockquote>
+<p>We will endeavour to hit ACM proclamations 1, 2 and 3 <em>very</em> hard, and 4 and 5 slightly less so, in this book. If you are in an ICT concentration or degree program, other courses of study will back fill your knowledge of the remaining items.</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

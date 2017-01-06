@@ -10,19 +10,19 @@ When considering data, we first need to carefully consider what is meant by the 
 
 #### Precision
 <a name="precision"></a>
-"The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results. Although the two words precision and accuracy can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method." So precision, in the context of the targets below, is a measure of how close the various attempts are *to each other* and not necessarily how close they are to the bullseye. You can see that the attempts in Figure BFHC are much more precise (closer together) than are those in Figure SMC. 
+"The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results. Although the two words precision and accuracy can be synonymous in colloquial use, they are deliberately contrasted in the context of the scientific method." So precision, in the context of the targets below, is a measure of how close the various attempts are *to each other* and not necessarily how close they are to the bullseye. You can see that the attempts in Figure LAGP are much more precise (closer together) than are those in Figure LAPP. 
 
 They continue that, “A measurement system can be accurate but not precise, precise but not accurate, neither, or both. For example, if an experiment contains a systematic error, then increasing the sample size generally increases precision but does not improve accuracy. The result would be a consistent yet inaccurate string of results from the flawed experiment. Eliminating the systematic error improves accuracy but does not change precision."
 
 Furthermore, “A measurement system is considered valid if it is both accurate and precise. Related terms include bias (non-random or directed effects caused by a factor or factors unrelated to the independent variable) and error (random variability).
 
-**Figure SMC. Low accuracy: poor precision**  
+**Figure LAPP. Low accuracy: poor precision**  
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/High_accuracy_Low_precision.svg/200px-High_accuracy_Low_precision.svg.png)
 
 Looking at the *target practice* image above, we immediately see that no one shot is exactly dead centre. This might even be considered a random outcome. Thus on the whole, these attempts are not accurate. And since they err in different directions, neither can we can't give these attempts good marks for *precision* - the degree to which they agree with each other. They err by about the same amount in but different directions. For why this is interesting, see the *old joke* below.  
 
-**Figure BFHC. Low accuracy: good precision**
+**Figure LAGP. Low accuracy: good precision**
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/High_precision_Low_accuracy.svg/200px-High_precision_Low_accuracy.svg.png)
 
