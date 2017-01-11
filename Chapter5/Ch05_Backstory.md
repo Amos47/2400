@@ -62,7 +62,7 @@ Ontario has not enacted legislation that is substantially similar to PIPEDA but 
 
 ###Disassociation of content, time and support
 
-<a name="disassociation">
+<a name="disassociation"></a>
 
 We live in an increasingly digitised world. Take a simple example: a hockey game. Time was, the only one way to enjoy the event was in person. Consider the myriad ways such an event can be enjoyed today, both *synchronously* (in real time both in person and off-site) and *asynchronously* (not in real time – stored for later consumption). See Figure TT below.
 

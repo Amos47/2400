@@ -22,4 +22,4 @@ Let's begin with a quote from Kevin Kelly's 2016 book entitled *The Inevitable: 
 
 *Kevin Kelly is the founding executive editor of Wired magazine, and a former editor/publisher of the Whole Earth Review. His book (which I *strongly* recommend you read) was published by Viking (Penguin Random House) on June 7 2016. ISBN 9780525428084.*
 
-So let's begin. Take a look at *Chapter 1 Basics*.  
+So let's begin with *Chapter 1 Basics*.  

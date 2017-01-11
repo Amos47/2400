@@ -40,6 +40,7 @@ If analysis determines that the information released by our competitor nuGrill i
 #### Information
 If the information is deemed to be not untrue (*ergo*, it’s true) then we move to the last level in the scale: information. If we make it up to this level, we know that the information released at the press conference is deemed to contain a true representation of our customers’ opinions of Sparkl and, if released by our competitor nuGrill, the results must be saying either something bad about us or something good about them. Whichever, the information is true and action must be taken to deal with the fallout. Several ICT strategies are possible, including targeted information campaigns designed to bolster our reputation and/or discredit the competition. 
 
+<a name="exformation"></a>
 #### Exformation
 Appropriate in this context is the discussion of the concept of *Exformation*. Here I extensively quote [the exformation entry in wikipedia.com](https://en.wikipedia.org/wiki/Exformation "Exformation") [emphasis in [] added by me]:
 

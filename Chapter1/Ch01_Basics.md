@@ -346,8 +346,33 @@ It’s clear that problems don’t get solved for free. If business solves a pro
 
 What is also interesting from the McKinsey piece is their contention that problems must be solved at an increasing rate. So this year we must solve more problems (either in absolute terms or as a rate) than last year and the year before that. Everything escalates under capitalism. Goods cost more, wages rise to meet the cost of goods and we live in this inflationary spiral which ebbs and flows but other than in rare periods of deflation (which are quickly corrected by monetary policy) is always with us. Problems must be solved at an increasing pace and profit must increase year over year. It’s enough to drive one mad. 
 
-Thus the pace of everything is accelerating. This puts increasing pressure on the systems that businesses use to solve problems. To understand systems in detail, see the Systems and process section in Backstory 
-<a class="underlined-link" href="Ch01_Backstory.md\#systems" target="_blank">(take me there)</a>.
+Thus the pace of everything is accelerating. This puts increasing pressure on the systems that businesses use to solve problems. 
+
+To understand systems, we'll take a brief look at some simple schematics. 
+
+## Systems and process
+<a name="systems"></a>
+**Figure SG. A simple system**
+
+![Process](https://raw.githubusercontent.com/robertriordan/2400/master/Images/simple_system.png)
+
+A simple system or a complex system, any system, has only four pieces. First, input is required. Once input is present, work (a process) then transforms that input into output. Feedback is then provided to the Input end (with a message that processing should continue, increase, decrease, stop or change in some way). That's it. Input --> Process --> Output --> Feedback. All four are necessary. No work process without input, no output without work, no input and work without something coming out the other side. And every system needs to report on how it's doing. Make sure to understand that a system also requires a *trigger*: something to set it in motion. Systems don't just start of their own volition (if they had any) or momentum. Something must spur them into action. Furthermore, and equally important, a system must have a *goal*; a reason for its existence; a purpose. We don't just do things because we can.
+
+Our simple graphic above depicts a system, the goal of which is to make dairy products -- something my family did 100 years ago when their telephone number in Oshawa, Ontario was *7*. Yup, that’s it. Seven. Talk about getting in on the ground floor! 
+
+![Riordan’s Dairy](https://raw.githubusercontent.com/robertriordan/2400/master/Images/riordans_dairy_cap.jpg)
+
+To make dairy products, plenty of inputs are required, including hay, corn and grass to feed the cows, milk from those cows, scientific know-how, elbow grease and muscle, expertise, time, land and, of all things, data, information and accumulated knowledge. And lots more such as a farm infrastructure including barns and storage silos to nurture the cows and a dairy with machinery to bring it all together and a supply chain to move stuff in and out. The message is that in order to produce dairy, plenty of input is required.
+
+These inputs are fed to the dairy process, and this work process yields the output: cheese and milk and yogurt and ice cream. It’s pretty clear that our little graphic represents a very high-level view of the dairy system. There are literally hundreds of other systems, linked in chains, that actually account for the production here. But each is the same; a simple process, flanked by inputs and outputs. How then, and where, is value added and profit realised? 
+
+Let’s look at our system again, this time in light of value add. 
+
+**Figure Z. Value creation**
+
+![Process](https://raw.githubusercontent.com/robertriordan/2400/master/Images/value_creation.png)
+
+We shall see that while value is *added in the process part* it's measured at the boundaries - at the input and output sides of the system. 
 
 #### How is value created?
 
@@ -363,13 +388,13 @@ The twin concepts used in measurement of all systems are: *effectiveness – doi
 
 Indeed management guru Peter Drucker is quoted as having written: "There is nothing so useless as doing with great efficiently that which should not be done at all." Interestingly, he also wrote that: "Management is doing things right; leadership is doing the right things." And finally, "Doing the right thing is more important than doing the thing right." I'm with Drucker. <a class="underlined-link" href="https://www.entrepreneur.com/article/237484" target="_blank">Interested in Peter Drucker?</a>
 
-Paradoxically, technological progress is not measured in terms of impact on the actual *business process* of doing anything. Technological change impacts business process, but it’s impact is measured elsewhere. Though this sounds heretical, in the simplest terms, technological progress is measured not in terms of process improvements, but rather by the impact such progress has on the inputs and outputs of the system - the resultant decrease in required inputs to produce the same output or by an increase in realisable output given the same input. In the simplest terms, the ratio of realised output (what you reap when you sell) to the cost of input (what you invest in procuring inputs for your system) must be greater than 1. And it must be greater than 1 **and** in excess of what you might earn by doing something else with your money. There are many terms in business to describe this phenomenon, including *Return on Investment (ROI), Rate of Return,* and *yield.* 
+Paradoxically, technological progress is not measured in terms of impact on the actual *business process* of doing anything. Technological change impacts business process, but it’s impact is measured elsewhere. Though this sounds heretical, in the simplest terms, technological progress is measured not in terms of process improvements, but rather by the impact such progress has on the inputs and outputs of the system - the resultant decrease in required inputs to produce the same output or by an increase in realisable output given the same input. In the simplest terms, the ratio of realised output (what you reap when you sell) to the cost of input (what you invest in procuring inputs for your system) must be greater than 1. And it must be greater than 1 *and* in excess of what you might earn by doing something else with your money. There are many terms in business to describe this phenomenon, including *Return on Investment (ROI), Rate of Return,* and *yield.* 
 
 Of course this is a very simple measure and there are plenty of other contingencies and vagaries of which to take account when deciding what to do with your money. Long-term ROI, however, is a must. You must eventually get a decent and competitive return on your investment in order to justify investing in a business. *The value of output must eventually be greater than the cost of input.*  
 
 [Interested?](http://www.businessdictionary.com/definition/return-on-investment-ROI.html)
 
-Let's do some very simple math here. If you dialed *7* in 1915 and asked my grandfather, Joseph Riordan Sr., what his ROI was for last year and he said "None of your &@#$%& business!" you would know that you had reached my grandfather. If you were to get a chance to look at the books and found that a simple ROI was 1.03, for example, but that the interest charged by lenders on borrowed capital was 4%, you might conclude that, in the short term, Joe would be better off lending his money to someone and making 4% on it instead of running a dairy. The ratio of output/input (profit) was 1.03 and the ratio of input/output (cost) was 1.04. His money was better off somewhere else. And eventually it ended that way. Another local dairy gobbled up Riordan's Dairy and many others like it in an effort to increase ROI through scale.   
+Let's do some very simple math here. If you were in Oshawa and dialed *7* in 1915 and asked my grandfather, Joseph Riordan Sr., what his ROI was for last year and he replied that it was "None of your &@#$%& business!" you would know that you had reached my grandfather. If you were to get a chance to look at the books and found that a simple ROI was 1.03, for example, but that the interest charged by lenders on borrowed capital was 4%, you might conclude that, in the short term, Joe would be better off lending his money to someone and making 4% on it instead of running a dairy. The ratio of output/input (profit) was 1.03 and the ratio of input/output (cost) was 1.04. His money was better off somewhere else. And eventually it ended that way. Another local dairy gobbled up Riordan's Dairy and many others like it in an effort to increase ROI through scale.   
 
 **Figure JD. ICT Value creation**
 
@@ -416,4 +441,4 @@ For now, in examining the ICT task of input reducer, we need to examine this fun
 
 Information systems can not only distribute that scarcest of all commodities - knowledge - but can create knowledge and understanding in socially equitable ways. It is argued that the purpose of business is to solve problems, leading to a better social situation for as many humans as possible. It is only as a by-product of problem solving that profits are generated. One could assume, however, that problems for which no profit can be made won't be solved. Unless, of course, we consider the rapidly-expanding social economy and the not-for-profit sector.
 
-Move now to *Chapter 1 Backstory*. 
+Move now to *Chapter 1 Backstory* to fill in the important concepts behind what we have introduced here. 

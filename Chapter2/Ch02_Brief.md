@@ -4,5 +4,5 @@ Chapter 2 ties together the loose ends of Chapter 1 in terms of data, informatio
 
 Though machines are binary in nature (digital; on-off; 0:1) the increasing accuracy of their measurement activities, in combination with the sheer amount of sensing and data processing happening in real time, will soon allow machines to be "good enough" at modelling analog stuff such that we will approach a state of "liquid information" wherein the difference between human and machine is minimised.
 
-Read the Basics section before finishing up with Backstory. Happy reading! 
+Read Chapter 2 *Basics* before finishing up with *Backstory*. Happy reading! 
 
