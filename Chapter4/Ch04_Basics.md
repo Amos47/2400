@@ -393,6 +393,7 @@ We now move on to the penultimate (next to last) set of systems, those used by t
 
 When we say that a system characteristic is *simplicity* it is not to be confused with *simplistic* or *immature*. Quite the opposite. As a long-time systems designer and developer, I can attest to the fact that making something appear simple and, moreover, *intuitive*, is the product of very hard work. The simpler a system appears on the outside, the more work has gone into the back end of it. My mantra is "Simplicity is hard." Words to live by.  
 
+<a name="erp_org"></a>
 #### Enterprise Systems
 The final type of system we will discuss here is the most all-encompassing - the so-called *Enterprise System* or ES for short. Enterprise systems are just as their name suggests – they target or encompass a wider target of functions than the MIS, for example. Their scope is the enterprise. Recall that MIS includes systems such as payroll and sales support and personnel (HR) functions. What happens when an organisation is structured around the various *functional silos* in terms of function? Take a look at Figure SO below.
 
