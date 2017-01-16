@@ -4,16 +4,55 @@
 
 ###Disruption
 
+**Figure KANB. Definition of Disruption**
+
+![Dilbert teaches robots to code](https://raw.githubusercontent.com/robertriordan/2400/master/Images/disruption.png)
+
+<a class="underlined-link" href="http://www.dictionary.com/browse/disruption" target="_blank">Source</a>
+
+Of these, we are of course most interested in the third definition. 
+
 Forbes writes this:
 >"People are sometimes confused about the difference between innovation and disruption. It's not exactly black and white, but there are real distinctions, and it's not just splitting hairs. Think of it this way: Disruptors are innovators, but not all innovators are disruptors -- in the same way that a square is a rectangle but not all rectangles are squares. Still with me?
 
 >"Innovation and disruption are similar in that they are both makers and builders. Disruption takes a left turn by literally uprooting and changing how we think, behave, do business, learn and go about our day-to-day. Harvard Business School professor and disruption guru Clayton Christensen says that a disruption displaces an existing market, industry, or technology and produces something new and more efficient and worthwhile. It is at once destructive and creative."
 
-Source: http://www.forbes.com/sites/carolinehoward/2013/03/27/you-say-innovator-i-say-disruptor-whats-the-difference/#44e871c5bd79
+<a class="underlined-link" href="http://www.forbes.com/sites/carolinehoward/2013/03/27/you-say-innovator-i-say-disruptor-whats-the-difference/#44e871c5bd79" target="_blank">Source</a>
 
-More from TechCrunch: <a class="underlined-link" href="https://techcrunch.com/2013/02/16/the-truth-about-disruption/" target="_blank">Interested?</a>
+It's also important to distinguish disruption from *automation*. Simply automating something is impacting an existing process and altering the Input/Output ratio (ROI) on that process. That's great. But it's not disruption.  
 
-It's also important to distinguish disruption from *automation*. Simply automating something is impacting an existing process and altering the Input/Output (ROI) on that process. That's great. But it's not disruption.  
+Clay Christensen (Disruptor's Dilemma) writes that there are two types of disruption. Low end and new market. Low-end disruption involves a cheaper, faster or more convenient (can you say input/output ratio?) way to serve an existing market while a new-market disruption involves addressing a market that previously could not be served - essentially creating an entirely new market. 
+
+The following is from the Tech Crunch Interested? link below. The author writes about Christensen:
+
+>"An incumbent in the market finds it almost impossible to respond to a disruptive product. In a new-market disruption, the unserved customers are unserved precisely because serving them would be unprofitable given the incumbent’s business model. In a low-end disruption, the customers lost typically are unprofitable for the incumbents, so the big companies are happy to lose them.
+Thus, the innovator’s dilemma. Incumbents appropriately ignore the new product because it is uneconomic to respond, but the incumbents’ quiescence can lead to their later downfall."
+
+<a class="underlined-link" href="https://techcrunch.com/2013/02/16/the-truth-about-disruption/" target="_blank">Interested?</a>
+
+Our primary interest is in disruption that is facilitated by ICT. Uber is a great example, both because most everyone is familiar with it and because it's a clear example of a low-end disruption that is all about tech. Uber is no more a taxi (or transportation) company that AirBnB is a hotelier or TaskRabbit (https://www.taskrabbit.com/) is a maintenance company. All of them have used ICT to facilitate transactions between willing sellers and buyers. They have created */platforms* (more on this later in the chapter) that bring together two market participants who might not otherwise be able to communicate. Uber gives people with cars (perhaps excess capacity - see the Sharing Economy - bring back from Chapter 5) together with people who need a ride. The platform provides a complete one-stop experience for both sides of the transaction, complete with financial fulfillment. The Tech Crunch article (Interested? above) claims that Uber is *not* a low-cost alternative (implying that an Uber ride is at least the same price if not more than a taxi ride) but is disruptive because it provides convenience and speed of delivery which was not possible under the taxi industry's current business model. So Uber brought a new business model. Existing technology (internet, smart devices, GPS, payment systems, cars, drivers and road systems) together in a new way. The taxi industry could have Ubered (Uber is now a verb!) themselves but, for whatever reason (and there are many) they either could or did not. And now they are an industry in trouble except in places where governments have protected the incumbents (those already in the industry). This is not to say that Uber are white knights by any stretch of the imagination. There are serious ethical issues with their business model, including insurance (or lack thereof) for drivers, lack of benefits for employees among others. And when autonomous vehicles become ubiquitous (which the will in the next decade), Uber drivers will be displaced as well. There will be only a few (very few) humans working at and collecting the profits at, Uber. 
+
+Let's examine a list of things that make disruption likely in an industry. 
+
+1.	*Are certain customers of the client subsidising other customers?* For example, are landline subscribers at Bell telephone subsidising cellphone subscribers? If so, someone will step in and disrupt the model by charging customers the real cost of a landline, minus the subsidy. Customers will leave Bell landlines for the cheaper alternative and both landline and cellphone revenues will suffer because Bell would need to charge the real (unsubsidised) cost to cell subscribers as well.  
+2.	*Are customers forced to buy a larger package of the firm’s product and service just to get the smaller part that they want?* For example, are customers forced to also buy text and data plans for their smartphone just to get talk, which might be the only thing they want or need? Someone will offer it to them if that’s the case.
+3.	*Can customers get what they want, where and when they want it?* For example, can bank customers get access to their accounts from anywhere, or are they forced to go to a branch for certain services such as a mortgage or a loan? Someone will offer a way to supply those services in real time at any location. That’s a disruption. It's serving a market that was previously not served because it wasn't economical. 
+4.	*A firm is ripe for disruption if the client doesn’t offer industry standard quality of product or service.* If the client’s product or service is subpar, someone will step in, maybe even supplying the firm’s products to their own customers at a lower price or with quality improvements. 
+5.	*If a client’s customers don’t fully use the product or service, resulting in waste and/or paying a higher unit price for what they do use.* If this is the case, someone will package a better fitting product or service, maybe even the client’s own (buying bulk from the client and packaging more appropriately and selling at a favourable unit price). 
+6.	*If a client’s customers could themselves become suppliers, the firm is ripe for disruption.* If customers can bundle up what the client provides, combined or not with other products and/or services, and supply themselves and others, the client needs to examine its portfolio. Look at the Sharing Economy as a model.
+7.	*If data transparency is low, disruption risk is high.* Firms need to be transparent with customers and offer real-time data exchange. There should be no secrets. A value is a value and must be openly communicated.
+8.	*If there are many intermediary fees and process layers and players in the supply chain.* Rest assured that someone will step in and consolidate the layers and reduce the fees and the parties to the transactions, making everything simple and transparent and frictionless for the customer. Witness Fin Tech. 
+9.	Like #8 above, *if transactions take a long time to complete*, a firm risks someone stepping in with a simple, efficient system to speed up the process.
+10.	*If the client’s product or service can be enriched through providing a data or social media component, then someone will do it.* 
+11*.	If the client offers a physical product that is not connected to the internet, but could be by using sensors and the Internet of Things, then someone will do it.* Think thermostats or refrigerators or hot water heaters or furnaces or pens or sticky notes. Anything! 
+12.	*Does the client’s product or service require them to physically be present to take possession or to consume the service?* Is there a chance that the transaction can be completed at a distance, from wherever the customer is? If so, someone will do it (groceries, rental cars, driver’s licence, passport, doctor’s visit, etc.). Can the client’s product be turned into a service (think sharing economy models here)?
+13.	*Does it take a long time between order and fulfillment?* Must the client’s customers wait a long time for their order to be delivered? Think Amazon, for example. What would happen to their model if it took 4-6 months for the average order of socks, for example, to be delivered? Someone would do it faster.
+14.	*Is the client’s value chain suffering from many physical processes and internal hand-offs?* Does it take forever to produce a product and get it to the customer? Is there room for process improvement? Someone will find it. Again, think Amazon here.
+15.	*The industry in which your client operates has very high profitability.* Someone will do it cheaper! 
+16.	*Does your client charge its customers for information is gathers from them?* Someone will provide it free.
+17.	*Is there a dominant platform (such as the Airbnb platform, or the Uber platform) serving the industry?* If not, someone will step in and disrupt the industry right out of its customers. Think of the taxi industry before Uber. Every company had its own proprietary system. Is there the potential to dominate the industry by creating a platform to connect suppliers with customers? If so, someone will do it. 
+
+http://www.itworldcanada.com/article/amazon-may-control-the-skies-with-floating-warehouses/389761?sub=&utm_source=552260&utm_medium=top5&utm_campaign=TD &scid=a9698f3c-7056-4cf0-4d5d-4e60177a6ce1
 
 ###IoT
 
