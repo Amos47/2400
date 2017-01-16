@@ -4,6 +4,17 @@
 
 ###Disruption
 
+Forbes writes this:
+>"People are sometimes confused about the difference between innovation and disruption. It's not exactly black and white, but there are real distinctions, and it's not just splitting hairs. Think of it this way: Disruptors are innovators, but not all innovators are disruptors -- in the same way that a square is a rectangle but not all rectangles are squares. Still with me?
+
+>"Innovation and disruption are similar in that they are both makers and builders. Disruption takes a left turn by literally uprooting and changing how we think, behave, do business, learn and go about our day-to-day. Harvard Business School professor and disruption guru Clayton Christensen says that a disruption displaces an existing market, industry, or technology and produces something new and more efficient and worthwhile. It is at once destructive and creative."
+
+Source: http://www.forbes.com/sites/carolinehoward/2013/03/27/you-say-innovator-i-say-disruptor-whats-the-difference/#44e871c5bd79
+
+More from TechCrunch: <a class="underlined-link" href="https://techcrunch.com/2013/02/16/the-truth-about-disruption/" target="_blank">Interested?</a>
+
+It's also important to distinguish disruption from *automation*. Simply automating something is impacting an existing process and altering the Input/Output (ROI) on that process. That's great. But it's not disruption.  
+
 ###IoT
 
 ###Quantum Computing
@@ -25,7 +36,9 @@
 
 ###Platform Computing
 
-####Analytics
+###Analytics
+
+###Voice recognition and AI
 
 ###Artificial Intelligence
 
