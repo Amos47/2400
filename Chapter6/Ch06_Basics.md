@@ -52,7 +52,15 @@ Let's examine a list of things that make disruption likely in an industry.
 16.	*Does your client charge its customers for information is gathers from them?* Someone will provide it free.
 17.	*Is there a dominant platform (such as the Airbnb platform, or the Uber platform) serving the industry?* If not, someone will step in and disrupt the industry right out of its customers. Think of the taxi industry before Uber. Every company had its own proprietary system. Is there the potential to dominate the industry by creating a platform to connect suppliers with customers? If so, someone will do it. 
 
-http://www.itworldcanada.com/article/amazon-may-control-the-skies-with-floating-warehouses/389761?sub=&utm_source=552260&utm_medium=top5&utm_campaign=TD &scid=a9698f3c-7056-4cf0-4d5d-4e60177a6ce1
+Amazon is at least *interested* in disrupting a couple of industries (or at least business models) with their interest in floating warehouses:
+
+**Figure DVST. Amazon's proposed patent for floating warehouses**
+
+![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/amazon_zeppelin.png)
+
+
+http://www.itworldcanada.com/article/amazon-may-control-the-skies-with-floating-warehouses/389761
+
 
 ###IoT
 
