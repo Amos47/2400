@@ -52,14 +52,14 @@ Let's examine a list of things that make disruption likely in an industry.
 16.	*Does your client charge its customers for information is gathers from them?* Someone will provide it free.
 17.	*Is there a dominant platform (such as the Airbnb platform, or the Uber platform) serving the industry?* If not, someone will step in and disrupt the industry right out of its customers. Think of the taxi industry before Uber. Every company had its own proprietary system. Is there the potential to dominate the industry by creating a platform to connect suppliers with customers? If so, someone will do it. 
 
-Amazon is at least *interested* in disrupting a couple of industries (or at least business models) with their interest in floating warehouses:
+Amazon is at least *interested* in disrupting a couple of industries (or at least business models) with their interest in floating warehouses, where local delivery would be effected by drones running between the zeppelin and an event on the ground. They have some quite ambitious plans <a class="underlined-link" href="http://www.itworldcanada.com/article/amazon-may-control-the-skies-with-floating-warehouses/389761" target="_blank">Interested?</a>.
 
 **Figure DVST. Amazon's proposed patent for floating warehouses**
 
-![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/amazon_zeppelin.png)
+![Amazon's floating warehouse](https://raw.githubusercontent.com/robertriordan/2400/master/Images/amazon_zeppelin.png)
 
-<a class="underlined-link" href="http://www.itworldcanada.com/article/amazon-may-control-the-skies-with-floating-warehouses/389761" target="_blank">Interested?</a>
-
+####Automation vs. disruption: the difference
+Let's more carefully differentiate between automation (doing things better) and disruption (doing better things, and maybe faster, too). Pure automation is effected by applying a technical solution (a set of stored procedures embodied in a solution) to an existing process and doing it faster, better or cheaper. Replacing people at a car wash with machines, for example. There is no disruption. No new market is being served. No new group of customers are served by this change. It's just the same industry, the same process, only faster. This isn't disruption. Disruption in the car wash industry might be embedding sensors in vehicles to sense their cleanliness and, when dirty, sending drones to wash the care wherever it is. Or placing the sensors in parking garages or lots. No more tethering to car washes. No more driving to where it is. It comes to you. Car washes, gone. Now that's disruption!
 
 ###IoT
 
