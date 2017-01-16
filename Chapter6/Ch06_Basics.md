@@ -58,8 +58,7 @@ Amazon is at least *interested* in disrupting a couple of industries (or at leas
 
 ![AI & machine learning](https://raw.githubusercontent.com/robertriordan/2400/master/Images/amazon_zeppelin.png)
 
-
-http://www.itworldcanada.com/article/amazon-may-control-the-skies-with-floating-warehouses/389761
+<a class="underlined-link" href="http://www.itworldcanada.com/article/amazon-may-control-the-skies-with-floating-warehouses/389761" target="_blank">Interested?</a>
 
 
 ###IoT
