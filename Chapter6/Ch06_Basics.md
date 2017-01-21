@@ -58,8 +58,15 @@ Amazon is at least *interested* in disrupting a couple of industries (or at leas
 
 ![Amazon's floating warehouse](https://raw.githubusercontent.com/robertriordan/2400/master/Images/amazon_zeppelin.png)
 
-####Automation vs. disruption: the difference
-Let's more carefully differentiate between automation (doing things better) and disruption (doing better things, and maybe faster, too). Pure automation is effected by applying a technical solution (a set of stored procedures embodied in a solution) to an existing process and doing it faster, better or cheaper. Replacing people at a car wash with machines, for example. There is no disruption. No new market is being served. No new group of customers are served by this change. It's just the same industry, the same process, only faster. This isn't disruption. Disruption in the car wash industry might be embedding sensors in vehicles to sense their cleanliness and, when dirty, sending drones to wash the care wherever it is. Or placing the sensors in parking garages or lots. No more tethering to car washes. No more driving to where it is. It comes to you. Car washes, gone. Now that's disruption!
+####Automation vs. disruption: The difference
+Let's more carefully differentiate between automation (doing things better) and disruption (doing better things, and maybe faster, too). Pure automation is effected by applying a technical solution (a set of stored procedures) to an existing process and doing it faster, better or cheaper. Replacing people at a car wash with machines, for example. There is no disruption. No new market is being served. No new group of customers are served by this change. Nobody in the industry wins or loses customers or segments. It's just the same industry, the same process, only faster. This isn't disruption. Disruption in the car wash industry might be embedding sensors in vehicles to sense their cleanliness and, when dirty, sending drones or robots (or both) to wash the care wherever it is. No more tethering to car washes. No more driving to where it is. It comes to you. Car washes, gone. Now that's disruption and it's using a lot of technology!
+
+**Figure DVHA. The next phone booth?**
+
+![car wash](https://raw.githubusercontent.com/robertriordan/2400/master/Images/car_wash.jpeg)
+
+<a class="underlined-link" href="http://www.americanmodulartechnologies.com/Car%20Wash.htm" target="_blank">Source</a>
+
 
 ###IoT
 
