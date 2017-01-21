@@ -168,8 +168,8 @@ ANSWER: E
 
 Which of the products below has the highest price per pound?
 A. Mercedes Benz E-class
-B. Pentium III chip
-C. Gold
+B. Gold
+C. Pentium III chip
 D. Hot rolled steel
 E. Viagra
 ANSWER: C
