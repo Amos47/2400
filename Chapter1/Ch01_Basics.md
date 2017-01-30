@@ -288,7 +288,7 @@ Though the paper is a little dated (published in 2000), it remains valid today. 
 
 **Figure LAJ. Comparison of price per pound for manufactured goods in different classes**
 
-![Price per pound](https://raw.githubusercontent.com/robertriordan/2400/master/Images/price_per_pound.png)
+![Price per pound](https://raw.githubusercontent.com/robertriordan/2400/master/Images/price_per_pound.PNG)
 
 (Goldfinger quotes the source of this data as *Colvin, Fortune Magazine*, but does not provide the full citation in his paper. We’ll have to take it at face value.)
 

@@ -80,7 +80,7 @@ In the old days, every telephone was connected to every other telephone by wire.
 
 ![Crank](https://raw.githubusercontent.com/robertriordan/2400/master/Images/crank.jpg)
 
-*Image credit: http://d2ydh70d4b5xgv.cloudfront.net/images/9/3/vintage-swedish-american-oak-hand-crank-wall-telephone-early-1900s-06583d8a0509b2a8fd776a64e64679fa.jpg*
+<a class="underlined-link" href="http://d2ydh70d4b5xgv.cloudfront.net/images/9/3/vintage-swedish-american-oak-hand-crank-wall-telephone-early-1900s-06583d8a0509b2a8fd776a64e64679fa.jpg" target="_blank">Image source</a> (accessed January 30, 2017) 
 
 The operator would connect with your line and ask you which number you wanted to reach. The operator would them *physically* connect your line with the destination line by plugging a wire into a large what was called *switchboard*. When the call ended, the operator disconnected the lines. Much of this was automated in the 1950s and onward, where mechanical switches were used to *disintermediate* operators. They were all out of work, and 95% (my estimate) were women.
 
@@ -88,7 +88,7 @@ The operator would connect with your line and ask you which number you wanted to
 
 ![Operator](https://raw.githubusercontent.com/robertriordan/2400/master/Images/operator.jpg)
 
-*Image credit: https://influxis.com/app/uploads/2014/06/switchboard-operator.jpg*
+<a class="underlined-link" href="https://influxis.com/app/uploads/2014/06/switchboard-operator.jpg" target="_blank">Image source</a> (accessed January 30, 2017) 
 
  There were still *long distance* operators into the 1970s. Long distance (out of your Area Code) calls were initiated by dialing the number "0" and asking for a long distance operator. Here, different networks were connected together and you could hear the operators talking to each other. "Hello 312? This is 416 long distance operator requesting local number..." and so on. It was fun to listen. The numbers 312 and 416 were, of course, the Area Codes (AC) of Chicago and Toronto, respectively. An interesting tidbit is that, when area codes were assigned in North America in the late 1940s,  according to the North American Numbering Plan (NANP) states and provinces with only one AC were given numbers with a "0" in the middle, and those with more than one AC were assigned numbers with a "1" in the middle. So Illinois and Ontario had more than one AC. Furthermore, the numbers were assigned based on population, with the smallest numerical sums going to more densely populated areas. Chicago was big (and still is) thus their numbers summed to 6. Toronto summed to 11. Since "1" was never used as the first number in an area code, the lowest possible AC was 211. But all the *n11* ACs were reserved for future use (anticipating 411 - directory assistance and 911 etc.), the lowest AC was 212. Guess who got that? New York City, of course! The next lowest, 213, went to Southern California, including Los Angeles. This was to reduce wear and tear on the equipment as when a number was dialed (when direct dialing was introduced), the phone had a rotary dial. The dial had to be spun around to indicate the number (see the rotary handset below), and the actual physical clicking you heard (called *pulses*) was a signal to the network of the number you were dialing. It used the pulses to crank the mechanical switches to make the proper connection. There would obviously be more calls going to larger population areas, thus there was an effort to reduce the number of clicks required (both for wear and tear and ease of use - lower numbers required less effort to dial). If you can see it on your device, note the wear pattern on the numbers on the rotary dial phone image below.
 
@@ -96,15 +96,13 @@ The operator would connect with your line and ask you which number you wanted to
 
 ![Rotary](https://raw.githubusercontent.com/robertriordan/2400/master/Images/phone.jpg)
 
-*Image credit: https://s-media-cache-ak0.pinimg.com/564x/5c/df/a0/5cdfa0cec1c3a31cd91c5f98cd0229f0.jpg*
+<a class="underlined-link" href="https://s-media-cache-ak0.pinimg.com/564x/5c/df/a0/5cdfa0cec1c3a31cd91c5f98cd0229f0.jpg" target="_blank"> Image source</a> (accessed January 30, 2017)
 
 Early phone numbers were assigned on a first-come, first-served basis. So my grandfather's dairy was the 7th phone on his local exchange. Later, when phones became more popular and small phone exchanges amalgamated, they needed better addressing. There was obviously a phone number 7 in Oshawa, and Whitby and Ajax and Pickering and Scarborough and so on. I assume this began with a reassignment of numbers within amalgamated exchanges, so phone number 7 in Oshawa might have become 23 when Oshawa and Whitby amalgamated and so on according to some rule. Even this became unwieldy when numbers of phones grew, and local exchanges were assigned, in anticipation of changes to come, with alphanumeric identifiers. At my house, our identifier was *Randolph* shortened to RA. Our proper phone number was RA 5-1805. Neighbouring Whitby had a prefix of GR (I don't recall what GR stood for). If you watch the old *Honeymooners* TV series from the 1950s, you will note that Ralph Cramden's phone number was *Bensonhurst* (or BE) 0-7741 (they lived at 328 Chauncey Street in the Bensonhurst section of Brooklyn, New York. [Interested?](http://www.tv.com/shows/the-honeymooners/the-babysitter-104367/) in an explanation of why Ralph's phone number started with a "0" - none ever do).
 
 All this to say that eventually, the Randolph RA became 72, so our phone number was 416-725-1805. Check out the very large dialpad from the iPhone below to map how the RA became 72.  Adding a country code (Canada and the US share the country code "1") gives us, finally, 1.416.725.1805. *Et voila!* Very similar to an IP address, which we talk about below. If you were to dial that number from Germany, for example, the first digit would get you North America, the next three the 416 AC, the 72 gives the local sub-exchange and the 51805 the actual phone line into the house. Note that in 1993, the 416 AC was split into the 905 (ring around Toronto) and 416 (Toronto core). So that old phone number of mine in Oshawa now belongs to someone in Toronto. 
 
-If you need a break, you can watch some old Honeymooners here: 
-
-{% youtube %}https://www.youtube.com/watch?v=Nb8ulccRP_E{% endyoutube %}
+<a class="underlined-link" href="https://youtu.be/Nb8ulccRP_E" target="_blank">If you need a break, you can watch some old Honeymooners here</a>.
 
 More trivia. The later, animated sitcom *The Flintstones* (you may have seen the much more recent movie starring John Goodman, Rosie O'Donnell, Rick Moranis and Halle Berry, among many others) was based on the Honeymooners.
 
@@ -123,7 +121,7 @@ Everything that is connected to the internet has an *Internet Protocol address*,
 
 >"The rapid exhaustion of IPv4 address space prompted the Internet Engineering Task Force (IETF) to explore new technologies to expand the addressing capability in the Internet. The permanent solution was deemed to be a redesign of the Internet Protocol itself. This new generation of the Internet Protocol was eventually named Internet Protocol Version 6 (IPv6) in 1995. The address size was increased from 32 to 128 bits (16 octets), thus providing up to 2128 (approximately 3.403×1038) addresses. This is deemed sufficient for the foreseeable future."
 
-[Interested?](https://en.wikipedia.org/wiki/IP_address)
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/IP_address" target="_blank">Interested?</a>
 
 Just to reiterate: every device both great and small, if it's connected to the internet, has an IP address, either v4 or v6. That's how devices on the network communicate. Every communication across the net must be addressed to some other device, otherwise, why bother communicating? Devices would simply be whistling in the wind with no one to hear the tune. That's fine for humans, but we expect more from our machines. 
 

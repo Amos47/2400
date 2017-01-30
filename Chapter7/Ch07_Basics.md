@@ -125,7 +125,7 @@ The ultimate goal of design is to alleviate user pain points. The most effective
 
 ![Design Thinking](https://raw.githubusercontent.com/robertriordan/2400/master/Images/design_thinking.png)
 
-Source: https://www.nngroup.com/articles/design-thinking/ (accessed August 2, 2016)
+<a class="underlined-link" href="https://www.nngroup.com/articles/design-thinking/" target="_blank">Source</a> (accessed August 2, 2016)
 
 The design thinking process takes the perspective of the user from the very start. Beginning at 12 o'clock and moving clockwise, the first overarching element in the framework is titled *Understand*. Understand the user and the user's needs. Within this element resides the process pieces of phase, namely *empathise* and *define*. Empathy, as we know, is the ability to put ourselves in the shoes of the other. Seeing life through someone else's eyes. We thus look at the design challenge from the perspective of those who will interact with the technology we are creating. What a radical idea <span class="octicon octicon-thumbsup"></span>. Imagine a cellphone manufacturer choosing a keyboard with almost zero clearance between keys on the keyboard such that even the slimmest of digits (which I do not have) have trouble with fat-fingering. And they chose this keyboard because it was cost effective. Clearly not a *user-first* attitude. This displays the opposite of empathy for the user. 
 
@@ -163,7 +163,7 @@ As savvy and experienced computer users, we know what to do with buttons. When w
 
 First and foremost, it affords clicking because we have learned that objects that look like buttons operate by clicking them. Elevator buttons. Microwaves. Telephones. Keyboards. Radios (at least in the old days anyway). So *graphical user interface* (GUI) designers leveraged everyday things that people already knew how to operate and built them into the human-computer interface. The early designers of what we now know as Windows and Mac interfaces pioneered these techniques (and the use of a mouse as an input device) in the 1970s at Xerox (the photocopier people) Palo Alto Research Center (or PARC). *Xerox PARC* is legendary in computer geek history. They are responsible for some incredible, ground-breaking advances in computing including, but not limited to, *laser printing* (obvious when you think about Xerox's signature copier machines), *ubiquitous computing* (computing everywhere with multiple devices talking to multiple devices through middleware - this is the origin of the *internet of things* which we will discuss at length elsewhere in this text), *Ethernet* (the wired foundation of local area networks), *object-oriented programming* (which also makes sense in terms of their pioneering work in *GUI*), the concept of the *computer desktop* and to top it all off, no less than the origin of the *personal computer* that we all know and love.  
 
-[Interested?](https://en.wikipedia.org/wiki/PARC_(company)
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/PARC_(company)" target="_blank">Interested?</a>
 
 So the nice folks at PARC used everyday objects and then created what we refer to as *idioms* for other functionality. Things that have real-world correspondence like *check boxes* for multiple item selection, *radio buttons* for single selection (like an old-time radio where only one button could be depressed at a time, the already selected one popping back out when you pressed a new one to select a different station), an *image container* like a picture frame and a matched set of *scroll bars* (one horizontal and one vertical) and a brand-new idiom, the *dropdown* menu. Here are some examples:
 
@@ -185,7 +185,7 @@ To go with these idioms and metaphors that allow us to instinctively understand 
 
 ![text box](https://raw.githubusercontent.com/robertriordan/2400/master/Images/icons.png)
 
-Combined with traditional knowledge about visual design (an enormously interesting and exciting field) such as Gestalt (for closure, similarity and proximity [Interested?](http://bit.ly/1LOES8o) and cognitive psychology (another field in which you should take at least one course during your academic career), rich and effective interfaces have evolved into use and are accepted means of communicating with machines. In this I am reminded of French aviator and author *Antoine de Saint-Exupéry* (1900-1944 – author of *The Little Prince* and only 44 years of age when he died), who characterised engineering elegance by writing: 
+Combined with traditional knowledge about visual design (an enormously interesting and exciting field) such as Gestalt (for closure, similarity and proximity <a class="underlined-link" href="http://bit.ly/1LOES8o" target="_blank">Interested?</a> and cognitive psychology (another field in which you should take at least one course during your academic career), rich and effective interfaces have evolved into use and are accepted means of communicating with machines. In this I am reminded of French aviator and author *Antoine de Saint-Exupéry* (1900-1944 – author of *The Little Prince* and only 44 years of age when he died), who characterised engineering elegance by writing: 
 
 >"A designer knows when he has achieved perfection *not* when there is nothing left to add, but when there is nothing left to *take away* [Emphasis added]." 
 
@@ -195,7 +195,7 @@ So like any other piece of engineering, it’s not about a *tour de force* but r
 
 Wise words. Simple elegance is the designer's goal. 
 
-Here's something from the Nielson/Norman Group, the *de facto* experts in everything UI lately. It's a bit long for an *Interested?* but it's a really good read if you are interested in [minimalist interface design](http://bit.ly/1gzW6L0). And you should be as it translates very well to creating compelling visual images for presentations.
+Here's something from the Nielson/Norman Group, the *de facto* experts in everything UI lately. It's a bit long for an *Interested?* but it's a really good read if you are <a class="underlined-link" href="http://bit.ly/1gzW6L0" target="_blank">Interested in minimalist interface design</a>. And you should be as it translates very well to creating compelling visual images for presentations.
 
 The desktop metaphor and the idea of iconic representation of tasks and the manipulation of things in the interface (such as files and folders and removable drives such as a USB) would not be workable in the absence of another of PARC's great initiatives: *Object-oriented Programming* (OOP). OOP describes *objects* (everything is an object including command buttons, file folders, printer icons, and all the way down to a single cell in a spreadsheet application) which can have *properties* (characteristics that describe them - for example a simple OK button has a width, height, position in the window in which it appears, a caption (what it says - such as 'OK already!' or 'Print') and a background colour, font, etc.), *events* (things that can happen to it over its lifespan - for a button, the most important is the *click* event) and finally and most importantly, *methods* or things it can accomplish given the occurrence of an event. Designers design the interface, set the properties and scope the events to which the object should respond. Programmers write the code that executes the methods when an event occurs to the object. This genre of programming is referred to as *object-oriented, event-driven programming*. <a class="underlined-link" href="http://bit.ly/1ThCJUY" target="_blank">Interested in OOP?</a>
 
@@ -216,7 +216,7 @@ Take a peak at Figure RSB for some design principles in action.
 
 ![application](https://raw.githubusercontent.com/robertriordan/2400/master/Images/design.png)
 
-There are some subtle things going on. Gestalt things (remember Gestalt? <a class="underlined-link" href="Ch07_Basics.md\#Gestalt" target="_blank">(take me there)</a>). Specifically, grouping through proximity, size and colour. Note first that there is a consistently-sized border around the elements. The distance between the top of the topmost object in the window and the top of the containing window is the same as the distance between the bottom of the bottom-most objects and the bottom of the widow. This is illustrated as item A (in black). Also note that the distance between the right edge of the rightmost interface objects and the right edge of the window container is the same as the distance between the corresponding left borders. This is item B, also in black. For added consistency, the distance between the *Cancel* and *Close* buttons (item C) is the same as the A and B distance. 
+There are some subtle things going on. Gestalt things (covered in the Backstory to this chapter <a class="underlined-link" href="Ch07_Basics.md\#Gestalt" target="_blank">(take me there)</a>). Specifically, grouping through proximity, size and colour. Note first that there is a consistently-sized border around the elements. The distance between the top of the topmost object in the window and the top of the containing window is the same as the distance between the bottom of the bottom-most objects and the bottom of the widow. This is illustrated as item A (in black). Also note that the distance between the right edge of the rightmost interface objects and the right edge of the window container is the same as the distance between the corresponding left borders. This is item B, also in black. For added consistency, the distance between the *Cancel* and *Close* buttons (item C) is the same as the A and B distance. 
 
 Furthermore, the space between the two sort buttons (item E) is smaller than the space between the list box and the first command button and the distance between the two groups of command buttons. This is item D. It groups those command buttons together in our mind. Note that the D distances refer to the space between the list box and the first command button as being the same as between the bottom sort button and the top of the disposal buttons. 
 
@@ -243,13 +243,13 @@ A slightly edgier XKCD on coding <a class="underlined-link" href="http://xkcd.co
 
 And that's the thousand kilometre high view of interface design, objects, programming and systems. There's an incredible world of exciting work out there in design and programming. Don't discount it until you consider how satisfying it can be to create systems that make people feel smart. I still love getting my hands dirty in low-level design and coding. I can get lost for days in it. 
 
-[Interested in User Experience Design?](https://en.wikipedia.org/wiki/User_experience_design)
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/User_experience_design" target="_blank">Interested in User Experience Design?</a>
 
-[How about User-centred Design?](https://en.wikipedia.org/wiki/User-centered_design)
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/User-centered_design" target="_blank">How about User-centred Design?</a>
 
-[Or simply User Experience?](https://en.wikipedia.org/wiki/User_experience)
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/User_experience" target="_blank">Or simply User Experience?</a>
 
-[Or the underlying aspects of Human-computer Interaction?](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
+<a class="underlined-link" href="https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction" target="_blank">Or the underlying aspects of Human-computer Interaction?</a>
 
 ## Database design <a name="database"></a>
 
@@ -377,7 +377,7 @@ Back to the rationale. Every little trick to save memory (both RAM and external 
 
 ![Hyperion](https://raw.githubusercontent.com/robertriordan/2400/master/Images/hyperion.jpg)
 
-*Photo credit: http://s7.computerhistory.org/is/image/CHM/102662819p-03-01?$re-zoomed$*
+<a class="underlined-link" href="http://s7.computerhistory.org/is/image/CHM/102662819p-03-01" target="_blank">Photo credit source</a> (accessed January 30, 2017)
 
 And besides, we're never going to do any *math* on an ID number. Like add two of them together or calculate an *average student ID*. At best, that metric *might* give us a very rough indication of the average length of time a particular group of students (such as those in a class) have been students - also a rough proxy for their average age. The higher the average ID, the more recently the group of students had enrolled and therefore the younger they might be. But really... is there any value in that? And it would be pretty rough and only of value when comparing one group of students to another. So it's fine if sCUID is stored as text. It's efficient use of memory and storage space.
 
